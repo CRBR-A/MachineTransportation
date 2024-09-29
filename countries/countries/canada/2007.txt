@@ -1,0 +1,27 @@
+| Transportation | Canada |
+| --- | --- |
+| Airports: | 1,343 (2007) |
+| Airports - with paved runways: | total: 509 |
+| Airports - with paved runways: | over 3,047 m: 18 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 16 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 149 |
+| Airports - with paved runways: | 914 to 1,523 m: 248 |
+| Airports - with paved runways: | under 914 m: 78 (2007) |
+| Airports - with unpaved runways: | total: 834 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 68 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 356 |
+| Airports - with unpaved runways: | under 914 m: 410 (2007) |
+| Heliports: | 11 (2007) |
+| Pipelines: | crude and refined oil 23,564 km; liquid petroleum gas 74,980 km (2005) |
+| Railways: | total: 48,068 km |
+| Railways: | standard gauge: 48,068 km 1.435-m gauge (2006) |
+| Roadways: | total: 1,042,300 km |
+| Roadways: | paved: 415,600 km (includes 17,000 km of expressways) |
+| Roadways: | unpaved: 626,700 km (2006) |
+| Waterways: | 636 km |
+| Waterways: | note: Saint Lawrence Seaway of 3,769 km, including the Saint Lawrence River of 3,058 km, shared with United States (2007) |
+| Merchant marine: | total: 171 ships (1000 GRT or over) 2,191,099 GRT/2,815,416 DWT |
+| Merchant marine: | by type: bulk carrier 60, cargo 10, carrier 1, chemical tanker 9, combination ore/oil 1, container 2, passenger 6, passenger/cargo 64, petroleum tanker 12, roll on/roll off 6 |
+| Merchant marine: | foreign-owned: 8 (Germany 3, Netherlands 1, Norway 1, US 3) |
+| Merchant marine: | registered in other countries: 130 (Australia 2, Bahamas 13, Barbados 9, Cambodia 6, Cyprus 2, Denmark 1, Honduras 1, Hong Kong 39, Liberia 3, Malta 15, Marshall Islands 4, Panama 17, St Vincent and The Grenadines 6, Taiwan 3, US 4, Vanuatu 5) (2007) |
+| Ports and terminals: | Fraser River Port, Halifax, Hamilton, Montreal, Port-Cartier, Quebec, Saint John (New Brunswick), Sept-Isles, Vancouver |

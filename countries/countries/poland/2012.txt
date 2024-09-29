@@ -1,0 +1,26 @@
+| Transportation | Poland |
+| --- | --- |
+| Airports: | 125 (2012) |
+| Airports - with paved runways: | total: 86 |
+| Airports - with paved runways: | over 3,047 m: 5 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 29 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 37 |
+| Airports - with paved runways: | 914 to 1,523 m: 9 |
+| Airports - with paved runways: | under 914 m: 6 (2012) |
+| Airports - with unpaved runways: | total: 39 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 1 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 17 |
+| Airports - with unpaved runways: | under 914 m: 21 (2012) |
+| Heliports: | 6 (2012) |
+| Pipelines: | gas 13,860 km; oil 1,384 km; refined products 777 km; unknown 35 km (2010) |
+| Railways: | total: 19,428 km |
+| Railways: | broad gauge: 399 km 1.524-m gauge |
+| Railways: | standard gauge: 19,029 km 1.435-m gauge (11,805 km electrified) (2007) |
+| Roadways: | total: 423,997 km |
+| Roadways: | paved: 295,356 km (includes 765 km of expressways) |
+| Roadways: | unpaved: 128,641 km (2008) |
+| Waterways: | 3,997 km (navigable rivers and canals) (2009) |
+| Merchant marine: | total: 9 |
+| Merchant marine: | by type: cargo 7, chemical tanker 1, passenger/cargo 1 |
+| Merchant marine: | registered in other countries: 106 (Antigua and Barbuda 2, Bahamas 34, Cyprus 24, Liberia 13, Malta 21, Saint Vincent and the Grenadines 3, Vanuatu 9) (2010) |
+| Ports and terminals: | Gdansk, Gdynia, Swinoujscie, Szczecin |

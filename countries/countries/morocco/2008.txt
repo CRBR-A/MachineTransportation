@@ -1,0 +1,26 @@
+| Transportation | Morocco |
+| --- | --- |
+| Airports: | 60 (2007) |
+| Airports - with paved runways: | total: 27 |
+| Airports - with paved runways: | over 3,047 m: 11 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 6 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 7 |
+| Airports - with paved runways: | 914 to 1,523 m: 1 |
+| Airports - with paved runways: | under 914 m: 2 (2007) |
+| Airports - with unpaved runways: | total: 33 |
+| Airports - with unpaved runways: | 2,438 to 3,047 m: 2 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 9 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 11 |
+| Airports - with unpaved runways: | under 914 m: 11 (2007) |
+| Heliports: | 1 (2007) |
+| Pipelines: | gas 720 km; oil 439 km (2007) |
+| Railways: | total: 1,907 km |
+| Railways: | standard gauge: 1,907 km 1.435-m gauge (1,003 km electrified) (2006) |
+| Roadways: | total: 57,625 km |
+| Roadways: | paved: 35,664 km (includes 639 km of expressways) |
+| Roadways: | unpaved: 21,961 km (2006) |
+| Merchant marine: | total: 35 |
+| Merchant marine: | by type: cargo 3, chemical tanker 6, container 8, passenger/cargo 13, petroleum tanker 1, roll on/roll off 4 |
+| Merchant marine: | foreign-owned: 16 (France 14, Germany 2) |
+| Merchant marine: | registered in other countries: 4 (Gibraltar 4) (2008) |
+| Ports and terminals: | Agadir, Casablanca, Mohammedia, Safi |

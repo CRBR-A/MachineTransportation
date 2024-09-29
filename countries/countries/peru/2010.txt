@@ -1,0 +1,28 @@
+| Transportation | Peru |
+| --- | --- |
+| Airports: | 211 (2010) |
+| Airports - with paved runways: | total: 58 |
+| Airports - with paved runways: | over 3,047 m: 6 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 20 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 15 |
+| Airports - with paved runways: | 914 to 1,523 m: 13 |
+| Airports - with paved runways: | under 914 m: 4 (2010) |
+| Airports - with unpaved runways: | total: 153 |
+| Airports - with unpaved runways: | 2,438 to 3,047 m: 2 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 24 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 40 |
+| Airports - with unpaved runways: | under 914 m: 87 (2010) |
+| Heliports: | 1 (2010) |
+| Pipelines: | extra heavy crude 533 km; gas 1,083 km; liquid petroleum gas 677 km; oil 1,018 km; refined products 15 km (2009) |
+| Railways: | total: 1,989 km |
+| Railways: | standard gauge: 1,726 km 1.435-m gauge |
+| Railways: | narrow gauge: 263 km 0.914-m gauge (2008) |
+| Roadways: | total: 102,887 km |
+| Roadways: | note: includes 23,838 km of national roads, 19,049 km of departmental roads, and 60,000 km of local roads (2007) |
+| Waterways: | 8,808 km |
+| Waterways: | note: 8,600 km of navigable tributaries on Amazon system and 208 km on Lago Titicaca (2010) |
+| Merchant marine: | total: 13 |
+| Merchant marine: | by type: cargo 2, chemical tanker 2, liquefied gas 2, petroleum tanker 7 |
+| Merchant marine: | foreign-owned: 1 (Bahamas 1) |
+| Merchant marine: | registered in other countries: 13 (Belize 1, Panama 12) (2010) |
+| Ports and terminals: | Callao, Iquitos, Matarani, Paita, Pucallpa, Yurimaguas; note - Iquitos, Pucallpa, and Yurimaguas are on the upper reaches of the Amazon and its tributaries |

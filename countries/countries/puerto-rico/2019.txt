@@ -1,0 +1,17 @@
+| Transportation | Puerto Rico |
+| --- | --- |
+| Airports: | 29 (2013) |
+| Airports - with paved runways: | total: 17 (2017) |
+| Airports - with paved runways: | over 3,047 m: 2 (2017) |
+| Airports - with paved runways: | 2,438 to 3,047 m: 1 (2017) |
+| Airports - with paved runways: | 1,524 to 2,437 m: 2 (2017) |
+| Airports - with paved runways: | 914 to 1,523 m: 7 (2017) |
+| Airports - with paved runways: | under 914 m: 5 (2017) |
+| Airports - with unpaved runways: | total: 12 (2013) |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 1 (2013) |
+| Airports - with unpaved runways: | 914 to 1,523 m: 1 (2013) |
+| Airports - with unpaved runways: | under 914 m: 10 (2013) |
+| Roadways: | total: 26,862 km (includes 454 km of expressways) (2012) |
+| Ports and terminals: | major seaport(s): Ensenada Honda, Mayaguez, Playa de Guayanilla, Playa de Ponce, San Juan |
+| Ports and terminals: | container port(s) (TEUs): San Juan (1,210,503) (2015) |
+| Ports and terminals: | LNG terminal(s) (import): Guayanilla Bay |

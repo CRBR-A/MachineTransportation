@@ -1,0 +1,20 @@
+| Transportation | Tonga |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 1 (2015) |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 1 (2015) |
+| National air transport system: | annual passenger traffic on registered air carriers: 75,416 (2015) |
+| National air transport system: | annual freight traffic on registered air carriers: 0 mt-km (2015) |
+| Civil aircraft registration country code prefix: | A3 (2016) |
+| Airports: | 6 (2013) |
+| Airports - with paved runways: | total: 1 (2013) |
+| Airports - with paved runways: | 2,438 to 3,047 m: 1 (2013) |
+| Airports - with unpaved runways: | total: 5 (2013) |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 1 (2013) |
+| Airports - with unpaved runways: | 914 to 1,523 m: 3 (2013) |
+| Airports - with unpaved runways: | under 914 m: 1 (2013) |
+| Roadways: | total: 680 km (2011) |
+| Roadways: | paved: 184 km (2011) |
+| Roadways: | unpaved: 496 km (2011) |
+| Merchant marine: | total: 33 |
+| Merchant marine: | by type: bulk carrier 1, container ship 1, general cargo 15, oil tanker 1, other 15 (2018) |
+| Ports and terminals: | major seaport(s): Nuku'alofa, Neiafu, Pangai |

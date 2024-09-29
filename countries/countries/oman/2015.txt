@@ -1,0 +1,24 @@
+| Transportation | OMAN |
+| --- | --- |
+| Airports: | 132 (2013) |
+| Airports - with paved runways: | total: 13 |
+| Airports - with paved runways: | over 3,047 m: 7 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 5 |
+| Airports - with paved runways: | 914 to 1,523 m: 1 (2013) |
+| Airports - with unpaved runways: | total: 119 |
+| Airports - with unpaved runways: | over 3,047 m: 2 |
+| Airports - with unpaved runways: | 2,438 to 3,047 m: 7 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 51 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 33 |
+| under 914 m: | 26 (2013) |
+| Heliports: | 3 (2013) |
+| Pipelines: | condensate 106 km; gas 4,224 km; oil 3,558 km; oil/gas/water 33 km; refined products 264 km (2013) |
+| Roadways: | total: 60,230 km |
+| Roadways: | paved: 29,685 km (includes 1,943 km of expressways) |
+| Roadways: | unpaved: 30,545 km (2012) |
+| Merchant marine: | total: 5 |
+| Merchant marine: | by type: chemical tanker 1, passenger 1, passenger/cargo 3 |
+| Merchant marine: | registered in other countries: 15 (Malta 5, Panama 10) (2010) |
+| Ports and terminals: | major seaport(s): Mina' Qabus, Salalah, Suhar |
+| Ports and terminals: | container port(s) (TEUs): Salalah (3,200,000) |
+| Ports and terminals: | LNG terminal(s) (export): Qalhat |

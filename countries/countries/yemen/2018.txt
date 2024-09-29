@@ -1,0 +1,26 @@
+| Transportation | Yemen |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 2 (2015) |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 10 (2015) |
+| National air transport system: | annual passenger traffic on registered air carriers: 1,387,999 (2015) |
+| National air transport system: | annual freight traffic on registered air carriers: 0 mt-km (2015) |
+| Civil aircraft registration country code prefix: | 7O (2016) |
+| Airports: | 57 (2013) |
+| Airports - with paved runways: | total: 17 (2013) |
+| Airports - with paved runways: | over 3,047 m: 4 (2013) |
+| Airports - with paved runways: | 2,438 to 3,047 m: 9 (2013) |
+| Airports - with paved runways: | 1,524 to 2,437 m: 3 (2013) |
+| Airports - with paved runways: | 914 to 1,523 m: 1 (2013) |
+| Airports - with unpaved runways: | total: 40 (2013) |
+| Airports - with unpaved runways: | over 3,047 m: 3 (2013) |
+| Airports - with unpaved runways: | 2,438 to 3,047 m: 5 (2013) |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 7 (2013) |
+| Airports - with unpaved runways: | 914 to 1,523 m: 16 (2013) |
+| Airports - with unpaved runways: | under 914 m: 9 (2013) |
+| Pipelines: | 641 km gas, 22 km liquid petroleum gas, 1370 km oil (2013) |
+| Roadways: | total: 71,300 km (2005) |
+| Roadways: | paved: 6,200 km (2005) |
+| Roadways: | unpaved: 65,100 km (2005) |
+| Merchant marine: | total: 31 (2017) |
+| Merchant marine: | by type: general cargo 3, oil tanker 4, other 24 (2017) |
+| Ports and terminals: | major seaport(s): Aden, Al Hudaydah, Al Mukalla |

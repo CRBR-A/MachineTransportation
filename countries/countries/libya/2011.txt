@@ -1,0 +1,25 @@
+| Transportation | Libya |
+| --- | --- |
+| Airports: | 137 (2010) |
+| Airports - with paved runways: | total: 59 |
+| Airports - with paved runways: | over 3,047 m: 24 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 5 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 23 |
+| Airports - with paved runways: | 914 to 1,523 m: 6 |
+| Airports - with paved runways: | under 914 m: 1 (2010) |
+| Airports - with unpaved runways: | total: 78 |
+| Airports - with unpaved runways: | over 3,047 m: 3 |
+| Airports - with unpaved runways: | 2,438 to 3,047 m: 2 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 14 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 42 |
+| Airports - with unpaved runways: | under 914 m: 17 (2010) |
+| Heliports: | 2 (2010) |
+| Pipelines: | condensate 776 km; gas 3,216 km; oil 6,960 km (2010) |
+| Roadways: | total: 100,024 km |
+| Roadways: | paved: 57,214 km |
+| Roadways: | unpaved: 42,810 km (2003) |
+| Merchant marine: | total: 27 |
+| Merchant marine: | by type: cargo 5, chemical tanker 4, liquefied gas 3, petroleum tanker 13, roll on/roll off 2 |
+| Merchant marine: | foreign-owned: 5 (Kuwait 1, Norway 1, Syria 2, UK 1) |
+| Merchant marine: | registered in other countries: 5 (Hong Kong 1, Malta 4) (2010) |
+| Ports and terminals: | Az Zawiyah, Marsa al Burayqah (Marsa el Brega), Ra's Lanuf, Tripoli |

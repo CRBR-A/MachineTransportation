@@ -1,0 +1,27 @@
+| Transportation | Greece |
+| --- | --- |
+| Airports: | 81 (2010) |
+| Airports - with paved runways: | total: 67 |
+| Airports - with paved runways: | over 3,047 m: 6 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 14 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 20 |
+| Airports - with paved runways: | 914 to 1,523 m: 18 |
+| Airports - with paved runways: | under 914 m: 9 (2010) |
+| Airports - with unpaved runways: | total: 14 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 2 |
+| Airports - with unpaved runways: | under 914 m: 12 (2010) |
+| Heliports: | 9 (2010) |
+| Pipelines: | gas 1,197 km; oil 75 km (2009) |
+| Railways: | total: 2,548 km |
+| Railways: | standard gauge: 1,565 km 1.435-m gauge (764 km electrified) |
+| Railways: | narrow gauge: 961 km 1.000-m gauge; 22 km 0.750-m gauge (2008) |
+| Roadways: | total: 117,533 km |
+| Roadways: | paved: 107,895 km (includes 880 km of expressways) |
+| Roadways: | unpaved: 9,638 km (2005) |
+| Waterways: | 6 km |
+| Waterways: | note: Corinth Canal (6 km) crosses the Isthmus of Corinth; shortens sea voyage by 325 km (2010) |
+| Merchant marine: | total: 886 |
+| Merchant marine: | by type: bulk carrier 263, cargo 53, carrier 1, chemical tanker 72, container 34, liquefied gas 13, passenger 8, passenger/cargo 116, petroleum tanker 312, roll on/roll off 13, specialized tanker 1 |
+| Merchant marine: | foreign-owned: 62 (Belgium 16, Bermuda 3, Cyprus 4, Italy 5, UK 27, US 7) |
+| Merchant marine: | registered in other countries: 2,391 (Antigua and Barbuda 5, Bahamas 209, Barbados 14, Belize 2, Bermuda 2, Brazil 1, Cambodia 2, Cayman Islands 11, Comoros 3, Cyprus 216, Denmark 1, Dominica 9, Egypt 8, Georgia 3, Germany 1, Gibraltar 7, Honduras 4, Hong Kong 22, Indonesia 1, Isle of Man 57, Italy 8, Jamaica 8, Liberia 454, Malta 458, Marshall Islands 358, Mexico 1, Moldova 4, Panama 402, Philippines 4, Portugal 5, Saint Vincent and the Grenadines 63, Sao Tome and Principe 1, Saudi Arabia 4, Singapore 19, Slovakia 1, Togo 1, UAE 3, UK 1, Uruguay 1, Vanuatu 4, Venezuela 4, unknown 8) (2010) |
+| Ports and terminals: | Agioi Theodoroi, Aspropyrgos, Pachi, Piraeus, Thessaloniki |

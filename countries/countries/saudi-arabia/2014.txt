@@ -1,0 +1,27 @@
+| Transportation | Saudi Arabia |
+| --- | --- |
+| Airports: | 214 (2013) |
+| Airports - with paved runways: | total: 82 |
+| Airports - with paved runways: | over 3,047 m: 33 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 16 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 27 |
+| Airports - with paved runways: | 914 to 1,523 m: 2 |
+| Airports - with paved runways: | under 914 m: 4 (2013) |
+| Airports - with unpaved runways: | total: 132 |
+| Airports - with unpaved runways: | 2,438 to 3,047 m: 7 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 72 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 37 |
+| under 914 m: | 16 (2013) |
+| Heliports: | 10 (2013) |
+| Pipelines: | condensate 209 km; gas 2,940 km; liquid petroleum gas 1,183 km; oil 5,117 km; refined products 1,151 km (2013) |
+| Railways: | total: 1,378 km |
+| Railways: | standard gauge: 1,378 km 1.435-m gauge (with branch lines and sidings) (2008) |
+| Roadways: | total: 221,372 km |
+| Roadways: | paved: 47,529 km (includes 3,891 km of expressways) |
+| Roadways: | unpaved: 173,843 km (2006) |
+| Merchant marine: | total: 72 |
+| Merchant marine: | by type: cargo 1, chemical tanker 25, container 4, liquefied gas 2, passenger/cargo 10, petroleum tanker 20, refrigerated cargo 3, roll on/roll off 7 |
+| Merchant marine: | foreign-owned: 15 (Egypt 1, Greece 4, Kuwait 4, UAE 6) |
+| Merchant marine: | registered in other countries: 55 (Bahamas 16, Dominica 2, Liberia 20, Malta 2, Norway 3, Panama 11, Tanzania 1) (2010) |
+| Ports and terminals: | major seaport(s): Ad Dammam, Al Jubayl, Jeddah, Yanbu al Bahr |
+| Ports and terminals: | container port(s) (TEUs): Ad Dammam (1,492,315), Jeddah (4,010,448) |

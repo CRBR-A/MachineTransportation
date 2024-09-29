@@ -1,0 +1,24 @@
+| Transportation | United Arab Emirates |
+| --- | --- |
+| Airports: | 37 (2006) |
+| Airports - with paved runways: | total: 23 |
+| Airports - with paved runways: | over 3,047 m: 10 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 2 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 4 |
+| Airports - with paved runways: | 914 to 1,523 m: 4 |
+| Airports - with paved runways: | under 914 m: 3 (2006) |
+| Airports - with unpaved runways: | total: 14 |
+| Airports - with unpaved runways: | over 3,047 m: 2 |
+| Airports - with unpaved runways: | 2,438 to 3,047 m: 2 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 3 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 3 |
+| Airports - with unpaved runways: | under 914 m: 4 (2006) |
+| Heliports: | 4 (2006) |
+| Pipelines: | condensate 520 km; gas 2,580 km; liquid petroleum gas 300 km; oil 2,950 km; oil/gas/water 5 km; refined products 156 km (2006) |
+| Roadways: | total: 1,088 km |
+| Roadways: | paved: 1,088 km (including 253 km of expressways) (1999) |
+| Merchant marine: | total: 58 ships (1000 GRT or over) 656,003 GRT/891,837 DWT |
+| Merchant marine: | by type: bulk carrier 6, cargo 7, chemical tanker 5, container 6, liquefied gas 1, passenger/cargo 6, petroleum tanker 20, roll on/roll off 6, specialized tanker 1 |
+| Merchant marine: | foreign-owned: 10 (Greece 2, Kuwait 8) |
+| Merchant marine: | registered in other countries: 259 (Bahamas 16, Barbados 1, Belize 5, Cambodia 1, Comoros 6, Cyprus 11, Dominica 2, Georgia 1, Hong Kong 2, India 6, Iran 1, Jordan 11, Kiribati 1, North Korea 6, Liberia 18, Malta 5, Marshall Islands 3, Mexico 1, Mongolia 5, Norway 1, Panama 105, Philippines 1, Saint Kitts and Nevis 19, Saint Vincent and the Grenadines 11, Saudi Arabia 1, Sierra Leone 3, Singapore 7, Somalia 1, Sri Lanka 2, Syria 1, unknown 5) (2006) |
+| Ports and terminals: | Al Fujayrah, Khawr Fakkan, Mina' Jabal 'Ali, Mina' Rashid, Mina' Saqr, Mina' Zayid, Sharjan |

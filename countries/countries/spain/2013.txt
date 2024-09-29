@@ -1,0 +1,27 @@
+| Transportation | Spain |
+| --- | --- |
+| Airports: | 150 (2013) |
+| Airports - with paved runways: | total: 99 |
+| Airports - with paved runways: | over 3,047 m: 18 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 14 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 19 |
+| Airports - with paved runways: | 914 to 1,523 m: 24 |
+| Airports - with paved runways: | under 914 m: 24 (2013) |
+| Airports - with unpaved runways: | total: 51 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 2 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 13 |
+| under 914 m: | 36 (2013) |
+| Heliports: | 10 (2013) |
+| Pipelines: | gas 10,481 km; oil 616 km; refined products 3,461 km (2013) |
+| Railways: | total: 15,293 km |
+| Railways: | broad gauge: 11,919 km 1.668-m gauge (6,950 km electrified) |
+| Railways: | standard gauge: 1,392 km 1.435-m gauge (1,054 km electrified) |
+| Railways: | narrow gauge: 1,954 km 1.000-m gauge (815 km electrified); 28 km 0.914-m gauge (2008) |
+| Roadways: | total: 683,175 km |
+| Roadways: | paved: 683,175 km (includes 16,205 km of expressways) (2011) |
+| Waterways: | 1,000 km (2012) |
+| Merchant marine: | total: 132 |
+| Merchant marine: | by type: bulk carrier 7, cargo 19, chemical tanker 8, container 5, liquefied gas 12, passenger/cargo 43, petroleum tanker 18, refrigerated cargo 4, roll on/roll off 9, vehicle carrier 7 |
+| Merchant marine: | foreign-owned: 27 (Canada 4, Germany 4, Italy 1, Mexico 1, Norway 10, Russia 6, Switzerland 1) |
+| Merchant marine: | registered in other countries: 103 (Angola 1, Argentina 3, Bahamas 6, Brazil 12, Cabo Verde 1, Cyprus 6, Ireland 1, Malta 8, Morocco 9, Panama 30, Peru 1, Portugal 18, Uruguay 5, Venezuela 1, unknown 1) (2010) |
+| Ports and terminals: | Algeciras, Barcelona, Bilbao, Cartagena, Huelva, Tarragona, Valencia (Spain); Las Palmas, Santa Cruz de Tenerife (Canary Islands) |

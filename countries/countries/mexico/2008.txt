@@ -1,0 +1,27 @@
+| Transportation | Mexico |
+| --- | --- |
+| Airports: | 1,834 (2007) |
+| Airports - with paved runways: | total: 231 |
+| Airports - with paved runways: | over 3,047 m: 12 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 29 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 84 |
+| Airports - with paved runways: | 914 to 1,523 m: 77 |
+| Airports - with paved runways: | under 914 m: 29 (2007) |
+| Airports - with unpaved runways: | total: 1,603 |
+| Airports - with unpaved runways: | over 3,047 m: 1 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 63 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 408 |
+| Airports - with unpaved runways: | under 914 m: 1,131 (2007) |
+| Heliports: | 1 (2007) |
+| Pipelines: | gas 22,705 km; liquid petroleum gas 1,875 km; oil 8,688 km; oil/gas/water 228 km; refined products 6,520 km (2006) |
+| Railways: | total: 17,665 km |
+| Railways: | standard gauge: 17,665 km 1.435-m gauge (2006) |
+| Roadways: | total: 356,945 km |
+| Roadways: | paved: 178,473 km (includes 6,279 km of expressways) |
+| Roadways: | unpaved: 178,472 km (2006) |
+| Waterways: | 2,900 km (navigable rivers and coastal canals) (2007) |
+| Merchant marine: | total: 55 |
+| Merchant marine: | by type: bulk carrier 2, cargo 7, chemical tanker 5, liquefied gas 4, passenger/cargo 11, petroleum tanker 23, roll on/roll off 3 |
+| Merchant marine: | foreign-owned: 4 (Denmark 2, Hong Kong 1, UAE 1) |
+| Merchant marine: | registered in other countries: 20 (Brazil 1, Honduras 1, Liberia 2, Marshall Islands 4, Panama 2, Portugal 1, Spain 3, Venezuela 5, unknown 1) (2008) |
+| Ports and terminals: | Altamira, Coatzacoalcos, Manzanillo, Morro Redondo, Salina Cruz, Tampico, Veracruz |

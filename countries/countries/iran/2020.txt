@@ -1,0 +1,33 @@
+| Transportation | Iran |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 22 (2020) |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 237 |
+| National air transport system: | annual passenger traffic on registered air carriers: 25,604,871 (2018) |
+| National air transport system: | annual freight traffic on registered air carriers: 290.74 million mt-km (2018) |
+| Civil aircraft registration country code prefix: | EP (2016) |
+| Airports: | 319 (2013) |
+| Airports - with paved runways: | total: 140 (2019) |
+| Airports - with paved runways: | over 3,047 m: 42 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 29 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 26 |
+| Airports - with paved runways: | 914 to 1,523 m: 36 |
+| Airports - with paved runways: | under 914 m: 7 |
+| Airports - with unpaved runways: | total: 179 (2013) |
+| Airports - with unpaved runways: | over 3,047 m: 1 (2013) |
+| Airports - with unpaved runways: | 2,438 to 3,047 m: 2 (2013) |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 9 (2013) |
+| Airports - with unpaved runways: | 914 to 1,523 m: 135 (2013) |
+| Airports - with unpaved runways: | under 914 m: 32 (2013) |
+| Heliports: | 26 (2013) |
+| Pipelines: | 7 km condensate, 973 km condensate/gas, 20794 km gas, 570 km liquid petroleum gas, 8625 km oil, 7937 km refined products (2013) |
+| Railways: | total: 8,484 km (2014) |
+| Railways: | standard gauge: 8,389.5 km 1.435-m gauge (189.5 km electrified) (2014) |
+| Railways: | broad gauge: 94 km 1.676-m gauge (2014) |
+| Roadways: | total: 223,485 km (2018) |
+| Roadways: | paved: 195,485 km (2018) |
+| Roadways: | unpaved: 28,000 km (2018) |
+| Waterways: | 850 km (on Karun River; some navigation on Lake Urmia) (2012) |
+| Merchant marine: | total: 785 |
+| Merchant marine: | by type: bulk carrier 31, container ship 26, general cargo 361, oil tanker 17, other 350 (2019) |
+| Ports and terminals: | major seaport(s): Bandar-e Asaluyeh, Bandar Abbas, Bandar Emam |
+| Ports and terminals: | container port(s) (TEUs): Bandar Abbas (2,607,000) (2017) |

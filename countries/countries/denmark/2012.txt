@@ -1,0 +1,23 @@
+| Transportation | Denmark |
+| --- | --- |
+| Airports: | 89 (2012) |
+| Airports - with paved runways: | total: 28 |
+| Airports - with paved runways: | over 3,047 m: 2 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 7 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 4 |
+| Airports - with paved runways: | 914 to 1,523 m: 12 |
+| Airports - with paved runways: | under 914 m: 3 (2012) |
+| Airports - with unpaved runways: | total: 61 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 2 |
+| Airports - with unpaved runways: | under 914 m: 59 (2012) |
+| Pipelines: | gas 2,858 km; oil 107 km (2010) |
+| Railways: | total: 2,667 km |
+| Railways: | standard gauge: 2,667 km 1.435-m gauge (640 km electrified) (2008) |
+| Roadways: | total: 73,197 km |
+| Roadways: | paved: 73,197 km (includes 1,111 km of expressways) (2008) |
+| Waterways: | 400 km (2010) |
+| Merchant marine: | total: 367 |
+| Merchant marine: | by type: bulk carrier 4, cargo 48, carrier 1, chemical tanker 125, container 94, liquefied gas 4, passenger 1, passenger/cargo 40, petroleum tanker 36, refrigerated cargo 3, roll on/roll off 8, specialized tanker 3 |
+| Merchant marine: | foreign-owned: 27 (Germany 9, Greenland 1, Norway 2, Sweden 15) |
+| Merchant marine: | registered in other countries: 582 (Antigua and Barbuda 20, Bahamas 69, Belgium 4, Brazil 3, Curacao 1, Cyprus 6, Egypt 1, France 11, Gibraltar 7, Hong Kong 42, Isle of Man 30, Italy 4, Jamaica 1, Liberia 8, Lithuania 8, Luxembourg 1, Malaysia 1, Malta 34, Marshall Islands 7, Moldova 1, Netherlands 27, Norway 7, Panama 41, Philippines 2, Portugal 4, Saint Vincent and the Grenadines 9, Singapore 149, Sweden 4, UK 43, Uruguay 1, US 31, Venezuela 1, unknown 4) (2010) |
+| Ports and terminals: | Aalborg, Aarhus, Copenhagen, Ensted, Esbjerg, Fredericia, Kalundborg |

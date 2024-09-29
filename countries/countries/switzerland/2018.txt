@@ -1,0 +1,28 @@
+| Transportation | Switzerland |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 12 (2015) |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 163 (2015) |
+| National air transport system: | annual passenger traffic on registered air carriers: 26,843,991 (2015) |
+| National air transport system: | annual freight traffic on registered air carriers: 1,322,379,468 mt-km (2015) |
+| Civil aircraft registration country code prefix: | HB (2016) |
+| Airports: | 63 (2013) |
+| Airports - with paved runways: | total: 40 (2013) |
+| Airports - with paved runways: | over 3,047 m: 3 (2013) |
+| Airports - with paved runways: | 2,438 to 3,047 m: 2 (2013) |
+| Airports - with paved runways: | 1,524 to 2,437 m: 12 (2013) |
+| Airports - with paved runways: | 914 to 1,523 m: 6 (2013) |
+| Airports - with paved runways: | under 914 m: 17 (2013) |
+| Airports - with unpaved runways: | total: 23 (2013) |
+| Airports - with unpaved runways: | under 914 m: 23 (2013) |
+| Heliports: | 2 (2013) |
+| Pipelines: | 1800 km gas, 94 km oil, 7 km refined products (2013) |
+| Railways: | total: 5,652 km (2014) |
+| Railways: | standard gauge: 4,424.8 km 1.435-m gauge (3,634.1 km electrified) (2014) |
+| Railways: | narrow gauge: 2 km 1.200-m gauge (2 km electrified) (2014) |
+| Railways: | 1188.3 1.000-m gauge (1,167.3 km electrified) 36.4 0.800-m gauge (36.4 km electrified) |
+| Roadways: | total: 71,464 km (2011) |
+| Roadways: | paved: 71,464 km (includes 1,415 of expressways) (2011) |
+| Waterways: | 1,292 km (there are 1,227 km of waterways on lakes and rivers for public transport and 65 km on the Rhine River between Basel-Rheinfelden and Schaffhausen-Bodensee for commercial goods transport) (2010) |
+| Merchant marine: | total: 51 (2017) |
+| Merchant marine: | by type: bulk carrier 30, general cargo 12, oil tanker 1, other 8 (2017) |
+| Ports and terminals: | river port(s): Basel (Rhine) |

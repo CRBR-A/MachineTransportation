@@ -1,0 +1,26 @@
+| Transportation | France |
+| --- | --- |
+| Airports: | 477 (2006) |
+| Airports - with paved runways: | total: 292 |
+| Airports - with paved runways: | over 3,047 m: 13 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 28 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 96 |
+| Airports - with paved runways: | 914 to 1,523 m: 81 |
+| Airports - with paved runways: | under 914 m: 74 (2006) |
+| Airports - with unpaved runways: | total: 185 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 4 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 73 |
+| Airports - with unpaved runways: | under 914 m: 108 (2006) |
+| Heliports: | 3 (2006) |
+| Pipelines: | gas 14,588 km; oil 3,024 km; refined products 4,889 km (2006) |
+| Railways: | total: 29,085 km |
+| Railways: | standard gauge: 28,918 km 1.435-m gauge (14,481 km electrified) |
+| Railways: | narrow gauge: 167 km 1.000-m gauge (2005) |
+| Roadways: | total: 891,290 km |
+| Roadways: | paved: 891,290 km (including 10,390 km of expressways) (2003) |
+| Waterways: | 8,500 km (1,686 km accessible to craft of 3,000 metric tons) (2000) |
+| Merchant marine: | total: 61 ships (1000 GRT or over) 875,777 GRT/1,318,605 DWT |
+| Merchant marine: | by type: cargo 1, chemical tanker 3, container 5, liquefied gas 6, passenger 3, passenger/cargo 32, petroleum tanker 10, roll on/roll off 1 |
+| Merchant marine: | foreign-owned: 13 (Denmark 1, Hong Kong 1, Italy 2, Monaco 1, Norway 1, NZ 1, Singapore 2, Sweden 2, Switzerland 2) |
+| Merchant marine: | registered in other countries: 154 (Antigua and Barbuda 1, Australia 3, Bahamas 37, Bermuda 1, Cameroon 1, French Polynesia 1, French Southern and Antarctic Lands 36, Gibraltar 1, Indonesia 1, Isle of Man 2, Italy 1, South Korea 12, Liberia 3, Luxembourg 14, Malta 6, Mexico 1, Morocco 1, Panama 15, Saint Vincent and the Grenadines 8, UK 4, Wallis and Futuna 5) (2006) |
+| Ports and terminals: | Bordeaux, Calais, Dunkerque, La Pallice, Le Havre, Marseille, Nantes, Paris, Rouen, Strasbourg |

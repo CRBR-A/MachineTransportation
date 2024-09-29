@@ -1,0 +1,34 @@
+| Transportation | SPAIN |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 20 |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 414 |
+| National air transport system: | annual passenger traffic on registered air carriers: 60,809,228 |
+| National air transport system: | annual freight traffic on registered air carriers: 1,040,913,279 mt-km (2015) |
+| Civil aircraft registration country code prefix: | EC (2016) |
+| Airports: | 150 (2013) |
+| Airports - with paved runways: | total: 99 |
+| Airports - with paved runways: | over 3,047 m: 18 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 14 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 19 |
+| Airports - with paved runways: | 914 to 1,523 m: 24 |
+| Airports - with paved runways: | under 914 m: 24 (2013) |
+| Airports - with unpaved runways: | total: 51 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 2 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 13 |
+| Airports - with unpaved runways: | under 914 m: 36 (2013) |
+| Heliports: | 10 (2013) |
+| Pipelines: | gas 10,481 km; oil 616 km; refined products 3,461 km (2013) |
+| Railways: | total: 16,101.5 km |
+| Railways: | broad gauge: 11,873 km 1.668-m gauge (6,488 km electrified) |
+| Railways: | standard gauge: 2,312 km 1.435-m gauge (2,312 km electrified) |
+| Railways: | narrow gauge: 1,884.9 km 1.000-m gauge (807 km electrified); 28 km 0.914-m gauge (28 km electrified); 3.6 km 0.600-m gauge (2014) |
+| Roadways: | total: 683,175 km |
+| Roadways: | paved: 683,175 km (includes 16,205 km of expressways) (2011) |
+| Waterways: | 1,000 km (2012) |
+| Merchant marine: | total: 132 |
+| Merchant marine: | by type: bulk carrier 7, cargo 19, chemical tanker 8, container 5, liquefied gas 12, passenger/cargo 43, petroleum tanker 18, refrigerated cargo 4, roll on/roll off 9, vehicle carrier 7 |
+| Merchant marine: | foreign-owned: 27 (Canada 4, Germany 4, Italy 1, Mexico 1, Norway 10, Russia 6, Switzerland 1) |
+| Merchant marine: | registered in other countries: 103 (Angola 1, Argentina 3, Bahamas 6, Brazil 12, Cabo Verde 1, Cyprus 6, Ireland 1, Malta 8, Morocco 9, Panama 30, Peru 1, Portugal 18, Uruguay 5, Venezuela 1, unknown 1) (2010) |
+| Ports and terminals: | major seaport(s): Algeciras, Barcelona, Bilbao, Cartagena, Huelva, Tarragona, Valencia (all in Spain); Las Palmas, Santa Cruz de Tenerife (in the Canary Islands) |
+| Ports and terminals: | container port(s) (TEUs): Algeciras (3,608,301), Barcelona (2,033,747), Valencia (4,327,371); Las Palmas (1,287,389) |
+| Ports and terminals: | LNG terminal(s) (import): Barcelona, Bilbao, Cartagena, Huelva, Mugardos, Sagunto |

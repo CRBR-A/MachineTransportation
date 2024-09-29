@@ -1,0 +1,25 @@
+| Transportation | Japan |
+| --- | --- |
+| Airports: | 176 (2007) |
+| Airports - with paved runways: | total: 145 |
+| Airports - with paved runways: | over 3,047 m: 7 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 41 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 40 |
+| Airports - with paved runways: | 914 to 1,523 m: 28 |
+| Airports - with paved runways: | under 914 m: 29 (2007) |
+| Airports - with unpaved runways: | total: 31 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 4 |
+| Airports - with unpaved runways: | under 914 m: 27 (2007) |
+| Heliports: | 14 (2007) |
+| Pipelines: | gas 3,939 km; oil 170 km; oil/gas/water 104 km (2007) |
+| Railways: | total: 23,474 km |
+| Railways: | standard gauge: 3,204 km 1.435-m gauge (3,204 km electrified) |
+| Railways: | narrow gauge: 77 km 1.372-m gauge (77 km electrified); 20,182 km 1.067-m gauge (13,334 km electrified); 11 km 0.762-m gauge (11 km electrified) (2006) |
+| Roadways: | total: 1,196,999 km |
+| Roadways: | paved: 949,101 km (includes 7,383 km of expressways) |
+| Roadways: | unpaved: 247,898 km (2006) |
+| Waterways: | 1,770 km (seagoing vessels use inland seas) (2007) |
+| Merchant marine: | total: 683 |
+| Merchant marine: | by type: bulk carrier 136, cargo 30, carrier 3, chemical tanker 27, container 11, liquefied gas 59, passenger 12, passenger/cargo 135, petroleum tanker 156, refrigerated cargo 2, roll on/roll off 51, vehicle carrier 61 |
+| Merchant marine: | registered in other countries: 3,074 (Australia 1, Bahamas 87, Belize 8, Bermuda 2, Burma 1, Cambodia 1, Cayman Islands 13, China 2, Cyprus 21, France 1, Honduras 4, Hong Kong 111, Indonesia 6, Isle of Man 6, Italy 1, South Korea 20, Liberia 116, Malaysia 4, Malta 8, Marshall Islands 17, Nigeria 1, Norway 29, Panama 2335, Philippines 81, Portugal 15, Saint Kitts and Nevis 3, Saint Vincent and the Grenadines 3, Singapore 131, Thailand 4, UK 4, US 7, Vanuatu 29, Vietnam 1, unknown 1) (2008) |
+| Ports and terminals: | Chiba, Kawasaki, Kobe, Mizushima, Moji, Nagoya, Osaka, Tokyo, Tomakomai, Yohohama |

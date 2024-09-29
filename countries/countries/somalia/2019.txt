@@ -1,0 +1,22 @@
+| Transportation | Somalia |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 1 (2015) |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 1 (2015) |
+| National air transport system: | annual passenger traffic on registered air carriers: 251,652 (2015) |
+| National air transport system: | annual freight traffic on registered air carriers: 0 mt-km (2015) |
+| Civil aircraft registration country code prefix: | 6O (2016) |
+| Airports: | 61 (2013) |
+| Airports - with paved runways: | total: 6 (2013) |
+| Airports - with paved runways: | over 3,047 m: 4 (2013) |
+| Airports - with paved runways: | 2,438 to 3,047 m: 1 (2013) |
+| Airports - with paved runways: | 1,524 to 2,437 m: 1 (2013) |
+| Airports - with unpaved runways: | total: 55 (2013) |
+| Airports - with unpaved runways: | over 3,047 m: 1 (2013) |
+| Airports - with unpaved runways: | 2,438 to 3,047 m: 5 (2013) |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 20 (2013) |
+| Airports - with unpaved runways: | 914 to 1,523 m: 23 (2013) |
+| Airports - with unpaved runways: | under 914 m: 6 (2013) |
+| Roadways: | Merchant marine: |
+| Roadways: | total: 5 |
+| Roadways: | by type: general cargo 1, other 4 (2018) |
+| Ports and terminals: | major seaport(s): Berbera, Kismaayo |

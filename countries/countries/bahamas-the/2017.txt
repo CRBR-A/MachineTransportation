@@ -1,0 +1,28 @@
+| Transportation | BAHAMAS, THE |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 4 |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 16 |
+| National air transport system: | annual passenger traffic on registered air carriers: 587,516 |
+| National air transport system: | annual freight traffic on registered air carriers: 172,730 mt-km (2015) |
+| Civil aircraft registration country code prefix: | C6 (2016) |
+| Airports: | 61 (2013) |
+| Airports - with paved runways: | total: 24 |
+| Airports - with paved runways: | over 3,047 m: 2 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 2 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 13 |
+| Airports - with paved runways: | 914 to 1,523 m: 7 (2017) |
+| Airports - with unpaved runways: | total: 37 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 4 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 16 |
+| Airports - with unpaved runways: | under 914 m: 17 (2013) |
+| Heliports: | 1 (2013) |
+| Roadways: | total: 2,700 km |
+| Roadways: | paved: 1,620 km |
+| Roadways: | unpaved: 1,080 km (2011) |
+| Merchant marine: | total: 1,160 |
+| Merchant marine: | by type: barge carrier 1, bulk carrier 238, cargo 170, carrier 2, chemical tanker 87, combination ore/oil 8, container 57, liquefied gas 71, passenger 102, passenger/cargo 26, petroleum tanker 225, refrigerated cargo 97, roll on/roll off 13, specialized tanker 2, vehicle carrier 61 |
+| Merchant marine: | foreign-owned: 1,069 (Angola 6, Australia 1, Belgium 6, Bermuda 15, Brazil 1, Canada 96, Croatia 1, Cyprus 23, Denmark 69, Finland 8, France 15, Germany 30, Greece 225, Guernsey 6, Hong Kong 3, Indonesia 2, Ireland 3, Italy 1, Japan 88, Jordan 2, Kuwait 1, Malaysia 13, Monaco 8, Montenegro 2, Netherlands 23, Nigeria 2, Norway 186, Poland 34, Saudi Arabia 16, Singapore 7, South Korea 1, Spain 6, Sweden 11, Switzerland 1, Thailand 4, Turkey 3, UAE 23, UK 18, US 109) |
+| Merchant marine: | registered in other countries: 6 (Panama 6) (2010) |
+| Ports and terminals: | major seaport(s): Freeport, Nassau, South Riding Point |
+| Ports and terminals: | container port(s) (TEUs): Freeport (1,116,272)(2011) |
+| Ports and terminals: | cruise port(s): Nassau |

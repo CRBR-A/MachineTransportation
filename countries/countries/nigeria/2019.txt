@@ -1,0 +1,32 @@
+| Transportation | Nigeria |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 16 (2015) |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 73 (2015) |
+| National air transport system: | annual passenger traffic on registered air carriers: 3,223,459 (2015) |
+| National air transport system: | annual freight traffic on registered air carriers: 22,400,657 mt-km (2015) |
+| Civil aircraft registration country code prefix: | 5N (2016) |
+| Airports: | 54 (2013) |
+| Airports - with paved runways: | total: 40 (2017) |
+| Airports - with paved runways: | over 3,047 m: 10 (2017) |
+| Airports - with paved runways: | 2,438 to 3,047 m: 12 (2017) |
+| Airports - with paved runways: | 1,524 to 2,437 m: 9 (2017) |
+| Airports - with paved runways: | 914 to 1,523 m: 6 (2017) |
+| Airports - with paved runways: | under 914 m: 3 (2017) |
+| Airports - with unpaved runways: | total: 14 (2013) |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 2 (2013) |
+| Airports - with unpaved runways: | 914 to 1,523 m: 9 (2013) |
+| Airports - with unpaved runways: | under 914 m: 3 (2013) |
+| Heliports: | 5 (2013) |
+| Pipelines: | 124 km condensate, 4045 km gas, 164 km liquid petroleum gas, 4441 km oil, 3940 km refined products (2013) |
+| Railways: | total: 3,798 km (2014) |
+| Railways: | standard gauge: 293 km 1.435-m gauge (2014) |
+| Railways: | narrow gauge: 3,505 km 1.067-m gauge (2014) |
+| Railways: | note: as of the end of 2018, there were only six operational locomotives in Nigeria primarily used for passenger service; the majority of the rail lines are in a severe state of disrepair and need to be replaced |
+| Roadways: | total: 195,000 km (2017) |
+| Roadways: | paved: 60,000 km (2017) |
+| Roadways: | unpaved: 135,000 km (2017) |
+| Waterways: | 8,600 km (Niger and Benue Rivers and smaller rivers and creeks) (2011) |
+| Merchant marine: | total: 576 |
+| Merchant marine: | by type: general cargo 14, oil tanker 90, other 472 (2018) |
+| Ports and terminals: | major seaport(s): Bonny Inshore Terminal, Calabar, Lagos |
+| Ports and terminals: | LNG terminal(s) (export): Bonny Island |

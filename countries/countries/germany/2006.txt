@@ -1,0 +1,28 @@
+| Transportation | Germany |
+| --- | --- |
+| Airports: | 554 (2006) |
+| Airports - with paved runways: | total: 332 |
+| Airports - with paved runways: | over 3,047 m: 13 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 54 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 58 |
+| Airports - with paved runways: | 914 to 1,523 m: 72 |
+| Airports - with paved runways: | under 914 m: 135 (2006) |
+| Airports - with unpaved runways: | total: 222 |
+| Airports - with unpaved runways: | 2,438 to 3,047 m: 1 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 3 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 33 |
+| Airports - with unpaved runways: | under 914 m: 185 (2006) |
+| Heliports: | 32 (2006) |
+| Pipelines: | condensate 37 km; gas 25,035 km; oil 3,546 km; refined products 3,827 km (2006) |
+| Railways: | total: 47,201 km |
+| Railways: | standard gauge: 46,948 km 1.435-m gauge (19,674 km electrified) |
+| Railways: | narrow gauge: 229 km 1.000-m gauge (16 km electrified); 24 km 0.750-m gauge (2005) |
+| Roadways: | total: 231,581 km |
+| Roadways: | paved: 231,581 km (including 12,200 km of expressways) (2005) |
+| Waterways: | 7,467 km |
+| Waterways: | note: Rhine River carries most goods; Main-Danube Canal links North Sea and Black Sea (2005) |
+| Merchant marine: | total: 394 ships (1000 GRT or over) 11,017,754 GRT/13,091,194 DWT |
+| Merchant marine: | by type: bulk carrier 1, cargo 60, chemical tanker 13, container 273, liquefied gas 3, passenger 6, passenger/cargo 25, petroleum tanker 10, roll on/roll off 3 |
+| Merchant marine: | foreign-owned: 4 (Finland 2, Italy 1, Switzerland 1) |
+| Merchant marine: | registered in other countries: 2,491 (Antigua and Barbuda 858, Australia 3, Bahamas 22, Belize 3, Bermuda 21, Brazil 7, Bulgaria 1, Burma 5, Canada 3, Cayman Islands 13, Cyprus 214, Denmark 13, Dominica 1, French Southern and Antarctic Lands 2, Georgia 1, Gibraltar 108, Guyana 1, Hong Kong 6, Indonesia 1, Ireland 2, Isle of Man 56, Jamaica 3, Liberia 587, Luxembourg 10, Malaysia 2, Malta 64, Marshall Islands 194, Morocco 2, Netherlands 56, Netherlands Antilles 60, NZ 1, Panama 35, Portugal 17, Russia 2, Saint Vincent and the Grenadines 8, Samoa 1, Singapore 9, Spain 12, Sri Lanka 5, Sweden 3, Turkey 1, UK 76, US 2) (2006) |
+| Ports and terminals: | Bremen, Bremerhaven, Brunsbuttel, Duisburg, Frankfurt, Hamburg, Karlsruhe, Mainz, Rostock, Wilhemshaven |

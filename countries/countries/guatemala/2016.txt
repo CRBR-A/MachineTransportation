@@ -1,0 +1,27 @@
+| Transportation | GUATEMALA |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 3 |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 8 |
+| National air transport system: | annual passenger traffic on registered air carriers: 93,129 |
+| National air transport system: | annual freight traffic on registered air carriers: 455,520 mt-km (2015) |
+| Civil aircraft registration country code prefix: | TG (2016) |
+| Airports: | 291 (2013) |
+| Airports - with paved runways: | total: 16 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 2 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 4 |
+| Airports - with paved runways: | 914 to 1,523 m: 6 |
+| Airports - with paved runways: | under 914 m: 4 (2013) |
+| Airports - with unpaved runways: | total: 275 |
+| Airports - with unpaved runways: | 2,438 to 3,047 m: 1 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 2 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 77 |
+| Airports - with unpaved runways: | under 914 m: 195 (2013) |
+| Heliports: | 1 (2013) |
+| Pipelines: | oil 480 km (2013) |
+| Railways: | total: 800 km |
+| Railways: | narrow gauge: 800 km 0.914-m gauge (2014) |
+| Roadways: | total: 17,332 km |
+| Roadways: | paved: 7,483 km |
+| Roadways: | unpaved: 9,849 km (includes 4,795 km of rural roads) (2015) |
+| Waterways: | 990 km (260 km navigable year round; additional 730 km navigable during high-water season) (2012) |
+| Ports and terminals: | major seaport(s): Puerto Quetzal, Santo Tomas de Castilla |

@@ -1,0 +1,28 @@
+| Transportation | Israel |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 6 (2015) |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 60 (2015) |
+| National air transport system: | annual passenger traffic on registered air carriers: 6,064,478 (2015) |
+| National air transport system: | annual freight traffic on registered air carriers: 758,633,996 mt-km (2015) |
+| Civil aircraft registration country code prefix: | 4X (2016) |
+| Airports: | 47 (2013) |
+| Airports - with paved runways: | total: 29 (2017) |
+| Airports - with paved runways: | over 3,047 m: 2 (2017) |
+| Airports - with paved runways: | 2,438 to 3,047 m: 5 (2017) |
+| Airports - with paved runways: | 1,524 to 2,437 m: 6 (2017) |
+| Airports - with paved runways: | 914 to 1,523 m: 11 (2017) |
+| Airports - with paved runways: | under 914 m: 5 (2017) |
+| Airports - with unpaved runways: | total: 18 (2013) |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 1 (2013) |
+| Airports - with unpaved runways: | 914 to 1,523 m: 3 (2013) |
+| Airports - with unpaved runways: | under 914 m: 14 (2013) |
+| Heliports: | 3 (2013) |
+| Pipelines: | 763 km gas, 442 km oil, 261 km refined products (2013) |
+| Railways: | total: 1,384 km (2014) |
+| Railways: | standard gauge: 1,384 km 1.435-m gauge (2014) |
+| Roadways: | total: 19,555 km (2017) |
+| Roadways: | paved: 19,555 km (includes 449 km of expressways) (2017) |
+| Merchant marine: | total: 42 |
+| Merchant marine: | by type: container ship 5, general cargo 5, oil tanker 3, other 29 (2018) |
+| Ports and terminals: | major seaport(s): Ashdod, Elat (Eilat), Hadera, Haifa |
+| Ports and terminals: | container port(s) (TEUs): Ashdod (1,443,000) (2016) |

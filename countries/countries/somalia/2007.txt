@@ -1,0 +1,20 @@
+| Transportation | Somalia |
+| --- | --- |
+| Airports: | 67 (2007) |
+| Airports - with paved runways: | total: 7 |
+| Airports - with paved runways: | over 3,047 m: 4 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 2 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 1 (2007) |
+| Airports - with unpaved runways: | total: 60 |
+| Airports - with unpaved runways: | over 3,047 m: 1 |
+| Airports - with unpaved runways: | 2,438 to 3,047 m: 3 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 20 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 29 |
+| Airports - with unpaved runways: | under 914 m: 7 (2007) |
+| Roadways: | total: 22,100 km |
+| Roadways: | paved: 2,608 km |
+| Roadways: | unpaved: 19,492 km (1999) |
+| Merchant marine: | total: 1 ship (1000 GRT or over) 2,659 GRT/2,540 DWT |
+| Merchant marine: | by type: cargo 1 |
+| Merchant marine: | foreign-owned: 1 (UAE 1) (2007) |
+| Ports and terminals: | Boosaaso, Berbera, Kismaayo, Merca, Mogadishu |

@@ -1,0 +1,14 @@
+| Transportation | Hong Kong |
+| --- | --- |
+| Airports: | 2 (2012) |
+| Airports - with paved runways: | total: 2 |
+| Airports - with paved runways: | over 3,047 m: 1 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 1 (2012) |
+| Heliports: | 9 (2012) |
+| Roadways: | total: 2,067 km |
+| Roadways: | paved: 2,067 km (2010) |
+| Merchant marine: | total: 1,644 |
+| Merchant marine: | by type: barge carrier 2, bulk carrier 785, cargo 198, carrier 10, chemical tanker 149, container 288, liquefied gas 31, passenger 4, passenger/cargo 9, petroleum tanker 156, roll on/roll off 5, vehicle carrier 7 |
+| Merchant marine: | foreign-owned: 976 (Bangladesh 1, Belgium 26, Bermuda 20, Canada 77, China 500, Cyprus 3, Denmark 42, France 4, Germany 10, Greece 27, Indonesia 10, Iran 3, Japan 79, Libya 1, Norway 48, Russia 1, Singapore 13, South Korea 3, Switzerland 5, Taiwan 25, UAE 1, UK 33, US 44) |
+| Merchant marine: | registered in other countries: 341 (Bahamas 3, Bermuda 4, Cambodia 10, China 18, Curacao 1, Cyprus 2, Georgia 3, India 2, Kiribati 2, Liberia 48, Malaysia 8, Malta 4, Marshall Islands 3, NZ 1, Panama 144, Saint Vincent and the Grenadines 5, Seychelles 1, Sierra Leone 7, Singapore 46, Thailand 1, UK 12, unknown 16) (2010) |
+| Ports and terminals: | Hong Kong |

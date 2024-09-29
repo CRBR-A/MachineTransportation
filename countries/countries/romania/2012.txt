@@ -1,0 +1,26 @@
+| Transportation | Romania |
+| --- | --- |
+| Airports: | 53 (2012) |
+| Airports - with paved runways: | total: 26 |
+| Airports - with paved runways: | over 3,047 m: 4 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 10 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 11 |
+| Airports - with paved runways: | under 914 m: 1 (2012) |
+| Airports - with unpaved runways: | total: 27 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 6 |
+| Airports - with unpaved runways: | under 914 m: 21 (2012) |
+| Heliports: | 4 (2012) |
+| Pipelines: | gas 3,652 km; oil 2,424 km (2010) |
+| Railways: | total: 10,785 km |
+| Railways: | broad gauge: 135 km 1.524-m gauge |
+| Railways: | standard gauge: 10,645 km 1.435-m gauge (4,002 km electrified) |
+| Railways: | narrow gauge: 5 km 1.000-m gauge (2010) |
+| Roadways: | total: 82,386 km (does not include urban roads) |
+| Roadways: | paved: 71,154 km (includes 371 km of expressways) |
+| Roadways: | unpaved: 11,232 km (2009) |
+| Waterways: | 1,731 km (includes 1,075 km on the Danube River, 524 km on secondary branches, and 132 km on canals) (2010) |
+| Merchant marine: | total: 5 |
+| Merchant marine: | by type: cargo 1, passenger/cargo 2, petroleum tanker 1, roll on/roll off 1 |
+| Merchant marine: | foreign-owned: 1 (Russia 1) |
+| Merchant marine: | registered in other countries: 31 (Georgia 7, Liberia 3, Malta 7, Marshall Islands 2, Moldova 2, Panama 3, Russia 1, Saint Vincent and the Grenadines 1, Sierra Leone 2, Tanzania 1, Togo 1, unknown 1) (2010) |
+| Ports and terminals: | Braila, Constanta, Galati (Galatz), Mancanului (Giurgiu), Midia, Tulcea |

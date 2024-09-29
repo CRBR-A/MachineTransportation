@@ -1,0 +1,25 @@
+| Transportation | Korea, South |
+| --- | --- |
+| Airports: | 114 (2012) |
+| Airports - with paved runways: | total: 71 |
+| Airports - with paved runways: | over 3,047 m: 4 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 20 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 12 |
+| Airports - with paved runways: | 914 to 1,523 m: 13 |
+| Airports - with paved runways: | under 914 m: 22 (2012) |
+| Airports - with unpaved runways: | total: 43 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 2 |
+| Airports - with unpaved runways: | under 914 m: 41 (2012) |
+| Heliports: | 510 (2012) |
+| Pipelines: | gas 2,139 km; refined products 864 km (2010) |
+| Railways: | total: 3,381 km |
+| Railways: | standard gauge: 3,381 km 1.435-m gauge (1,843 km electrified) (2008) |
+| Roadways: | total: 103,029 km |
+| Roadways: | paved: 80,642 km (includes 3,367 km of expressways) |
+| Roadways: | unpaved: 22,387 km (2008) |
+| Waterways: | 1,600 km (most navigable only by small craft) (2011) |
+| Merchant marine: | total: 786 |
+| Merchant marine: | by type: bulk carrier 191, cargo 235, carrier 8, chemical tanker 130, container 72, liquefied gas 44, passenger 5, passenger/cargo 15, petroleum tanker 55, refrigerated cargo 15, roll on/roll off 10, vehicle carrier 6 |
+| Merchant marine: | foreign-owned: 31 (China 6, France 2, Japan 14, Taiwan 1, US 8) |
+| Merchant marine: | registered in other countries: 457 (Bahamas 1, Cambodia 10, Ghana 1, Honduras 6, Hong Kong 3, Indonesia 2, Kiribati 1, Liberia 2, Malta 2, Marshall Islands 41, North Korea 1, Panama 373, Philippines 1, Russia 1, Singapore 3, Tuvalu 1, unknown 8) (2010) |
+| Ports and terminals: | Incheon (Inch'on), Pohang (P'ohang), Busan (Pusan), Ulsan, Yeosu (Yosu) |

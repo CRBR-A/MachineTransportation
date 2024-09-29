@@ -1,0 +1,9 @@
+| Transportation | Svalbard |
+| --- | --- |
+| Airports: | 4 (2007) |
+| Airports - with paved runways: | total: 1 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 1 (2007) |
+| Airports - with unpaved runways: | total: 3 |
+| Airports - with unpaved runways: | under 914 m: 3 (2007) |
+| Heliports: | 1 (2007) |
+| Ports and terminals: | Barentsburg, Longyearbyen, Ny-Alesund, Pyramiden |

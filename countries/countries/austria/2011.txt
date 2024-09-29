@@ -1,0 +1,25 @@
+| Transportation | Austria |
+| --- | --- |
+| Airports: | 55 (2010) |
+| Airports - with paved runways: | total: 25 |
+| Airports - with paved runways: | over 3,047 m: 1 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 5 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 1 |
+| Airports - with paved runways: | 914 to 1,523 m: 4 |
+| Airports - with paved runways: | under 914 m: 14 (2010) |
+| Airports - with unpaved runways: | total: 30 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 1 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 3 |
+| Airports - with unpaved runways: | under 914 m: 26 (2010) |
+| Heliports: | 1 (2010) |
+| Pipelines: | gas 3,028 km; oil 663 km; refined products 157 km (2010) |
+| Railways: | total: 6,399 km |
+| Railways: | standard gauge: 5,927 km 1.435-m gauge (3,853 km electrified) |
+| Railways: | narrow gauge: 384 km 1.000-m gauge (15 km electrified); 88 km 0.760-m gauge (10 km electrified) (2010) |
+| Roadways: | total: 110,778 km |
+| Roadways: | paved: 110,778 km (includes 1,696 km of expressways) (2008) |
+| Waterways: | 358 km (2011) |
+| Merchant marine: | total: 2 |
+| Merchant marine: | by type: cargo 2 |
+| Merchant marine: | registered in other countries: 4 (Cyprus 1, Malta 1, Saint Vincent and the Grenadines 2) (2010) |
+| Ports and terminals: | Enns, Krems, Linz, Vienna |

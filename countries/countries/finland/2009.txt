@@ -1,0 +1,25 @@
+| Transportation | Finland |
+| --- | --- |
+| Airports: | 148 (2009) |
+| Airports - with paved runways: | total: 75 |
+| Airports - with paved runways: | over 3,047 m: 3 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 26 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 10 |
+| Airports - with paved runways: | 914 to 1,523 m: 22 |
+| Airports - with paved runways: | under 914 m: 14 (2009) |
+| Airports - with unpaved runways: | total: 73 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 3 |
+| Airports - with unpaved runways: | under 914 m: 70 (2009) |
+| Pipelines: | gas 694 km (2008) |
+| Railways: | total: 5,794 km |
+| Railways: | broad gauge: 5,794 km 1.524-m gauge (3,047 km electrified) (2008) |
+| Roadways: | total: 78,141 km |
+| Roadways: | paved: 50,914 km (includes 700 km of expressways) |
+| Roadways: | unpaved: 27,227 km (2009) |
+| Waterways: | 7,842 km |
+| Waterways: | note: includes Saimaa Canal system of 3,577 km; southern part leased from Russia (2008) |
+| Merchant marine: | total: 98 |
+| Merchant marine: | by type: bulk carrier 3, cargo 28, carrier 1, chemical tanker 6, container 3, passenger 5, passenger/cargo 18, petroleum tanker 5, roll on/roll off 27, vehicle carrier 2 |
+| Merchant marine: | foreign-owned: 8 (Estonia 2, Germany 1, Norway 3, Sweden 2) |
+| Merchant marine: | registered in other countries: 47 (Bahamas 9, Germany 4, Gibraltar 3, Netherlands 14, Norway 1, Panama 2, Saint Kitts and Nevis 1, Sweden 12, UK 1) (2008) |
+| Ports and terminals: | Hamina, Helsinki, Kokkola, Kotka, Naantali, Pori, Raahe, Rauma, Turku |

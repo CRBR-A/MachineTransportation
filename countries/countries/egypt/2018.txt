@@ -1,0 +1,33 @@
+| Transportation | Egypt |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 14 (2015) |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 101 (2015) |
+| National air transport system: | annual passenger traffic on registered air carriers: 10,159,464 (2015) |
+| National air transport system: | annual freight traffic on registered air carriers: 397,531,535 mt-km (2015) |
+| Civil aircraft registration country code prefix: | SU (2016) |
+| Airports: | 83 (2013) |
+| Airports - with paved runways: | total: 72 (2017) |
+| Airports - with paved runways: | over 3,047 m: 15 (2017) |
+| Airports - with paved runways: | 2,438 to 3,047 m: 36 (2017) |
+| Airports - with paved runways: | 1,524 to 2,437 m: 15 (2017) |
+| Airports - with paved runways: | under 914 m: 6 (2017) |
+| Airports - with unpaved runways: | total: 11 (2013) |
+| Airports - with unpaved runways: | 2,438 to 3,047 m: 1 (2013) |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 3 (2013) |
+| Airports - with unpaved runways: | 914 to 1,523 m: 4 (2013) |
+| Airports - with unpaved runways: | under 914 m: 3 (2013) |
+| Heliports: | 7 (2013) |
+| Pipelines: | 486 km condensate, 74 km condensate/gas, 7986 km gas, 957 km liquid petroleum gas, 5225 km oil, 37 km oil/gas/water, 895 km refined products, 65 km water (2013) |
+| Railways: | total: 5,085 km (2014) |
+| Railways: | standard gauge: 5,085 km 1.435-m gauge (62 km electrified) (2014) |
+| Roadways: | total: 137,430 km (2010) |
+| Roadways: | paved: 126,742 km (includes 838 km of expressways) (2010) |
+| Roadways: | unpaved: 10,688 km (2010) |
+| Waterways: | 3,500 km (includes the Nile River, Lake Nasser, Alexandria-Cairo Waterway, and numerous smaller canals in Nile Delta; the Suez Canal (193.5 km including approaches) is navigable by oceangoing vessels drawing up to 17.68 m) (2011) |
+| Merchant marine: | total: 399 (2017) |
+| Merchant marine: | by type: bulk carrier 14, container ship 8, general cargo 33, oil tanker 36, other 308 (2017) |
+| Ports and terminals: | major seaport(s): Mediterranean Sea - Alexandria, Damietta, El Dekheila, Port Said |
+| Ports and terminals: | oil terminal(s): Ain Sukhna terminal, Sidi Kerir terminal |
+| Ports and terminals: | container port(s) (TEUs): Alexandria (1,633,600), Port Said (East) (3,035,900) (2016) |
+| Ports and terminals: | LNG terminal(s) (export): Damietta, Idku (Abu Qir Bay) |
+| Ports and terminals: | Gulf of Suez - Suez |

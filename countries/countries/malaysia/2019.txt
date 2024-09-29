@@ -1,0 +1,32 @@
+| Transportation | Malaysia |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 12 (2015) |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 263 (2015) |
+| National air transport system: | annual passenger traffic on registered air carriers: 50,347,149 (2015) |
+| National air transport system: | annual freight traffic on registered air carriers: 2,005,979,379 mt-km (2015) |
+| Civil aircraft registration country code prefix: | 9M (2016) |
+| Airports: | 114 (2013) |
+| Airports - with paved runways: | total: 39 (2017) |
+| Airports - with paved runways: | over 3,047 m: 8 (2017) |
+| Airports - with paved runways: | 2,438 to 3,047 m: 8 (2017) |
+| Airports - with paved runways: | 1,524 to 2,437 m: 7 (2017) |
+| Airports - with paved runways: | 914 to 1,523 m: 8 (2017) |
+| Airports - with paved runways: | under 914 m: 8 (2017) |
+| Airports - with unpaved runways: | total: 75 (2013) |
+| Airports - with unpaved runways: | 914 to 1,523 m: 6 (2013) |
+| Airports - with unpaved runways: | under 914 m: 69 (2013) |
+| Heliports: | 4 (2013) |
+| Pipelines: | 354 km condensate, 6439 km gas, 155 km liquid petroleum gas, 1937 km oil, 43 km oil/gas/water, 114 km refined products, 26 km water (2013) |
+| Railways: | total: 1,851 km (2014) |
+| Railways: | standard gauge: 59 km 1.435-m gauge (59 km electrified) (2014) |
+| Railways: | narrow gauge: 1,792 km 1.000-m gauge (339 km electrified) (2014) |
+| Roadways: | total: 144,403 km (excludes local roads) (2010) |
+| Roadways: | paved: 116,169 km (includes 1,821 km of expressways) (2010) |
+| Roadways: | unpaved: 28,234 km (2010) |
+| Waterways: | 7,200 km (Peninsular Malaysia 3,200 km; Sabah 1,500 km; Sarawak 2,500 km) (2011) |
+| Merchant marine: | total: 1,704 |
+| Merchant marine: | by type: bulk carrier 15, container ship 22, general cargo 182, oil tanker 137, other 1348 (2018) |
+| Ports and terminals: | major seaport(s): Bintulu, Johor Bahru, George Town (Penang), Port Kelang (Port Klang), Tanjung Pelepas |
+| Ports and terminals: | container port(s) (TEUs): Port Kelang (Port Klang) (11,978,000), Tanjung Pelepas (8,260,000) (2017) |
+| Ports and terminals: | LNG terminal(s) (export): Bintulu (Sarawak) |
+| Ports and terminals: | LNG terminal(s) (import): Sungei Udang |

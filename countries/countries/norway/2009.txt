@@ -1,0 +1,24 @@
+| Transportation | Norway |
+| --- | --- |
+| Airports: | 98 (2009) |
+| Airports - with paved runways: | total: 67 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 13 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 12 |
+| Airports - with paved runways: | 914 to 1,523 m: 17 |
+| Airports - with paved runways: | under 914 m: 25 (2009) |
+| Airports - with unpaved runways: | total: 31 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 6 |
+| Airports - with unpaved runways: | under 914 m: 25 (2009) |
+| Heliports: | 1 (2009) |
+| Pipelines: | condensate 31 km; gas 64 km (2008) |
+| Railways: | total: 4,114 km |
+| Railways: | standard gauge: 4,114 km 1.435-m gauge (2,552 km electrified) (2009) |
+| Roadways: | total: 92,946 km |
+| Roadways: | paved: 72,033 km (includes 664 km of expressways) |
+| Roadways: | unpaved: 20,913 km (2007) |
+| Waterways: | 1,577 km (2008) |
+| Merchant marine: | total: 688 |
+| Merchant marine: | by type: bulk carrier 46, cargo 141, carrier 3, chemical tanker 137, combination ore/oil 12, container 4, liquefied gas 65, passenger/cargo 117, petroleum tanker 85, refrigerated cargo 14, roll on/roll off 13, specialized tanker 1, vehicle carrier 50 |
+| Merchant marine: | foreign-owned: 199 (Canada 10, Chile 2, China 36, Denmark 25, Estonia 1, Finland 1, France 3, Germany 1, Greece 3, Hong Kong 20, Iceland 3, Italy 4, Japan 29, Lithuania 1, Malaysia 1, Monaco 5, Poland 3, Saudi Arabia 3, Singapore 1, Sweden 34, UK 5, US 8) |
+| Merchant marine: | registered in other countries: 923 (Antigua and Barbuda 8, Australia 1, Bahamas 189, Barbados 38, Belize 3, Bermuda 5, Brazil 5, Canada 3, Cayman Islands 1, China 1, Comoros 1, Cook Islands 5, Cyprus 18, Denmark 3, Dominica 1, Estonia 2, Faroe Islands 4, Finland 3, France 5, Gibraltar 33, Hong Kong 40, Indonesia 1, Isle of Man 20, Italy 2, South Korea 2, Liberia 40, Libya 1, Malta 93, Marshall Islands 66, Netherlands 12, Netherlands Antilles 3, Panama 89, Philippines 10, Russia 2, Saint Vincent and the Grenadines 13, Singapore 143, Spain 5, Sweden 7, Tuvalu 1, UK 31, US 9, unknown 4) (2008) |
+| Ports and terminals: | Bergen, Borg Havn, Haugesund, Maaloy, Mongstad, Narvik, Oslo, Sture |

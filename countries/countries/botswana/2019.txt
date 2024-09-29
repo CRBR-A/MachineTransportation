@@ -1,0 +1,22 @@
+| Transportation | Botswana |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 1 (2015) |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 6 (2015) |
+| National air transport system: | annual passenger traffic on registered air carriers: 194,005 (2015) |
+| National air transport system: | annual freight traffic on registered air carriers: 94,729 mt-km (2015) |
+| Civil aircraft registration country code prefix: | A2 (2016) |
+| Airports: | 74 (2013) |
+| Airports - with paved runways: | total: 10 (2017) |
+| Airports - with paved runways: | over 3,047 m: 2 (2017) |
+| Airports - with paved runways: | 2,438 to 3,047 m: 1 (2017) |
+| Airports - with paved runways: | 1,524 to 2,437 m: 6 (2017) |
+| Airports - with paved runways: | 914 to 1,523 m: 1 (2017) |
+| Airports - with unpaved runways: | total: 64 (2013) |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 5 (2013) |
+| Airports - with unpaved runways: | 914 to 1,523 m: 46 (2013) |
+| Airports - with unpaved runways: | under 914 m: 13 (2013) |
+| Railways: | total: 888 km (2014) |
+| Railways: | narrow gauge: 888 km 1.067-m gauge (2014) |
+| Roadways: | total: 31,747 km (2017) |
+| Roadways: | paved: 9,810 km (2017) |
+| Roadways: | unpaved: 21,937 km (2017) |

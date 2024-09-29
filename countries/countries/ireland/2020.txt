@@ -1,0 +1,31 @@
+| Transportation | Ireland |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 9 (2020) |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 450 |
+| National air transport system: | annual passenger traffic on registered air carriers: 167,598,633 (2018) |
+| National air transport system: | annual freight traffic on registered air carriers: 168.71 million mt-km (2018) |
+| Civil aircraft registration country code prefix: | EI (2016) |
+| Airports: | 40 (2013) |
+| Airports - with paved runways: | total: 16 (2019) |
+| Airports - with paved runways: | over 3,047 m: 1 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 1 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 4 |
+| Airports - with paved runways: | 914 to 1,523 m: 5 |
+| Airports - with paved runways: | under 914 m: 5 |
+| Airports - with unpaved runways: | total: 24 (2013) |
+| Airports - with unpaved runways: | 2,438 to 3,047 m: 1 (2013) |
+| Airports - with unpaved runways: | 914 to 1,523 m: 2 (2013) |
+| Airports - with unpaved runways: | under 914 m: 21 (2013) |
+| Pipelines: | 2,427 km gas (2017) |
+| Railways: | total: 4,301 km (2018) |
+| Railways: | narrow gauge: 1,930 km 0.914-m gauge (operated by the Irish Peat Board to transport peat to power stations and briquetting plants) (2018) |
+| Railways: | broad gauge: 2,371 km 1.600-m gauge (53 km electrified) (2018) |
+| Roadways: | total: 99,830 km (2018) |
+| Roadways: | paved: 99,830 km (includes 2,717 km of expressways) (2018) |
+| Waterways: | 956 km (pleasure craft only) (2010) |
+| Merchant marine: | total: 93 |
+| Merchant marine: | by type: bulk carrier 9general cargo 37, oil tanker 1, other 46 (2019) |
+| Ports and terminals: | major seaport(s): Dublin, Shannon Foynes |
+| Ports and terminals: | cruise port(s): Cork, Dublin |
+| Ports and terminals: | container port(s) (TEUs): Dublin (529,563) (2016) |
+| Ports and terminals: | river port(s): Cork (Lee), Waterford (Suir) |

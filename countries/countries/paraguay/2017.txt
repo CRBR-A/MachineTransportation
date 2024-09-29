@@ -1,0 +1,26 @@
+| Transportation | PARAGUAY |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 1 |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 5 |
+| National air transport system: | annual passenger traffic on registered air carriers: 452,004 |
+| National air transport system: | annual freight traffic on registered air carriers: 1,641,624 mt-km (2015) |
+| Civil aircraft registration country code prefix: | ZP (2016) |
+| Airports: | 799 (2013) |
+| Airports - with paved runways: | total: 15 |
+| Airports - with paved runways: | over 3,047 m: 3 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 7 |
+| Airports - with paved runways: | 914 to 1,523 m: 5 (2017) |
+| Airports - with unpaved runways: | total: 784 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 23 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 290 |
+| Airports - with unpaved runways: | under 914 m: 471 (2013) |
+| Railways: | total: 30 km |
+| Railways: | standard gauge: 30 km 1.435-m gauge (2014) |
+| Roadways: | total: 32,059 km |
+| Roadways: | paved: 4,860 km |
+| Roadways: | unpaved: 27,199 km (2010) |
+| Waterways: | 3,100 km (primarily on the Paraguay and Paraná River systems) (2012) |
+| Merchant marine: | total: 19 |
+| Merchant marine: | by type: cargo 13, container 3, passenger 1, petroleum tanker 1, roll on/roll off 1 |
+| Merchant marine: | foreign-owned: 6 (Argentina 5, Netherlands 1) (2010) |
+| Ports and terminals: | river port(s): Asuncion, Villeta, San Antonio, Encarnacion (Parana) |

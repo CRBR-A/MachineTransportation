@@ -1,0 +1,26 @@
+| Transportation | Algeria |
+| --- | --- |
+| Airports: | 142 (2012) |
+| Airports - with paved runways: | total: 60 |
+| Airports - with paved runways: | over 3,047 m: 12 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 28 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 15 |
+| Airports - with paved runways: | 914 to 1,523 m: 4 |
+| Airports - with paved runways: | under 914 m: 1 (2012) |
+| Airports - with unpaved runways: | total: 82 |
+| Airports - with unpaved runways: | 2,438 to 3,047 m: 2 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 18 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 39 |
+| Airports - with unpaved runways: | under 914 m: 23 (2012) |
+| Heliports: | 3 (2012) |
+| Pipelines: | condensate 2,600 km; gas 16,360 km; liquid petroleum gas 3,447 km; oil 7,611 km; refined products 144 km (2010) |
+| Railways: | total: 3,973 km |
+| Railways: | standard gauge: 2,888 km 1.435-m gauge (283 km electrified) |
+| Railways: | narrow gauge: 1,085 km 1.055-m gauge (2008) |
+| Roadways: | total: 113,655 km |
+| Roadways: | paved: 87,605 km (includes 645 km of expressways) |
+| Roadways: | unpaved: 26,050 km (2010) |
+| Merchant marine: | total: 38 |
+| Merchant marine: | by type: bulk carrier 6, cargo 8, chemical tanker 3, liquefied gas 11, passenger/cargo 3, petroleum tanker 4, roll on/roll off 3 |
+| Merchant marine: | foreign-owned: 15 (UK, 15) (2010) |
+| Ports and terminals: | Algiers, Annaba, Arzew, Bejaia, Djendjene, Jijel, Mostaganem, Oran, Skikda |

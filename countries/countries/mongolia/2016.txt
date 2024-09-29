@@ -1,0 +1,28 @@
+| Transportation | MONGOLIA |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 3 |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 12 |
+| National air transport system: | annual passenger traffic on registered air carriers: 541,129 |
+| National air transport system: | annual freight traffic on registered air carriers: 7,130,148 mt-km (2015) |
+| Civil aircraft registration country code prefix: | JU (2016) |
+| Airports: | 44 (2013) |
+| Airports - with paved runways: | total: 15 |
+| Airports - with paved runways: | over 3,047 m: 2 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 10 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 3 (2013) |
+| Airports - with unpaved runways: | total: 29 |
+| Airports - with unpaved runways: | over 3,047 m: 2 |
+| Airports - with unpaved runways: | 2,438 to 3,047 m: 2 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 24 |
+| Airports - with unpaved runways: | under 914 m: 1 (2013) |
+| Heliports: | 1 (2013) |
+| Railways: | total: 1,815 km |
+| Railways: | broad gauge: 1,815 km 1.520-m gauge |
+| Railways: | note: national operator Ulannbaator Railway is jointly owned by the Mongolian Government and by the Russian State Railway (2016) |
+| Roadways: | total: 49,249 km |
+| Roadways: | paved: 4,800 km |
+| Roadways: | unpaved: 44,449 km (2013) |
+| Waterways: | 580 km (the only waterway in operation is Lake Hovsgol) (135 km); Selenge River (270 km) and Orhon River (175 km) are navigable but carry little traffic; lakes and rivers ice free from May to September) (2010) |
+| Merchant marine: | total: 57 |
+| Merchant marine: | by type: bulk carrier 21, cargo 25, chemical tanker 1, container 2, liquefied gas 2, passenger/cargo 2, roll on/roll off 3, vehicle carrier 1 |
+| Merchant marine: | foreign-owned: 44 (Indonesia 2, Japan 2, North Korea 1, Russia 2, Singapore 3, Ukraine 1, Vietnam 33) (2010) |

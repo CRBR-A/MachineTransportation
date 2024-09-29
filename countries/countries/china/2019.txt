@@ -1,0 +1,34 @@
+| Transportation | China |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 56 (2015) |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 2,890 (2015) |
+| National air transport system: | annual passenger traffic on registered air carriers: 436,183,969 (2015) |
+| National air transport system: | annual freight traffic on registered air carriers: 19.806 billion mt-km (2015) |
+| Civil aircraft registration country code prefix: | B (2016) |
+| Airports: | 507 (2013) |
+| Airports - with paved runways: | total: 510 (2019) |
+| Airports - with paved runways: | over 3,047 m: 87 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 187 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 109 |
+| Airports - with paved runways: | 914 to 1,523 m: 43 |
+| Airports - with paved runways: | under 914 m: 84 |
+| Airports - with unpaved runways: | total: 23 (2019) |
+| Airports - with unpaved runways: | over 3,047 m: 2 |
+| Airports - with unpaved runways: | 2,438 to 3,047 m: 0 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 1 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 7 |
+| Airports - with unpaved runways: | under 914 m: 13 |
+| Heliports: | 39 (2019) |
+| Pipelines: | 76000 km gas, 30400 km crude oil, 27700 km refined petroleum products, 797000 km water (2018) |
+| Railways: | total: 131,000 km 1.435-m gauge (80,000 km electrified); 102,000 traditional, 29,000 high-speed (2018) |
+| Roadways: | total: 4,960,600 km (2017) |
+| Roadways: | paved: 4,338,600 km (includes 136,500 km of expressways) (2017) |
+| Roadways: | unpaved: 622,000 km (2017) |
+| Waterways: | 110,000 km (navigable waterways) (2011) |
+| Merchant marine: | total: 4,610 |
+| Merchant marine: | by type: bulk carrier 1114, container ship 242, general cargo 741, oil tanker 503, other 2010 (2018) |
+| Ports and terminals: | major seaport(s): Dalian, Ningbo, Qingdao, Qinhuangdao, Shanghai, Shenzhen, Tianjin |
+| Ports and terminals: | container port(s) (TEUs): Dalian (9,707,000), Guangzhou (18,858,000), Ningbo (24,607,000), Qingdao (18,262,000), Shanghai (40,233,000), Shenzhen (25,208,000), Tianjin (15,040,000) (2017) |
+| Ports and terminals: | LNG terminal(s) (import): Fujian, Guangdong, Jiangsu, Shandong, Shanghai, Tangshan, Zhejiang |
+| Ports and terminals: | river port(s): Guangzhou (Pearl) |
+| Transportation - note: | seven of the worldâ€™s ten largest container ports are in China |

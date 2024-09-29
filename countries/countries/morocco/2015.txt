@@ -1,0 +1,27 @@
+| Transportation | MOROCCO |
+| --- | --- |
+| Airports: | 55 (2013) |
+| Airports - with paved runways: | total: 31 |
+| Airports - with paved runways: | over 3,047 m: 11 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 9 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 7 |
+| Airports - with paved runways: | 914 to 1,523 m: 4 (2013) |
+| Airports - with unpaved runways: | total: 24 |
+| Airports - with unpaved runways: | 2,438 to 3,047 m: 1 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 7 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 11 |
+| under 914 m: | 5 (2013) |
+| Heliports: | 1 (2013) |
+| Pipelines: | gas 944 km; oil 270 km; refined products 175 km (2013) |
+| Railways: | total: 2,067 km |
+| Railways: | standard gauge: 2,067 km 1.435-m gauge (1,022 km electrified) (2014) |
+| Roadways: | total: 58,395 km |
+| Roadways: | paved: 41,116 km (includes 1,080 km of expressways) |
+| Roadways: | unpaved: 17,279 km (2010) |
+| Merchant marine: | total: 26 |
+| Merchant marine: | by type: cargo 1, chemical tanker 3, container 6, passenger/cargo 14, roll on/roll off 2 |
+| Merchant marine: | foreign-owned: 14 (France 3, Germany 1, Italy 1, Spain 9) |
+| Merchant marine: | registered in other countries: 4 (Gibraltar 4) (2010) |
+| Ports and terminals: | major seaport(s): Casablanca, Jorf Lasfar, Mohammedia, Safi, Tangier |
+| Ports and terminals: | container port(s) (TEUs): Tangier (2,093,408) |
+| Ports and terminals: | LNG terminal(s) (import): Jorf Lasfar |

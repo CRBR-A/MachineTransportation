@@ -1,0 +1,30 @@
+| Transportation | Taiwan |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 7 (2020) |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 216 |
+| Civil aircraft registration country code prefix: | B (2016) |
+| Airports: | 37 (2013) |
+| Airports - with paved runways: | total: 35 (2013) |
+| Airports - with paved runways: | over 3,047 m: 8 (2013) |
+| Airports - with paved runways: | 2,438 to 3,047 m: 7 (2013) |
+| Airports - with paved runways: | 1,524 to 2,437 m: 10 (2013) |
+| Airports - with paved runways: | 914 to 1,523 m: 8 (2013) |
+| Airports - with paved runways: | under 914 m: 2 (2013) |
+| Airports - with unpaved runways: | total: 2 (2013) |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 1 (2013) |
+| Airports - with unpaved runways: | under 914 m: 1 (2013) |
+| Heliports: | 31 (2013) |
+| Pipelines: | 25 km condensate, 2,200 km gas, 13,500 km oil (2018) |
+| Railways: | total: 1,613 km (2018) |
+| Railways: | standard gauge: 345 km 1.435-m gauge (345 km electrified) (2018) |
+| Railways: | narrow gauge: 1,118.1 km 1.067-m gauge (793.9 km electrified) (2018) |
+| Railways: | 150 0.762-m gauge |
+| Railways: | note: the 0.762-gauge track belongs to three entities: the Forestry Bureau, Taiwan Cement, and TaiPower |
+| Roadways: | total: 43,206 km (2017) |
+| Roadways: | paved: 42,793 km (includes 1,348 km of highways and 737 km of expressways) (2017) |
+| Roadways: | unpaved: 413 km (2017) |
+| Merchant marine: | total: 389 |
+| Merchant marine: | by type: bulk carrier 30, container ship 47, general cargo 56, oil tanker 32, other 224 (2019) |
+| Ports and terminals: | major seaport(s): Keelung (Chi-lung), Kaohsiung, Hualian, Taichung |
+| Ports and terminals: | container port(s) (TEUs): Kaohsiung (10,271,018), Taichung (1,660,663), Taipei (1,561,743) (2017) |
+| Ports and terminals: | LNG terminal(s) (import): Yung An (Kaohsiung), Taichung |

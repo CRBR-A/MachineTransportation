@@ -1,0 +1,28 @@
+| Transportation | China |
+| --- | --- |
+| Airports: | 486 (2006) |
+| Airports - with paved runways: | total: 403 |
+| Airports - with paved runways: | over 3,047 m: 56 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 127 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 138 |
+| Airports - with paved runways: | 914 to 1,523 m: 22 |
+| Airports - with paved runways: | under 914 m: 60 (2006) |
+| Airports - with unpaved runways: | total: 83 |
+| Airports - with unpaved runways: | over 3,047 m: 4 |
+| Airports - with unpaved runways: | 2,438 to 3,047 m: 2 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 13 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 25 |
+| Airports - with unpaved runways: | under 914 m: 39 (2006) |
+| Heliports: | 32 (2006) |
+| Pipelines: | gas 22,664 km; oil 15,256 km; refined products 6,106 km (2006) |
+| Railways: | total: 74,408 km |
+| Railways: | standard gauge: 74,408 km 1.435-m gauge (19,303 km electrified) (2004) |
+| Roadways: | total: 1,809,829 km |
+| Roadways: | paved: 1,447,682 km (with at least 29,745 km of expressways) |
+| Roadways: | unpaved: 362,147 km (2003) |
+| Waterways: | 123,964 km (2003) |
+| Merchant marine: | total: 1,723 ships (1000 GRT or over) 21,405,633 GRT/32,411,260 DWT |
+| Merchant marine: | by type: barge carrier 2, bulk carrier 387, cargo 695, chemical tanker 45, combination ore/oil 1, container 152, liquefied gas 31, passenger 8, passenger/cargo 83, petroleum tanker 261, refrigerated cargo 30, roll on/roll off 8, specialized tanker 6, vehicle carrier 14 |
+| Merchant marine: | foreign-owned: 13 (Hong Kong 7, Japan 3, South Korea 2, Norway 1) |
+| Merchant marine: | registered in other countries: 1,191 (Bahamas 3, Bangladesh 1, Belize 103, Bolivia 1, Cambodia 128, Cyprus 11, Georgia 2, Honduras 3, Hong Kong 274, India 2, North Korea 1, Liberia 35, Malaysia 1, Malta 14, Mongolia 4, Norway 3, Panama 420, Saint Vincent and the Grenadines 103, Sierra Leone 2, Singapore 23, Thailand 1, Tuvalu 23, unknown 33) (2006) |
+| Ports and terminals: | Dalian, Guangzhou, Nanjing, Ningbo, Qingdao, Qinhuangdao, Shanghai |

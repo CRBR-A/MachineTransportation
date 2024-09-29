@@ -1,0 +1,37 @@
+| Transportation | United States |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 99 (2020) |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 7,249 |
+| National air transport system: | annual passenger traffic on registered air carriers: 889.022 million (2018) |
+| National air transport system: | annual freight traffic on registered air carriers: 42,985,300,000 mt-km (2018) |
+| Civil aircraft registration country code prefix: | N (2016) |
+| Airports: | 13,513 (2013) |
+| Airports - with paved runways: | total: 5,054 (2013) |
+| Airports - with paved runways: | over 3,047 m: 189 (2013) |
+| Airports - with paved runways: | 2,438 to 3,047 m: 235 (2013) |
+| Airports - with paved runways: | 1,524 to 2,437 m: 1,478 (2013) |
+| Airports - with paved runways: | 914 to 1,523 m: 2,249 (2013) |
+| Airports - with paved runways: | under 914 m: 903 (2013) |
+| Airports - with unpaved runways: | total: 8,459 (2013) |
+| Airports - with unpaved runways: | over 3,047 m: 1 (2013) |
+| Airports - with unpaved runways: | 2,438 to 3,047 m: 6 (2013) |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 140 (2013) |
+| Airports - with unpaved runways: | 914 to 1,523 m: 1,552 (2013) |
+| Airports - with unpaved runways: | under 914 m: 6,760 (2013) |
+| Heliports: | 5,287 (2013) |
+| Pipelines: | 1,984,321 km natural gas, 240,711 km petroleum products (2013) |
+| Railways: | total: 293,564 km (2014) |
+| Railways: | standard gauge: 293,564.2 km 1.435-m gauge (2014) |
+| Roadways: | total: 6,586,610 km (2012) |
+| Roadways: | paved: 4,304,715 km (includes 76,334 km of expressways) (2012) |
+| Roadways: | unpaved: 2,281,895 km (2012) |
+| Waterways: | 41,009 km (19,312 km used for commerce; Saint Lawrence Seaway of 3,769 km, including the Saint Lawrence River of 3,058 km, is shared with Canada) (2012) |
+| Merchant marine: | total: 3,673 |
+| Merchant marine: | by type: bulk carrier 5, container ship 60, general cargo 104, oil tanker 68, other 3,436 (2019) |
+| Ports and terminals: | oil terminal(s): LOOP terminal, Haymark terminal |
+| Ports and terminals: | container port(s) (TEUs): Charleston (2,177,000), Hampton Roads (2,841,000), Houston (2,459,000), Long Beach (7,544,000), Los Angeles (9,343,000), New York/New Jersey (6,710,000), Oakland (2,420,000), Savannah (4,046,000), Seattle/Tacoma (3,665,000) (2017) |
+| Ports and terminals: | LNG terminal(s) (export): Cameron (LA), Corpus Christi (TX), Cove Point (MD), Elba Island (GA), Freeport (TX), Sabine Pass (LA) |
+| Ports and terminals: | note - two additional export facilities are under construction and expected to begin commercial operations in 2023-2024 |
+| Ports and terminals: | LNG terminal(s) (import): Cove Point (MD), Elba Island (GA), Everett (MA), Freeport (TX), Golden Pass (TX), Hackberry (LA), Lake Charles (LA), Neptune (offshore), Northeast Gateway (offshore), Pascagoula (MS), Sabine Pass (TX) |
+| Ports and terminals: | cargo ports: Baton Rouge, Corpus Christi, Hampton Roads, Houston, Long Beach, Los Angeles, New Orleans, New York, Plaquemines (LA), Tampa, Texas City |
+| Ports and terminals: | cruise departure ports (passengers): Miami (2,032,000), Port Everglades (1,277,000), Port Canaveral (1,189,000), Seattle (430,000), Long Beach (415,000) (2009) |

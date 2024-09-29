@@ -1,0 +1,28 @@
+| Transportation | China |
+| --- | --- |
+| Airports: | 497 (2012) |
+| Airports - with paved runways: | total: 452 |
+| Airports - with paved runways: | over 3,047 m: 68 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 147 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 126 |
+| Airports - with paved runways: | 914 to 1,523 m: 26 |
+| Airports - with paved runways: | under 914 m: 85 (2012) |
+| Airports - with unpaved runways: | total: 45 |
+| Airports - with unpaved runways: | over 3,047 m: 2 |
+| Airports - with unpaved runways: | 2,438 to 3,047 m: 2 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 10 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 10 |
+| Airports - with unpaved runways: | under 914 m: 21 (2012) |
+| Heliports: | 50 (2012) |
+| Pipelines: | gas 38,566 km; oil 23,470 km; refined products 13,706 km (2010) |
+| Railways: | total: 86,000 km |
+| Railways: | standard gauge: 86,000 km 1.435-m gauge (36,000 km electrified) (2008) |
+| Roadways: | total: 4,106,387 km |
+| Roadways: | paved: 3,453,890 km (includes 84,946 km of expressways) |
+| Roadways: | unpaved: 652,497 km (2011) |
+| Waterways: | 110,000 km (navigable waterways) (2011) |
+| Merchant marine: | total: 2,030 |
+| Merchant marine: | by type: barge carrier 7, bulk carrier 621, cargo 566, carrier 10, chemical tanker 140, container 206, liquefied gas 60, passenger 9, passenger/cargo 81, petroleum tanker 264, refrigerated cargo 33, roll on/roll off 8, specialized tanker 2, vehicle carrier 23 |
+| Merchant marine: | foreign-owned: 22 (Hong Kong 18, Indonesia 2, Japan 2) |
+| Merchant marine: | registered in other countries: 1,559 (Bangladesh 1, Belize 61, Cambodia 177, Comoros 1, Cyprus 6, Georgia 10, Honduras 2, Hong Kong 500, India 1, Indonesia 1, Kiribati 26, Liberia 4, Malta 6, Marshall Islands 14, North Korea 3, Panama 534, Philippines 4, Saint Kitts and Nevis 1, Saint Vincent and the Grenadines 65, Sao Tome and Principe 1, Sierra Leone 19, Singapore 29, South Korea 6, Thailand 1, Togo 1, Tuvalu 4, UK 7, Vanuatu 1, unknown 73) (2010) |
+| Ports and terminals: | Dalian, Guangzhou, Ningbo, Qingdao, Qinhuangdao, Shanghai, Shenzhen, Tianjin |

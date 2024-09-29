@@ -1,0 +1,25 @@
+| Transportation | France |
+| --- | --- |
+| Airports: | 473 (2012) |
+| Airports - with paved runways: | total: 297 |
+| Airports - with paved runways: | over 3,047 m: 14 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 26 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 98 |
+| Airports - with paved runways: | 914 to 1,523 m: 83 |
+| Airports - with paved runways: | under 914 m: 76 (2012) |
+| Airports - with unpaved runways: | total: 176 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 67 |
+| Airports - with unpaved runways: | under 914 m: 109 (2012) |
+| Heliports: | 1 (2012) |
+| Pipelines: | gas 15,276 km; oil 2,939 km; refined products 5,084 km (2010) |
+| Railways: | total: 29,640 km |
+| Railways: | standard gauge: 29,473 km 1.435-m gauge (15,361 km electrified) |
+| Railways: | narrow gauge: 167 km 1.000-m gauge (63 km electrified) (2008) |
+| Roadways: | total: 951,200 km (metropolitan France; includes 11,100 km of expressways) |
+| Roadways: | note: there are another 5,100 km of roadways in overseas departments (2007) |
+| Waterways: | metropolitan France: 8,501 km (1,621 km accessible to craft of 3,000 metric tons) (2010) |
+| Merchant marine: | total: 162 |
+| Merchant marine: | by type: bulk carrier 3, cargo 7, chemical tanker 34, container 27, liquefied gas 12, passenger 10, passenger/cargo 41, petroleum tanker 16, refrigerated cargo 1, roll on/roll off 11 |
+| Merchant marine: | foreign-owned: 50 (Belgium 7, Bermuda 5, Denmark 11, French Polynesia 11, Germany 1, New Caledonia 3, Singapore 3, Sweden 4, Switzerland 5) |
+| Merchant marine: | registered in other countries: 151 (Bahamas 15, Belgium 7, Bermuda 1, Canada 1, Cyprus 16, Egypt 1, Hong Kong 4, Indonesia 1, Ireland 2, Italy 2, Luxembourg 15, Malta 8, Marshall Islands 7, Mexico 1, Morocco 3, Netherlands 2, Norway 5, Panama 7, Saint Vincent and the Grenadines 2, Singapore 3, South Korea 2, Taiwan 2, UK 39, US 4, unknown 1) (2010) |
+| Ports and terminals: | Calais, Dunkerque, Le Havre, Marseille, Nantes, Paris, Rouen |

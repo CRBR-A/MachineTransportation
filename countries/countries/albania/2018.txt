@@ -1,0 +1,24 @@
+| Transportation | Albania |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 1 (2015) |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 1 (2015) |
+| National air transport system: | annual passenger traffic on registered air carriers: 151,632 (2015) |
+| National air transport system: | annual freight traffic on registered air carriers: 0 mt-km (2015) |
+| Civil aircraft registration country code prefix: | ZA (2016) |
+| Airports: | 4 (2016) |
+| Airports - with paved runways: | total: 4 (2017) |
+| Airports - with paved runways: | 2,438 to 3,047 m: 3 (2017) |
+| Airports - with paved runways: | 1,524 to 2,437 m: 1 (2017) |
+| Airports - with unpaved runways: | total: 1 (2012) |
+| Airports - with unpaved runways: | 914 to 1,523 m: 1 (2012) |
+| Heliports: | 1 (2013) |
+| Pipelines: | 498 km gas (a majority of the network is in disrepair and parts of it are missing), 249 km oil (2015) |
+| Railways: | total: 677 km (447 km of major railway lines and 230 km of secondary lines) (2015) |
+| Railways: | standard gauge: 677 km 1.435-m gauge (2015) |
+| Roadways: | total: 18,000 km (2002) |
+| Roadways: | paved: 7,020 km (2002) |
+| Roadways: | unpaved: 10,980 km (2002) |
+| Waterways: | 41 km (on the Bojana River) (2011) |
+| Merchant marine: | total: 57 (2017) |
+| Merchant marine: | by type: bulk carrier 1, general cargo 49, other 7 (2017) |
+| Ports and terminals: | major seaport(s): Durres, Sarande, Shengjin, Vlore |

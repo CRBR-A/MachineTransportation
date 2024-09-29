@@ -1,0 +1,31 @@
+| Transportation | Algeria |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 4 (2015) |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 74 (2015) |
+| National air transport system: | annual passenger traffic on registered air carriers: 5,910,835 (2015) |
+| National air transport system: | annual freight traffic on registered air carriers: 24,723,377 mt-km (2015) |
+| Civil aircraft registration country code prefix: | 7T (2016) |
+| Airports: | 157 (2016) |
+| Airports - with paved runways: | total: 64 (2017) |
+| Airports - with paved runways: | over 3,047 m: 12 (2017) |
+| Airports - with paved runways: | 2,438 to 3,047 m: 29 (2017) |
+| Airports - with paved runways: | 1,524 to 2,437 m: 17 (2017) |
+| Airports - with paved runways: | 914 to 1,523 m: 5 (2017) |
+| Airports - with paved runways: | under 914 m: 1 (2017) |
+| Airports - with unpaved runways: | total: 93 (2013) |
+| Airports - with unpaved runways: | 2,438 to 3,047 m: 2 (2013) |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 18 (2013) |
+| Airports - with unpaved runways: | 914 to 1,523 m: 39 (2013) |
+| Airports - with unpaved runways: | under 914 m: 34 (2013) |
+| Heliports: | 3 (2013) |
+| Pipelines: | 2600 km condensate, 16415 km gas, 3447 km liquid petroleum gas, 7036 km oil, 144 km refined products (2013) |
+| Railways: | total: 3,973 km (2014) |
+| Railways: | standard gauge: 2,888 km 1.432-m gauge (283 km electrified) (2014) |
+| Railways: | narrow gauge: 1,085 km 1.055-m gauge (2014) |
+| Roadways: | total: 104,000 km (2015) |
+| Roadways: | paved: 71,656 km (2015) |
+| Roadways: | unpaved: 32,344 km (2015) |
+| Merchant marine: | total: 106 |
+| Merchant marine: | by type: container ship 1, general cargo 11, oil tanker 10, other 84 (2018) |
+| Ports and terminals: | major seaport(s): Algiers, Annaba, Arzew, Bejaia, Djendjene, Jijel, Mostaganem, Oran, Skikda |
+| Ports and terminals: | LNG terminal(s) (export): Arzew, Bethioua, Skikda |

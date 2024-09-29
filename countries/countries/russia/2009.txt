@@ -1,0 +1,32 @@
+| Transportation | Russia |
+| --- | --- |
+| Airports: | 1,216 (2009) |
+| Airports - with paved runways: | total: 595 |
+| Airports - with paved runways: | over 3,047 m: 52 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 198 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 129 |
+| Airports - with paved runways: | 914 to 1,523 m: 99 |
+| Airports - with paved runways: | under 914 m: 117 (2009) |
+| Airports - with unpaved runways: | total: 621 |
+| Airports - with unpaved runways: | over 3,047 m: 3 |
+| Airports - with unpaved runways: | 2,438 to 3,047 m: 13 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 68 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 84 |
+| Airports - with unpaved runways: | under 914 m: 453 (2009) |
+| Heliports: | 48 (2009) |
+| Pipelines: | condensate 122 km; gas 158,767 km; liquid petroleum gas 127 km; oil 74,285 km; refined products 13,658 km; water 23 km (2008) |
+| Railways: | total: 87,157 km |
+| Railways: | broad gauge: 86,200 km 1.520-m gauge (40,300 km electrified) |
+| Railways: | narrow gauge: 957 km 1.067-m gauge (on Sakhalin Island) |
+| Railways: | note: an additional 30,000 km of non-common carrier lines serve industries (2006) |
+| Roadways: | total: 933,000 km |
+| Roadways: | paved: 754,984 km (includes 30,000 km of expressways) |
+| Roadways: | unpaved: 178,016 km |
+| Roadways: | note: includes public, local, and departmental roads (2006) |
+| Waterways: | 102,000 km (including 33,000 km with guaranteed depth) |
+| Waterways: | note: 72,000 km system in European Russia links Baltic Sea, White Sea, Caspian Sea, Sea of Azov, and Black Sea (2007) |
+| Merchant marine: | total: 1,074 |
+| Merchant marine: | by type: bulk carrier 25, cargo 663, carrier 2, chemical tanker 27, combination ore/oil 34, container 11, passenger 14, passenger/cargo 7, petroleum tanker 217, refrigerated cargo 59, roll on/roll off 10, specialized tanker 5 |
+| Merchant marine: | foreign-owned: 112 (Belgium 4, Cyprus 2, Germany 1, Greece 1, Italy 4, South Korea 1, Latvia 2, Norway 2, Switzerland 3, Turkey 80, Ukraine 11, US 1) |
+| Merchant marine: | registered in other countries: 486 (Antigua and Barbuda 4, Bahamas 4, Belize 31, Bulgaria 1, Cambodia 83, Comoros 12, Cyprus 50, Dominica 3, Georgia 12, Hong Kong 2, Jamaica 3, Liberia 94, Malaysia 2, Malta 58, Marshall Islands 9, Moldova 3, Mongolia 9, Panama 18, Saint Kitts and Nevis 19, Saint Vincent and the Grenadines 21, Sierra Leone 11, Slovakia 1, Tuvalu 2, Ukraine 1, Vanuatu 2, unknown 31) (2008) |
+| Ports and terminals: | Azov, Kaliningrad, Kavkaz, Nakhodka, Novorossiysk, Primorsk, Saint Petersburg, Vostochnyy |

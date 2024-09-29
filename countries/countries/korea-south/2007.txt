@@ -1,0 +1,25 @@
+| Transportation | Korea, South |
+| --- | --- |
+| Airports: | 105 (2007) |
+| Airports - with paved runways: | total: 68 |
+| Airports - with paved runways: | over 3,047 m: 3 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 21 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 14 |
+| Airports - with paved runways: | 914 to 1,523 m: 11 |
+| Airports - with paved runways: | under 914 m: 19 (2007) |
+| Airports - with unpaved runways: | total: 37 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 3 |
+| Airports - with unpaved runways: | under 914 m: 34 (2007) |
+| Heliports: | 536 (2007) |
+| Pipelines: | gas 1,482 km; refined products 827 km (2006) |
+| Railways: | total: 3,472 km |
+| Railways: | standard gauge: 3,472 km 1.435-m gauge (1,342 km electrified) (2006) |
+| Roadways: | total: 100,279 km |
+| Roadways: | paved: 87,032 km (includes 3,060 km of expressways) |
+| Roadways: | unpaved: 13,247 km (2004) |
+| Waterways: | 1,608 km (most navigable only by small craft) (2007) |
+| Merchant marine: | total: 738 ships (1000 GRT or over) 10,636,466 GRT/17,371,943 DWT |
+| Merchant marine: | by type: bulk carrier 187, cargo 202, carrier 1, chemical tanker 119, container 81, liquefied gas 26, passenger 5, passenger/cargo 21, petroleum tanker 57, refrigerated cargo 19, roll on/roll off 8, specialized tanker 4, vehicle carrier 8 |
+| Merchant marine: | foreign-owned: 22 (China 2, France 8, Japan 1, Sweden 2, UK 1, US 7, Vietnam 1) |
+| Merchant marine: | registered in other countries: 386 (Belize 4, Cambodia 29, China 1, Cyprus 2, Greece 2, Honduras 6, Hong Kong 6, Indonesia 1, Liberia 4, Malta 3, Marshall Islands 3, Netherlands 1, Panama 316, Russia 1, Singapore 7, unknown 4) (2007) |
+| Ports and terminals: | Inch'on, Masan, P'ohang, Pusan, Ulsan |

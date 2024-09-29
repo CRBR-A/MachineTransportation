@@ -1,0 +1,26 @@
+| Transportation | Colombia |
+| --- | --- |
+| Airports: | 990 (2010) |
+| Airports - with paved runways: | total: 116 |
+| Airports - with paved runways: | over 3,047 m: 2 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 8 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 41 |
+| Airports - with paved runways: | 914 to 1,523 m: 50 |
+| Airports - with paved runways: | under 914 m: 15 (2010) |
+| Airports - with unpaved runways: | total: 874 |
+| Airports - with unpaved runways: | over 3,047 m: 1 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 35 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 228 |
+| Airports - with unpaved runways: | under 914 m: 610 (2010) |
+| Heliports: | 2 (2010) |
+| Pipelines: | gas 4,801 km; oil 6,334 km; refined products 3,309 km (2010) |
+| Railways: | total: 874 km |
+| Railways: | standard gauge: 150 km 1.435-m gauge |
+| Railways: | narrow gauge: 498 km 0.950-m gauge; 226 km 0.914-m gauge (2010) |
+| Roadways: | total: 141,374 km (2010) |
+| Waterways: | 18,000 km (2010) |
+| Merchant marine: | total: 13 |
+| Merchant marine: | by type: cargo 11, petroleum tanker 1, specialized tanker 1 |
+| Merchant marine: | registered in other countries: 3 (Antigua and Barbuda 1, Panama 2) (2010) |
+| Ports and terminals: | Barranquilla, Buenaventura, Cartagena, Puerto Bolivar, Santa Marta, Turbo |
+| Ports and terminals: | oil terminals: Covenas offshore terminal |

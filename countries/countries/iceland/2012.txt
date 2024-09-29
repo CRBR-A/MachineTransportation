@@ -1,0 +1,18 @@
+| Transportation | Iceland |
+| --- | --- |
+| Airports: | 99 (2012) |
+| Airports - with paved runways: | total: 6 |
+| Airports - with paved runways: | over 3,047 m: 1 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 3 |
+| Airports - with paved runways: | 914 to 1,523 m: 2 (2012) |
+| Airports - with unpaved runways: | total: 93 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 3 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 27 |
+| Airports - with unpaved runways: | under 914 m: 63 (2012) |
+| Roadways: | total: 12,869 km |
+| Roadways: | paved/oiled gravel: 4,438 km (does not include urban roads) |
+| Roadways: | unpaved: 8,431 km (2009) |
+| Merchant marine: | total: 2 |
+| Merchant marine: | by type: passenger/cargo 2 |
+| Merchant marine: | registered in other countries: 19 (Antigua and Barbuda 10, Belize 1, Faroe Islands 4, Finland 1, Gibraltar 1, Norway 2) (2010) |
+| Ports and terminals: | Grundartangi, Hafnarfjordur, Reykjavik |

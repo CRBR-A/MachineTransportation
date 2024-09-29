@@ -1,0 +1,30 @@
+| Transportation | Kenya |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 16 (2015) |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 106 (2015) |
+| National air transport system: | annual passenger traffic on registered air carriers: 4,874,590 (2015) |
+| National air transport system: | annual freight traffic on registered air carriers: 286,414,683 mt-km (2015) |
+| Civil aircraft registration country code prefix: | 5Y (2016) |
+| Airports: | 197 (2013) |
+| Airports - with paved runways: | total: 16 (2017) |
+| Airports - with paved runways: | over 3,047 m: 5 (2017) |
+| Airports - with paved runways: | 2,438 to 3,047 m: 2 (2017) |
+| Airports - with paved runways: | 1,524 to 2,437 m: 2 (2017) |
+| Airports - with paved runways: | 914 to 1,523 m: 6 (2017) |
+| Airports - with paved runways: | under 914 m: 1 (2017) |
+| Airports - with unpaved runways: | total: 181 (2013) |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 14 (2013) |
+| Airports - with unpaved runways: | 914 to 1,523 m: 107 (2013) |
+| Airports - with unpaved runways: | under 914 m: 60 (2013) |
+| Pipelines: | 4 km oil, 928 km refined products (2013) |
+| Railways: | total: 3,806 km (2014) |
+| Railways: | standard gauge: 472 km 1.435-m gauge (2014) |
+| Railways: | narrow gauge: 3,334 km 1.000-m gauge (2014) |
+| Roadways: | total: 161,452 km (2017) |
+| Roadways: | paved: 14,420 km (8,500 km highways, 1,872 urban roads, and 4,048 rural roads) (2017) |
+| Roadways: | unpaved: 147,032 km (2017) |
+| Waterways: | none specifically; the only significant inland waterway is the part of Lake Victoria within the boundaries of Kenya; Kisumu is the main port and has ferry connections to Uganda and Tanzania (2011) |
+| Merchant marine: | total: 20 (2017) |
+| Merchant marine: | by type: oil tanker 2, other 18 (2017) |
+| Ports and terminals: | major seaport(s): Kisumu, Mombasa |
+| Ports and terminals: | LNG terminal(s) (import): Mombasa |

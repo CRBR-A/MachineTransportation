@@ -1,0 +1,8 @@
+| Transportation |   |
+| --- | --- |
+| Railways: | 0 km |
+| Highways: | total: 269 km |
+| Highways: | paved: 198 km |
+| Highways: | unpaved: 71 km (1994 est.) |
+| Ports and harbors: | none |
+| Airports: | none |

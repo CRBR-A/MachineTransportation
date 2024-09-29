@@ -1,0 +1,20 @@
+| Transportation | Tajikistan |
+| --- | --- |
+| Railways: | total: 482 km |
+| Railways: | broad gauge: 482 km 1.520-m gauge |
+| Railways: | note: includes only lines in common carrier service; lines dedicated to particular industries are excluded (2001) |
+| Highways: | total: 29,900 km |
+| Highways: | paved: 21,400 km (includes some all-weather gravel-surfaced roads) |
+| Highways: | unpaved: 8,500 km (these roads are made of unstabilized earth and are difficult to negotiate in wet weather) (1990) |
+| Waterways: | none |
+| Pipelines: | natural gas 400 km (1992) |
+| Ports and harbors: | none |
+| Airports: | 53 (2001) |
+| Airports - with paved runways: | total: 2 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 1 |
+| Airports - with paved runways: | under 914 m: 1 (2002) |
+| Airports - with unpaved runways: | total: 51 |
+| Airports - with unpaved runways: | over 3,047 m: 1 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 2 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 12 |
+| Airports - with unpaved runways: | under 914 m: 36 (2002) |

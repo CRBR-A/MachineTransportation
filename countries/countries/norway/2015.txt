@@ -1,0 +1,26 @@
+| Transportation | NORWAY |
+| --- | --- |
+| Airports: | 95 (2013) |
+| Airports - with paved runways: | total: 67 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 14 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 10 |
+| Airports - with paved runways: | 914 to 1,523 m: 22 |
+| Airports - with paved runways: | under 914 m: 21 (2013) |
+| Airports - with unpaved runways: | total: 28 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 6 |
+| under 914 m: | 22 (2013) |
+| Heliports: | 1 (2013) |
+| Pipelines: | condensate 578 km; condensate/gas 220 km; gas 8,044 km; oil 3,794 km; oil/gas/water 457 km; water 96 km (2013) |
+| Railways: | total: 4,250 km |
+| Railways: | standard gauge: 4,250 km 1.435-m gauge (2,518 km electrified) (2014) |
+| Roadways: | total: 93,870 km (includes 393 km of expressways) |
+| Roadways: | paved: 75,754 km |
+| Roadways: | unpaved: 18,116 km (2013) |
+| Waterways: | 1,577 km (2010) |
+| Merchant marine: | total: 585 |
+| Merchant marine: | by type: bulk carrier 55, cargo 105, carrier 5, chemical tanker 121, combination ore/oil 12, liquefied gas 47, passenger 3, passenger/cargo 121, petroleum tanker 54, refrigerated cargo 9, roll on/roll off 4, vehicle carrier 49 |
+| Merchant marine: | foreign-owned: 81 (Bermuda 24, Canada 1, Cyprus 1, Denmark 7, France 5, Iceland 2,  Lithuania 1, Saudi Arabia 3, Sweden 27, US 10) |
+| Merchant marine: | registered in other countries: 974 (Antigua and Barbuda 9, Bahamas 186, Barbados 38, Belize 2, Bermuda 5, Brazil 3, Canada 4, Chile 1, Comoros 1, Cook Islands 8, Croatia 2, Curacao 2, Cyprus 14, Denmark 2, Dominica 1, Equatorial Guinea 1, Estonia 2, Faroe Islands 13, Gibraltar 46, Hong Kong 48, Indonesia 3, Isle of Man 30, Italy 6, Liberia 38, Libya 1, Malta 96, Marshall Islands 75, Netherlands 19, Panama 81, Portugal 2, Saint Kitts and Nevis 3, Saint Vincent and the Grenadines 13, Singapore 153, Spain 10, Sweden 3, UK 32, US 17, Vanuatu 1, unknown 3) (2010) |
+| Ports and terminals: | major seaport(s): Bergen, Haugesund, Maaloy, Mongstad, Narvik, Sture |
+| Ports and terminals: | LNG terminal(s) (export): Kamoy, Kollsnes, Melkoya Island |
+| Ports and terminals: | LNG terminal(s) (import): Fredrikstad, Mosjoen |

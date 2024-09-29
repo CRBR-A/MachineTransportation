@@ -1,0 +1,28 @@
+| Transportation | Malaysia |
+| --- | --- |
+| Airports: | 117 (2006) |
+| Airports - with paved runways: | total: 37 |
+| Airports - with paved runways: | over 3,047 m: 5 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 9 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 8 |
+| Airports - with paved runways: | 914 to 1,523 m: 8 |
+| Airports - with paved runways: | under 914 m: 7 (2006) |
+| Airports - with unpaved runways: | total: 80 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 1 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 7 |
+| Airports - with unpaved runways: | under 914 m: 72 (2006) |
+| Heliports: | 2 (2006) |
+| Pipelines: | condensate 282 km; gas 5,372 km; oil 1,715 km; oil/gas/water 19 km; refined products 114 km (2006) |
+| Railways: | total: 1,890 km |
+| Railways: | standard gauge: 57 km 1.435-m gauge (57 km electrified) |
+| Railways: | narrow gauge: 1,833 km 1.000-m gauge (150 km electrified) (2005) |
+| Roadways: | total: 71,814 km |
+| Roadways: | paved: 55,943 km |
+| Roadways: | unpaved: 15,871 km (2001) |
+| Waterways: | 7,200 km |
+| Waterways: | note: Peninsular Malaysia 3,200 km, Sabah 1,500 km, Sarawak 2,500 km (2005) |
+| Merchant marine: | total: 312 ships (1000 GRT or over) 5,542,727 GRT/7,544,154 DWT |
+| Merchant marine: | by type: bulk carrier 19, cargo 99, chemical tanker 38, container 48, liquefied gas 27, livestock carrier 1, passenger/cargo 8, petroleum tanker 61, roll on/roll off 5, vehicle carrier 6 |
+| Merchant marine: | foreign-owned: 66 (China 1, Germany 2, Hong Kong 14, Japan 4, South Korea 1, Singapore 44) |
+| Merchant marine: | registered in other countries: 68 (Bahamas 12, Belize 1, Cayman Islands 1, Mongolia 1, Panama 13, Philippines 1, Singapore 35, US 4) (2006) |
+| Ports and terminals: | Bintulu, Johor, Labuan, Lahad Datu, Lumut, Miri, George Town (Penang), Port Kelang, Tanjung Pelepas |

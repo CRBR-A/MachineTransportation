@@ -1,0 +1,21 @@
+| Transportation | Burkina Faso |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 1 (2020) |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 3 |
+| National air transport system: | annual passenger traffic on registered air carriers: 151,531 (2018) |
+| National air transport system: | annual freight traffic on registered air carriers: 100,000 mt-km (2018) |
+| Civil aircraft registration country code prefix: | XT (2016) |
+| Airports: | 23 (2013) |
+| Airports - with paved runways: | total: 2 (2019) |
+| Airports - with paved runways: | over 3,047 m: 1 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 1 |
+| Airports - with unpaved runways: | total: 21 (2013) |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 3 (2013) |
+| Airports - with unpaved runways: | 914 to 1,523 m: 13 (2013) |
+| Airports - with unpaved runways: | under 914 m: 5 (2013) |
+| Railways: | total: 622 km (2014) |
+| Railways: | narrow gauge: 622 km 1.000-m gauge (2014) |
+| Railways: | note: another 660 km of this railway extends into Cote d'Ivoire |
+| Roadways: | total: 15,304 km (2014) |
+| Roadways: | paved: 3,642 km (2014) |
+| Roadways: | unpaved: 11,662 km (2014) |

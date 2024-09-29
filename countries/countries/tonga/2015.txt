@@ -1,0 +1,16 @@
+| Transportation | TONGA |
+| --- | --- |
+| Airports: | 6 (2013) |
+| Airports - with paved runways: | total: 1 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 1 (2013) |
+| Airports - with unpaved runways: | total: 5 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 1 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 3 |
+| under 914 m: | 1 (2013) |
+| Roadways: | total: 680 km |
+| Roadways: | paved: 184 km |
+| Roadways: | unpaved: 496 km (2011) |
+| Merchant marine: | total: 7 |
+| Merchant marine: | by type: cargo 4, carrier 1, passenger/cargo 2 |
+| Merchant marine: | foreign-owned: 2 (Australia 1, UK 1) (2010) |
+| Ports and terminals: | major seaport(s): Nuku'alofa, Neiafu, Pangai |

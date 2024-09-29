@@ -1,0 +1,28 @@
+| Transportation | China |
+| --- | --- |
+| Airports: | 467 (2007) |
+| Airports - with paved runways: | total: 403 |
+| Airports - with paved runways: | over 3,047 m: 58 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 128 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 130 |
+| Airports - with paved runways: | 914 to 1,523 m: 20 |
+| Airports - with paved runways: | under 914 m: 67 (2007) |
+| Airports - with unpaved runways: | total: 64 |
+| Airports - with unpaved runways: | over 3,047 m: 4 |
+| Airports - with unpaved runways: | 2,438 to 3,047 m: 4 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 13 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 17 |
+| Airports - with unpaved runways: | under 914 m: 26 (2007) |
+| Heliports: | 35 (2007) |
+| Pipelines: | gas 22,664 km; oil 15,256 km; refined products 6,106 km (2006) |
+| Railways: | total: 75,438 km |
+| Railways: | standard gauge: 75,438 km 1.435-m gauge (20,151 km electrified) (2005) |
+| Roadways: | total: 1,870,661 km |
+| Roadways: | paved: 1,515,797 km (with at least 34,288 km of expressways) |
+| Roadways: | unpaved: 354,864 km (2004) |
+| Waterways: | 124,000 km navigable (2006) |
+| Merchant marine: | total: 1,775 ships (1000 GRT or over) 22,219,786 GRT/33,819,636 DWT |
+| Merchant marine: | by type: barge carrier 3, bulk carrier 415, cargo 689, carrier 3, chemical tanker 62, combination ore/oil 2, container 157, liquefied gas 35, passenger 8, passenger/cargo 84, petroleum tanker 250, refrigerated cargo 33, roll on/roll off 9, specialized tanker 8, vehicle carrier 17 |
+| Merchant marine: | foreign-owned: 12 (Ecuador 1, Greece 1, Hong Kong 6, Japan 2, South Korea 1, Norway 1) |
+| Merchant marine: | registered in other countries: 1,366 (Bahamas 9, Bangladesh 1, Belize 107, Bermuda 10, Bolivia 1, Cambodia 166, Cyprus 10, France 5, Georgia 4, Germany 2, Honduras 3, Hong Kong 309, India 1, Indonesia 2, Liberia 32, Malaysia 1, Malta 13, Marshall Islands 3, Mongolia 3, Norway 47, Panama 473, Philippines 2, Sierra Leone 8, Singapore 19, St Vincent and The Grenadines 106, Thailand 1, Turkey 1, Tuvalu 25, unknown 33) (2007) |
+| Ports and terminals: | Dalian, Guangzhou, Ningbo, Qingdao, Qinhuangdao, Shanghai, Shenzhen, Tianjin |

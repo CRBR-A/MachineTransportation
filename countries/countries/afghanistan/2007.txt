@@ -1,0 +1,22 @@
+| Transportation | Afghanistan |
+| --- | --- |
+| Airports: | 46 (2007) |
+| Airports - with paved runways: | total: 12 |
+| Airports - with paved runways: | over 3,047 m: 4 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 2 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 4 |
+| Airports - with paved runways: | 914 to 1,523 m: 1 |
+| Airports - with paved runways: | under 914 m: 1 (2007) |
+| Airports - with unpaved runways: | total: 34 |
+| Airports - with unpaved runways: | over 3,047 m: 1 |
+| Airports - with unpaved runways: | 2,438 to 3,047 m: 4 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 16 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 4 |
+| Airports - with unpaved runways: | under 914 m: 9 (2007) |
+| Heliports: | 9 (2007) |
+| Pipelines: | gas 466 km (2006) |
+| Roadways: | total: 34,782 km |
+| Roadways: | paved: 8,229 km |
+| Roadways: | unpaved: 26,553 km (2004) |
+| Waterways: | 1,200 km (chiefly Amu Darya, which handles vessels up to 500 DWT) (2007) |
+| Ports and terminals: | Kheyrabad, Shir Khan |

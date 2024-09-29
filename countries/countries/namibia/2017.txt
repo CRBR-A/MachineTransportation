@@ -1,0 +1,25 @@
+| Transportation | NAMIBIA |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 2 |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 12 |
+| National air transport system: | annual passenger traffic on registered air carriers: 553,322 |
+| National air transport system: | annual freight traffic on registered air carriers: 30,302,405 mt-km (2015) |
+| Civil aircraft registration country code prefix: | V5 (2016) |
+| Airports: | 112 (2013) |
+| Airports - with paved runways: | total: 19 |
+| Airports - with paved runways: | over 3,047 m: 4 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 2 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 12 |
+| Airports - with paved runways: | 914 to 1,523 m: 1 (2017) |
+| Airports - with unpaved runways: | total: 93 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 25 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 52 |
+| Airports - with unpaved runways: | under 914 m: 16 (2013) |
+| Railways: | total: 2,628 km |
+| Railways: | narrow gauge: 2,628 km 1.067-m gauge (2014) |
+| Roadways: | total: 44,138 km |
+| Roadways: | paved: 6,387 km |
+| Roadways: | unpaved: 37,751 km (2010) |
+| Merchant marine: | total: 1 |
+| Merchant marine: | by type: cargo 1 (2010) |
+| Ports and terminals: | major seaport(s): Luderitz, Walvis Bay |

@@ -1,0 +1,21 @@
+| Transportation | Cote d'Ivoire |
+| --- | --- |
+| Airports: | 34 (2007) |
+| Airports - with paved runways: | total: 7 |
+| Airports - with paved runways: | over 3,047 m: 1 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 2 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 4 (2007) |
+| Airports - with unpaved runways: | total: 27 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 8 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 14 |
+| Airports - with unpaved runways: | under 914 m: 5 (2007) |
+| Pipelines: | condensate 102 km; gas 245 km; oil 112 km (2007) |
+| Railways: | total: 660 km |
+| Railways: | narrow gauge: 660 km 1.000 meter gauge |
+| Railways: | note: an additional 622 km of this railroad extends into Burkina Faso (2006) |
+| Roadways: | total: 80,000 km |
+| Roadways: | paved: 6,500 km |
+| Roadways: | unpaved: 73,500 km |
+| Roadways: | note: includes intercity and urban roads; another 20,000 km of dirt roads are in poor condition and 150,000 km of dirt roads are impassable (2006) |
+| Waterways: | 980 km (navigable rivers, canals, and numerous coastal lagoons) (2006) |
+| Ports and terminals: | Abidjan, Espoir, San-Pedro |

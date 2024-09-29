@@ -1,0 +1,23 @@
+| Transportation | Latvia |
+| --- | --- |
+| Airports: | 42 (2007) |
+| Airports - with paved runways: | total: 21 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 7 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 3 |
+| Airports - with paved runways: | 914 to 1,523 m: 2 |
+| Airports - with paved runways: | under 914 m: 9 (2007) |
+| Airports - with unpaved runways: | total: 21 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 1 |
+| Airports - with unpaved runways: | under 914 m: 20 (2007) |
+| Pipelines: | gas 1,097 km; oil 82 km; refined products 415 km (2006) |
+| Railways: | total: 2,303 km |
+| Railways: | broad gauge: 2,270 km 1.520-m gauge (257 km electrified) |
+| Railways: | narrow gauge: 33 km 0.750-m gauge (2006) |
+| Roadways: | total: 69,532 km |
+| Roadways: | paved: 69,532 km (2004) |
+| Waterways: | 300 km (2006) |
+| Merchant marine: | total: 22 ships (1000 GRT or over) 201,684 GRT/221,186 DWT |
+| Merchant marine: | by type: cargo 9, liquefied gas 2, passenger/cargo 4, petroleum tanker 5, roll on/roll off 2 |
+| Merchant marine: | foreign-owned: 1 (Estonia 1) |
+| Merchant marine: | registered in other countries: 122 (Antigua and Barbuda 9, Belize 14, Cambodia 2, Cyprus 1, Dominica 2, Jamaica 2, Liberia 15, Malta 36, Marshall Islands 10, Panama 5, Russia 2, St Kitts and Nevis 4, St Vincent and The Grenadines 20) (2007) |
+| Ports and terminals: | Riga, Ventspils |

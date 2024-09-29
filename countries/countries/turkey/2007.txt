@@ -1,0 +1,27 @@
+| Transportation | Turkey |
+| --- | --- |
+| Airports: | 117 (2007) |
+| Airports - with paved runways: | total: 90 |
+| Airports - with paved runways: | over 3,047 m: 15 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 33 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 19 |
+| Airports - with paved runways: | 914 to 1,523 m: 19 |
+| Airports - with paved runways: | under 914 m: 4 (2007) |
+| Airports - with unpaved runways: | total: 27 |
+| Airports - with unpaved runways: | over 3,047 m: 1 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 2 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 7 |
+| Airports - with unpaved runways: | under 914 m: 17 (2007) |
+| Heliports: | 18 (2007) |
+| Pipelines: | gas 4,621 km; oil 3,543 km (2006) |
+| Railways: | total: 8,697 km |
+| Railways: | standard gauge: 8,697 km 1.435-m gauge (1,920 km electrified) (2006) |
+| Roadways: | total: 426,906 km |
+| Roadways: | paved: 177,550 km (includes 1,892 km of expressways) |
+| Roadways: | unpaved: 249,356 km (2004) |
+| Waterways: | 1,200 km (2005) |
+| Merchant marine: | total: 565 ships (1000 GRT or over) 4,663,353 GRT/7,039,492 DWT |
+| Merchant marine: | by type: bulk carrier 96, cargo 262, chemical tanker 58, combination ore/oil 1, container 30, liquefied gas 7, passenger 4, passenger/cargo 48, petroleum tanker 32, refrigerated cargo 1, roll on/roll off 25, specialized tanker 1 |
+| Merchant marine: | foreign-owned: 8 (China 1, Cyprus 2, Germany 1, Italy 3, UAE 1) |
+| Merchant marine: | registered in other countries: 470 (Albania 1, Antigua and Barbuda 7, Bahamas 5, Belize 11, Cambodia 20, Comoros 8, Cyprus 1, Dominica 9, Georgia 23, Isle of Man 2, Italy 1, Kiribati 1, North Korea 1, Liberia 7, Malta 143, Marshall Islands 41, Netherlands Antilles 12, Panama 53, Russia 70, Sierra Leone 7, Slovakia 11, St Kitts and Nevis 13, St Vincent and The Grenadines 20, Tuvalu 1, UK 2, unknown 3) (2007) |
+| Ports and terminals: | Aliaga, Ambarli, Eregli, Haydarpasa, Istanbul, Izmir, Kocaeli (Izmit), Toros |

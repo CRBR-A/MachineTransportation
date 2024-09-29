@@ -1,0 +1,33 @@
+| Transportation | Spain |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 20 (2015) |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 414 (2015) |
+| National air transport system: | annual passenger traffic on registered air carriers: 60,809,228 (2015) |
+| National air transport system: | annual freight traffic on registered air carriers: 1,040,913,279 mt-km (2015) |
+| Civil aircraft registration country code prefix: | EC (2016) |
+| Airports: | 150 (2013) |
+| Airports - with paved runways: | total: 99 (2013) |
+| Airports - with paved runways: | over 3,047 m: 18 (2013) |
+| Airports - with paved runways: | 2,438 to 3,047 m: 14 (2013) |
+| Airports - with paved runways: | 1,524 to 2,437 m: 19 (2013) |
+| Airports - with paved runways: | 914 to 1,523 m: 24 (2013) |
+| Airports - with paved runways: | under 914 m: 24 (2013) |
+| Airports - with unpaved runways: | total: 51 (2013) |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 2 (2013) |
+| Airports - with unpaved runways: | 914 to 1,523 m: 13 (2013) |
+| Airports - with unpaved runways: | under 914 m: 36 (2013) |
+| Heliports: | 10 (2013) |
+| Pipelines: | 10481 km gas, 616 km oil, 3461 km refined products (2013) |
+| Railways: | total: 16,102 km (2014) |
+| Railways: | standard gauge: 2,312 km 1.435-m gauge (2,312 km electrified) (2014) |
+| Railways: | narrow gauge: 1,884.9 km 1.000-m gauge (807 km electrified) (2014) |
+| Railways: | broad gauge: 11,873 km 1.668-m gauge (6,488 km electrified) (2014) |
+| Railways: | 28 0.914-m gauge (28 km electrified) 3.6 0.600-m gauge |
+| Roadways: | total: 683,175 km (2011) |
+| Roadways: | paved: 683,175 km (includes 16,205 km of expressways) (2011) |
+| Waterways: | 1,000 km (2012) |
+| Merchant marine: | total: 472 (2017) |
+| Merchant marine: | by type: bulk carrier 1, general cargo 44, oil tanker 28, other 399 (2017) |
+| Ports and terminals: | major seaport(s): Algeciras, Barcelona, Bilbao, Cartagena, Huelva, Tarragona, Valencia (all in Spain); Las Palmas, Santa Cruz de Tenerife (in the Canary Islands) |
+| Ports and terminals: | container port(s) (TEUs): Algeciras (4,761,428), Barcelona (2,236,960), Valencia (4,722,000) (2016) |
+| Ports and terminals: | LNG terminal(s) (import): Barcelona, Bilbao, Cartagena, Huelva, Mugardos, Sagunto |

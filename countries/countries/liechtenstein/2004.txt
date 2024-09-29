@@ -1,0 +1,9 @@
+| Transportation | Liechtenstein |
+| --- | --- |
+| Highways: | total: 250 km |
+| Highways: | paved: 250 km |
+| Highways: | unpaved: 0 km |
+| Waterways: | 28 km (2004) |
+| Pipelines: | gas 20 km (2004) |
+| Ports and harbors: | none |
+| Airports: | none (2003 est.) |

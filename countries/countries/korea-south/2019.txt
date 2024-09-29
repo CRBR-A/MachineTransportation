@@ -1,0 +1,30 @@
+| Transportation | Korea, South |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 12 (2015) |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 348 (2015) |
+| National air transport system: | annual passenger traffic on registered air carriers: 65,482,307 (2015) |
+| National air transport system: | annual freight traffic on registered air carriers: 11.297 billion mt-km (2015) |
+| Civil aircraft registration country code prefix: | HL (2016) |
+| Airports: | 111 (2013) |
+| Airports - with paved runways: | total: 71 (2017) |
+| Airports - with paved runways: | over 3,047 m: 4 (2017) |
+| Airports - with paved runways: | 2,438 to 3,047 m: 19 (2017) |
+| Airports - with paved runways: | 1,524 to 2,437 m: 12 (2017) |
+| Airports - with paved runways: | 914 to 1,523 m: 13 (2017) |
+| Airports - with paved runways: | under 914 m: 23 (2017) |
+| Airports - with unpaved runways: | total: 40 (2013) |
+| Airports - with unpaved runways: | 914 to 1,523 m: 2 (2013) |
+| Airports - with unpaved runways: | under 914 m: 38 (2013) |
+| Heliports: | 466 (2013) |
+| Pipelines: | 3790 km gas, 16 km oil, 889 km refined products (2017) |
+| Railways: | total: 3,979 km (2016) |
+| Railways: | standard gauge: 3,979 km 1.435-m gauge (2,727 km electrified) (2016) |
+| Roadways: | total: 100,428 km (2016) |
+| Roadways: | paved: 92,795 km (includes 4,193 km of expressways) (2016) |
+| Roadways: | unpaved: 7,633 km (2016) |
+| Waterways: | 1,600 km (most navigable only by small craft) (2011) |
+| Merchant marine: | total: 1,897 |
+| Merchant marine: | by type: bulk carrier 95, container ship 86, general cargo 379, oil tanker 196, other 1141 (2018) |
+| Ports and terminals: | major seaport(s): Busan, Incheon, Gunsan, Kwangyang, Mokpo, Pohang, Ulsan, Yeosu |
+| Ports and terminals: | container port(s) (TEUs): Busan (20,493,000), Incheon (3,050,000), Kwangyang (2,230,000) (2017) |
+| Ports and terminals: | LNG terminal(s) (import): Incheon, Kwangyang, Pyeongtaek, Samcheok, Tongyeong, Yeosu |

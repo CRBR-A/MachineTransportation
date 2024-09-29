@@ -1,0 +1,25 @@
+| Transportation | Croatia |
+| --- | --- |
+| Airports: | 68 (2006) |
+| Airports - with paved runways: | total: 23 |
+| Airports - with paved runways: | over 3,047 m: 2 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 6 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 2 |
+| Airports - with paved runways: | 914 to 1,523 m: 4 |
+| Airports - with paved runways: | under 914 m: 9 (2006) |
+| Airports - with unpaved runways: | total: 45 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 1 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 7 |
+| Airports - with unpaved runways: | under 914 m: 37 (2006) |
+| Heliports: | 2 (2006) |
+| Pipelines: | gas 1,340 km; oil 583 km (2006) |
+| Railways: | total: 2,726 km |
+| Railways: | standard gauge: 2,726 km 1.435-m gauge (1,199 km electrified) (2005) |
+| Roadways: | total: 28,344 km |
+| Roadways: | paved: 24,186 km (including 742 km of expressways) |
+| Roadways: | unpaved: 4,158 km (2004) |
+| Waterways: | 785 km (2006) |
+| Merchant marine: | total: 72 ships (1000 GRT or over) 1,079,286 GRT/1,724,698 DWT |
+| Merchant marine: | by type: bulk carrier 22, cargo 11, chemical tanker 3, passenger/cargo 27, petroleum tanker 5, refrigerated cargo 1, roll on/roll off 3 |
+| Merchant marine: | registered in other countries: 36 (Belize 1, Cyprus 2, Liberia 7, Malta 10, Marshall Islands 2, Panama 5, Saint Vincent and the Grenadines 9) (2006) |
+| Ports and terminals: | Omisalj, Ploce, Rijeka, Sibenik, Vukovar (on Danube) |

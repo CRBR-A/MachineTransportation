@@ -1,0 +1,24 @@
+| Transportation | Ethiopia |
+| --- | --- |
+| Airports: | 84 (2007) |
+| Airports - with paved runways: | total: 15 |
+| Airports - with paved runways: | over 3,047 m: 3 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 5 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 5 |
+| Airports - with paved runways: | 914 to 1,523 m: 1 |
+| Airports - with paved runways: | under 914 m: 1 (2007) |
+| Airports - with unpaved runways: | total: 69 |
+| Airports - with unpaved runways: | over 3,047 m: 3 |
+| Airports - with unpaved runways: | 2,438 to 3,047 m: 5 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 11 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 29 |
+| Airports - with unpaved runways: | under 914 m: 21 (2007) |
+| Railways: | total: 699 km (Ethiopian segment of the Addis Ababa-Djibouti railroad) |
+| Railways: | narrow gauge: 699 km 1.000-m gauge |
+| Railways: | note: railway under joint control of Djibouti and Ethiopia (2006) |
+| Roadways: | total: 36,469 km |
+| Roadways: | paved: 6,980 km |
+| Roadways: | unpaved: 29,489 km (2004) |
+| Merchant marine: | total: 10 ships (1000 GRT or over) 120,383 GRT/152,418 DWT |
+| Merchant marine: | by type: cargo 8, roll on/roll off 2 (2007) |
+| Ports and terminals: | Ethiopia is landlocked and uses the port of Djibouti |

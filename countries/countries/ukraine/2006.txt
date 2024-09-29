@@ -1,0 +1,27 @@
+| Transportation | Ukraine |
+| --- | --- |
+| Airports: | 499 (2006) |
+| Airports - with paved runways: | total: 193 |
+| Airports - with paved runways: | over 3,047 m: 13 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 55 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 27 |
+| Airports - with paved runways: | 914 to 1,523 m: 5 |
+| Airports - with paved runways: | under 914 m: 93 (2006) |
+| Airports - with unpaved runways: | total: 306 |
+| Airports - with unpaved runways: | 2,438 to 3,047 m: 3 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 11 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 18 |
+| Airports - with unpaved runways: | under 914 m: 274 (2006) |
+| Heliports: | 10 (2006) |
+| Pipelines: | gas 19,951 km; oil 4,514 km; refined products 4,211 km (2006) |
+| Railways: | total: 22,473 km |
+| Railways: | broad gauge: 22,473 km 1.524-m gauge (9,250 km electrified) (2005) |
+| Roadways: | total: 169,447 km |
+| Roadways: | paved: 164,772 km (including 15 km of expressways) |
+| Roadways: | unpaved: 4,675 km (2004) |
+| Waterways: | 2,253 km (most on Dnieper River) (2006) |
+| Merchant marine: | total: 202 ships (1000 GRT or over) 782,456 GRT/911,201 DWT |
+| Merchant marine: | by type: bulk carrier 6, cargo 151, container 4, passenger 6, passenger/cargo 6, petroleum tanker 9, refrigerated cargo 11, roll on/roll off 7, specialized tanker 2 |
+| Merchant marine: | foreign-owned: 1 (Russia 1) |
+| Merchant marine: | registered in other countries: 160 (Belize 7, Cambodia 17, Comoros 14, Cyprus 4, Dominica 2, Georgia 22, Liberia 16, Malta 24, Moldova 3, Mongolia 1, Panama 8, Russia 11, Saint Kitts and Nevis 3, Saint Vincent and the Grenadines 12, Sierra Leone 4, Slovakia 8, unknown 4) (2006) |
+| Ports and terminals: | Feodosiya, Kerch, Kherson, Mariupol', Mykolayiv, Odesa, Reni, Yuzhnyy |

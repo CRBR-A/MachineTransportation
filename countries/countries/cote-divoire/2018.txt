@@ -1,0 +1,30 @@
+| Transportation | Cote d'Ivoire |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 1 (2015) |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 10 (2015) |
+| National air transport system: | annual passenger traffic on registered air carriers: 359,260 (2015) |
+| National air transport system: | annual freight traffic on registered air carriers: 4,719,120 mt-km (2015) |
+| Civil aircraft registration country code prefix: | TU (2016) |
+| Airports: | 27 (2013) |
+| Airports - with paved runways: | total: 7 (2017) |
+| Airports - with paved runways: | over 3,047 m: 1 (2017) |
+| Airports - with paved runways: | 2,438 to 3,047 m: 2 (2017) |
+| Airports - with paved runways: | 1,524 to 2,437 m: 4 (2017) |
+| Airports - with unpaved runways: | total: 20 (2013) |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 6 (2013) |
+| Airports - with unpaved runways: | 914 to 1,523 m: 11 (2013) |
+| Airports - with unpaved runways: | under 914 m: 3 (2013) |
+| Heliports: | 1 (2013) |
+| Pipelines: | 101 km condensate, 256 km gas, 118 km oil, 5 km oil/gas/water, 7 km water (2013) |
+| Railways: | total: 660 km (2008) |
+| Railways: | narrow gauge: 660 km 1.000-m gauge (2008) |
+| Railways: | note: an additional 622 km of this railroad extends into Burkina Faso |
+| Roadways: | total: 81,996 km (2007) |
+| Roadways: | paved: 6,502 km (2007) |
+| Roadways: | unpaved: 75,494 km (2007) |
+| Roadways: | note: includes intercity and urban roads; another 20,000 km of dirt roads are in poor condition and 150,000 km of dirt roads are impassable |
+| Waterways: | 980 km (navigable rivers, canals, and numerous coastal lagoons) (2011) |
+| Merchant marine: | total: 9 (2017) |
+| Merchant marine: | by type: oil tanker 2, other 7 (2017) |
+| Ports and terminals: | major seaport(s): Abidjan, San-Pedro |
+| Ports and terminals: | oil terminal(s): Espoir Offshore Terminal |

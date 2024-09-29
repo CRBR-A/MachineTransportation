@@ -1,0 +1,25 @@
+| Transportation | Bolivia |
+| --- | --- |
+| Airports: | 1,084 (2006) |
+| Airports - with paved runways: | total: 16 |
+| Airports - with paved runways: | over 3,047 m: 4 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 4 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 5 |
+| Airports - with paved runways: | 914 to 1,523 m: 3 (2006) |
+| Airports - with unpaved runways: | total: 1,068 |
+| Airports - with unpaved runways: | over 3,047 m: 1 |
+| Airports - with unpaved runways: | 2,438 to 3,047 m: 3 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 60 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 207 |
+| Airports - with unpaved runways: | under 914 m: 797 (2006) |
+| Pipelines: | gas 4,860 km; liquid petroleum gas 47 km; oil 2,475 km; refined products 1,589 km; unknown (oil/water) 247 km (2006) |
+| Railways: | total: 3,519 km |
+| Railways: | narrow gauge: 3,519 km 1.000-m gauge (2005) |
+| Roadways: | total: 60,762 km |
+| Roadways: | paved: 4,314 km (including 11 km of expressways) |
+| Roadways: | unpaved: 56,448 km (2003) |
+| Waterways: | 10,000 km (commercially navigable) (2005) |
+| Merchant marine: | total: 24 ships (1000 GRT or over) 127,297 GRT/198,525 DWT |
+| Merchant marine: | by type: bulk carrier 2, cargo 8, chemical tanker 1, passenger/cargo 3, petroleum tanker 10 |
+| Merchant marine: | foreign-owned: 10 (Argentina 1, China 1, Egypt 2, Iran 1, Singapore 3, Taiwan 1, Yemen 1) (2006) |
+| Ports and terminals: | Puerto Aguirre (on the Paraguay/Parana waterway, at the Bolivia/Brazil border); also, Bolivia has free port privileges in maritime ports in Argentina, Brazil, Chile, and Paraguay |

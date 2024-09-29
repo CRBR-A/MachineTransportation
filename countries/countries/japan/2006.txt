@@ -1,0 +1,25 @@
+| Transportation | Japan |
+| --- | --- |
+| Airports: | 175 (2006) |
+| Airports - with paved runways: | total: 145 |
+| Airports - with paved runways: | over 3,047 m: 7 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 41 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 39 |
+| Airports - with paved runways: | 914 to 1,523 m: 28 |
+| Airports - with paved runways: | under 914 m: 30 (2006) |
+| Airports - with unpaved runways: | total: 30 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 4 |
+| Airports - with unpaved runways: | under 914 m: 26 (2006) |
+| Heliports: | 15 (2006) |
+| Pipelines: | gas 8,015 km; oil 170 km; oil/gas/water 60 km (2006) |
+| Railways: | total: 23,556 km |
+| Railways: | standard gauge: 3,204 km 1.435-m gauge (3,204 km electrified) |
+| Railways: | narrow gauge: 77 km 1.372-m gauge (77 km electrified); 20,264 km 1.067-m gauge (13,280 km electrified); 11 km 0.762-m gauge (11 km electrified) (2005) |
+| Roadways: | total: 1.183 million km |
+| Roadways: | paved: 925,000 km (including 6,946 km of expressways) |
+| Roadways: | unpaved: 258,000 km (2003) |
+| Waterways: | 1,770 km (seagoing vessels use inland seas) (2006) |
+| Merchant marine: | total: 683 ships (1000 GRT or over) 10,415,892 GRT/11,765,038 DWT |
+| Merchant marine: | by type: bulk carrier 134, cargo 30, chemical tanker 20, container 11, liquefied gas 59, passenger 14, passenger/cargo 149, petroleum tanker 156, refrigerated cargo 3, roll on/roll off 51, vehicle carrier 56 |
+| Merchant marine: | registered in other countries: 2,459 (Australia 1, Bahamas 51, Belize 2, Burma 4, Cambodia 4, Cayman Islands 1, China 3, Cyprus 17, French Southern and Antarctic Lands 4, Honduras 4, Hong Kong 67, Indonesia 3, Isle of Man 4, South Korea 1, Liberia 102, Malaysia 4, Malta 1, Marshall Islands 7, Mongolia 1, Norway 1, Panama 2007, Philippines 26, Portugal 9, Singapore 100, Sweden 2, Thailand 4, Vanuatu 28, unknown 1) (2006) |
+| Ports and terminals: | Chiba, Kawasaki, Kiire, Kisarazu, Kobe, Mizushima, Nagoya, Osaka, Tokyo, Yohohama |

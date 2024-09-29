@@ -1,0 +1,31 @@
+| Transportation | Brazil |
+| --- | --- |
+| Airports: | 4,072 (2010) |
+| Airports - with paved runways: | total: 726 |
+| Airports - with paved runways: | over 3,047 m: 7 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 28 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 176 |
+| Airports - with paved runways: | 914 to 1,523 m: 460 |
+| Airports - with paved runways: | under 914 m: 55 (2010) |
+| Airports - with unpaved runways: | total: 3,346 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 87 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 1,617 |
+| Airports - with unpaved runways: | under 914 m: 1,642 (2010) |
+| Heliports: | 13 (2010) |
+| Pipelines: | condensate/gas 62 km; gas 13,514 km; liquid petroleum gas 352 km; oil 3,729 km; refined products 4,684 km (2010) |
+| Railways: | total: 28,538 km |
+| Railways: | broad gauge: 5,627 km 1.600-m gauge (467 km electrified) |
+| Railways: | standard gauge: 194 km 1.440-m gauge |
+| Railways: | narrow gauge: 22,717 km 1.000-m gauge (2010) |
+| Roadways: | total: 1,751,868 km |
+| Roadways: | paved: 96,353 km |
+| Roadways: | unpaved: 1,655,515 km (2004) |
+| Waterways: | 50,000 km (most in areas remote from industry and population) (2010) |
+| Merchant marine: | total: 126 |
+| Merchant marine: | by type: bulk carrier 19, cargo 18, chemical tanker 6, container 12, liquefied gas 12, passenger/cargo 10, petroleum tanker 42, roll on/roll off 7 |
+| Merchant marine: | foreign-owned: 26 (Chile 1, Denmark 3, Germany 6, Greece 1, Norway 3, Spain 12) |
+| Merchant marine: | registered in other countries: 27 (Argentina 1, Bahamas 1, Ghana 1, Liberia 20, Marshall Islands 1, Panama 3) (2010) |
+| Ports and terminals: | cargo ports (tonnage): Ilha Grande (Gebig), Paranagua, Rio Grande, Santos, Sao Sebastiao, Tubarao |
+| Ports and terminals: | container ports (TEUs): Santos (2,677,839), Itajai (693,580) |
+| Ports and terminals: | oil terminals: DTSE/Gegua oil terminal, Guaiba Island terminal, Guamare oil terminal |
+| Transportation - note: | the International Maritime Bureau reports that the territorial and offshore waters in the Atlantic Ocean remain a significant risk for piracy and armed robbery against ships; 2010 saw an 80% increase in attacks over 2009; numerous commercial vessels were attacked and hijacked both at anchor and while underway; crews were robbed and stores or cargoes stolen |

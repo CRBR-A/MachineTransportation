@@ -1,0 +1,28 @@
+| Transportation | Czechia |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 4 (2015) |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 48 (2015) |
+| National air transport system: | annual passenger traffic on registered air carriers: 4,971,616 (2015) |
+| National air transport system: | annual freight traffic on registered air carriers: 26,619,650 mt-km (2015) |
+| Civil aircraft registration country code prefix: | OK (2016) |
+| Airports: | 128 (2013) |
+| Airports - with paved runways: | total: 41 (2017) |
+| Airports - with paved runways: | over 3,047 m: 2 (2017) |
+| Airports - with paved runways: | 2,438 to 3,047 m: 9 (2017) |
+| Airports - with paved runways: | 1,524 to 2,437 m: 12 (2017) |
+| Airports - with paved runways: | 914 to 1,523 m: 2 (2017) |
+| Airports - with paved runways: | under 914 m: 16 (2017) |
+| Airports - with unpaved runways: | total: 87 (2013) |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 1 (2013) |
+| Airports - with unpaved runways: | 914 to 1,523 m: 25 (2013) |
+| Airports - with unpaved runways: | under 914 m: 61 (2013) |
+| Heliports: | 1 (2013) |
+| Pipelines: | 7160 km gas, 536 km oil, 94 km refined products (2013) |
+| Railways: | total: 9,622 km (2014) |
+| Railways: | standard gauge: 9,519.5 km 1.435-m gauge (3,240.5 km electrified) (2014) |
+| Railways: | narrow gauge: 102 km 0.760-m gauge (2014) |
+| Roadways: | total: 130,661 km (includes urban roads) (2011) |
+| Roadways: | paved: 130,661 km (includes 730 km of expressways) (2011) |
+| Waterways: | 664 km (principally on Elbe, Vltava, Oder, and other navigable rivers, lakes, and canals) (2010) |
+| Ports and terminals: | river port(s): Prague (Vltava) |
+| Ports and terminals: | Decin, Usti nad Labem (Elbe) |

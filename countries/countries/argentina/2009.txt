@@ -1,0 +1,30 @@
+| Transportation | Argentina |
+| --- | --- |
+| Airports: | 1,130 (2009) |
+| Airports - with paved runways: | total: 156 |
+| Airports - with paved runways: | over 3,047 m: 4 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 26 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 65 |
+| Airports - with paved runways: | 914 to 1,523 m: 51 |
+| Airports - with paved runways: | under 914 m: 10 (2009) |
+| Airports - with unpaved runways: | total: 974 |
+| Airports - with unpaved runways: | over 3,047 m: 1 |
+| Airports - with unpaved runways: | 2,438 to 3,047 m: 1 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 44 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 522 |
+| Airports - with unpaved runways: | under 914 m: 406 (2009) |
+| Heliports: | 2 (2009) |
+| Pipelines: | gas 28,138 km; liquid petroleum gas 41 km; oil 5,939 km; refined products 3,629 km (2008) |
+| Railways: | total: 31,409 km |
+| Railways: | broad gauge: 27,301 km 1.676-m gauge (94 km electrified) |
+| Railways: | standard gauge: 2,780 km 1.435-m gauge (26 km electrified) |
+| Railways: | narrow gauge: 1,328 km 1.000-m gauge (2008) |
+| Roadways: | total: 231,374 km |
+| Roadways: | paved: 69,412 km (includes 734 km of expressways) |
+| Roadways: | unpaved: 161,962 km (2004) |
+| Waterways: | 11,000 km (2007) |
+| Merchant marine: | total: 46 |
+| Merchant marine: | by type: bulk carrier 3, cargo 9, chemical tanker 2, container 1, passenger 1, passenger/cargo 3, petroleum tanker 24, refrigerated cargo 2, roll on/roll off 1 |
+| Merchant marine: | foreign-owned: 14 (Brazil 1, Chile 7, Spain 2, UK 4) |
+| Merchant marine: | registered in other countries: 19 (Liberia 3, Panama 8, Paraguay 5, Uruguay 3) (2008) |
+| Ports and terminals: | Arroyo Seco, Bahia Blanca, Buenos Aires, La Plata, Punta Colorada, Rosario, San Lorenzo-San Martin |

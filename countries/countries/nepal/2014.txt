@@ -1,0 +1,17 @@
+| Transportation | Nepal |
+| --- | --- |
+| Airports: | 47 (2013) |
+| Airports - with paved runways: | total: 11 |
+| Airports - with paved runways: | over 3,047 m: 1 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 3 |
+| Airports - with paved runways: | 914 to 1,523 m: 6 |
+| Airports - with paved runways: | under 914 m: 1 (2013) |
+| Airports - with unpaved runways: | total: 36 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 1 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 6 |
+| under 914 m: | 29 (2013) |
+| Railways: | total: 59 km |
+| Railways: | narrow gauge: 59 km 0.762-m gauge (2008) |
+| Roadways: | total: 10,844 km |
+| Roadways: | paved: 4,952 km |
+| Roadways: | unpaved: 5,892 km (2010) |

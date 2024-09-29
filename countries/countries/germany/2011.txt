@@ -1,0 +1,28 @@
+| Transportation | Germany |
+| --- | --- |
+| Airports: | 549 (2010) |
+| Airports - with paved runways: | total: 330 |
+| Airports - with paved runways: | over 3,047 m: 13 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 53 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 59 |
+| Airports - with paved runways: | 914 to 1,523 m: 70 |
+| Airports - with paved runways: | under 914 m: 135 (2010) |
+| Airports - with unpaved runways: | total: 219 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 2 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 33 |
+| Airports - with unpaved runways: | under 914 m: 184 (2010) |
+| Heliports: | 25 (2010) |
+| Pipelines: | gas 24,688 km; oil 3,687 km; refined products 4,875 km (2010) |
+| Railways: | total: 41,981 km |
+| Railways: | standard gauge: 41,722 km 1.435-m gauge (20,053 km electrified) |
+| Railways: | narrow gauge: 220 km 1.000-m gauge (75 km electrified); 39 km 0.750-m gauge (24 km electrified) (2009) |
+| Roadways: | total: 644,480 km |
+| Roadways: | paved: 644,480 km (includes 12,800 km of expressways) |
+| Roadways: | note: includes local roads (2010) |
+| Waterways: | 7,467 km (Rhine River carries most goods; Main-Danube Canal links North Sea and Black Sea) (2010) |
+| Merchant marine: | total: 421 |
+| Merchant marine: | by type: barge carrier 2, bulk carrier 7, cargo 44, carrier 1, chemical tanker 15, container 293, liquefied gas 7, passenger 4, passenger/cargo 27, petroleum tanker 10, refrigerated cargo 1, roll on/roll off 9, vehicle carrier 1 |
+| Merchant marine: | foreign-owned: 10 (China 2, Finland 5, Greece 1, Sweden 1, Switzerland 1) |
+| Merchant marine: | registered in other countries: 3,287 (Antigua and Barbuda 1050, Australia 2, Bahamas 39, Belize 1, Bermuda 15, Brazil 6, Bulgaria 25, Burma 1, Cayman Islands 6, China 1, Cook Islands 1, Cyprus 189, Denmark 10, Dominica 2, Estonia 1, France 1, Georgia 4, Gibraltar 125, Hong Kong 10, Isle of Man 56, Italy 1, Jamaica 10, Liberia 1049, Luxembourg 9, Malta 127, Marshall Islands 247, Morocco 2, Netherlands 92, former Netherlands Antilles 32, NZ 2, Panama 27, Portugal 13, Saint Vincent and the Grenadines 2, Singapore 30, Slovakia 4, Spain 5, Sri Lanka 5, Sweden 3, Turkey 1, UK 77, US 3, Venezuela 1) (2010) |
+| Ports and terminals: | Bremen, Bremerhaven, Duisburg, Hamburg, Karlsruhe, Lubeck, Neuss-Dusseldorf, Rostock, Wilhemshaven |
+| Ports and terminals: | oil terminals: Brunsbuttel Canal terminals |

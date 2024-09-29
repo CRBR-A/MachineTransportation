@@ -1,0 +1,25 @@
+| Transportation | Cuba |
+| --- | --- |
+| Airports: | 136 (2012) |
+| Airports - with paved runways: | total: 65 |
+| Airports - with paved runways: | over 3,047 m: 7 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 9 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 18 |
+| Airports - with paved runways: | 914 to 1,523 m: 4 |
+| Airports - with paved runways: | under 914 m: 27 (2012) |
+| Airports - with unpaved runways: | total: 71 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 12 |
+| Airports - with unpaved runways: | under 914 m: 59 (2012) |
+| Pipelines: | gas 41 km; oil 230 km (2010) |
+| Railways: | total: 8,598 km |
+| Railways: | standard gauge: 8,322 km 1.435-m gauge (124 km electrified) |
+| Railways: | narrow gauge: 276 km 1.000-m gauge |
+| Railways: | note: 4,533 km of the track is used by sugar plantations; 4,257 km is standard gauge; 276 km is narrow gauge (2006) |
+| Roadways: | total: 60,858 km |
+| Roadways: | paved: 29,820 km (includes 638 km of expressway) |
+| Roadways: | unpaved: 31,038 km (2000) |
+| Waterways: | 240 km (almost all navigable inland waterways are near the mouths of rivers) (2011) |
+| Merchant marine: | total: 3 |
+| Merchant marine: | by type: cargo 1, passenger 1, refrigerated cargo 1 |
+| Merchant marine: | registered in other countries: 5 (Curacao 1, Panama 2, unknown 2) (2010) |
+| Ports and terminals: | Antilla, Cienfuegos, Guantanamo, Havana, Matanzas, Mariel, Nuevitas Bay, Santiago de Cuba, Tanamo |

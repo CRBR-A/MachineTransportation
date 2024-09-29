@@ -1,0 +1,21 @@
+| Transportation | Luxembourg |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 4 (2020) |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 66 |
+| National air transport system: | annual passenger traffic on registered air carriers: 2,099,102 (2018) |
+| National air transport system: | annual freight traffic on registered air carriers: 7,323,040,000 mt-km (2018) |
+| Civil aircraft registration country code prefix: | LX (2016) |
+| Airports: | 2 (2013) |
+| Airports - with paved runways: | total: 1 (2019) |
+| Airports - with paved runways: | over 3,047 m: 1 |
+| Airports - with unpaved runways: | total: 1 (2013) |
+| Airports - with unpaved runways: | under 914 m: 1 (2013) |
+| Heliports: | 1 (2013) |
+| Pipelines: | 142 km gas, 27 km refined products (2013) |
+| Railways: | total: 275 km (2014) |
+| Railways: | standard gauge: 275 km 1.435-m gauge (275 km electrified) (2014) |
+| Roadways: | total: 2,875 km (2019) |
+| Waterways: | 37 km (on Moselle River) (2010) |
+| Merchant marine: | total: 143 |
+| Merchant marine: | by type: bulk carrier 4, container ship 4, general cargo 14, oil tanker 3, other 118 (2019) |
+| Ports and terminals: | river port(s): Mertert (Moselle) |

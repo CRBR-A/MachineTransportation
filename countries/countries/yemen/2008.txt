@@ -1,0 +1,24 @@
+| Transportation | Yemen |
+| --- | --- |
+| Airports: | 50 (2007) |
+| Airports - with paved runways: | total: 17 |
+| Airports - with paved runways: | over 3,047 m: 4 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 8 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 3 |
+| Airports - with paved runways: | 914 to 1,523 m: 1 |
+| Airports - with paved runways: | under 914 m: 1 (2007) |
+| Airports - with unpaved runways: | total: 33 |
+| Airports - with unpaved runways: | over 3,047 m: 3 |
+| Airports - with unpaved runways: | 2,438 to 3,047 m: 8 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 5 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 13 |
+| Airports - with unpaved runways: | under 914 m: 4 (2007) |
+| Pipelines: | gas 71 km; liquid petroleum gas 22 km; oil 1,309 km (2007) |
+| Roadways: | total: 71,300 km |
+| Roadways: | paved: 6,200 km |
+| Roadways: | unpaved: 65,100 km (2005) |
+| Merchant marine: | total: 4 |
+| Merchant marine: | by type: cargo 1, chemical tanker 1, petroleum tanker 1, roll on/roll off 1 |
+| Merchant marine: | registered in other countries: 13 (North Korea 2, Moldova 1, Panama 6, Saint Kitts and Nevis 1, Sierra Leone 2, unknown 1) (2008) |
+| Ports and terminals: | Aden, Hudaydah, Mukalla |
+| Transportation - note: | the International Maritime Bureau reports offshore waters in the Gulf of Aden are high risk for piracy; numerous vessels, including commercial shipping and pleasure craft, have been attacked and hijacked both at anchor and while underway; crew, passengers, and cargo are held for ransom |

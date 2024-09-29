@@ -1,0 +1,35 @@
+| Transportation | IRAN |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 15 |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 228 |
+| National air transport system: | annual passenger traffic on registered air carriers: 15,003,958 |
+| National air transport system: | annual freight traffic on registered air carriers: 107,184,869 mt-km (2015) |
+| Civil aircraft registration country code prefix: | EP (2016) |
+| Airports: | 319 (2013) |
+| Airports - with paved runways: | total: 140 |
+| Airports - with paved runways: | over 3,047 m: 42 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 29 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 26 |
+| Airports - with paved runways: | 914 to 1,523 m: 36 |
+| Airports - with paved runways: | under 914 m: 7 (2013) |
+| Airports - with unpaved runways: | total: 179 |
+| Airports - with unpaved runways: | over 3,047 m: 1 |
+| Airports - with unpaved runways: | 2,438 to 3,047 m: 2 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 9 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 135 |
+| Airports - with unpaved runways: | under 914 m: 32 (2013) |
+| Heliports: | 26 (2013) |
+| Pipelines: | condensate 7 km; condensate/gas 973 km; gas 20,794 km; liquid petroleum gas 570 km; oil 8,625 km; refined products 7,937 km (2013) |
+| Railways: | total: 8,483.5 km |
+| Railways: | broad gauge: 94 km 1.676-m gauge |
+| Railways: | standard gauge: 8,389.5 km 1.435-m gauge (189.5 km electrified) (2014) |
+| Roadways: | total: 198,866 km |
+| Roadways: | paved: 160,366 km (includes 1,948 km of expressways) |
+| Roadways: | unpaved: 38,500 km (2010) |
+| Waterways: | 850 km (on Karun River; some navigation on Lake Urmia) (2012) |
+| Merchant marine: | total: 76 |
+| Merchant marine: | by type: bulk carrier 8, cargo 51, chemical tanker 3, container 4, liquefied gas 1, passenger/cargo 3, petroleum tanker 2, refrigerated cargo 2, roll on/roll off 2 |
+| Merchant marine: | foreign-owned: 2 (UAE 2) |
+| Merchant marine: | registered in other countries: 71 (Barbados 5, Cyprus 10, Hong Kong 3, Malta 48, Panama 5) (2010) |
+| Ports and terminals: | major seaport(s): Bandar-e Asaluyeh, Bandar Abbas, Bandar Emam |
+| Ports and terminals: | container port(s) (TEUs): Bandar Abbas (2,752,460) |

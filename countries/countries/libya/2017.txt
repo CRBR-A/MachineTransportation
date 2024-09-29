@@ -1,0 +1,32 @@
+| Transportation | LIBYA |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 8 |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 23 |
+| National air transport system: | annual passenger traffic on registered air carriers: 2,566,465 |
+| National air transport system: | annual freight traffic on registered air carriers: 3,833,542 mt-km (2015) |
+| Civil aircraft registration country code prefix: | 5A (2016) |
+| Airports: | 146 (2013) |
+| Airports - with paved runways: | total: 68 |
+| Airports - with paved runways: | over 3,047 m: 23 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 7 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 30 |
+| Airports - with paved runways: | 914 to 1,523 m: 7 |
+| Airports - with paved runways: | under 914 m: 1 (2017) |
+| Airports - with unpaved runways: | total: 78 |
+| Airports - with unpaved runways: | over 3,047 m: 2 |
+| Airports - with unpaved runways: | 2,438 to 3,047 m: 5 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 14 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 37 |
+| Airports - with unpaved runways: | under 914 m: 20 (2013) |
+| Heliports: | 2 (2013) |
+| Pipelines: | condensate 882 km; gas 3,743 km; oil 7,005 km (2013) |
+| Roadways: | total: 100,024 km |
+| Roadways: | paved: 57,214 km |
+| Roadways: | unpaved: 42,810 km (2003) |
+| Merchant marine: | total: 23 |
+| Merchant marine: | by type: cargo 2, chemical tanker 4, liquefied gas 3, petroleum tanker 13, roll on/roll off 1 |
+| Merchant marine: | foreign-owned: 2 (Kuwait 1, Norway 1) |
+| Merchant marine: | registered in other countries: 6 (Hong Kong 1, Malta 5) (2010) |
+| Ports and terminals: | major seaport(s): Marsa al Burayqah (Marsa el Brega), Tripoli |
+| Ports and terminals: | oil terminal(s): Az Zawiyah, Ra's Lanuf |
+| Ports and terminals: | LNG terminal(s) (export): Marsa el Brega |

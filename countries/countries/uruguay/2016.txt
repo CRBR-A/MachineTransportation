@@ -1,0 +1,27 @@
+| Transportation | URUGUAY |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 2 |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 3 (2015) |
+| Civil aircraft registration country code prefix: | CX (2016) |
+| Airports: | 133 (2013) |
+| Airports - with paved runways: | total: 11 |
+| Airports - with paved runways: | over 3,047 m: 1 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 4 |
+| Airports - with paved runways: | 914 to 1,523 m: 4 |
+| Airports - with paved runways: | under 914 m: 2 (2013) |
+| Airports - with unpaved runways: | total: 122 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 3 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 40 |
+| Airports - with unpaved runways: | under 914 m: 79 (2013) |
+| Pipelines: | gas 257 km; oil 160 km (2013) |
+| Railways: | total: 1,641 km |
+| Railways: | standard gauge: 1,641 km 1.435-m gauge (2014) |
+| Roadways: | total: 77,732 km |
+| Roadways: | paved: 7,743 km |
+| Roadways: | unpaved: 69,989 km (2010) |
+| Waterways: | 1,600 km (2011) |
+| Merchant marine: | total: 16 |
+| Merchant marine: | by type: bulk carrier 1, cargo 2, chemical tanker 3, passenger/cargo 6, petroleum tanker 3, roll on/roll off 1 |
+| Merchant marine: | foreign-owned: 8 (Argentina 1, Denmark 1, Greece 1, Spain 5) |
+| Merchant marine: | registered in other countries: 1 (Liberia 1) (2010) |
+| Ports and terminals: | major seaport(s): Montevideo |

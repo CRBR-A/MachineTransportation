@@ -1,0 +1,25 @@
+| Transportation | Norway |
+| --- | --- |
+| Airports: | 99 (2006) |
+| Airports - with paved runways: | total: 67 |
+| Airports - with paved runways: | over 3,047 m: 1 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 12 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 12 |
+| Airports - with paved runways: | 914 to 1,523 m: 13 |
+| Airports - with paved runways: | under 914 m: 29 (2006) |
+| Airports - with unpaved runways: | total: 32 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 6 |
+| Airports - with unpaved runways: | under 914 m: 26 (2006) |
+| Heliports: | 1 (2006) |
+| Pipelines: | condensate 508 km; gas 5,910 km; oil 2,557 km; oil/gas/water 746 km (2006) |
+| Railways: | total: 4,077 km |
+| Railways: | standard gauge: 4,077 km 1.435-m gauge (2,680 km electrified) (2005) |
+| Roadways: | total: 92,513 km |
+| Roadways: | paved: 71,832 km (including 664 km of expressways) |
+| Roadways: | unpaved: 20,681 km (2005) |
+| Waterways: | 1,577 km (2002) |
+| Merchant marine: | total: 724 ships (1000 GRT or over) 14,472,103 GRT/20,245,353 DWT |
+| Merchant marine: | by type: bulk carrier 67, cargo 153, chemical tanker 150, container 2, liquefied gas 79, passenger/cargo 121, petroleum tanker 75, refrigerated cargo 9, roll on/roll off 19, specialized tanker 2, vehicle carrier 47 |
+| Merchant marine: | foreign-owned: 168 (China 3, Cyprus 2, Denmark 32, Estonia 1, Finland 4, Greece 1, Hong Kong 55, Iceland 4, Italy 4, Japan 1, Lithuania 1, Monaco 4, Netherlands 3, Poland 2, Saudi Arabia 3, Sweden 28, UAE 1, UK 6, US 13) |
+| Merchant marine: | registered in other countries: 861 (Antigua and Barbuda 11, Australia 1, Bahamas 259, Barbados 29, Belize 2, Bermuda 5, Brazil 2, Cambodia 1, Canada 1, Cayman Islands 2, China 1, Comoros 1, Cook Islands 1, Cyprus 16, Denmark 3, Dominica 1, Ecuador 1, Estonia 2, Faroe Islands 4, Finland 1, France 1, French Southern and Antarctic Lands 12, Gibraltar 18, Hong Kong 26, Indonesia 1, Isle of Man 27, Liberia 38, Libya 1, Malta 49, Marshall Islands 65, Mexico 1, Netherlands 7, Netherlands Antilles 5, Nigeria 1, Panama 66, Philippines 3, Portugal 4, Russia 1, Saint Vincent and the Grenadines 16, Singapore 90, Spain 7, Sweden 7, Thailand 30, Tonga 1, UK 36, US 2, unknown 2) (2006) |
+| Ports and terminals: | Borg Havn, Bergen, Mo i Rana, Molde, Mongstad, Narvik, Oslo, Sture |

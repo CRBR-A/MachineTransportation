@@ -1,0 +1,25 @@
+| Transportation | Taiwan |
+| --- | --- |
+| Airports: | 41 (2007) |
+| Airports - with paved runways: | total: 38 |
+| Airports - with paved runways: | over 3,047 m: 8 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 9 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 11 |
+| Airports - with paved runways: | 914 to 1,523 m: 7 |
+| Airports - with paved runways: | under 914 m: 3 (2007) |
+| Airports - with unpaved runways: | total: 3 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 1 |
+| Airports - with unpaved runways: | under 914 m: 2 (2007) |
+| Heliports: | 4 (2007) |
+| Pipelines: | condensate 25 km; gas 661 km (2006) |
+| Railways: | total: 2,502 km |
+| Railways: | narrow gauge: 1,102 km 1.067-m gauge (685 km electrified) |
+| Railways: | note: 1,400 km .762-m gauge (belonging to the Taiwan Sugar Corporation and to the Taiwan Forestry Bureau) used to carry products and limited numbers of passengers (2006) |
+| Roadways: | total: 37,299 km |
+| Roadways: | paved: 35,621 km (includes 789 km of expressways) |
+| Roadways: | unpaved: 1,678 km (2002) |
+| Merchant marine: | total: 102 ships (1000 GRT or over) 2,537,256 GRT/4,203,423 DWT |
+| Merchant marine: | by type: bulk carrier 33, cargo 20, chemical tanker 2, container 21, passenger/cargo 2, petroleum tanker 15, refrigerated cargo 7, roll on/roll off 2 |
+| Merchant marine: | foreign-owned: 4 (Canada 3, France 1) |
+| Merchant marine: | registered in other countries: 489 (Bahamas 1, Bolivia 1, Cambodia 1, Honduras 2, Hong Kong 11, Indonesia 2, Italy 11, Liberia 82, Panama 306, Singapore 60, Thailand 1, UK 11, unknown 3) (2007) |
+| Ports and terminals: | Chi-lung (Keelung), Hua-lien, Kao-hsiung, Su-ao, T'ai-chung |

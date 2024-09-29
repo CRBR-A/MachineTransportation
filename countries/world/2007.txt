@@ -1,0 +1,9 @@
+| Transportation | World |
+| --- | --- |
+| Airports: | 49,024 (2006) |
+| Heliports: | 1,359 (2007) |
+| Railways: | total: 1,370,782 km (2006) |
+| Roadways: | total: 32,345,165 km |
+| Roadways: | paved: 19,403,061 km |
+| Roadways: | unpaved: 12,942,104 km (2002) |
+| Waterways: | 671,886 km (2004) |

@@ -1,0 +1,28 @@
+| Transportation | Poland |
+| --- | --- |
+| Airports: | 123 (2007) |
+| Airports - with paved runways: | total: 83 |
+| Airports - with paved runways: | over 3,047 m: 4 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 30 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 39 |
+| Airports - with paved runways: | 914 to 1,523 m: 7 |
+| Airports - with paved runways: | under 914 m: 3 (2007) |
+| Airports - with unpaved runways: | total: 40 |
+| Airports - with unpaved runways: | 2,438 to 3,047 m: 1 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 4 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 13 |
+| Airports - with unpaved runways: | under 914 m: 22 (2007) |
+| Heliports: | 7 (2007) |
+| Pipelines: | gas 13,552 km; oil 1,384 km; refined products 777 km (2006) |
+| Railways: | total: 23,072 km |
+| Railways: | broad gauge: 629 km 1.524-m gauge |
+| Railways: | standard gauge: 22,443 km 1.435-m gauge (20,555 km operational; 11,910 km electrified) (2006) |
+| Roadways: | total: 423,997 km |
+| Roadways: | paved: 295,356 km (includes 484 km of expressways) |
+| Roadways: | unpaved: 128,641 km (2004) |
+| Waterways: | 3,997 km (navigable rivers and canals) (2006) |
+| Merchant marine: | total: 11 ships (1000 GRT or over) 55,701 GRT/45,082 DWT |
+| Merchant marine: | by type: cargo 6, chemical tanker 2, passenger/cargo 1, roll on/roll off 1, vehicle carrier 1 |
+| Merchant marine: | foreign-owned: 1 (Nigeria 1) |
+| Merchant marine: | registered in other countries: 102 (Antigua and Barbuda 2, Bahamas 15, Cyprus 18, Liberia 14, Malta 25, Norway 3, Panama 15, Slovakia 2, St Vincent and The Grenadines 1, Vanuatu 7) (2007) |
+| Ports and terminals: | Gdansk, Gdynia, Swinoujscie, Szczecin |

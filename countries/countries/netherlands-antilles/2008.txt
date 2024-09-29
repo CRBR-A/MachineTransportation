@@ -1,0 +1,14 @@
+| Transportation | Netherlands Antilles |
+| --- | --- |
+| Airports: | 5 (2007) |
+| Airports - with paved runways: | total: 5 |
+| Airports - with paved runways: | over 3,047 m: 1 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 1 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 1 |
+| Airports - with paved runways: | 914 to 1,523 m: 1 |
+| Airports - with paved runways: | under 914 m: 1 (2007) |
+| Roadways: | total: 845 |
+| Merchant marine: | total: 147 |
+| Merchant marine: | by type: barge carrier 2, bulk carrier 2, cargo 72, carrier 19, chemical tanker 2, container 8, liquefied gas 1, passenger 2, petroleum tanker 3, refrigerated cargo 27, roll on/roll off 6, specialized tanker 3 |
+| Merchant marine: | foreign-owned: 123 (Belgium 1, Cuba 1, Cyprus 21, Denmark 2, Germany 43, Hong Kong 2, Netherlands 38, Norway 3, Sweden 1, Turkey 10, US 1) (2008) |
+| Ports and terminals: | Bopec Terminal, Willemstad |

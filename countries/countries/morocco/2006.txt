@@ -1,0 +1,26 @@
+| Transportation | Morocco |
+| --- | --- |
+| Airports: | 60 (2006) |
+| Airports - with paved runways: | total: 26 |
+| Airports - with paved runways: | over 3,047 m: 11 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 5 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 7 |
+| Airports - with paved runways: | 914 to 1,523 m: 1 |
+| Airports - with paved runways: | under 914 m: 2 (2006) |
+| Airports - with unpaved runways: | total: 34 |
+| Airports - with unpaved runways: | 2,438 to 3,047 m: 2 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 9 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 12 |
+| Airports - with unpaved runways: | under 914 m: 11 (2006) |
+| Heliports: | 1 (2006) |
+| Pipelines: | gas 715 km; oil 285 km (2006) |
+| Railways: | total: 1,907 km |
+| Railways: | standard gauge: 1,907 km 1.435-m gauge (1,003 km electrified) (2005) |
+| Roadways: | total: 57,694 km |
+| Roadways: | paved: 32,551 km (including 417 km of expressways) |
+| Roadways: | unpaved: 25,143 km (2002) |
+| Merchant marine: | total: 41 ships (1000 GRT or over) 382,781 GRT/285,435 DWT |
+| Merchant marine: | by type: cargo 5, chemical tanker 6, container 9, passenger/cargo 13, petroleum tanker 1, refrigerated cargo 2, roll on/roll off 5 |
+| Merchant marine: | foreign-owned: 5 (France 1, Germany 2, Switzerland 1, UK 1) |
+| Merchant marine: | registered in other countries: 1 (Panama 1) (2006) |
+| Ports and terminals: | Agadir, Casablanca, Mohammedia, Nador, Safi, Tangier |

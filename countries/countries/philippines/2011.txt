@@ -1,0 +1,27 @@
+| Transportation | Philippines |
+| --- | --- |
+| Airports: | 254 (2010) |
+| Airports - with paved runways: | total: 85 |
+| Airports - with paved runways: | over 3,047 m: 4 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 8 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 29 |
+| Airports - with paved runways: | 914 to 1,523 m: 34 |
+| Airports - with paved runways: | under 914 m: 10 (2010) |
+| Airports - with unpaved runways: | total: 169 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 4 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 66 |
+| Airports - with unpaved runways: | under 914 m: 99 (2010) |
+| Heliports: | 2 (2010) |
+| Pipelines: | gas 7 km; oil 107 km; refined products 181 km (2010) |
+| Railways: | total: 995 km |
+| Railways: | narrow gauge: 995 km 1.067-m gauge (484 km are in operation) (2010) |
+| Roadways: | total: 213,151 km |
+| Roadways: | paved: 54,481 km |
+| Roadways: | unpaved: 158,670 km (2009) |
+| Waterways: | 3,219 km (limited to vessels with draft less than 1.5 m) (2011) |
+| Merchant marine: | total: 428 |
+| Merchant marine: | by type: bulk carrier 75, cargo 135, carrier 16, chemical tanker 26, container 13, liquefied gas 5, passenger 7, passenger/cargo 68, petroleum tanker 45, refrigerated cargo 17, roll on/roll off 12, vehicle carrier 9 |
+| Merchant marine: | foreign-owned: 156 (Bermuda 43, China 4, Greece 4, Japan 82, Malaysia 1, Netherlands 18, Singapore 1, South Korea 1, Taiwan 1, UAE 1) |
+| Merchant marine: | registered in other countries: 7 (Cyprus 1, Panama 6) (2010) |
+| Ports and terminals: | Batangas, Cagayan de Oro, Cebu, Davao, Liman, Manila |
+| Transportation - note: | the International Maritime Bureau reports the territorial and offshore waters in the South China Sea as high risk for piracy and armed robbery against ships; numerous commercial vessels have been attacked and hijacked both at anchor and while underway; hijacked vessels are often disguised and cargo diverted to ports in East Asia; crews have been murdered or cast adrift |

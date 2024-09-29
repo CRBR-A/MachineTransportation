@@ -1,0 +1,31 @@
+| Transportation | Turkey |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 11 (2020) |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 618 |
+| National air transport system: | annual passenger traffic on registered air carriers: 115,595,495 (2018) |
+| National air transport system: | annual freight traffic on registered air carriers: 5,949,210,000 mt-km (2018) |
+| Civil aircraft registration country code prefix: | TC (2016) |
+| Airports: | 98 (2013) |
+| Airports - with paved runways: | total: 91 (2013) |
+| Airports - with paved runways: | over 3,047 m: 16 (2013) |
+| Airports - with paved runways: | 2,438 to 3,047 m: 38 (2013) |
+| Airports - with paved runways: | 1,524 to 2,437 m: 17 (2013) |
+| Airports - with paved runways: | 914 to 1,523 m: 16 (2013) |
+| Airports - with paved runways: | under 914 m: 4 (2013) |
+| Airports - with unpaved runways: | total: 7 (2013) |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 1 (2013) |
+| Airports - with unpaved runways: | 914 to 1,523 m: 4 (2013) |
+| Airports - with unpaved runways: | under 914 m: 2 (2013) |
+| Heliports: | 20 (2013) |
+| Pipelines: | 14,666 km gas, 3,293 km oil (2017) |
+| Railways: | total: 12,710 km (2018) |
+| Railways: | standard gauge: 11,497 km 1.435-m gauge (1.435 km high speed train) (2018) |
+| Roadways: | total: 67,333 km (2018) |
+| Roadways: | paved: 24,082 km (includes 2,159 km of expressways) (2018) |
+| Roadways: | unpaved: 43,251 km (2018) |
+| Waterways: | 1,200 km (2010) |
+| Merchant marine: | total: 1,234 |
+| Merchant marine: | by type: bulk carrier 57, container ship 54, general cargo 363, oil tanker 124, other 636 (2019) |
+| Ports and terminals: | major seaport(s): Aliaga, Ambarli, Diliskelesi, Eregli, Izmir, Kocaeli (Izmit), Mersin (Icel), Limani, Yarimca |
+| Ports and terminals: | container port(s) (TEUs): Ambarli (3,131,621), Mersin (Icel) (1,592,000) (2017) |
+| Ports and terminals: | LNG terminal(s) (import): Izmir Aliaga, Marmara Ereglisi |

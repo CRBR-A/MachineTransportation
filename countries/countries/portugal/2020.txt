@@ -1,0 +1,31 @@
+| Transportation | Portugal |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 10 (2020) |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 168 |
+| National air transport system: | annual passenger traffic on registered air carriers: 17,367,956 (2018) |
+| National air transport system: | annual freight traffic on registered air carriers: 454.21 million mt-km (2018) |
+| Civil aircraft registration country code prefix: | CR, CS (2016) |
+| Airports: | 64 (2013) |
+| Airports - with paved runways: | total: 43 (2017) |
+| Airports - with paved runways: | over 3,047 m: 5 (2017) |
+| Airports - with paved runways: | 2,438 to 3,047 m: 7 (2017) |
+| Airports - with paved runways: | 1,524 to 2,437 m: 8 (2017) |
+| Airports - with paved runways: | 914 to 1,523 m: 15 (2017) |
+| Airports - with paved runways: | under 914 m: 8 (2017) |
+| Airports - with unpaved runways: | total: 21 (2013) |
+| Airports - with unpaved runways: | 914 to 1,523 m: 1 (2013) |
+| Airports - with unpaved runways: | under 914 m: 20 (2013) |
+| Pipelines: | 1344 km gas, 11 km oil, 188 km refined products (2013) |
+| Railways: | total: 3,075 km (2014) |
+| Railways: | narrow gauge: 108.1 km 1.000-m gauge (2014) |
+| Railways: | broad gauge: 2,439 km 1.668-m gauge (1,633.4 km electrified) (2014) |
+| Railways: | other: 528 km (gauge unspecified) (2014) |
+| Roadways: | total: 82,900 km (2008) |
+| Roadways: | paved: 71,294 km (includes 2,613 km of expressways) (2008) |
+| Roadways: | unpaved: 11,606 km (2008) |
+| Waterways: | 210 km (on Douro River from Porto) (2011) |
+| Merchant marine: | total: 624 |
+| Merchant marine: | by type: bulk carrier 65, container ship 249, general cargo 99, oil tanker 21, other 190 (2019) |
+| Ports and terminals: | major seaport(s): Leixoes, Lisbon, Setubal, Sines |
+| Ports and terminals: | container port(s) (TEUs): Sines (1,669,057) (2017) |
+| Ports and terminals: | LNG terminal(s) (import): Sines |

@@ -1,0 +1,24 @@
+| Transportation | SINGAPORE |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 5 |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 197 |
+| National air transport system: | annual passenger traffic on registered air carriers: 33,290,544 |
+| National air transport system: | annual freight traffic on registered air carriers: 6,154,365,275 mt-km (2015) |
+| Civil aircraft registration country code prefix: | 9V (2016) |
+| Airports: | 9 (2013) |
+| Airports - with paved runways: | total: 9 |
+| Airports - with paved runways: | over 3,047 m: 2 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 2 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 3 |
+| Airports - with paved runways: | 914 to 1,523 m: 1 |
+| Airports - with paved runways: | under 914 m: 1 (2017) |
+| Pipelines: | gas 122 km; refined products 8 km (2013) |
+| Roadways: | total: 3,425 km |
+| Roadways: | paved: 3,425 km (includes 161 km of expressways) (2012) |
+| Merchant marine: | total: 1,599 |
+| Merchant marine: | by type: bulk carrier 247, cargo 109, carrier 6, chemical tanker 256, container 339, liquefied gas 131, petroleum tanker 436, refrigerated cargo 13, roll on/roll off 5, vehicle carrier 57 |
+| Merchant marine: | foreign-owned: 966 (Australia 12, Bangladesh 1, Belgium 1, Bermuda 25, Brazil 9, Chile 6, China 29, Cyprus 6, Denmark 149, France 3, Germany 32, Greece 22, Hong Kong 46, India 21, Indonesia 60, Italy 5, Japan 164, Malaysia 27, Netherlands 1, Norway 153, Russia 2, South Africa 13, South Korea 3, Sweden 11, Switzerland 3, Taiwan 77, Thailand 33, UAE 10, UK 6, US 36) |
+| Merchant marine: | registered in other countries: 344 (Australia 2, Bahamas 7, Bangladesh 7, Belize 4, Cambodia 3, Cyprus 1, France 3, Honduras 11, Hong Kong 13, Indonesia 46, Italy 1, Kiribati 9, Liberia 22, Malaysia 13, Maldives 4, Malta 4, Marshall Islands 30, Mongolia 3, North Korea 1, Panama 92, Philippines 1, Saint Kitts and Nevis 10, Saint Vincent and the Grenadines 5, Sierra Leone 9, Thailand 1, Tuvalu 19, US 16, Vanuatu 2, unknown 5) (2010) |
+| Ports and terminals: | major seaport(s): Singapore |
+| Ports and terminals: | container port(s) (TEUs): Singapore (30,922,000) (2015) |
+| Ports and terminals: | LNG terminal(s) (import): Singapore |

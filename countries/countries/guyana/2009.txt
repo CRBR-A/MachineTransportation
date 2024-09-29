@@ -1,0 +1,20 @@
+| Transportation | Guyana |
+| --- | --- |
+| Airports: | 99 (2009) |
+| Airports - with paved runways: | total: 10 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 2 |
+| Airports - with paved runways: | 914 to 1,523 m: 1 |
+| Airports - with paved runways: | under 914 m: 7 (2009) |
+| Airports - with unpaved runways: | total: 89 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 1 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 14 |
+| Airports - with unpaved runways: | under 914 m: 74 (2009) |
+| Roadways: | total: 7,970 km |
+| Roadways: | paved: 590 km |
+| Roadways: | unpaved: 7,380 km (2000) |
+| Waterways: | 330 km |
+| Waterways: | note: Berbice, Demerara, and Essequibo rivers are navigable by oceangoing vessels for 150 km, 100 km, and 80 km respectively (2008) |
+| Merchant marine: | total: 8 |
+| Merchant marine: | by type: cargo 6, petroleum tanker 1, refrigerated cargo 1 |
+| Merchant marine: | registered in other countries: 3 (Saint Vincent and the Grenadines 2, unknown 1) (2008) |
+| Ports and terminals: | Georgetown |

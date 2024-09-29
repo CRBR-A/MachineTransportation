@@ -1,0 +1,29 @@
+| Transportation | Sweden |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 11 (2020) |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 316 |
+| Civil aircraft registration country code prefix: | SE (2016) |
+| Airports: | 231 (2013) |
+| Airports - with paved runways: | total: 149 (2013) |
+| Airports - with paved runways: | over 3,047 m: 3 (2013) |
+| Airports - with paved runways: | 2,438 to 3,047 m: 12 (2013) |
+| Airports - with paved runways: | 1,524 to 2,437 m: 75 (2013) |
+| Airports - with paved runways: | 914 to 1,523 m: 22 (2013) |
+| Airports - with paved runways: | under 914 m: 37 (2013) |
+| Airports - with unpaved runways: | total: 82 (2013) |
+| Airports - with unpaved runways: | 914 to 1,523 m: 5 (2013) |
+| Airports - with unpaved runways: | under 914 m: 77 (2013) |
+| Heliports: | 2 (2013) |
+| Pipelines: | 1626 km gas (2013) |
+| Railways: | total: 14,127 km (2016) |
+| Railways: | standard gauge: 14,062 km 1.435-m gauge (12,322 km electrified) (2016) |
+| Railways: | narrow gauge: 65 km 0.891-m gauge (65 km electrified) (2016) |
+| Roadways: | total: 573,134 km (includes 2,050 km of expressways) (2016) |
+| Roadways: | paved: 140,100 km (2016) |
+| Roadways: | unpaved: 433,034 km (2016) |
+| Roadways: | note: includes 98,500 km of state roads, 433,034 km of private roads, and 41,600 km of municipal roads |
+| Waterways: | 2,052 km (2010) |
+| Merchant marine: | total: 360 |
+| Merchant marine: | by type: general cargo 51, oil tanker 20, other 289 (2019) |
+| Ports and terminals: | major seaport(s): Brofjorden, Goteborg, Helsingborg, Karlshamn, Lulea, Malmo, Stockholm, Trelleborg, Visby |
+| Ports and terminals: | LNG terminal(s) (import): Brunnsviksholme, Lysekil |

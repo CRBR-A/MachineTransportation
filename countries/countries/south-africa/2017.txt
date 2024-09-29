@@ -1,0 +1,34 @@
+| Transportation | SOUTH AFRICA |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 23 |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 216 |
+| National air transport system: | annual passenger traffic on registered air carriers: 17,188,887 |
+| National air transport system: | annual freight traffic on registered air carriers: 885,277,991 mt-km (2015) |
+| Civil aircraft registration country code prefix: | ZS (2016) |
+| Airports: | 566 (2013) |
+| Airports - with paved runways: | total: 144 |
+| Airports - with paved runways: | over 3,047 m: 11 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 7 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 52 |
+| Airports - with paved runways: | 914 to 1,523 m: 65 |
+| Airports - with paved runways: | under 914 m: 9 (2013) |
+| Airports - with unpaved runways: | total: 422 |
+| Airports - with unpaved runways: | 2,438 to 3,047 m: 1 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 31 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 258 |
+| Airports - with unpaved runways: | under 914 m: 132 (2013) |
+| Heliports: | 1 (2013) |
+| Pipelines: | condensate 94 km; gas 1,293 km; oil 992 km; refined products 1,460 km (2013) |
+| Railways: | total: 20,986 km |
+| Railways: | standard gauge: 80 km 1.435-m gauge (80 km electrified) |
+| Railways: | narrow gauge: 19,756 km 1.065-m gauge (8,271 km electrified) |
+| Railways: | other: 1,150 km (passenger rail, gauge unspecified, 1,115.5 km electrified) (2014) |
+| Roadways: | total: 747,014 km |
+| Roadways: | paved: 158,952 km |
+| Roadways: | unpaved: 588,062 km (2014) |
+| Merchant marine: | total: 3 |
+| Merchant marine: | by type: petroleum tanker 3 |
+| Merchant marine: | registered in other countries: 19 (Australia 1, Isle of Man 2, Mexico 1, NZ 1, Seychelles 1, Singapore 13) (2010) |
+| Ports and terminals: | major seaport(s): Cape Town, Durban, Port Elizabeth, Richards Bay, Saldanha Bay |
+| Ports and terminals: | container port(s) (TEUs): Durban (2,770,000) (2015) |
+| Ports and terminals: | LNG terminal(s) (import): Mossel Bay |

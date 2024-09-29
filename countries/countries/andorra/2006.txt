@@ -1,0 +1,5 @@
+| Transportation | Andorra |
+| --- | --- |
+| Roadways: | total: 269 km |
+| Roadways: | paved: 198 km |
+| Roadways: | unpaved: 71 km |

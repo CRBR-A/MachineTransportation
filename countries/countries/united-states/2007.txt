@@ -1,0 +1,29 @@
+| Transportation | United States |
+| --- | --- |
+| Airports: | 14,947 (2007) |
+| Airports - with paved runways: | total: 5,143 |
+| Airports - with paved runways: | over 3,047 m: 191 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 224 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 1,452 |
+| Airports - with paved runways: | 914 to 1,523 m: 2,323 |
+| Airports - with paved runways: | under 914 m: 953 (2007) |
+| Airports - with unpaved runways: | total: 9,804 |
+| Airports - with unpaved runways: | 2,438 to 3,047 m: 7 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 153 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 1,732 |
+| Airports - with unpaved runways: | under 914 m: 7,912 (2007) |
+| Heliports: | 146 (2007) |
+| Pipelines: | petroleum products 244,620 km; natural gas 548,665 km (2003) |
+| Railways: | total: 226,612 km |
+| Railways: | standard gauge: 226,612 km 1.435-m gauge (2005) |
+| Roadways: | total: 6,430,366 km |
+| Roadways: | paved: 4,165,110 km (includes 75,009 km of expressways) |
+| Roadways: | unpaved: 2,265,256 km (2005) |
+| Waterways: | 41,009 km (19,312 km used for commerce) |
+| Waterways: | note: Saint Lawrence Seaway of 3,769 km, including the Saint Lawrence River of 3,058 km, shared with Canada (2007) |
+| Merchant marine: | total: 446 ships (1000 GRT or over) 10,308,428 GRT/12,616,742 DWT |
+| Merchant marine: | by type: barge carrier 6, bulk carrier 64, cargo 82, carrier 2, chemical tanker 20, container 82, passenger 20, passenger/cargo 60, petroleum tanker 59, refrigerated cargo 4, roll on/roll off 26, specialized tanker 1, vehicle carrier 20 |
+| Merchant marine: | foreign-owned: 67 (Australia 2, Canada 4, Denmark 29, Germany 6, Malaysia 4, Netherlands 1, Norway 4, Singapore 11, Sweden 5, UK 1) |
+| Merchant marine: | registered in other countries: 785 (Antigua and Barbuda 8, Australia 5, Bahamas 162, Belize 3, Bermuda 23, Cambodia 6, Canada 3, Cayman Islands 41, Comoros 2, Cyprus 8, Ecuador 1, Greece 10, Honduras 1, Hong Kong 22, Ireland 2, Isle of Man 4, Italy 16, Liberia 103, South Korea 7, Luxembourg 3, Malta 11, Marshall Islands 129, Netherlands 13, Netherlands Antilles 1, Norway 18, Panama 115, Peru 1, Portugal 1, Puerto Rico 3, Russia 1, Singapore 17, Spain 9, St Vincent and The Grenadines 21, Sweden 1, Trinidad and Tobago 1, Tuvalu 1, UK 11, Vanuatu 1, unknown 4) (2007) |
+| Ports and terminals: | Corpus Christi, Duluth, Hampton Roads, Houston, Long Beach, Los Angeles, New Orleans, New York, Philadelphia, Tampa, Texas City |
+| Ports and terminals: | note: 13 ports north of New Orleans (South Louisiana Ports) on the Mississippi River handle 290,000,000 tons of cargo annually |

@@ -1,0 +1,24 @@
+| Transportation | Uruguay |
+| --- | --- |
+| Airports: | 57 (2009) |
+| Airports - with paved runways: | total: 9 |
+| Airports - with paved runways: | over 3,047 m: 1 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 4 |
+| Airports - with paved runways: | 914 to 1,523 m: 2 |
+| Airports - with paved runways: | under 914 m: 2 (2009) |
+| Airports - with unpaved runways: | total: 48 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 3 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 20 |
+| Airports - with unpaved runways: | under 914 m: 25 (2009) |
+| Pipelines: | gas 226 km; oil 155 km (2008) |
+| Railways: | total: 1,641 km |
+| Railways: | standard gauge: 1,641 km 1.435-m gauge (2008) |
+| Roadways: | total: 77,732 km |
+| Roadways: | paved: 7,743 km |
+| Roadways: | unpaved: 69,989 km (2004) |
+| Waterways: | 1,600 km (2008) |
+| Merchant marine: | total: 17 |
+| Merchant marine: | by type: cargo 3, chemical tanker 2, passenger/cargo 9, petroleum tanker 2, roll on/roll off 1 |
+| Merchant marine: | foreign-owned: 10 (Argentina 3, Greece 1, Spain 6) |
+| Merchant marine: | registered in other countries: 3 (Liberia 3) (2008) |
+| Ports and terminals: | Montevideo |

@@ -1,0 +1,33 @@
+| Transportation | Italy |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 9 (2020) |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 180 |
+| National air transport system: | annual passenger traffic on registered air carriers: 27,630,435 (2018) |
+| National air transport system: | annual freight traffic on registered air carriers: 1.418 billion mt-km (2018) |
+| Civil aircraft registration country code prefix: | I (2016) |
+| Airports: | 129 (2013) |
+| Airports - with paved runways: | total: 98 (2017) |
+| Airports - with paved runways: | over 3,047 m: 9 (2017) |
+| Airports - with paved runways: | 2,438 to 3,047 m: 31 (2017) |
+| Airports - with paved runways: | 1,524 to 2,437 m: 18 (2017) |
+| Airports - with paved runways: | 914 to 1,523 m: 29 (2017) |
+| Airports - with paved runways: | under 914 m: 11 (2017) |
+| Airports - with unpaved runways: | total: 31 (2013) |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 1 (2013) |
+| Airports - with unpaved runways: | 914 to 1,523 m: 10 (2013) |
+| Airports - with unpaved runways: | under 914 m: 20 (2013) |
+| Heliports: | 5 (2013) |
+| Pipelines: | 20223 km gas, 1393 km oil, 1574 km refined products (2013) |
+| Railways: | total: 20,182 km (2014) |
+| Railways: | standard gauge: 18,770.1 km 1.435-m gauge (12,893.6 km electrified) (2014) |
+| Railways: | narrow gauge: 122.3 km 1.000-m gauge (122.3 km electrified) (2014) |
+| Railways: | 1289.3 0.950-m gauge (151.3 km electrified) |
+| Roadways: | total: 487,700 km (2007) |
+| Roadways: | paved: 487,700 km (includes 6,700 km of expressways) (2007) |
+| Waterways: | 2,400 km (used for commercial traffic; of limited overall value compared to road and rail) (2012) |
+| Merchant marine: | total: 1,353 |
+| Merchant marine: | by type: bulk carrier 48, container ship 9, general cargo 116, oil tanker 120, other 1,060 (2019) |
+| Ports and terminals: | major seaport(s): Augusta, Cagliari, Genoa, Livorno, Taranto, Trieste, Venice |
+| Ports and terminals: | oil terminal(s): Melilli (Santa Panagia) oil terminal, Sarroch oil terminal |
+| Ports and terminals: | container port(s) (TEUs): Genoa (2,622,200), Gioia Tauro (2,448,600) (2017) |
+| Ports and terminals: | LNG terminal(s) (import): La Spezia, Panigaglia, Porto Levante |

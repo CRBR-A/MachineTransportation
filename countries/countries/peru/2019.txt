@@ -1,0 +1,33 @@
+| Transportation | Peru |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 7 (2015) |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 35 (2015) |
+| National air transport system: | annual passenger traffic on registered air carriers: 13,907,948 (2015) |
+| National air transport system: | annual freight traffic on registered air carriers: 223,643,434 mt-km (2015) |
+| Civil aircraft registration country code prefix: | OB (2016) |
+| Airports: | 191 (2013) |
+| Airports - with paved runways: | total: 59 (2017) |
+| Airports - with paved runways: | over 3,047 m: 5 (2017) |
+| Airports - with paved runways: | 2,438 to 3,047 m: 21 (2017) |
+| Airports - with paved runways: | 1,524 to 2,437 m: 16 (2017) |
+| Airports - with paved runways: | 914 to 1,523 m: 12 (2017) |
+| Airports - with paved runways: | under 914 m: 5 (2017) |
+| Airports - with unpaved runways: | total: 132 (2013) |
+| Airports - with unpaved runways: | 2,438 to 3,047 m: 1 (2013) |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 19 (2013) |
+| Airports - with unpaved runways: | 914 to 1,523 m: 30 (2013) |
+| Airports - with unpaved runways: | under 914 m: 82 (2013) |
+| Heliports: | 5 (2013) |
+| Pipelines: | 786 km extra heavy crude, 1526 km gas, 679 km liquid petroleum gas, 1033 km oil, 15 km refined products (2013) |
+| Railways: | total: 1,854 km (2014) |
+| Railways: | standard gauge: 1,730.4 km 1.435-m gauge (34 km electrified) (2014) |
+| Railways: | narrow gauge: 124 km 0.914-m gauge (2014) |
+| Roadways: | total: 140,672 km (18,699 km paved) (2012) |
+| Roadways: | note: includes 24,593 km of national roads (14,748 km paved), 24,235 km of departmental roads (2,340 km paved), and 91,844 km of local roads (1,611 km paved) |
+| Waterways: | 8,808 km (8,600 km of navigable tributaries on the Amazon River system and 208 km on Lago Titicaca) (2011) |
+| Merchant marine: | total: 95 |
+| Merchant marine: | by type: container ship 2, oil tanker 13, other 80 (2018) |
+| Ports and terminals: | major seaport(s): Callao, Matarani, Paita |
+| Ports and terminals: | oil terminal(s): Conchan oil terminal, La Pampilla oil terminal |
+| Ports and terminals: | container port(s) (TEUs): Callao (2,250,200) (2017) |
+| Ports and terminals: | river port(s): Iquitos, Pucallpa, Yurimaguas (Amazon) |

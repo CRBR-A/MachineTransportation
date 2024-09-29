@@ -1,0 +1,29 @@
+| Transportation | Oman |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 1 (2015) |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 45 (2015) |
+| National air transport system: | annual passenger traffic on registered air carriers: 6,365,784 (2015) |
+| National air transport system: | annual freight traffic on registered air carriers: 412,234,008 mt-km (2015) |
+| Civil aircraft registration country code prefix: | A4O (2016) |
+| Airports: | 132 (2013) |
+| Airports - with paved runways: | total: 13 (2017) |
+| Airports - with paved runways: | over 3,047 m: 7 (2017) |
+| Airports - with paved runways: | 2,438 to 3,047 m: 5 (2017) |
+| Airports - with paved runways: | 914 to 1,523 m: 1 (2017) |
+| Airports - with unpaved runways: | total: 119 (2013) |
+| Airports - with unpaved runways: | over 3,047 m: 2 (2013) |
+| Airports - with unpaved runways: | 2,438 to 3,047 m: 7 (2013) |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 51 (2013) |
+| Airports - with unpaved runways: | 914 to 1,523 m: 33 (2013) |
+| Airports - with unpaved runways: | under 914 m: 26 (2013) |
+| Heliports: | 3 (2013) |
+| Pipelines: | 106 km condensate, 4224 km gas, 3558 km oil, 33 km oil/gas/water, 264 km refined products (2013) |
+| Railways: | Roadways: |
+| Railways: | total: 60,230 km (2012) |
+| Railways: | paved: 29,685 km (includes 1,943 km of expressways) (2012) |
+| Railways: | unpaved: 30,545 km (2012) |
+| Merchant marine: | total: 51 |
+| Merchant marine: | by type: general cargo 9, other 42 (2018) |
+| Ports and terminals: | major seaport(s): Mina' Qabus, Salalah, Suhar |
+| Ports and terminals: | container port(s) (TEUs): Salalah (3,946,421) (2017) |
+| Ports and terminals: | LNG terminal(s) (export): Qalhat |

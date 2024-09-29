@@ -1,0 +1,22 @@
+| Transportation | Guatemala |
+| --- | --- |
+| Airports: | 402 (2007) |
+| Airports - with paved runways: | total: 12 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 3 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 2 |
+| Airports - with paved runways: | 914 to 1,523 m: 4 |
+| Airports - with paved runways: | under 914 m: 3 (2007) |
+| Airports - with unpaved runways: | total: 390 |
+| Airports - with unpaved runways: | 2,438 to 3,047 m: 1 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 6 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 82 |
+| Airports - with unpaved runways: | under 914 m: 301 (2007) |
+| Pipelines: | oil 480 km (2006) |
+| Railways: | total: 886 km |
+| Railways: | narrow gauge: 886 km 0.914-m gauge (2006) |
+| Roadways: | total: 14,095 km |
+| Roadways: | paved: 4,863 km (includes 75 km of expressways) |
+| Roadways: | unpaved: 9,232 km (1999) |
+| Waterways: | 990 km |
+| Waterways: | note: 260 km navigable year round; additional 730 km navigable during high-water season (2007) |
+| Ports and terminals: | Puerto Quetzal, Santo Tomas de Castilla |

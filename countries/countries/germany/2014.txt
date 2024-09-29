@@ -1,0 +1,30 @@
+| Transportation | Germany |
+| --- | --- |
+| Airports: | 539 (2013) |
+| Airports - with paved runways: | total: 318 |
+| Airports - with paved runways: | over 3,047 m: 14 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 49 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 60 |
+| Airports - with paved runways: | 914 to 1,523 m: 70 |
+| Airports - with paved runways: | under 914 m: 125 (2013) |
+| Airports - with unpaved runways: | total: 221 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 1 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 35 |
+| under 914 m: | 185 (2013) |
+| Heliports: | 23 (2013) |
+| Pipelines: | condensate 37 km; gas 26,985 km; oil 2,826 km; refined products 4,479 km; water 8 km (2013) |
+| Railways: | total: 41,981 km |
+| Railways: | standard gauge: 41,722 km 1.435-m gauge (20,053 km electrified) |
+| Railways: | narrow gauge: 220 km 1.000-m gauge (75 km electrified); 39 km 0.750-m gauge (24 km electrified) (2008) |
+| Roadways: | total: 645,000 km |
+| Roadways: | paved: 645,000 km (includes 12,800 km of expressways) |
+| Roadways: | note: includes local roads (2010) |
+| Waterways: | 7,467 km (Rhine River carries most goods; Main-Danube Canal links North Sea and Black Sea) (2012) |
+| Merchant marine: | total: 427 |
+| Merchant marine: | by type: barge carrier 2, bulk carrier 6, cargo 51, carrier 1, chemical tanker 15, container 298, liquefied gas 6, passenger 4, passenger/cargo 24, petroleum tanker 10, refrigerated cargo 3, roll on/roll off 6, vehicle carrier 1 |
+| Merchant marine: | foreign-owned: 6 (Finland 3, Netherlands 1, Switzerland 2) |
+| Merchant marine: | registered in other countries: 3,420 (Antigua and Barbuda 1094, Australia 2, Bahamas 30, Bermuda 14, Brazil 6, Bulgaria 12, Burma 1, Cayman Islands 3, Cook Islands 1, Curacao 25, Cyprus 192, Denmark 9, Dominica 5, Estonia 1, France 1, Gibraltar 123, Hong Kong 10, Isle of Man 56, Jamaica 10, Liberia 1185, Luxembourg 9, Malta 135, Marshall Islands 248, Morocco 1, Netherlands 86, NZ 2, Panama 24, Papua New Guinea 1, Philippines 2, Portugal 14, Saint Vincent and the Grenadines 3, Singapore 32, Slovakia 3, Spain 4, Sri Lanka 8, Sweden 3, UK 59, US 5, Venezuela 1) (2010) |
+| Ports and terminals: | major seaport(s): Baltic Sea - Rostock; North Sea - Wilhelmshaven |
+| Ports and terminals: | river port(s): Bremen (Weser); Bremerhaven (Geeste); Duisburg, Karlsruhe, Neuss-Dusseldorf (Rhine); Brunsbuttel, Hamburg (Elbe); Lubeck (Wakenitz) |
+| Ports and terminals: | oil/gas terminal(s): Brunsbuttel Canal terminals |
+| Ports and terminals: | container port(s): Bremen/Bremerhaven (5,915,487), Hamburg (9,014,165)(2011) |

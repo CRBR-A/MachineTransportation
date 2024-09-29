@@ -1,0 +1,34 @@
+| Transportation | BANGLADESH |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 6 |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 30 |
+| National air transport system: | annual passenger traffic on registered air carriers: 2,906,799 |
+| National air transport system: | annual freight traffic on registered air carriers: 182,692,553 mt-km (2015) |
+| Civil aircraft registration country code prefix: | S2 (2016) |
+| Airports: | 18 (2013) |
+| Airports - with paved runways: | total: 16 |
+| Airports - with paved runways: | over 3,047 m: 2 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 2 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 6 |
+| Airports - with paved runways: | 914 to 1,523 m: 1 |
+| Airports - with paved runways: | under 914 m: 5 (2013) |
+| Airports - with unpaved runways: | total: 2 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 1 |
+| Airports - with unpaved runways: | under 914 m: 1 (2013) |
+| Heliports: | 3 (2013) |
+| Pipelines: | gas 2,950 km (2013) |
+| Railways: | total: 2,460 km |
+| Railways: | broad gauge: 659 km 1.676-m gauge |
+| Railways: | narrow gauge: 1,801 km 1.000-m gauge (2014) |
+| Roadways: | total: 21,269 km |
+| Roadways: | paved: 2,021 km |
+| Roadways: | unpaved: 19,248 km (2010) |
+| Waterways: | 8,370 km (includes up to 3,060 km of main cargo routes; network reduced to 5,200 km in the dry season) (2011) |
+| Merchant marine: | total: 62 |
+| Merchant marine: | by type: bulk carrier 25, cargo 28, chemical tanker 1, container 5, petroleum tanker 3 |
+| Merchant marine: | foreign-owned: 8 (China 1, Singapore 7) |
+| Merchant marine: | registered in other countries: 10 (Comoros 1, Hong Kong 1, Panama 5, Saint Vincent and the Grenadines 1, Sierra Leone 1, Singapore 1) (2010) |
+| Ports and terminals: | major seaport(s): Chittagong |
+| Ports and terminals: | river port(s): Mongla Port (Sela River) |
+| Ports and terminals: | container port(s): Chittagong (1,392,104) (2011) |
+| Transportation - note: | the International Maritime Bureau reports the territorial waters of Bangladesh remain a risk for armed robbery against ships; in 2014, attacks against commercial vessels increased to 21 over 12 such incidents in 2013 |

@@ -1,0 +1,25 @@
+| Transportation | Hungary |
+| --- | --- |
+| Airports: | 46 (2007) |
+| Airports - with paved runways: | total: 20 |
+| Airports - with paved runways: | over 3,047 m: 2 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 8 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 4 |
+| Airports - with paved runways: | 914 to 1,523 m: 4 |
+| Airports - with paved runways: | under 914 m: 2 (2007) |
+| Airports - with unpaved runways: | total: 26 |
+| Airports - with unpaved runways: | 2,438 to 3,047 m: 2 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 3 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 11 |
+| Airports - with unpaved runways: | under 914 m: 10 (2007) |
+| Heliports: | 5 (2007) |
+| Pipelines: | gas 4,397 km; oil 990 km; refined products 335 km (2006) |
+| Railways: | total: 8,057 km |
+| Railways: | broad gauge: 36 km 1.524-m gauge |
+| Railways: | standard gauge: 7,802 km 1.435-m gauge (2,628 km electrified) |
+| Railways: | narrow gauge: 219 km 0.760-m gauge (2006) |
+| Roadways: | total: 159,568 km |
+| Roadways: | paved: 70,050 km (30,874 km of interurban roads including 626 km of expressways) |
+| Roadways: | unpaved: 89,518 km (2005) |
+| Waterways: | 1,622 km (most on Danube River) (2007) |
+| Ports and terminals: | Budapest, Dunaujvaros, Gyor-Gonyu, Csepel, Baja, Mohacs (2003) |

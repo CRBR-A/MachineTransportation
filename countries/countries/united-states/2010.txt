@@ -1,0 +1,30 @@
+| Transportation | United States |
+| --- | --- |
+| Airports: | 15,079 (2010) |
+| Airports - with paved runways: | total: 5,194 |
+| Airports - with paved runways: | over 3,047 m: 189 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 235 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 1,479 |
+| Airports - with paved runways: | 914 to 1,523 m: 2,316 |
+| Airports - with paved runways: | under 914 m: 975 (2010) |
+| Airports - with unpaved runways: | total: 9,885 |
+| Airports - with unpaved runways: | 2,438 to 3,047 m: 7 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 155 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 1,752 |
+| Airports - with unpaved runways: | under 914 m: 7,971 (2010) |
+| Heliports: | 126 (2010) |
+| Pipelines: | petroleum products 244,620 km; natural gas 548,665 km (2009) |
+| Railways: | total: 226,427 km |
+| Railways: | standard gauge: 226,427 km 1.435-m gauge (2007) |
+| Roadways: | total: 6,506,204 km |
+| Roadways: | paved: 4,374,784 km (includes 75,238 km of expressways) |
+| Roadways: | unpaved: 2,131,420 km (2008) |
+| Waterways: | 41,009 km (19,312 km used for commerce) |
+| Waterways: | note: Saint Lawrence Seaway of 3,769 km, including the Saint Lawrence River of 3,058 km, shared with Canada (2008) |
+| Merchant marine: | total: 418 |
+| Merchant marine: | by type: barge carrier 6, bulk carrier 58, cargo 58, carrier 3, chemical tanker 30, container 87, passenger 18, passenger/cargo 56, petroleum tanker 45, refrigerated cargo 3, roll on/roll off 27, vehicle carrier 27 |
+| Merchant marine: | foreign-owned: 86 (Australia 1, Bermuda 5, Canada 1, Denmark 34, France 4, Germany 3, Malaysia 2, Norway 10, Singapore 17, Sweden 5, UK 4) |
+| Merchant marine: | registered in other countries: 734 (Antigua and Barbuda 6, Australia 2, Bahamas 100, Belgium 2, Bermuda 25, Cambodia 4, Canada 9, Cayman Islands 54, Comoros 2, Cyprus 7, Georgia 1, Greece 7, Hong Kong 31, Indonesia 2, Ireland 2, Isle of Man 2, Italy 21, Liberia 39, Luxembourg 3, Malta 35, Marshall Islands 168, Netherlands 15, Norway 9, Panama 102, Portugal 4, Saint Kitts and Nevis 1, Saint Vincent and the Grenadines 19, Sierra Leone 1, Singapore 33, South Korea 8, UK 11, unknown 8) (2010) |
+| Ports and terminals: | cargo ports (tonnage): Baton Rouge, Corpus Christi, Houston, Long Beach, Los Angeles, New Orleans, New York, Plaquemines, Tampa, Texas City |
+| Ports and terminals: | container ports (TEUs): Los Angeles (7,849,985), Long Beach (6,350,125), New York/New Jersey (5,265,058), Savannah (2,616,126), Oakland (2,236,244), Hampton Roads (2,083,278) (2008) |
+| Ports and terminals: | cruise departure ports (passengers): Miami (2,032,000), Port Everglades (1,277,000), Port Canaveral (1,189,000), Seattle (430,000), Long Beach (415,000) (2009) |

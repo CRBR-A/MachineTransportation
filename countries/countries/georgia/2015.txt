@@ -1,0 +1,25 @@
+| Transportation | GEORGIA |
+| --- | --- |
+| Airports: | 22 (2013) |
+| Airports - with paved runways: | total: 18 |
+| Airports - with paved runways: | over 3,047 m: 1 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 7 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 3 |
+| Airports - with paved runways: | 914 to 1,523 m: 5 |
+| Airports - with paved runways: | under 914 m: 2 (2013) |
+| Airports - with unpaved runways: | total: 4 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 1 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 2 |
+| under 914 m: | 1 (2013) |
+| Heliports: | 2 (2013) |
+| Pipelines: | gas 1,596 km; oil 1,175 km (2013) |
+| Railways: | total: 1,363 km |
+| Railways: | broad gauge: 1,326 km 1.520-m gauge (1,251 km electrified) |
+| Railways: | narrow gauge: 37 km 0.912-m gauge (37 km electrified) (2014) |
+| Roadways: | total: 19,109 km |
+| Roadways: | paved: 19,109 km (includes 69 km of expressways) (2010) |
+| Merchant marine: | total: 142 |
+| Merchant marine: | by type: bulk carrier 13, cargo 114, chemical tanker 1, container 1, liquefied gas 1, passenger/cargo 1, petroleum tanker 3, refrigerated cargo 1, roll on/roll off 5, vehicle carrier 2 |
+| Merchant marine: | foreign-owned: 95 (Bulgaria 1, China 10, Egypt 7, Hong Kong 3, Israel 1, Italy 2, Latvia 1, Lebanon 1, Romania 7, Russia 6, Syria 24, Turkey 14, UAE 2, UK 5, Ukraine 10, US 1) |
+| Merchant marine: | registered in other countries: 1 (unknown 1) (2010) |
+| Ports and terminals: | major seaport(s): Black Sea - Bat'umi, P'ot'i |

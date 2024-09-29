@@ -1,0 +1,21 @@
+| Transportation | BOTSWANA |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 1 |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 6 |
+| National air transport system: | annual passenger traffic on registered air carriers: 194,005 |
+| National air transport system: | annual freight traffic on registered air carriers: 94,729 mt-km (2015) |
+| Civil aircraft registration country code prefix: | A2 (2016) |
+| Airports: | 74 (2013) |
+| Airports - with paved runways: | total: 10 |
+| Airports - with paved runways: | over 3,047 m: 2 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 1 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 6 |
+| Airports - with paved runways: | 914 to 1,523 m: 1 (2017) |
+| Airports - with unpaved runways: | total: 64 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 5 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 46 |
+| Airports - with unpaved runways: | under 914 m: 13 (2013) |
+| Railways: | total: 888 km |
+| Railways: | narrow gauge: 888 km 1.067-m gauge (2014) |
+| Roadways: | total: 17,916 km |
+| Roadways: | note: includes 8,916 km of Public Highway Network roads (6,116 km paved and 2,800 km unpaved) and 9,000 km of District Council roads (2011) |

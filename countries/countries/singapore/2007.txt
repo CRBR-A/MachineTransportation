@@ -1,0 +1,16 @@
+| Transportation | Singapore |
+| --- | --- |
+| Airports: | 8 (2007) |
+| Airports - with paved runways: | total: 8 |
+| Airports - with paved runways: | over 3,047 m: 2 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 1 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 4 |
+| Airports - with paved runways: | 914 to 1,523 m: 1 (2007) |
+| Pipelines: | gas 139 km; refined products 8 km (2006) |
+| Roadways: | total: 3,234 km |
+| Roadways: | paved: 3,234 km (includes 150 km of expressways) (2005) |
+| Merchant marine: | total: 1,131 ships (1000 GRT or over) 33,237,005 GRT/52,487,127 DWT |
+| Merchant marine: | by type: bulk carrier 167, cargo 85, carrier 1, chemical tanker 156, container 231, liquefied gas 72, livestock carrier 2, petroleum tanker 355, refrigerated cargo 6, roll on/roll off 3, specialized tanker 7, vehicle carrier 46 |
+| Merchant marine: | foreign-owned: 652 (Australia 6, Bangladesh 2, Belgium 8, China 19, Denmark 68, France 1, Germany 18, Greece 14, Hong Kong 37, India 9, Indonesia 56, Italy 4, Japan 108, South Korea 7, Malaysia 28, Norway 125, Philippines 4, Slovenia 1, Sweden 17, Switzerland 2, Taiwan 60, Thailand 20, UAE 8, UK 13, US 17) |
+| Merchant marine: | registered in other countries: 293 (Bahamas 9, Belize 3, Bermuda 1, Bolivia 1, Cambodia 2, Cayman Islands 10, Cyprus 1, Dominica 8, France 2, Honduras 10, Hong Kong 11, Indonesia 26, Isle of Man 2, Kiribati 1, Liberia 42, Malaysia 22, Marshall Islands 12, Mongolia 12, Nigeria 1, Norway 1, Panama 83, Philippines 1, St Vincent and The Grenadines 6, Thailand 2, Tuvalu 13, US 11, unknown 4) (2007) |
+| Ports and terminals: | Singapore |

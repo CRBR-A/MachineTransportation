@@ -1,0 +1,30 @@
+| Transportation | Denmark |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 10 (2015) |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 76 (2015) |
+| National air transport system: | annual passenger traffic on registered air carriers: 582,011 (2015) |
+| National air transport system: | annual freight traffic on registered air carriers: 0 mt-km (2015) |
+| Civil aircraft registration country code prefix: | OY (2016) |
+| Airports: | 80 (2013) |
+| Airports - with paved runways: | total: 28 (2017) |
+| Airports - with paved runways: | over 3,047 m: 2 (2017) |
+| Airports - with paved runways: | 2,438 to 3,047 m: 7 (2017) |
+| Airports - with paved runways: | 1,524 to 2,437 m: 5 (2017) |
+| Airports - with paved runways: | 914 to 1,523 m: 12 (2017) |
+| Airports - with paved runways: | under 914 m: 2 (2017) |
+| Airports - with unpaved runways: | total: 52 (2013) |
+| Airports - with unpaved runways: | 914 to 1,523 m: 5 (2013) |
+| Airports - with unpaved runways: | under 914 m: 47 (2013) |
+| Pipelines: | 1536 km gas, 330 km oil (2015) |
+| Railways: | total: 3,476 km (2017) |
+| Railways: | standard gauge: 3,476 km 1.435-m gauge (1,756 km electrified) (2017) |
+| Roadways: | total: 74,558 km (2017) |
+| Roadways: | paved: 74,558 km (includes 1,205 km of expressways) (2017) |
+| Waterways: | 400 km (2010) |
+| Merchant marine: | total: 668 |
+| Merchant marine: | by type: bulk carrier 7, container ship 123, general cargo 77, oil tanker 75, other 386 (2018) |
+| Ports and terminals: | major seaport(s): Baltic Sea - Aarhus, Copenhagen, Fredericia, Kalundborg |
+| Ports and terminals: | cruise port(s): Copenhagen |
+| Ports and terminals: | river port(s): Aalborg (Langerak) |
+| Ports and terminals: | dry bulk cargo port(s): Ensted (coal) |
+| Ports and terminals: | North Sea - Esbjerg, |

@@ -1,0 +1,32 @@
+| Transportation | PORTUGAL |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 12 |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 122 |
+| National air transport system: | annual passenger traffic on registered air carriers: 12,635,233 |
+| National air transport system: | annual freight traffic on registered air carriers: 343,971,094 mt-km (2015) |
+| Civil aircraft registration country code prefix: | CR, CS (2016) |
+| Airports: | 64 (2013) |
+| Airports - with paved runways: | total: 43 |
+| Airports - with paved runways: | over 3,047 m: 5 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 7 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 8 |
+| Airports - with paved runways: | 914 to 1,523 m: 15 |
+| Airports - with paved runways: | under 914 m: 8 (2017) |
+| Airports - with unpaved runways: | total: 21 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 1 |
+| Airports - with unpaved runways: | under 914 m: 20 (2013) |
+| Pipelines: | gas 1,344 km; oil 11 km; refined products 188 km (2013) |
+| Railways: | total: 3,075.1 km |
+| Railways: | broad gauge: 2,439 km 1.668-m gauge (1,633.4 km electrified) |
+| Railways: | narrow gauge: 108.1 km 1.000-m gauge |
+| Railways: | other: 528 km (gauge unspecified) (2014) |
+| Roadways: | total: 82,900 km |
+| Roadways: | paved: 71,294 km (includes 2,613 km of expressways) |
+| Roadways: | unpaved: 11,606 km (2008) |
+| Waterways: | 210 km (on Douro River from Porto) (2011) |
+| Merchant marine: | total: 109 |
+| Merchant marine: | by type: bulk carrier 8, cargo 35, carrier 1, chemical tanker 21, container 7, liquefied gas 6, passenger 13, passenger/cargo 5, petroleum tanker 3, roll on/roll off 1, vehicle carrier 9 |
+| Merchant marine: | foreign-owned: 81 (Belgium 8, Colombia 1, Denmark 4, Germany 14, Greece 2, Italy 12, Japan 9, Mexico 1, Norway 2, Spain 18, Sweden 3, Switzerland 3, US 4) |
+| Merchant marine: | registered in other countries: 15 (Cyprus 2, Malta 3, Panama 10) (2010) |
+| Ports and terminals: | major seaport(s): Leixoes, Lisbon, Setubal, Sines |
+| Ports and terminals: | LNG terminal(s) (import): Sines |

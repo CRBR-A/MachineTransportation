@@ -1,0 +1,27 @@
+| Transportation | Burma |
+| --- | --- |
+| Airports: | 76 (2010) |
+| Airports - with paved runways: | total: 37 |
+| Airports - with paved runways: | over 3,047 m: 12 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 8 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 15 |
+| Airports - with paved runways: | 914 to 1,523 m: 1 |
+| Airports - with paved runways: | under 914 m: 1 (2010) |
+| Airports - with unpaved runways: | total: 39 |
+| Airports - with unpaved runways: | over 3,047 m: 1 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 4 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 11 |
+| Airports - with unpaved runways: | under 914 m: 23 (2010) |
+| Heliports: | 6 (2010) |
+| Pipelines: | gas 2,228 km; oil 558 km (2009) |
+| Railways: | total: 3,955 km |
+| Railways: | narrow gauge: 3,955 km 1.000-m gauge (2008) |
+| Roadways: | total: 27,000 km |
+| Roadways: | paved: 3,200 km |
+| Roadways: | unpaved: 23,800 km (2006) |
+| Waterways: | 12,800 km (2008) |
+| Merchant marine: | total: 26 |
+| Merchant marine: | by type: bulk carrier 1, cargo 19, passenger 2, passenger/cargo 3, specialized tanker 1 |
+| Merchant marine: | foreign-owned: 3 (Cyprus 1, Germany 1, Japan 1) |
+| Merchant marine: | registered in other countries: 3 (Panama 3) (2010) |
+| Ports and terminals: | Moulmein, Rangoon, Sittwe |

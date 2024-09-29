@@ -1,0 +1,33 @@
+| Transportation | PHILIPPINES |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 11 |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 158 |
+| National air transport system: | annual passenger traffic on registered air carriers: 32,230,986 |
+| National air transport system: | annual freight traffic on registered air carriers: 484,190,968 mt-km (2015) |
+| Civil aircraft registration country code prefix: | RP (2016) |
+| Airports: | 247 (2013) |
+| Airports - with paved runways: | total: 89 |
+| Airports - with paved runways: | over 3,047 m: 4 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 8 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 33 |
+| Airports - with paved runways: | 914 to 1,523 m: 34 |
+| Airports - with paved runways: | under 914 m: 10 (2013) |
+| Airports - with unpaved runways: | total: 158 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 3 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 56 |
+| Airports - with unpaved runways: | under 914 m: 99 (2013) |
+| Heliports: | 2 (2013) |
+| Pipelines: | gas 567 km; oil 138 km; refined products 185 km (2013) |
+| Railways: | total: 995 km |
+| Railways: | narrow gauge: 995 km 1.067-m gauge (484 km are in operation) (2015) |
+| Roadways: | total: 216,387 km |
+| Roadways: | paved: 61,093 km |
+| Roadways: | unpaved: 155,294 km (2014) |
+| Waterways: | 3,219 km (limited to vessels with draft less than 1.5 m) (2011) |
+| Merchant marine: | total: 446 |
+| Merchant marine: | by type: bulk carrier 76, cargo 152, carrier 12, chemical tanker 27, container 17, liquefied gas 5, passenger 7, passenger/cargo 65, petroleum tanker 44, refrigerated cargo 20, roll on/roll off 11, vehicle carrier 10 |
+| Merchant marine: | foreign-owned: 159 (Bermuda 47, China 4, Denmark 2, Germany 2, Greece 5, Japan 77, Malaysia 1, Netherlands 17, Singapore 1, South Korea 1, Taiwan 1, UAE 1) |
+| Merchant marine: | registered in other countries: 7 (Cyprus 1, Panama 5, unknown 1) (2010) |
+| Ports and terminals: | major seaport(s): Batangas, Cagayan de Oro, Cebu, Davao, Liman, Manila |
+| Ports and terminals: | container port(s) (TEUs): Manila (3,342,200) |
+| Transportation - note: | the International Maritime Bureau reports the territorial and offshore waters in the South China Sea as high risk for piracy and armed robbery against ships; numerous commercial vessels have been attacked and hijacked both at anchor and while underway; hijacked vessels are often disguised and cargo diverted to ports in East Asia; crews have been murdered or cast adrift |

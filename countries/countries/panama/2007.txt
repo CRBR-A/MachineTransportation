@@ -1,0 +1,26 @@
+| Transportation | Panama |
+| --- | --- |
+| Airports: | 116 (2007) |
+| Airports - with paved runways: | total: 54 |
+| Airports - with paved runways: | over 3,047 m: 1 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 1 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 5 |
+| Airports - with paved runways: | 914 to 1,523 m: 18 |
+| Airports - with paved runways: | under 914 m: 29 (2007) |
+| Airports - with unpaved runways: | total: 62 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 1 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 11 |
+| Airports - with unpaved runways: | under 914 m: 50 (2007) |
+| Heliports: | 2 (2007) |
+| Railways: | total: 355 km |
+| Railways: | standard gauge: 77 km 1.435-m gauge |
+| Railways: | narrow gauge: 278 km 0.914-m gauge (2006) |
+| Roadways: | total: 11,643 km |
+| Roadways: | paved: 4,028 km |
+| Roadways: | unpaved: 7,615 km (2000) |
+| Waterways: | 800 km (includes 82 km Panama Canal) (2007) |
+| Merchant marine: | total: 5,764 ships (1000 GRT or over) 159,649,801 GRT/240,190,316 DWT |
+| Merchant marine: | by type: barge carrier 2, bulk carrier 1,940, cargo 1,034, carrier 3, chemical tanker 507, combination ore/oil 6, container 710, liquefied gas 191, livestock carrier 7, passenger 46, passenger/cargo 72, petroleum tanker 522, refrigerated cargo 288, roll on/roll off 129, specialized tanker 22, vehicle carrier 285 |
+| Merchant marine: | foreign-owned: 4,949 (Albania 1, Argentina 8, Australia 4, Bahamas 2, Bangladesh 1, Belgium 11, Bulgaria 1, Canada 17, Chile 8, China 473, Colombia 4, Croatia 6, Cuba 11, Cyprus 15, Denmark 32, Dominican Republic 1, Ecuador 2, Egypt 13, Estonia 3, France 15, Gabon 1, Germany 38, Greece 505, Hong Kong 137, India 25, Indonesia 37, Iran 4, Ireland 1, Israel 2, Italy 10, Jamaica 1, Japan 2,151, Jordan 11, South Korea 316, Kuwait 1, Latvia 5, Lebanon 3, Lithuania 5, Malaysia 14, Maldives 1, Malta 2, Mexico 4, Monaco 11, Netherlands 14, Nigeria 6, Norway 60, Oman 1, Pakistan 5, Peru 15, Philippines 12, Poland 15, Portugal 9, Qatar 1, Romania 8, Russia 9, Saudi Arabia 14, Singapore 83, Spain 61, Sri Lanka 3, Sweden 9, Switzerland 26, Syria 24, Taiwan 306, Thailand 10, Turkey 53, Turks and Caicos Islands 1, Ukraine 8, UAE 108, UK 35, US 115, Venezuela 10, Vietnam 10, Yemen 5) |
+| Merchant marine: | registered in other countries: 1 (Venezuela 1) (2007) |
+| Ports and terminals: | Balboa, Colon, Cristobal |

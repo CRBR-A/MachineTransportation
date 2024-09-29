@@ -1,0 +1,25 @@
+| Transportation | Romania |
+| --- | --- |
+| Airports: | 54 (2010) |
+| Airports - with paved runways: | total: 26 |
+| Airports - with paved runways: | over 3,047 m: 4 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 10 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 11 |
+| Airports - with paved runways: | under 914 m: 1 (2010) |
+| Airports - with unpaved runways: | total: 28 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 7 |
+| Airports - with unpaved runways: | under 914 m: 21 (2010) |
+| Heliports: | 3 (2010) |
+| Pipelines: | gas 3,588 km; oil 2,424 km (2009) |
+| Railways: | total: 10,788 km |
+| Railways: | broad gauge: 57 km 1.524-m gauge |
+| Railways: | standard gauge: 10,731 km 1.435-m gauge (3,965 km electrified) (2008) |
+| Roadways: | total: 198,817 km |
+| Roadways: | paved: 60,043 km (includes 281 km of expressways) |
+| Roadways: | unpaved: 138,774 km (2008) |
+| Waterways: | 1,731 km |
+| Waterways: | note: includes 1,075 km on Danube River, 524 km on secondary branches, and 132 km on canals (2006) |
+| Merchant marine: | total: 15 |
+| Merchant marine: | by type: cargo 10, passenger/cargo 2, petroleum tanker 2, roll on/roll off 1 |
+| Merchant marine: | registered in other countries: 35 (Cambodia 1, Georgia 7, Liberia 3, Malta 8, Marshall Islands 2, Moldova 2, North Korea 1, Panama 2, Saint Vincent and the Grenadines 1, Sierra Leone 4, Syria 1, Togo 1, unknown 1) (2010) |
+| Ports and terminals: | Braila, Constanta, Galati (Galatz), Mancanului (Giurgiu), Midia, Tulcea |

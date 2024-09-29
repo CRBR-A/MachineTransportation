@@ -1,0 +1,28 @@
+| Transportation | France |
+| --- | --- |
+| Airports: | 475 (2009) |
+| Airports - with paved runways: | total: 297 |
+| Airports - with paved runways: | over 3,047 m: 14 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 27 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 97 |
+| Airports - with paved runways: | 914 to 1,523 m: 82 |
+| Airports - with paved runways: | under 914 m: 77 (2009) |
+| Airports - with unpaved runways: | total: 178 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 1 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 70 |
+| Airports - with unpaved runways: | under 914 m: 107 (2009) |
+| Heliports: | 1 (2009) |
+| Pipelines: | gas 14,688 km; oil 3,036 km; refined products 5,080 km (2008) |
+| Railways: | total: 29,213 km |
+| Railways: | standard gauge: 29,046 km 1.435-m gauge (15,164 km electrified) |
+| Railways: | narrow gauge: 167 km 1.000-m gauge (2008) |
+| Roadways: | total: 951,500 km |
+| Roadways: | paved: 951,500 km (metropolitan France; includes 10,950 km of expressways) |
+| Roadways: | note: there are another 5,100 km of roadways in overseas departments (2006) |
+| Waterways: | metropolitan France: 8,501 km (1,621 km accessible to craft of 3,000 metric tons) |
+| Waterways: | French Guiana: 3,760 km (460 km navigable by small oceangoing vessels and coastal and river steamers, 3,300 km by native craft) (2008) |
+| Merchant marine: | total: 138 |
+| Merchant marine: | by type: bulk carrier 2, cargo 1, chemical tanker 32, container 25, liquefied gas 12, passenger 3, passenger/cargo 33, petroleum tanker 23, roll on/roll off 7 |
+| Merchant marine: | foreign-owned: 38 (Belgium 6, China 5, Denmark 2, Germany 1, Italy 2, Japan 1, NZ 1, Norway 5, Saudi Arabia 1, Singapore 2, Sweden 9, Switzerland 3) |
+| Merchant marine: | registered in other countries: 127 (Antigua and Barbuda 1, Australia 1, Bahamas 30, Belgium 2, Bermuda 1, Hong Kong 1, Indonesia 1, Isle of Man 1, Italy 2, Liberia 5, Luxembourg 17, Malta 5, Morocco 14, Netherlands 1, Norway 3, Panama 5, Saint Vincent and the Grenadines 6, Singapore 1, Taiwan 1, UK 23, Wallis and Futuna 6) (2008) |
+| Ports and terminals: | Bordeaux, Calais, Dunkerque, Le Havre, Marseille, Nantes, Paris, Rouen, Strasbourg |

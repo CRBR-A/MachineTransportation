@@ -1,0 +1,28 @@
+| Transportation | CAMEROON |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 1 |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 3 |
+| National air transport system: | annual passenger traffic on registered air carriers: 267,208 |
+| National air transport system: | annual freight traffic on registered air carriers: 0 mt-km (2015) |
+| Civil aircraft registration country code prefix: | TJ (2016) |
+| Airports: | 33 (2013) |
+| Airports - with paved runways: | total: 11 |
+| Airports - with paved runways: | over 3,047 m: 2 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 5 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 3 |
+| Airports - with paved runways: | 914 to 1,523 m: 1 (2017) |
+| Airports - with unpaved runways: | total: 22 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 4 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 10 |
+| Airports - with unpaved runways: | under 914 m: 8 (2013) |
+| Pipelines: | gas 53 km; liquid petroleum gas 5 km; oil 1,107 km; water 35 km (2013) |
+| Railways: | total: 987 km |
+| Railways: | narrow gauge: 987 km 1.000-m gauge |
+| Railways: | note: railway connections generally efficient but limited; rail lines connect major cities of Douala, Yaounde, Ngaoundere, and Garoua; passenger and freight service provided by CAMRAIL (2014) |
+| Roadways: | total: 51,350 km |
+| Roadways: | paved: 4,108 km |
+| Roadways: | unpaved: 47,242 km |
+| Roadways: | note: there are 28,857 km of national roads (2011) |
+| Waterways: | (major rivers in the south, such as the Wouri and the Sanaga, are largely non-navigable; in the north, the Benue, which connects through Nigeria to the Niger River, is navigable in the rainy season only to the port of Garoua) (2010) |
+| Ports and terminals: | river port(s): Douala (Wouri); Garoua (Benoue) |
+| Ports and terminals: | oil terminal(s): Limboh Terminal |

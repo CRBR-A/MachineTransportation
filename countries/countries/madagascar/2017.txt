@@ -1,0 +1,28 @@
+| Transportation | MADAGASCAR |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 3 |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 11 |
+| National air transport system: | annual passenger traffic on registered air carriers: 546,946 |
+| National air transport system: | annual freight traffic on registered air carriers: 30,512,607 mt-km (2015) |
+| Civil aircraft registration country code prefix: | 5R (2016) |
+| Airports: | 83 (2013) |
+| Airports - with paved runways: | total: 26 |
+| Airports - with paved runways: | over 3,047 m: 1 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 2 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 6 |
+| Airports - with paved runways: | 914 to 1,523 m: 16 |
+| Airports - with paved runways: | under 914 m: 1 (2017) |
+| Airports - with unpaved runways: | total: 57 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 1 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 38 |
+| Airports - with unpaved runways: | under 914 m: 18 (2013) |
+| Railways: | total: 836 km |
+| Railways: | narrow gauge: 836 km 1.000-m gauge (2014) |
+| Roadways: | total: 37,476 km |
+| Roadways: | paved: 6,103 km |
+| Roadways: | unpaved: 31,373 km (2010) |
+| Waterways: | 600 km (432 km navigable) (2011) |
+| Merchant marine: | total: 1 |
+| Merchant marine: | by type: cargo 1 |
+| Merchant marine: | registered in other countries: 1 (unknown 1) (2010) |
+| Ports and terminals: | major seaport(s): Antsiranana (Diego Suarez), Mahajanga, Toamasina, Toliara (Tulear) |

@@ -1,0 +1,28 @@
+| Transportation | GREECE |
+| --- | --- |
+| Airports: | 77 (2013) |
+| Airports - with paved runways: | total: 68 |
+| Airports - with paved runways: | over 3,047 m: 6 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 15 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 19 |
+| Airports - with paved runways: | 914 to 1,523 m: 18 |
+| Airports - with paved runways: | under 914 m: 10 (2013) |
+| Airports - with unpaved runways: | total: 9 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 2 |
+| under 914 m: | 7 (2013) |
+| Heliports: | 9 (2013) |
+| Pipelines: | gas 1,329 km; oil 94 km (2013) |
+| Railways: | total: 2,548 km |
+| Railways: | standard gauge: 1,565 km 1.435-m gauge (764 km electrified) |
+| Railways: | narrow gauge: 961 km 1.000-m gauge; 22 km 0.750-m gauge (2014) |
+| Roadways: | total: 116,960 km |
+| Roadways: | paved: 41,357 km (includes 1,091 km of expressways) |
+| Roadways: | unpaved: 75,603 km (2010) |
+| Waterways: | 6 km (the 6-km-long Corinth Canal crosses the Isthmus of Corinth; it shortens a sea voyage by 325 km) (2012) |
+| Merchant marine: | total: 860 |
+| Merchant marine: | by type: bulk carrier 262, cargo 49, carrier 1, chemical tanker 68, container 35, liquefied gas 13, passenger 7, passenger/cargo 109, petroleum tanker 302, roll on/roll off 14 |
+| Merchant marine: | foreign-owned: 42 (Belgium 17, Bermuda 3, Cyprus 3, Italy 5, UK 6, US 8) |
+| Merchant marine: | registered in other countries: 2,459 (Antigua and Barbuda 4, Bahamas 225, Barbados 14, Belize 2, Bermuda 8, Brazil 1, Cabo Verde 1, Cambodia 2, Cayman Islands 9, Comoros 4, Curacao 1, Cyprus 201, Dominica 4, Egypt 8, Gibraltar 8, Honduras 4, Hong Kong 27, Indonesia 1, Isle of Man 62, Italy 7, Jamaica 3, Liberia 505, Malta 469, Marshall Islands 408, Mexico 2, Moldova 1, Panama 379, Philippines 5, Portugal 2, Saint Kitts and Nevis 2, Saint Vincent and the Grenadines 42, Sao Tome and Principe 1, Saudi Arabia 4, Singapore 22, UAE 3, Uruguay 1, Vanuatu 3, Venezuela 4, unknown 10) (2010) |
+| Ports and terminals: | major seaport(s): Aspropyrgos, Pachi, Piraeus, Thessaloniki |
+| Ports and terminals: | oil terminal(s): Agioi Theodoroi |
+| Ports and terminals: | LNG terminal(s) (import): Revithoussa |

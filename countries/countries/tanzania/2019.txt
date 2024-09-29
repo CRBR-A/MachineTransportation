@@ -1,0 +1,29 @@
+| Transportation | Tanzania |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 5 (2015) |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 17 (2015) |
+| National air transport system: | annual passenger traffic on registered air carriers: 1,239,707 (2015) |
+| National air transport system: | annual freight traffic on registered air carriers: 2,337,440 mt-km (2015) |
+| Civil aircraft registration country code prefix: | 5H (2016) |
+| Airports: | 166 (2013) |
+| Airports - with paved runways: | total: 10 (2013) |
+| Airports - with paved runways: | over 3,047 m: 2 (2013) |
+| Airports - with paved runways: | 2,438 to 3,047 m: 2 (2013) |
+| Airports - with paved runways: | 1,524 to 2,437 m: 4 (2013) |
+| Airports - with paved runways: | 914 to 1,523 m: 2 (2013) |
+| Airports - with unpaved runways: | total: 156 (2013) |
+| Airports - with unpaved runways: | over 3,047 m: 1 (2013) |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 24 (2013) |
+| Airports - with unpaved runways: | 914 to 1,523 m: 98 (2013) |
+| Airports - with unpaved runways: | under 914 m: 33 (2013) |
+| Pipelines: | 311 km gas, 891 km oil, 8 km refined products (2013) |
+| Railways: | total: 4,567 km (2014) |
+| Railways: | narrow gauge: 1,860 km 1.067-m gauge (2014) |
+| Railways: | 2707 km 1.000-m gauge |
+| Roadways: | total: 87,581 km (2015) |
+| Roadways: | paved: 10,025 km (2015) |
+| Roadways: | unpaved: 77,556 km (2015) |
+| Waterways: | (Lake Tanganyika, Lake Victoria, and Lake Nyasa (Lake Malawi) are the principal avenues of commerce with neighboring countries; the rivers are not navigable) (2011) |
+| Merchant marine: | total: 329 |
+| Merchant marine: | by type: bulk carrier 6, container ship 9, general cargo 184, oil tanker 41, other 89 (2018) |
+| Ports and terminals: | major seaport(s): Dar es Salaam, Zanzibar |

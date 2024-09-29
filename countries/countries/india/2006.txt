@@ -1,0 +1,29 @@
+| Transportation | India |
+| --- | --- |
+| Airports: | 341 (2006) |
+| Airports - with paved runways: | total: 243 |
+| Airports - with paved runways: | over 3,047 m: 17 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 51 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 73 |
+| Airports - with paved runways: | 914 to 1,523 m: 81 |
+| Airports - with paved runways: | under 914 m: 21 (2006) |
+| Airports - with unpaved runways: | total: 98 |
+| Airports - with unpaved runways: | 2,438 to 3,047 m: 1 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 7 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 42 |
+| Airports - with unpaved runways: | under 914 m: 48 (2006) |
+| Heliports: | 28 (2006) |
+| Pipelines: | condensate/gas 8 km; gas 5,184 km; liquid petroleum gas 1,993 km; oil 6,500 km; refined products 6,152 km (2006) |
+| Railways: | total: 63,230 km |
+| Railways: | broad gauge: 45,718 km 1.676-m gauge (16,528 km electrified) |
+| Railways: | narrow gauge: 14,406 km 1.000-m gauge (165 km electrified); 3,106 km 0.762-m gauge and 0.610-m gauge (2005) |
+| Roadways: | total: 3,851,440 km |
+| Roadways: | paved: 2,411,001 km |
+| Roadways: | unpaved: 1,440,439 km (2002) |
+| Waterways: | 14,500 km |
+| Waterways: | note: 5,200 km on major rivers and 485 km on canals suitable for mechanized vessels (2005) |
+| Merchant marine: | total: 316 ships (1000 GRT or over) 7,772,313 GRT/13,310,858 DWT |
+| Merchant marine: | by type: bulk carrier 96, cargo 72, chemical tanker 13, container 8, liquefied gas 17, passenger 3, passenger/cargo 10, petroleum tanker 96, roll on/roll off 1 |
+| Merchant marine: | foreign-owned: 10 (China 2, Hong Kong 1, UAE 6, UK 1) |
+| Merchant marine: | registered in other countries: 46 (Bahamas 1, Comoros 1, Cyprus 5, North Korea 1, Liberia 3, Malta 1, Mauritius 2, Panama 19, Saint Vincent and the Grenadines 6, Singapore 5, Venezuela 1, unknown 1) (2006) |
+| Ports and terminals: | Chennai, Haldia, Jawaharal Nehru, Kandla, Kolkata (Calcutta), Mumbai (Bombay), New Mangalore, Vishakhapatnam |

@@ -1,0 +1,28 @@
+| Transportation | Venezuela |
+| --- | --- |
+| Airports: | 390 (2007) |
+| Airports - with paved runways: | total: 128 |
+| Airports - with paved runways: | over 3,047 m: 5 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 10 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 34 |
+| Airports - with paved runways: | 914 to 1,523 m: 61 |
+| Airports - with paved runways: | under 914 m: 18 (2007) |
+| Airports - with unpaved runways: | total: 262 |
+| Airports - with unpaved runways: | 2,438 to 3,047 m: 1 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 15 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 97 |
+| Airports - with unpaved runways: | under 914 m: 149 (2007) |
+| Heliports: | 2 (2007) |
+| Pipelines: | extra heavy crude oil 992 km; gas 5,369 km; oil 7,607 km; refined products 1,681 km; unknown (oil/water) 141 km (2006) |
+| Railways: | total: 682 km |
+| Railways: | standard gauge: 682 km 1.435-m gauge (2006) |
+| Roadways: | total: 96,155 km |
+| Roadways: | paved: 32,308 km |
+| Roadways: | unpaved: 63,847 km (1999) |
+| Waterways: | 7,100 km |
+| Waterways: | note: Orinoco River (400 km) and Lake de Maracaibo navigable by oceangoing vessels (2005) |
+| Merchant marine: | total: 59 ships (1000 GRT or over) 808,721 GRT/1,285,783 DWT |
+| Merchant marine: | by type: bulk carrier 7, cargo 14, chemical tanker 3, container 1, liquefied gas 6, passenger/cargo 10, petroleum tanker 17, refrigerated cargo 1 |
+| Merchant marine: | foreign-owned: 12 (Denmark 3, Greece 3, Mexico 3, Panama 1, Russia 1, Spain 1) |
+| Merchant marine: | registered in other countries: 11 (Bahamas 1, Panama 10) (2007) |
+| Ports and terminals: | Amuay, La Guaira, Maracaibo, Puerto Cabello, Punta Cardon |

@@ -1,0 +1,29 @@
+| Transportation | Syria |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 2 (2015) |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 11 (2015) |
+| National air transport system: | annual passenger traffic on registered air carriers: 475,932 (2015) |
+| National air transport system: | annual freight traffic on registered air carriers: 1,517,388 mt-km (2015) |
+| Civil aircraft registration country code prefix: | YK (2016) |
+| Airports: | 90 (2013) |
+| Airports - with paved runways: | total: 29 (2013) |
+| Airports - with paved runways: | over 3,047 m: 5 (2013) |
+| Airports - with paved runways: | 2,438 to 3,047 m: 16 (2013) |
+| Airports - with paved runways: | 914 to 1,523 m: 3 (2013) |
+| Airports - with paved runways: | under 914 m: 5 (2013) |
+| Airports - with unpaved runways: | total: 61 (2013) |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 1 (2013) |
+| Airports - with unpaved runways: | 914 to 1,523 m: 12 (2013) |
+| Airports - with unpaved runways: | under 914 m: 48 (2013) |
+| Heliports: | 6 (2013) |
+| Pipelines: | 3170 km gas, 2029 km oil (2013) |
+| Railways: | total: 2,052 km (2014) |
+| Railways: | standard gauge: 1,801 km 1.435-m gauge (2014) |
+| Railways: | narrow gauge: 251 km 1.050-m gauge (2014) |
+| Roadways: | total: 69,873 km (2010) |
+| Roadways: | paved: 63,060 km (2010) |
+| Roadways: | unpaved: 6,813 km (2010) |
+| Waterways: | 900 km (navigable but not economically significant) (2011) |
+| Merchant marine: | total: 21 (2017) |
+| Merchant marine: | by type: bulk carrier 1, general cargo 7, other 13 (2017) |
+| Ports and terminals: | major seaport(s): Baniyas, Latakia, Tartus |

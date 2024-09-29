@@ -1,0 +1,30 @@
+| Transportation | SYRIA |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 2 |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 11 |
+| National air transport system: | annual passenger traffic on registered air carriers: 475,932 |
+| National air transport system: | annual freight traffic on registered air carriers: 1,517,388 mt-km (2015) |
+| Civil aircraft registration country code prefix: | YK (2016) |
+| Airports: | 90 (2013) |
+| Airports - with paved runways: | total: 29 |
+| Airports - with paved runways: | over 3,047 m: 5 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 16 |
+| Airports - with paved runways: | 914 to 1,523 m: 3 |
+| Airports - with paved runways: | under 914 m: 5 (2013) |
+| Airports - with unpaved runways: | total: 61 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 1 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 12 |
+| Airports - with unpaved runways: | under 914 m: 48 (2013) |
+| Heliports: | 6 (2013) |
+| Pipelines: | gas 3,170 km; oil 2,029 km (2013) |
+| Railways: | total: 2,052 km |
+| Railways: | standard gauge: 1,801 km 1.435-m gauge |
+| Railways: | narrow gauge: 251 km 1.050-m gauge (2014) |
+| Roadways: | total: 69,873 km |
+| Roadways: | paved: 63,060 km |
+| Roadways: | unpaved: 6,813 km (2010) |
+| Waterways: | 900 km (navigable but not economically significant) (2011) |
+| Merchant marine: | total: 19 |
+| Merchant marine: | by type: bulk carrier 4, cargo 14, carrier 1 |
+| Merchant marine: | registered in other countries: 166 (Barbados 1, Belize 4, Bolivia 4, Cambodia 22, Comoros 5, Dominica 4, Georgia 24, Lebanon 2, Liberia 1, Malta 4, Moldova 5, North Korea 4, Panama 34, Saint Vincent and the Grenadines 9, Sierra Leone 13, Tanzania 23, Togo 6, unknown 1) (2010) |
+| Ports and terminals: | major seaport(s): Baniyas, Latakia, Tartus |

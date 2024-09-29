@@ -1,0 +1,25 @@
+| Transportation | Mauritania |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 1 (2015) |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 4 (2015) |
+| National air transport system: | annual passenger traffic on registered air carriers: 248,158 (2015) |
+| National air transport system: | annual freight traffic on registered air carriers: 0 mt-km (2015) |
+| Civil aircraft registration country code prefix: | 5T (2016) |
+| Airports: | 30 (2013) |
+| Airports - with paved runways: | total: 9 (2017) |
+| Airports - with paved runways: | 2,438 to 3,047 m: 5 (2017) |
+| Airports - with paved runways: | 1,524 to 2,437 m: 4 (2017) |
+| Airports - with unpaved runways: | total: 21 (2013) |
+| Airports - with unpaved runways: | 2,438 to 3,047 m: 1 (2013) |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 10 (2013) |
+| Airports - with unpaved runways: | 914 to 1,523 m: 8 (2013) |
+| Airports - with unpaved runways: | under 914 m: 2 (2013) |
+| Railways: | total: 728 km (2014) |
+| Railways: | standard gauge: 728 km 1.435-m gauge (2014) |
+| Roadways: | total: 12,253 km (2018) |
+| Roadways: | paved: 3,988 km (2018) |
+| Roadways: | unpaved: 8,265 km (2018) |
+| Waterways: | (some navigation possible on the Senegal River) (2011) |
+| Merchant marine: | total: 6 (2017) |
+| Merchant marine: | by type: bulk carrier 1, general cargo 2, other 3 (2017) |
+| Ports and terminals: | major seaport(s): Nouadhibou, Nouakchott |

@@ -1,0 +1,24 @@
+| Transportation | Hungary |
+| --- | --- |
+| Airports: | 43 (2010) |
+| Airports - with paved runways: | total: 22 |
+| Airports - with paved runways: | over 3,047 m: 2 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 7 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 5 |
+| Airports - with paved runways: | 914 to 1,523 m: 6 |
+| Airports - with paved runways: | under 914 m: 2 (2010) |
+| Airports - with unpaved runways: | total: 21 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 2 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 8 |
+| Airports - with unpaved runways: | under 914 m: 11 (2010) |
+| Heliports: | 5 (2010) |
+| Pipelines: | gas 4,716 km; oil 984 km; refined products 361 km (2010) |
+| Railways: | total: 9,208 km |
+| Railways: | broad gauge: 36 km 1.524-m gauge |
+| Railways: | standard gauge: 7,802 km 1.435-m gauge (2,911 km electrified) |
+| Railways: | narrow gauge: 219 km 0.760-m gauge (2009) |
+| Roadways: | total: 197,519 km |
+| Roadways: | paved: 74,993 km (43,898 km of interurban roads including 911 km of expressways) |
+| Roadways: | unpaved: 112,526 km (2010) |
+| Waterways: | 1,622 km (most on Danube River) (2010) |
+| Ports and terminals: | Budapest, Dunaujvaros, Gyor-Gonyu, Csepel, Baja, Mohacs |

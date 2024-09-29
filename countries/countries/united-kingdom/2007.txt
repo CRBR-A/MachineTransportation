@@ -1,0 +1,27 @@
+| Transportation | United Kingdom |
+| --- | --- |
+| Airports: | 449 (2007) |
+| Airports - with paved runways: | total: 310 |
+| Airports - with paved runways: | over 3,047 m: 8 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 33 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 131 |
+| Airports - with paved runways: | 914 to 1,523 m: 79 |
+| Airports - with paved runways: | under 914 m: 59 (2007) |
+| Airports - with unpaved runways: | total: 139 |
+| Airports - with unpaved runways: | 2,438 to 3,047 m: 1 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 2 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 23 |
+| Airports - with unpaved runways: | under 914 m: 113 (2007) |
+| Heliports: | 11 (2007) |
+| Pipelines: | condensate 565 km; condensate/gas 6 km; gas 21,575 km; liquid petroleum gas 59 km; oil 5,094 km; oil/gas/water 161 km; refined products 4,444 km (2006) |
+| Railways: | total: 16,567 km |
+| Railways: | broad gauge: 303 km 1.600-m gauge (in Northern Ireland) |
+| Railways: | standard gauge: 16,264 km 1.435-m gauge (5,361 km electrified) (2006) |
+| Roadways: | total: 388,008 km |
+| Roadways: | paved: 388,008 km (includes 3,520 km of expressways) (2005) |
+| Waterways: | 3,200 km (620 km used for commerce) (2003) |
+| Merchant marine: | total: 474 ships (1000 GRT or over) 11,723,618 GRT/12,315,588 DWT |
+| Merchant marine: | by type: bulk carrier 26, cargo 60, carrier 4, chemical tanker 56, container 156, liquefied gas 18, passenger 10, passenger/cargo 62, petroleum tanker 27, refrigerated cargo 17, roll on/roll off 24, vehicle carrier 14 |
+| Merchant marine: | foreign-owned: 242 (Australia 1, Cyprus 1, Denmark 61, Finland 1, France 9, Germany 71, Greece 6, Hong Kong 2, Ireland 1, Italy 4, Japan 1, Netherlands 2, NZ 1, Norway 33, South Africa 4, Sweden 19, Switzerland 1, Taiwan 11, Turkey 2, US 11) |
+| Merchant marine: | registered in other countries: 412 (Algeria 12, Antigua and Barbuda 4, Argentina 4, Australia 2, Bahamas 68, Barbados 3, Bermuda 20, Brunei 8, Cape Verde 1, Cayman Islands 9, Cyprus 21, Faroe Islands 1, Gibraltar 3, Greece 15, Hong Kong 32, India 1, Indonesia 3, Italy 7, South Korea 1, Liberia 74, Luxembourg 7, Malta 12, Marshall Islands 17, Netherlands 7, Norway 9, Panama 35, Papua New Guinea 6, Singapore 13, Slovakia 1, St Vincent and The Grenadines 9, Sweden 2, Thailand 3, Tonga 1, US 1, unknown 1) (2007) |
+| Ports and terminals: | Hound Point, Immingham, Milford Haven, Liverpool, London, Southampton, Sullom Voe, Teesport |

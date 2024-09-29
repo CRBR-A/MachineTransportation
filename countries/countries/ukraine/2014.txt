@@ -1,0 +1,25 @@
+| Transportation | Ukraine |
+| --- | --- |
+| Airports: | 187 (2013) |
+| Airports - with paved runways: | total: 108 |
+| Airports - with paved runways: | over 3,047 m: 13 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 42 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 22 |
+| Airports - with paved runways: | 914 to 1,523 m: 3 |
+| Airports - with paved runways: | under 914 m: 28 (2013) |
+| Airports - with unpaved runways: | total: 79 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 5 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 5 |
+| under 914 m: | 69 (2013) |
+| Heliports: | 9 (2013) |
+| Pipelines: | gas 36,720 km; oil 4,514 km; refined products 4,363 km (2013) |
+| Railways: | total: 21,619 km |
+| Railways: | broad gauge: 21,619 km 1.524-m gauge (10,242 km electrified) (2012) |
+| Roadways: | total: 169,694 km |
+| Roadways: | paved: 166,095 km (includes 17 km of expressways) |
+| Roadways: | unpaved: 3,599 km (2012) |
+| Waterways: | 1,672 km (most on Dnieper River) (2012) |
+| Merchant marine: | total: 134 |
+| Merchant marine: | by type: bulk carrier 3, cargo 98, chemical tanker 1, passenger 6, passenger/cargo 5, petroleum tanker 8, refrigerated cargo 11, specialized tanker 2 |
+| Merchant marine: | registered in other countries: 172 (Belize 6, Cambodia 35, Comoros 10, Cyprus 3, Dominica 1, Georgia 10, Liberia 10, Malta 29, Marshall Islands 1, Moldova 14, Mongolia 1, Panama 8, Russia 12, Saint Kitts and Nevis 8, Saint Vincent and the Grenadines 12, Sierra Leone 5, Slovakia 2, unknown 5) (2010) |
+| Ports and terminals: | major seaport(s): Feodosiya (Theodosia), Illichivsk, Mariupol', Mykolayiv, Odesa, Yuzhnyy |

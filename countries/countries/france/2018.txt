@@ -1,0 +1,36 @@
+| Transportation | France |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 30 (2015) |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 485 (2015) |
+| National air transport system: | annual passenger traffic on registered air carriers: 65,039,503 (2015) |
+| National air transport system: | annual freight traffic on registered air carriers: 4,098,310,000 mt-km (2015) |
+| Civil aircraft registration country code prefix: | F (2016) |
+| Airports: | 464 (2013) |
+| Airports - with paved runways: | total: 294 (2017) |
+| Airports - with paved runways: | over 3,047 m: 14 (2017) |
+| Airports - with paved runways: | 2,438 to 3,047 m: 25 (2017) |
+| Airports - with paved runways: | 1,524 to 2,437 m: 97 (2017) |
+| Airports - with paved runways: | 914 to 1,523 m: 83 (2017) |
+| Airports - with paved runways: | under 914 m: 75 (2017) |
+| Airports - with unpaved runways: | total: 170 (2013) |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 1 (2013) |
+| Airports - with unpaved runways: | 914 to 1,523 m: 64 (2013) |
+| Airports - with unpaved runways: | under 914 m: 105 (2013) |
+| Heliports: | 1 (2013) |
+| Pipelines: | 15322 km gas, 2939 km oil, 5084 km refined products (2013) |
+| Railways: | total: 29,640 km (2014) |
+| Railways: | standard gauge: 29,473 km 1.435-m gauge (15,561 km electrified) (2014) |
+| Railways: | narrow gauge: 167 km 1.000-m gauge (63 km electrified) (2014) |
+| Roadways: | total: 1,028,446 km (metropolitan France) (2010) |
+| Roadways: | paved: 1,028,446 km (includes 11,416 km of expressways) (2010) |
+| Roadways: | note: not included are 5,100 km of roadways in overseas departments |
+| Waterways: | metropolitan France: 8,501 km (1,621 km navigable by craft up to 3,000 metric tons) (2010) |
+| Merchant marine: | total: 555 (2017) |
+| Merchant marine: | by type: container ship 24, general cargo 72, oil tanker 28, other 431 (2017) |
+| Merchant marine: | note: includes Monaco |
+| Ports and terminals: | major seaport(s): Brest, Calais, Dunkerque, Le Havre, Marseille, Nantes, |
+| Ports and terminals: | container port(s) (TEUs): Le Havre (2,510,000) (2016) |
+| Ports and terminals: | LNG terminal(s) (import): Fos Cavaou, Fos Tonkin, Montoir de Bretagne |
+| Ports and terminals: | river port(s): Paris, Rouen (Seine) |
+| Ports and terminals: | cruise/ferry port(s): Calais, Cherbourg, Le Havre |
+| Ports and terminals: | Strasbourg (Rhine) Bordeaux (Garronne) |

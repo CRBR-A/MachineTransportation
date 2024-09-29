@@ -1,0 +1,20 @@
+| Transportation | East Timor |
+| --- | --- |
+| Railways: | 0 km |
+| Highways: | total: 3,800 km |
+| Highways: | paved: 428 km |
+| Highways: | unpaved: 3,372 km (1995) |
+| Waterways: | NA |
+| Pipelines: | NA |
+| Ports and harbors: | NA |
+| Merchant marine: | total: NA |
+| Merchant marine: | ships by type: NA |
+| Airports: | 8 (2002) |
+| Airports - with paved runways: | total: 3 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 1 |
+| Airports - with paved runways: | 1,524 to 2,427 m: 1 |
+| Airports - with paved runways: | 914 to 1,523 m: 1 (2002) |
+| Airports - with unpaved runways: | total: 5 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 3 |
+| Airports - with unpaved runways: | under 914 m: 2 (2002) |
+| Heliports: | 1 (2002) |

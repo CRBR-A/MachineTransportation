@@ -1,0 +1,7 @@
+| Transportation | San Marino |
+| --- | --- |
+| Highways: | total: 220 km |
+| Highways: | paved: 220 km |
+| Highways: | unpaved: 0 km (2001) |
+| Ports and harbors: | none |
+| Airports: | none (2003 est.) |

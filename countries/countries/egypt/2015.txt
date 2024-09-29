@@ -1,0 +1,29 @@
+| Transportation | EGYPT |
+| --- | --- |
+| Airports: | 83 (2013) |
+| Airports - with paved runways: | total: 72 |
+| Airports - with paved runways: | over 3,047 m: 15 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 36 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 15 |
+| Airports - with paved runways: | under 914 m: 6 (2013) |
+| Airports - with unpaved runways: | total: 11 |
+| Airports - with unpaved runways: | 2,438 to 3,047 m: 1 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 3 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 4 |
+| under 914 m: | 3 (2013) |
+| Heliports: | 7 (2013) |
+| Pipelines: | condensate 486 km; condensate/gas 74 km; gas 7,986 km; liquid petroleum gas 957 km; oil 5,225 km; oil/gas/water 37 km; refined products 895 km; water 65 km (2013) |
+| Railways: | total: 5,085 km |
+| Railways: | standard gauge: 5,085 km 1.435-m gauge (62 km electrified) (2014) |
+| Roadways: | total: 137,430 km |
+| Roadways: | paved: 126,742 km (includes 838 km of expressways) |
+| Roadways: | unpaved: 10,688 km (2010) |
+| Waterways: | 3,500 km (includes the Nile River, Lake Nasser, Alexandria-Cairo Waterway, and numerous smaller canals in Nile Delta; the Suez Canal (193.5 km including approaches) is navigable by oceangoing vessels drawing up to 17.68 m) (2011) |
+| Merchant marine: | total: 67 |
+| Merchant marine: | by type: bulk carrier 16, cargo 20, container 3, passenger/cargo 7, petroleum tanker 12, roll on/roll off 9 |
+| Merchant marine: | foreign-owned: 13 (Denmark 1, France 1, Greece 8, Jordan 2, Lebanon 1) |
+| Merchant marine: | registered in other countries: 42 (Cambodia 4, Georgia 7, Honduras 2, Liberia 3, Malta 1, Marshall Islands 1, Moldova 5, Panama 11, Saint Kitts and Nevis 1, Saint Vincent and the Grenadines 2, Saudi Arabia 1, Sierra Leone 3, unknown 1) (2010) |
+| Ports and terminals: | major seaport(s): Mediterranean Sea - Alexandria, Damietta, El Dekheila, Port Said; Gulf of Suez - Suez |
+| Ports and terminals: | oil terminal(s): Ain Sukhna terminal, Sidi Kerir terminal |
+| Ports and terminals: | container port(s) (TEUs): Alexandria (1,108,826), Port Said(East) (2,617,043), Port Said(West) (1,138,753) |
+| Ports and terminals: | LNG terminal(s) (export): Damietta, Idku (Abu Qir Bay) |

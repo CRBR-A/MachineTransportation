@@ -1,0 +1,29 @@
+| Transportation | Brazil |
+| --- | --- |
+| Airports: | 4,000 (2009) |
+| Airports - with paved runways: | total: 721 |
+| Airports - with paved runways: | over 3,047 m: 7 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 27 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 171 |
+| Airports - with paved runways: | 914 to 1,523 m: 460 |
+| Airports - with paved runways: | under 914 m: 56 (2009) |
+| Airports - with unpaved runways: | total: 3,279 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 87 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 1,547 |
+| Airports - with unpaved runways: | under 914 m: 1,645 (2009) |
+| Heliports: | 13 (2009) |
+| Pipelines: | condensate/gas 62 km; gas 9,892 km; liquid petroleum gas 353 km; oil 4,517 km; refined products 4,465 km (2008) |
+| Railways: | total: 28,857 km |
+| Railways: | broad gauge: 5,709 km 1.600-m gauge (459 km electrified) |
+| Railways: | standard gauge: 194 km 1.440-m gauge |
+| Railways: | narrow gauge: 22,954 km 1.000-m gauge (2008) |
+| Roadways: | total: 1,751,868 km |
+| Roadways: | paved: 96,353 km |
+| Roadways: | unpaved: 1,655,515 km (2004) |
+| Waterways: | 50,000 km (most in areas remote from industry and population) (2008) |
+| Merchant marine: | total: 136 |
+| Merchant marine: | by type: bulk carrier 19, cargo 22, carrier 1, chemical tanker 7, container 11, liquefied gas 12, passenger/cargo 12, petroleum tanker 45, roll on/roll off 7 |
+| Merchant marine: | foreign-owned: 25 (Chile 1, Denmark 2, Germany 6, Greece 1, Mexico 1, Norway 5, Spain 9) |
+| Merchant marine: | registered in other countries: 8 (Argentina 1, Bahamas 2, Ghana 1, Liberia 3, Marshall Islands 1) (2008) |
+| Ports and terminals: | Guaiba, Ilha Grande, Paranagua, Rio Grande, Santos, Sao Sebastiao, Tubarao |
+| Transportation - note: | the International Maritime Bureau reports the territorial and offshore waters in the Atlantic Ocean as a significant risk for piracy and armed robbery against ships; numerous commercial vessels have been attacked and hijacked both at anchor and while underway; crews have been robbed and stores or cargoes stolen |

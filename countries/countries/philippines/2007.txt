@@ -1,0 +1,26 @@
+| Transportation | Philippines |
+| --- | --- |
+| Airports: | 255 (2007) |
+| Airports - with paved runways: | total: 84 |
+| Airports - with paved runways: | over 3,047 m: 4 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 8 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 26 |
+| Airports - with paved runways: | 914 to 1,523 m: 36 |
+| Airports - with paved runways: | under 914 m: 10 (2007) |
+| Airports - with unpaved runways: | total: 171 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 4 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 68 |
+| Airports - with unpaved runways: | under 914 m: 99 (2007) |
+| Heliports: | 2 (2007) |
+| Pipelines: | gas 565 km; oil 135 km; refined products 105 km (2006) |
+| Railways: | total: 897 km |
+| Railways: | narrow gauge: 897 km 1.067-m gauge (492 km are in operation) (2006) |
+| Roadways: | total: 200,037 km |
+| Roadways: | paved: 19,804 km |
+| Roadways: | unpaved: 180,233 km (2003) |
+| Waterways: | 3,219 km (limited to vessels with draft less than 1.5 m) (2007) |
+| Merchant marine: | total: 383 ships (1000 GRT or over) 4,542,681 GRT/6,164,312 DWT |
+| Merchant marine: | by type: bulk carrier 75, cargo 120, chemical tanker 16, container 5, liquefied gas 5, livestock carrier 16, passenger 7, passenger/cargo 66, petroleum tanker 34, refrigerated cargo 14, roll on/roll off 13, vehicle carrier 12 |
+| Merchant marine: | foreign-owned: 135 (Bermuda 31, China 2, Greece 3, Hong Kong 2, Japan 69, Malaysia 2, Netherlands 22, Norway 2, Singapore 1, UAE 1) |
+| Merchant marine: | registered in other countries: 34 (Australia 1, Bahamas 1, Belize 1, Comoros 1, Cyprus 1, Ecuador 1, Hong Kong 10, Indonesia 1, Panama 12, Singapore 4, St Vincent and The Grenadines 1) (2007) |
+| Ports and terminals: | Cagayan de Oro, Cebu, Davao, Iligan, Iloilo, Manila, Surigao |

@@ -1,0 +1,29 @@
+| Transportation | India |
+| --- | --- |
+| Airports: | 352 (2012) |
+| Airports - with paved runways: | total: 251 |
+| Airports - with paved runways: | over 3,047 m: 21 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 59 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 74 |
+| Airports - with paved runways: | 914 to 1,523 m: 83 |
+| Airports - with paved runways: | under 914 m: 14 (2012) |
+| Airports - with unpaved runways: | total: 101 |
+| Airports - with unpaved runways: | over 3,047 m: 1 |
+| Airports - with unpaved runways: | 2,438 to 3,047 m: 4 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 6 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 42 |
+| Airports - with unpaved runways: | under 914 m: 48 (2012) |
+| Heliports: | 41 (2012) |
+| Pipelines: | condensate/gas 2 km; gas 9,596 km; liquid petroleum gas 2,152 km; oil 7,448 km; refined products 10,486 km (2010) |
+| Railways: | total: 63,974 km |
+| Railways: | broad gauge: 54,257 km 1.676-m gauge (18,927 km electrified) |
+| Railways: | narrow gauge: 7,180 km 1.000-m gauge; 2,537 km 0.762-m gauge and 0.610-m gauge (2009) |
+| Roadways: | total: 3,320,410 km (includes 200 km of expressways) (2009) |
+| Waterways: | 14,500 km (5,200 km on major rivers and 485 km on canals suitable for mechanized vessels) (2012) |
+| Merchant marine: | total: 340 |
+| Merchant marine: | by type: bulk carrier 104, cargo 78, chemical tanker 22, container 14, liquefied gas 11, passenger 4, passenger/cargo 15, petroleum tanker 92 |
+| Merchant marine: | foreign-owned: 10 (China 1, Hong Kong 2, Jersey 2, Malaysia 1, UAE 4) |
+| Merchant marine: | registered in other countries: 76 (Cyprus 4, Dominica 2, Liberia 8, Malta 3, Marshall Islands 10, Nigeria 1, Panama 24, Saint Kitts and Nevis 2, Singapore 21, unknown 1) (2010) |
+| Ports and terminals: | Chennai, Jawaharal Nehru Port, Kandla, Kolkata (Calcutta), Mumbai (Bombay), Sikka, Vishakhapatnam |
+| Shipyards and Ship Building: | Shipyards: 13 |
+| Shipyards and Ship Building: | Ships Built: 33 (2009) |

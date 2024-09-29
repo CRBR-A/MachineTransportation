@@ -1,0 +1,29 @@
+| Transportation | Australia |
+| --- | --- |
+| Airports: | 455 (2006) |
+| Airports - with paved runways: | total: 311 |
+| Airports - with paved runways: | over 3,047 m: 10 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 12 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 133 |
+| Airports - with paved runways: | 914 to 1,523 m: 143 |
+| Airports - with paved runways: | under 914 m: 13 (2006) |
+| Airports - with unpaved runways: | total: 144 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 18 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 111 |
+| Airports - with unpaved runways: | under 914 m: 15 (2006) |
+| Heliports: | 1 (2006) |
+| Pipelines: | condensate/gas 546 km; gas 31,323 km; liquid petroleum gas 240 km; oil 4,808 km; oil/gas/water 110 km (2006) |
+| Railways: | total: 47,738 km |
+| Railways: | broad gauge: 4,015 km 1.600-m gauge |
+| Railways: | standard gauge: 28,662 km 1.435-m gauge (1,397 km electrified) |
+| Railways: | narrow gauge: 14,831 km 1.067-m gauge (2,462 km electrified) |
+| Railways: | dual gauge: 230 km dual gauge (2005) |
+| Roadways: | total: 810,641 km |
+| Roadways: | paved: 336,962 km |
+| Roadways: | unpaved: 473,679 km (2004) |
+| Waterways: | 2,000 km (mainly used for recreation on Murray and Murray-Darling river systems) (2002) |
+| Merchant marine: | total: 53 ships (1000 GRT or over) 1,361,000 GRT/1,532,874 DWT |
+| Merchant marine: | by type: bulk carrier 17, cargo 4, chemical tanker 3, container 1, liquefied gas 4, passenger 6, passenger/cargo 7, petroleum tanker 6, roll on/roll off 5 |
+| Merchant marine: | foreign-owned: 17 (Canada 1, France 3, Germany 3, Japan 1, Netherlands 2, Norway 1, Philippines 1, UK 2, US 3) |
+| Merchant marine: | registered in other countries: 34 (Antigua and Barbuda 1, Bahamas 2, Bermuda 3, Fiji 1, Hong Kong 1, Liberia 2, Marshall Islands 2, Netherlands 1, NZ 2, Panama 3, Portugal 1, Singapore 7, Tonga 1, UK 3, US 2, Vanuatu 2) (2006) |
+| Ports and terminals: | Brisbane, Dampier, Fremantle, Gladstone, Hay Point, Melbourne, Newcastle, Port Hedland, Port Kembla, Port Walcott, Sydney |

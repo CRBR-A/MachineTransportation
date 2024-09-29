@@ -1,0 +1,32 @@
+| Transportation | SWEDEN |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 8 |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 219 |
+| National air transport system: | annual passenger traffic on registered air carriers: 11,623,930 |
+| National air transport system: | annual freight traffic on registered air carriers: 0 mt-km (2015) |
+| Civil aircraft registration country code prefix: | SE (2016) |
+| Airports: | 231 (2013) |
+| Airports - with paved runways: | total: 149 |
+| Airports - with paved runways: | over 3,047 m: 3 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 12 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 75 |
+| Airports - with paved runways: | 914 to 1,523 m: 22 |
+| Airports - with paved runways: | under 914 m: 37 (2013) |
+| Airports - with unpaved runways: | total: 82 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 5 |
+| Airports - with unpaved runways: | under 914 m: 77 (2013) |
+| Heliports: | 2 (2013) |
+| Pipelines: | gas 1,626 km (2013) |
+| Railways: | total: 14,127 km |
+| Railways: | standard gauge: 14,062 km 1.435-m gauge (12,322 km electrified) |
+| Railways: | narrow gauge: 65 km 0.891-m gauge (65 km electrified) (2016) |
+| Roadways: | total: 573,134 km (includes 2,050 km of expressways) |
+| Roadways: | paved: 140,100 km |
+| Roadways: | unpaved: 433,034 km |
+| Roadways: | note: includes 98,500 km of state roads, 433,034 km of private roads, and 41,600 km of municipal roads (2016) |
+| Waterways: | 2,052 km (2010) |
+| Merchant marine: | total: 190 |
+| Merchant marine: | by type: bulk carrier 7, general dry cargo 8, anti-pollution vessel 1, cable layer 2, dredge 2, ice 6, inspection 7, survey 6, training 4, tug 11, multi-purpose 1, passenger/ferry 26, ro-pax 38, ro-ro 29, ro-ro/container 4, tanker (ej gas) 37, tanker (LNG) 1 |
+| Merchant marine: | foreign: 275 (Bahamas 7, Barbados 3, Bermuda 20, Cayman Islands 1, Cook Islands 2, Cyprus 14, Danish Int’l 20, Denmark 2, Faeroe Islands 19, Finland 2, France 1, Germany 5, Gibraltar 19, Italy 1, Latvia 1, Liberia 10, Madeira 11, Malaysia 1, Malta 6, Marshall Islands 7, Netherlands 35, Norway 2, Norwegian International 25, Panama 3, Russia 2, Singapore 16, Spain 2, St. Kitts and Nevis 1, St. Vincent and the Grenadines 11, Tanzania 1, Togo 1, UK 24) (2015) |
+| Ports and terminals: | major seaport(s): Brofjorden, Goteborg, Helsingborg, Karlshamn, Lulea, Malmo, Stockholm, Trelleborg, Visby |
+| Ports and terminals: | LNG terminal(s) (import): Brunnsviksholme, Lysekil |

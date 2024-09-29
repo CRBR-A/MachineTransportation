@@ -1,0 +1,16 @@
+| Transportation | Burkina Faso |
+| --- | --- |
+| Airports: | 33 (2007) |
+| Airports - with paved runways: | total: 2 |
+| Airports - with paved runways: | over 3,047 m: 1 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 1 (2007) |
+| Airports - with unpaved runways: | total: 31 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 3 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 11 |
+| Airports - with unpaved runways: | under 914 m: 17 (2007) |
+| Railways: | total: 622 km |
+| Railways: | narrow gauge: 622 km 1.000-m gauge |
+| Railways: | note: another 660 km of this railway extends into Cote D'Ivoire (2006) |
+| Roadways: | total: 92,495 km |
+| Roadways: | paved: 3,857 km |
+| Roadways: | unpaved: 88,638 km (2004) |

@@ -1,0 +1,27 @@
+| Transportation | Egypt |
+| --- | --- |
+| Airports: | 88 (2007) |
+| Airports - with paved runways: | total: 72 |
+| Airports - with paved runways: | over 3,047 m: 15 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 36 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 16 |
+| Airports - with paved runways: | under 914 m: 5 (2007) |
+| Airports - with unpaved runways: | total: 16 |
+| Airports - with unpaved runways: | 2,438 to 3,047 m: 1 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 3 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 5 |
+| Airports - with unpaved runways: | under 914 m: 7 (2007) |
+| Heliports: | 3 (2007) |
+| Pipelines: | condensate 464 km; condensate/gas 94 km; gas 6,021 km; liquid petroleum gas 897 km; oil 5,120 km; oil/gas/water 36 km; refined products 897 km (2006) |
+| Railways: | total: 5,063 km |
+| Railways: | standard gauge: 5,063 km 1.435-m gauge (62 km electrified) (2006) |
+| Roadways: | total: 92,370 km |
+| Roadways: | paved: 74,820 km |
+| Roadways: | unpaved: 17,550 km (2004) |
+| Waterways: | 3,500 km |
+| Waterways: | note: includes Nile River, Lake Nasser, Alexandria-Cairo Waterway, and numerous smaller canals in delta; Suez Canal (193.5 km including approaches) navigable by oceangoing vessels drawing up to 17.68 m (2006) |
+| Merchant marine: | total: 77 ships (1000 GRT or over) 1,032,116 GRT/1,553,065 DWT |
+| Merchant marine: | by type: bulk carrier 13, cargo 33, container 2, passenger/cargo 5, petroleum tanker 14, roll on/roll off 10 |
+| Merchant marine: | foreign-owned: 10 (Denmark 1, Greece 8, Lebanon 1) |
+| Merchant marine: | registered in other countries: 55 (Bolivia 1, Cambodia 14, Georgia 14, Honduras 4, North Korea 1, Panama 13, Sao Tome and Principe 1, Saudi Arabia 1, St Kitts and Nevis 2, St Vincent and The Grenadines 4) (2007) |
+| Ports and terminals: | Alexandria, Damietta, El Dekheila, Port Said, Suez, Zeit |

@@ -1,0 +1,34 @@
+| Transportation | Australia |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 25 (2018) |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 583 (2018) |
+| National air transport system: | annual passenger traffic on registered air carriers: 69,294,187 (2018) |
+| National air transport system: | annual freight traffic on registered air carriers: 1,887,295,820 mt-km (2018) |
+| Civil aircraft registration country code prefix: | VH (2016) |
+| Airports: | 480 (2013) |
+| Airports - with paved runways: | total: 349 (2017) |
+| Airports - with paved runways: | over 3,047 m: 11 (2017) |
+| Airports - with paved runways: | 2,438 to 3,047 m: 14 (2017) |
+| Airports - with paved runways: | 1,524 to 2,437 m: 155 (2017) |
+| Airports - with paved runways: | 914 to 1,523 m: 155 (2017) |
+| Airports - with paved runways: | under 914 m: 14 (2017) |
+| Airports - with unpaved runways: | total: 131 (2013) |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 16 (2013) |
+| Airports - with unpaved runways: | 914 to 1,523 m: 101 (2013) |
+| Airports - with unpaved runways: | under 914 m: 14 (2013) |
+| Heliports: | 1 (2013) |
+| Pipelines: | 637 km condensate/gas, 30054 km gas, 240 km liquid petroleum gas, 3609 km oil, 110 km oil/gas/water, 72 km refined products (2013) |
+| Railways: | total: 33,343 km (2015) |
+| Railways: | standard gauge: 17,446 km 1.435-m gauge (650 km electrified) (2015) |
+| Railways: | narrow gauge: 12,318 km 1.067-m gauge (2,075.5 km electrified) (2015) |
+| Railways: | broad gauge: 3,247 km 1.600-m gauge (372 km electrified) (2015) |
+| Roadways: | total: 873,573 km (2015) |
+| Roadways: | urban: 145,928 km (2015) |
+| Roadways: | non-urban: 727,645 km (2015) |
+| Waterways: | 2,000 km (mainly used for recreation on Murray and Murray-Darling River systems) (2011) |
+| Merchant marine: | total: 563 |
+| Merchant marine: | by type: bulk carrier 4, general cargo 84, oil tanker 7, other 468 (2018) |
+| Ports and terminals: | major seaport(s): Brisbane, Cairns, Darwin, Fremantle, Geelong, Gladstone, Hobart, Melbourne, Newcastle, Port Adelaide, Port Kembla, Sydney |
+| Ports and terminals: | container port(s) (TEUs): Melbourne (2,806,436), Sydney (2,530,122) (2017) |
+| Ports and terminals: | LNG terminal(s) (export): Australia Pacific, Barrow Island, Burrup (Pluto), Curtis Island, Darwin, Karratha, Bladin Point (Ichthys), Gladstone,Â Prelude (offshore FLNG), Wheatstone |
+| Ports and terminals: | dry bulk cargo port(s): Dampier (iron ore), Dalrymple Bay (coal), Hay Point (coal), Port Hedland (iron ore), Port Walcott (iron ore) |

@@ -1,0 +1,31 @@
+| Transportation | BULGARIA |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 8 |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 44 |
+| National air transport system: | annual passenger traffic on registered air carriers: 1,118,689 |
+| National air transport system: | annual freight traffic on registered air carriers: 1,583,340 mt-km (2015) |
+| Civil aircraft registration country code prefix: | LZ (2016) |
+| Airports: | 68 (2013) |
+| Airports - with paved runways: | total: 57 |
+| Airports - with paved runways: | over 3,047 m: 2 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 17 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 12 |
+| Airports - with paved runways: | under 914 m: 26 (2017) |
+| Airports - with unpaved runways: | total: 11 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 2 |
+| Airports - with unpaved runways: | under 914 m: 9 (2013) |
+| Heliports: | 1 (2013) |
+| Pipelines: | gas 2,765 km; oil 346 km; refined products 378 km (2017) |
+| Railways: | total: 5,114 km |
+| Railways: | standard gauge: 4,989 km 1.435-m gauge (2,880 km electrified) |
+| Railways: | narrow gauge: 125 km 0.760-m gauge (2014) |
+| Roadways: | total: 19,512 km |
+| Roadways: | paved: 19,235 km (includes 458 km of expressways) |
+| Roadways: | unpaved: 277 km |
+| Roadways: | note: does not include Category IV local roads (2011) |
+| Waterways: | 470 km (2009) |
+| Merchant marine: | total: 22 |
+| Merchant marine: | by type: bulk carrier 9, cargo 8, liquefied gas 2, petroleum tanker 1, roll on/roll off 2 |
+| Merchant marine: | foreign-owned: 14 (Germany 12, Russia 2) |
+| Merchant marine: | registered in other countries: 30 (Belize 1, Comoros 4, Georgia 1, Malta 8, Moldova 1, Panama 6, Saint Vincent and the Grenadines 9) (2010) |
+| Ports and terminals: | major seaport(s): Burgas, Varna (Black Sea) |

@@ -1,0 +1,22 @@
+| Transportation | Turkmenistan |
+| --- | --- |
+| Airports: | 26 (2012) |
+| Airports - with paved runways: | total: 21 |
+| Airports - with paved runways: | over 3,047 m: 1 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 9 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 9 |
+| Airports - with paved runways: | 914 to 1,523 m: 2 (2012) |
+| Airports - with unpaved runways: | total: 5 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 1 |
+| Airports - with unpaved runways: | under 914 m: 4 (2012) |
+| Heliports: | 1 (2012) |
+| Pipelines: | gas 7,352 km; oil 1,457 km (2010) |
+| Railways: | total: 2,980 km |
+| Railways: | broad gauge: 2,980 km 1.520-m gauge (2008) |
+| Roadways: | total: 58,592 km |
+| Roadways: | paved: 47,577 km |
+| Roadways: | unpaved: 11,015 km (2002) |
+| Waterways: | 1,300 km (Amu Darya and Kara Kum canal are important inland waterways) (2011) |
+| Merchant marine: | total: 11 |
+| Merchant marine: | by type: cargo 4, chemical tanker 1, petroleum tanker 5, refrigerated cargo 1 (2010) |
+| Ports and terminals: | Turkmenbasy |

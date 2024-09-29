@@ -1,0 +1,28 @@
+| Transportation | Greece |
+| --- | --- |
+| Airports: | 81 (2007) |
+| Airports - with paved runways: | total: 66 |
+| Airports - with paved runways: | over 3,047 m: 5 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 15 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 20 |
+| Airports - with paved runways: | 914 to 1,523 m: 17 |
+| Airports - with paved runways: | under 914 m: 9 (2007) |
+| Airports - with unpaved runways: | total: 15 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 3 |
+| Airports - with unpaved runways: | under 914 m: 12 (2007) |
+| Heliports: | 9 (2007) |
+| Pipelines: | gas 1,166 km; oil 94 km (2006) |
+| Railways: | total: 2,571 km |
+| Railways: | standard gauge: 1,565 km 1.435-m gauge (764 km electrified) |
+| Railways: | narrow gauge: 961 km 1.000-m gauge; 22 km 0.750-m gauge |
+| Railways: | dual gauge: 23 km combined 1.435 m and 1.000-m gauges (three rail system) (2006) |
+| Roadways: | total: 114,931 km |
+| Roadways: | paved: 105,507 km (includes 880 km of expressways) |
+| Roadways: | unpaved: 9,424 km (2004) |
+| Waterways: | 6 km |
+| Waterways: | note: Corinth Canal (6 km) crosses the Isthmus of Corinth; shortens sea voyage by 325 km (2007) |
+| Merchant marine: | total: 824 ships (1000 GRT or over) 33,654,384 GRT/57,898,789 DWT |
+| Merchant marine: | by type: bulk carrier 246, cargo 66, carrier 1, chemical tanker 52, combination ore/oil 1, container 43, liquefied gas 6, passenger 11, passenger/cargo 109, petroleum tanker 269, roll on/roll off 19, specialized tanker 1 |
+| Merchant marine: | foreign-owned: 49 (Belgium 16, Cyprus 5, Italy 1, South Korea 2, UK 15, US 10) |
+| Merchant marine: | registered in other countries: 2,324 (Antigua and Barbuda 3, Bahamas 214, Barbados 11, Belgium 4, Bermuda 3, Cambodia 5, Cayman Islands 23, China 1, Comoros 8, Cyprus 292, Denmark 4, Dominica 8, Egypt 8, Georgia 7, Gibraltar 8, Honduras 1, Hong Kong 30, Isle of Man 48, Italy 13, Jamaica 8, Lebanon 2, Liberia 311, Maldives 1, Malta 448, Marshall Islands 226, Norway 6, Panama 505, Philippines 3, Portugal 4, Russia 1, Sao Tome and Principe 1, Saudi Arabia 2, Sierra Leone 1, Singapore 14, Slovakia 4, St Kitts and Nevis 2, St Vincent and The Grenadines 81, UAE 3, UK 6, Uruguay 1, Venezuela 3, unknown 8) (2007) |
+| Ports and terminals: | Agioitheodoroi, Aspropyrgos, Irakleion, Pachi, Piraeus, Thessaloniki |

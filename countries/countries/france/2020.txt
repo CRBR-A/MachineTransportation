@@ -1,0 +1,37 @@
+| Transportation | France |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 19 (2020) |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 553 |
+| National air transport system: | annual passenger traffic on registered air carriers: 70,188,028 (2018) |
+| National air transport system: | annual freight traffic on registered air carriers: 4,443,790,000 mt-km (2018) |
+| Civil aircraft registration country code prefix: | F (2016) |
+| Airports: | 464 (2013) |
+| Airports - with paved runways: | total: 294 (2017) |
+| Airports - with paved runways: | over 3,047 m: 14 (2017) |
+| Airports - with paved runways: | 2,438 to 3,047 m: 25 (2017) |
+| Airports - with paved runways: | 1,524 to 2,437 m: 97 (2017) |
+| Airports - with paved runways: | 914 to 1,523 m: 83 (2017) |
+| Airports - with paved runways: | under 914 m: 75 (2017) |
+| Airports - with unpaved runways: | total: 170 (2013) |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 1 (2013) |
+| Airports - with unpaved runways: | 914 to 1,523 m: 64 (2013) |
+| Airports - with unpaved runways: | under 914 m: 105 (2013) |
+| Heliports: | 1 (2013) |
+| Pipelines: | 15322 km gas, 2939 km oil, 5084 km refined products (2013) |
+| Railways: | total: 29,640 km (2014) |
+| Railways: | standard gauge: 29,473 km 1.435-m gauge (15,561 km electrified) (2014) |
+| Railways: | narrow gauge: 167 km 1.000-m gauge (63 km electrified) (2014) |
+| Roadways: | total: 1,053,215 km (2011) |
+| Roadways: | urban: 654,201 km (2011) |
+| Roadways: | non-urban: 399,014 km (2011) |
+| Waterways: | metropolitan France: 8,501 km (1,621 km navigable by craft up to 3,000 metric tons) (2010) |
+| Merchant marine: | total: 552 |
+| Merchant marine: | by type: bulk carrier 25, general cargo 53, oil tanker 29, other 445 (2019) |
+| Merchant marine: | note: includes Monaco |
+| Ports and terminals: | major seaport(s): Brest, Calais, Dunkerque, Le Havre, Marseille, Nantes, |
+| Ports and terminals: | container port(s) (TEUs): Le Havre (2,870,000) (2017) |
+| Ports and terminals: | LNG terminal(s) (import): Fos Cavaou, Fos Tonkin, Montoir de Bretagne |
+| Ports and terminals: | river port(s): Paris, Rouen (Seine) |
+| Ports and terminals: | cruise/ferry port(s): Calais, Cherbourg, Le Havre |
+| Ports and terminals: | Strasbourg (Rhine) Bordeaux (Garronne) |
+| Transportation - note: | begun in 1988 and completed in 1994, the Channel Tunnel (nicknamed the Chunnel) is a 50.5-km (31.4-mi) rail tunnelÂ beneath the English Channel at the Strait of Dover that runs from Folkestone, Kent, England to Coquelles, Pas-de-Calais in northern France; it is the only fixed link between the island of Great Britain and mainland Europe |

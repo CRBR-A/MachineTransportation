@@ -1,0 +1,26 @@
+| Transportation | Angola |
+| --- | --- |
+| Airports: | 192 (2009) |
+| Airports - with paved runways: | total: 30 |
+| Airports - with paved runways: | over 3,047 m: 5 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 9 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 12 |
+| Airports - with paved runways: | 914 to 1,523 m: 4 (2009) |
+| Airports - with unpaved runways: | total: 162 |
+| Airports - with unpaved runways: | over 3,047 m: 2 |
+| Airports - with unpaved runways: | 2,438 to 3,047 m: 4 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 32 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 78 |
+| Airports - with unpaved runways: | under 914 m: 46 (2009) |
+| Pipelines: | gas 2 km; oil 87 km (2008) |
+| Railways: | total: 2,764 km |
+| Railways: | narrow gauge: 2,641 km 1.067-m gauge; 123 km 0.600-m gauge (2008) |
+| Roadways: | total: 51,429 km |
+| Roadways: | paved: 5,349 km |
+| Roadways: | unpaved: 46,080 km (2001) |
+| Waterways: | 1,300 km (2008) |
+| Merchant marine: | total: 6 |
+| Merchant marine: | by type: cargo 1, passenger/cargo 2, petroleum tanker 2, roll on/roll off 1 |
+| Merchant marine: | foreign-owned: 1 (Spain 1) |
+| Merchant marine: | registered in other countries: 6 (Bahamas 6) (2008) |
+| Ports and terminals: | Cabinda, Lobito, Luanda, Namibe |

@@ -1,0 +1,36 @@
+| Transportation | FRANCE |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 30 |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 485 |
+| National air transport system: | annual passenger traffic on registered air carriers: 65,039,503 |
+| National air transport system: | annual freight traffic on registered air carriers: 4,098.31 million mt-km (2015) |
+| Civil aircraft registration country code prefix: | F (2016) |
+| Airports: | 464 (2013) |
+| Airports - with paved runways: | total: 294 |
+| Airports - with paved runways: | over 3,047 m: 14 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 25 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 97 |
+| Airports - with paved runways: | 914 to 1,523 m: 83 |
+| Airports - with paved runways: | under 914 m: 75 (2013) |
+| Airports - with unpaved runways: | total: 170 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 1 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 64 |
+| Airports - with unpaved runways: | under 914 m: 105 (2013) |
+| Heliports: | 1 (2013) |
+| Pipelines: | gas 15,322 km; oil 2,939 km; refined products 5,084 km (2013) |
+| Railways: | total: 29,640 km |
+| Railways: | standard gauge: 29,473 km 1.435-m gauge (15,561 km electrified) |
+| Railways: | narrow gauge: 167 km 1.000-m gauge (63 km electrified) (2014) |
+| Roadways: | total: 1,028,446 km (metropolitan France) |
+| Roadways: | paved: 1,028,446 km (includes 11,416 km of expressways) |
+| Roadways: | note: not included are 5,100 km of roadways in overseas departments (2010) |
+| Waterways: | metropolitan France: 8,501 km (1,621 km navigable by craft up to 3,000 metric tons) (2010) |
+| Merchant marine: | total: 162 |
+| Merchant marine: | by type: bulk carrier 3, cargo 7, chemical tanker 34, container 27, liquefied gas 12, passenger 10, passenger/cargo 41, petroleum tanker 16, refrigerated cargo 1, roll on/roll off 11 |
+| Merchant marine: | foreign-owned: 50 (Belgium 7, Bermuda 5, Denmark 11, French Polynesia 11, Germany 1, New Caledonia 3, Singapore 3, Sweden 4, Switzerland 5) |
+| Merchant marine: | registered in other countries: 151 (Bahamas 15, Belgium 7, Bermuda 1, Canada 1, Cyprus 16, Egypt 1, Hong Kong 4, Indonesia 1, Ireland 2, Italy 2, Luxembourg 15, Malta 8, Marshall Islands 7, Mexico 1, Morocco 3, Netherlands 2, Norway 5, Panama 7, Saint Vincent and the Grenadines 2, Singapore 3, South Korea 2, Taiwan 2, UK 39, US 4, unknown 1) (2010) |
+| Ports and terminals: | major seaport(s): Brest, Calais, Dunkerque, Le Havre, Marseille, Nantes, |
+| Ports and terminals: | river port(s): Paris, Rouen (Seine); Strasbourg (Rhine); Bordeaux (Garronne) |
+| Ports and terminals: | container port(s): Le Havre (2,215,262)(2011) |
+| Ports and terminals: | cruise/ferry port(s): Calais, Cherbourg, Le Havre |
+| Ports and terminals: | LNG terminal(s) (import): Fos Cavaou, Fos Tonkin, Montoir de Bretagne |

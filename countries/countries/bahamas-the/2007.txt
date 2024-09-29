@@ -1,0 +1,21 @@
+| Transportation | Bahamas, The |
+| --- | --- |
+| Airports: | 62 (2007) |
+| Airports - with paved runways: | total: 24 |
+| Airports - with paved runways: | over 3,047 m: 2 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 3 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 12 |
+| Airports - with paved runways: | 914 to 1,523 m: 7 (2007) |
+| Airports - with unpaved runways: | total: 38 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 5 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 11 |
+| Airports - with unpaved runways: | under 914 m: 22 (2007) |
+| Heliports: | 1 (2007) |
+| Roadways: | total: 2,693 km |
+| Roadways: | paved: 1,546 km |
+| Roadways: | unpaved: 1,147 km (1999) |
+| Merchant marine: | total: 1,213 ships (1000 GRT or over) 40,403,455 GRT/54,276,183 DWT |
+| Merchant marine: | by type: barge carrier 1, bulk carrier 225, cargo 240, chemical tanker 84, combination ore/oil 13, container 72, liquefied gas 49, livestock carrier 2, passenger 117, passenger/cargo 34, petroleum tanker 196, refrigerated cargo 118, roll on/roll off 18, specialized tanker 4, specialized tanker 1, vehicle carrier 39 |
+| Merchant marine: | foreign-owned: 1,134 (Angola 6, Australia 3, Belgium 15, Bermuda 12, Brazil 1, Canada 13, China 9, Croatia 1, Cuba 1, Cyprus 20, Denmark 66, Finland 8, France 43, Germany 40, Greece 214, Hong Kong 3, Iceland 1, Indonesia 3, Ireland 2, Italy 1, Japan 62, Jordan 2, Kenya 1, Malaysia 11, Monaco 11, Montenegro 2, Netherlands 24, Nigeria 2, Norway 232, Philippines 1, Poland 15, Russia 5, Saudi Arabia 15, Singapore 9, Slovenia 1, South Africa 1, Spain 11, Sweden 5, Switzerland 2, Taiwan 1, Thailand 1, Trinidad and Tobago 1, Turkey 5, UAE 20, UK 68, US 162, Uruguay 1, Venezuela 1) |
+| Merchant marine: | registered in other countries: 3 (Barbados 1, Panama 2) (2007) |
+| Ports and terminals: | Freeport, Nassau, South Riding Point |

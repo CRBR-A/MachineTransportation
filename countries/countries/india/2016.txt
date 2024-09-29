@@ -1,0 +1,35 @@
+| Transportation | INDIA |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 20 |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 485 |
+| National air transport system: | annual passenger traffic on registered air carriers: 98,927,860 |
+| National air transport system: | annual freight traffic on registered air carriers: 1,833,847,614 mt-km (2015) |
+| Civil aircraft registration country code prefix: | VT (2016) |
+| Airports: | 346 (2013) |
+| Airports - with paved runways: | total: 253 |
+| Airports - with paved runways: | over 3,047 m: 22 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 59 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 76 |
+| Airports - with paved runways: | 914 to 1,523 m: 82 |
+| Airports - with paved runways: | under 914 m: 14 (2013) |
+| Airports - with unpaved runways: | total: 93 |
+| Airports - with unpaved runways: | over 3,047 m: 1 |
+| Airports - with unpaved runways: | 2,438 to 3,047 m: 3 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 6 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 38 |
+| Airports - with unpaved runways: | under 914 m: 45 (2013) |
+| Heliports: | 45 (2013) |
+| Pipelines: | condensate/gas 9 km; gas 13,581 km; liquid petroleum gas 2,054 km; oil 8,943 km; oil/gas/water 20 km; refined products 11,069 km (2013) |
+| Railways: | total: 68,525 km |
+| Railways: | broad gauge: 58,404 km 1.676-m gauge (23,654 electrified) |
+| Railways: | narrow gauge: 9,499 km 1.000-m gauge; 622 km 0.762-m gauge (2014) |
+| Roadways: | total: 4,699,024 km |
+| Roadways: | note: includes 96,214 km of national highways and expressways, 147,800 km of state highways, and 4,455,010 km of other roads (2015) |
+| Waterways: | 14,500 km (5,200 km on major rivers and 485 km on canals suitable for mechanized vessels) (2012) |
+| Merchant marine: | total: 340 |
+| Merchant marine: | by type: bulk carrier 104, cargo 78, chemical tanker 22, container 14, liquefied gas 11, passenger 4, passenger/cargo 15, petroleum tanker 92 |
+| Merchant marine: | foreign-owned: 10 (China 1, Hong Kong 2, Jersey 2, Malaysia 1, UAE 4) |
+| Merchant marine: | registered in other countries: 76 (Cyprus 4, Dominica 2, Liberia 8, Malta 3, Marshall Islands 10, Nigeria 1, Panama 24, Saint Kitts and Nevis 2, Singapore 21, unknown 1) (2010) |
+| Ports and terminals: | major seaport(s): Chennai, Jawaharal Nehru Port, Kandla, Kolkata (Calcutta), Mumbai (Bombay), Sikka, Vishakhapatnam |
+| Ports and terminals: | container port(s) (TEUs): Chennai (1,558,343), Jawaharal Nehru Port (4,307,622) |
+| Ports and terminals: | LNG terminal(s) (import): Dabhol, Dahej, Hazira |

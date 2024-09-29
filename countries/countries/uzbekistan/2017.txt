@@ -1,0 +1,25 @@
+| Transportation | UZBEKISTAN |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 2 |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 29 |
+| National air transport system: | annual passenger traffic on registered air carriers: 2,486,673 |
+| National air transport system: | annual freight traffic on registered air carriers: 114,334,520 mt-km (2015) |
+| Civil aircraft registration country code prefix: | UK (2016) |
+| Airports: | 53 (2013) |
+| Airports - with paved runways: | total: 33 |
+| Airports - with paved runways: | over 3,047 m: 6 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 13 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 6 |
+| Airports - with paved runways: | 914 to 1,523 m: 4 |
+| Airports - with paved runways: | under 914 m: 4 (2013) |
+| Airports - with unpaved runways: | total: 20 |
+| Airports - with unpaved runways: | 2,438 to 3,047 m: 2 |
+| Airports - with unpaved runways: | under 914 m: 18 (2013) |
+| Pipelines: | gas 13,700 km; oil 944 km (2016) |
+| Railways: | total: 4,304 km |
+| Railways: | broad gauge: 4,304 km 1.520-m gauge (1,354 km electrified) (2016) |
+| Roadways: | total: 86,496 km |
+| Roadways: | paved: 75,511 km |
+| Roadways: | unpaved: 10,985 km (2000) |
+| Waterways: | 1,100 km (2012) |
+| Ports and terminals: | river port(s): Termiz (Amu Darya) |

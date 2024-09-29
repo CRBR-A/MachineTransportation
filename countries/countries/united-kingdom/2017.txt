@@ -1,0 +1,34 @@
+| Transportation | UNITED KINGDOM |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 28 |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 1,242 |
+| National air transport system: | annual passenger traffic on registered air carriers: 131,449,680 |
+| National air transport system: | annual freight traffic on registered air carriers: 5,466,504,676 mt-km (2015) |
+| Civil aircraft registration country code prefix: | G (2016) |
+| Airports: | 460 (2013) |
+| Airports - with paved runways: | total: 271 |
+| Airports - with paved runways: | over 3,047 m: 7 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 29 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 89 |
+| Airports - with paved runways: | 914 to 1,523 m: 80 |
+| Airports - with paved runways: | under 914 m: 66 (2013) |
+| Airports - with unpaved runways: | total: 189 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 3 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 26 |
+| Airports - with unpaved runways: | under 914 m: 160 (2013) |
+| Heliports: | 9 (2013) |
+| Pipelines: | condensate 502 km; condensate/gas 9 km; gas 28,603 km; liquid petroleum gas 59 km; oil 5,256 km; oil/gas/water 175 km; refined products 4,919 km; water 255 km (2013) |
+| Railways: | total: 16,837 km |
+| Railways: | broad gauge: 303 km 1.600-m gauge (in Northern Ireland) |
+| Railways: | standard gauge: 16,534 km 1.435-m gauge (5,357 km electrified) (2015) |
+| Roadways: | total: 394,428 km |
+| Roadways: | paved: 394,428 km (includes 3,519 km of expressways) (2009) |
+| Waterways: | 3,200 km (620 km used for commerce) (2009) |
+| Merchant marine: | total: 504 |
+| Merchant marine: | by type: bulk carrier 33, cargo 76, carrier 4, chemical tanker 58, container 178, liquefied gas 6, passenger 7, passenger/cargo 66, petroleum tanker 18, refrigerated cargo 2, roll on/roll off 31, vehicle carrier 25 |
+| Merchant marine: | foreign-owned: 271 (Australia 1, Bermuda 6, China 7, Denmark 43, France 39, Germany 59, Hong Kong 12, Ireland 1, Italy 3, Japan 5, Netherlands 1, Norway 32, Sweden 28, Taiwan 11, Tanzania 1, UAE 8, US 14) |
+| Merchant marine: | registered in other countries: 308 (Algeria 15, Antigua and Barbuda 1, Argentina 2, Australia 5, Bahamas 18, Barbados 6, Belgium 2, Belize 4, Bermuda 14, Bolivia 1, Brunei 2, Cabo Verde 1, Cambodia 1, Cayman Islands 2, Comoros 1, Cook Islands 2, Cyprus 7, Georgia 5, Gibraltar 6, Greece 6, Honduras 1, Hong Kong 33, Indonesia 2, Italy 2, Liberia 22, Liberia 32, Luxembourg 5, Malta 21, Marshall Islands 12, Marshall Islands 3, Moldova 3, Nigeria 2, NZ 1, Panama 37, Panama 5, Saint Kitts and Nevis 1, Saint Vincent and the Grenadines 6, Sierra Leone 1, Singapore 6, Thailand 6, Tonga 1, US 4, unknown 1) (2010) |
+| Ports and terminals: | major seaport(s): Dover, Felixstowe, Immingham, Liverpool, London, Southampton, Teesport (England); Forth Ports (Scotland); Milford Haven (Wales) |
+| Ports and terminals: | oil terminal(s): Fawley Marine terminal, Liverpool Bay terminal (England); Braefoot Bay terminal, Finnart oil terminal, Hound Point terminal (Scotland) |
+| Ports and terminals: | container port(s) (TEUs): Felixstowe (3,676,000), London (1,185,000), Southampton (2,349,000) (2015) |
+| Ports and terminals: | LNG terminal(s) (import): Isle of Grain, Milford Haven, Teesside |

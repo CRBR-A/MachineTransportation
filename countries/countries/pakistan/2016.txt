@@ -1,0 +1,33 @@
+| Transportation | PAKISTAN |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 4 |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 67 |
+| National air transport system: | annual passenger traffic on registered air carriers: 8,467,827 |
+| National air transport system: | annual freight traffic on registered air carriers: 183,177,313 mt-km (2015) |
+| Civil aircraft registration country code prefix: | AP (2016) |
+| Airports: | 151 (2013) |
+| Airports - with paved runways: | total: 108 |
+| Airports - with paved runways: | over 3,047 m: 15 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 20 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 43 |
+| Airports - with paved runways: | 914 to 1,523 m: 20 |
+| Airports - with paved runways: | under 914 m: 10 (2013) |
+| Airports - with unpaved runways: | total: 43 |
+| Airports - with unpaved runways: | 2,438 to 3,047 m: 1 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 9 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 9 |
+| Airports - with unpaved runways: | under 914 m: 24 (2013) |
+| Heliports: | 23 (2013) |
+| Pipelines: | gas 12,646 km; oil 2,576 km; refined products 1,087 km (2013) |
+| Railways: | total: 11,881 km |
+| Railways: | broad gauge: 11,492 km 1.676-m gauge (293 km electrified) |
+| Railways: | narrow gauge: 389 km 1.000-m gauge (2015) |
+| Roadways: | total: 263,942 km |
+| Roadways: | paved: 185,063 km (includes 708 km of expressways) |
+| Roadways: | unpaved: 78,879 km (2014) |
+| Merchant marine: | total: 11 |
+| Merchant marine: | by type: bulk carrier 5, cargo 3, petroleum tanker 3 |
+| Merchant marine: | registered in other countries: 11 (Comoros 5, Marshall Islands 1, Moldova 1, Panama 3, Saint Kitts and Nevis 1) (2010) |
+| Ports and terminals: | major seaport(s): Karachi, Port Muhammad Bin Qasim |
+| Ports and terminals: | container port(s) (TEUs): Karachi (1,545,434) |
+| Ports and terminals: | LNG terminal(s) (import): Port Qasim |

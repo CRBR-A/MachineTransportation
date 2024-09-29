@@ -1,0 +1,27 @@
+| Transportation | Syria |
+| --- | --- |
+| Airports: | 104 (2009) |
+| Airports - with paved runways: | total: 29 |
+| Airports - with paved runways: | over 3,047 m: 4 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 16 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 1 |
+| Airports - with paved runways: | 914 to 1,523 m: 3 |
+| Airports - with paved runways: | under 914 m: 5 (2009) |
+| Airports - with unpaved runways: | total: 75 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 1 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 15 |
+| Airports - with unpaved runways: | under 914 m: 59 (2009) |
+| Heliports: | 7 (2009) |
+| Pipelines: | gas 2,900 km; oil 2,000 km (2008) |
+| Railways: | total: 2,052 km |
+| Railways: | standard gauge: 1,801 km 1.435-m gauge |
+| Railways: | narrow gauge: 251 km 1.050-m gauge (2008) |
+| Roadways: | total: 97,401 km |
+| Roadways: | paved: 19,490 km (includes 1,103 km of expressways) |
+| Roadways: | unpaved: 77,911 km (2006) |
+| Waterways: | 900 km (not economically significant) (2008) |
+| Merchant marine: | total: 77 |
+| Merchant marine: | by type: bulk carrier 5, cargo 65, carrier 4, container 1, petroleum tanker 1, roll on/roll off 1 |
+| Merchant marine: | foreign-owned: 7 (Jordan 2, Lebanon 3, Romania 2) |
+| Merchant marine: | registered in other countries: 196 (Barbados 1, Bolivia 2, Cambodia 48, Comoros 4, Cyprus 2, Dominica 2, Georgia 49, Hong Kong 1, North Korea 1, Lebanon 2, Libya 2, Malta 6, Moldova 1, Panama 32, Saint Kitts and Nevis 7, Saint Vincent and the Grenadines 13, Sierra Leone 18, Slovakia 2, Togo 2, unknown 1) (2008) |
+| Ports and terminals: | Latakia, Tartus |

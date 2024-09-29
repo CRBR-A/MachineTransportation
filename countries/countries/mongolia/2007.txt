@@ -1,0 +1,24 @@
+| Transportation | Mongolia |
+| --- | --- |
+| Airports: | 44 (2007) |
+| Airports - with paved runways: | total: 13 |
+| Airports - with paved runways: | over 3,047 m: 1 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 10 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 2 (2007) |
+| Airports - with unpaved runways: | total: 31 |
+| Airports - with unpaved runways: | over 3,047 m: 1 |
+| Airports - with unpaved runways: | 2,438 to 3,047 m: 5 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 23 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 1 |
+| Airports - with unpaved runways: | under 914 m: 1 (2007) |
+| Heliports: | 1 (2007) |
+| Railways: | total: 1,810 km |
+| Railways: | broad gauge: 1,810 km 1.524-m gauge (2006) |
+| Roadways: | total: 49,250 km |
+| Roadways: | paved: 1,724 km |
+| Roadways: | unpaved: 47,526 km (2002) |
+| Waterways: | 580 km |
+| Waterways: | note: only waterway in operation is Lake Hovsgol (135 km); Selenge River (270 km) and Orhon River (175 km) are navigable but carry little traffic; lakes and rivers freeze in winter, are open from May to September (2004) |
+| Merchant marine: | total: 73 ships (1000 GRT or over) 448,252 GRT/668,689 DWT |
+| Merchant marine: | by type: bulk carrier 12, cargo 52, chemical tanker 1, liquefied gas 1, passenger/cargo 1, petroleum tanker 1, roll on/roll off 5 |
+| Merchant marine: | foreign-owned: 62 (Bulgaria 2, China 3, Hong Kong 1, Japan 1, Lebanon 1, Malaysia 1, Russia 17, Singapore 12, Syria 1, Thailand 1, Ukraine 3, UAE 5, Vietnam 14) (2007) |

@@ -1,0 +1,27 @@
+| Transportation | Norway |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 3 (2015) |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 106 (2015) |
+| National air transport system: | annual passenger traffic on registered air carriers: 12,277,220 (2015) |
+| National air transport system: | annual freight traffic on registered air carriers: 0 mt-km (2015) |
+| Civil aircraft registration country code prefix: | LN (2016) |
+| Airports: | 95 (2013) |
+| Airports - with paved runways: | total: 67 (2017) |
+| Airports - with paved runways: | 2,438 to 3,047 m: 14 (2017) |
+| Airports - with paved runways: | 1,524 to 2,437 m: 10 (2017) |
+| Airports - with paved runways: | 914 to 1,523 m: 22 (2017) |
+| Airports - with paved runways: | under 914 m: 21 (2017) |
+| Airports - with unpaved runways: | total: 28 (2013) |
+| Airports - with unpaved runways: | 914 to 1,523 m: 6 (2013) |
+| Airports - with unpaved runways: | under 914 m: 22 (2013) |
+| Heliports: | 1 (2013) |
+| Pipelines: | 8520 km gas, 1304 km oil/condensate (2017) |
+| Railways: | total: 4,200 km (2019) |
+| Railways: | standard gauge: 4,200 km 1.435-m gauge (2,480 km electrified) (2019) |
+| Roadways: | total: 94,902 km (includes 455 km of expressways) (2018) |
+| Waterways: | 1,577 km (2010) |
+| Merchant marine: | total: 1,581 |
+| Merchant marine: | by type: bulk carrier 102, general cargo 249, oil tanker 81, other 1149 (2018) |
+| Ports and terminals: | major seaport(s): Bergen, Haugesund, Maaloy, Mongstad, Narvik, Sture |
+| Ports and terminals: | LNG terminal(s) (export): Kamoy, Kollsnes, Melkoya Island |
+| Ports and terminals: | LNG terminal(s) (import): Fredrikstad, Mosjoen |

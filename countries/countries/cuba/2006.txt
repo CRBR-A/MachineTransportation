@@ -1,0 +1,26 @@
+| Transportation | Cuba |
+| --- | --- |
+| Airports: | 170 (2006) |
+| Airports - with paved runways: | total: 78 |
+| Airports - with paved runways: | over 3,047 m: 7 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 9 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 18 |
+| Airports - with paved runways: | 914 to 1,523 m: 7 |
+| Airports - with paved runways: | under 914 m: 37 (2006) |
+| Airports - with unpaved runways: | total: 92 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 1 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 29 |
+| Airports - with unpaved runways: | under 914 m: 62 (2006) |
+| Pipelines: | gas 49 km; oil 230 km (2006) |
+| Railways: | total: 4,226 km |
+| Railways: | standard gauge: 4,226 km 1.435-m gauge (140 km electrified) |
+| Railways: | note: an additional 7,742 km of track is used by sugar plantations; about 65% of this track is standard gauge; the rest is narrow gauge (2005) |
+| Roadways: | total: 60,858 km |
+| Roadways: | paved: 29,820 km (including 638 km of expressway) |
+| Roadways: | unpaved: 31,038 km (1999) |
+| Waterways: | 240 km (2005) |
+| Merchant marine: | total: 11 ships (1000 GRT or over) 33,932 GRT/48,791 DWT |
+| Merchant marine: | by type: bulk carrier 2, cargo 2, chemical tanker 1, passenger 1, petroleum tanker 3, refrigerated cargo 2 |
+| Merchant marine: | foreign-owned: 1 (Spain 1) |
+| Merchant marine: | registered in other countries: 17 (Bahamas 1, Cyprus 2, Netherlands Antilles 1, Panama 11, Spain 1, unknown 1) (2006) |
+| Ports and terminals: | Cienfuegos, Havana, Matanzas |

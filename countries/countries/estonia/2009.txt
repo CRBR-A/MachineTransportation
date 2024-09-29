@@ -1,0 +1,25 @@
+| Transportation | Estonia |
+| --- | --- |
+| Airports: | 19 (2009) |
+| Airports - with paved runways: | total: 13 |
+| Airports - with paved runways: | over 3,047 m: 2 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 7 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 2 |
+| Airports - with paved runways: | 914 to 1,523 m: 2 (2009) |
+| Airports - with unpaved runways: | total: 6 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 2 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 1 |
+| Airports - with unpaved runways: | under 914 m: 3 (2009) |
+| Heliports: | 1 (2009) |
+| Pipelines: | gas 859 km (2008) |
+| Railways: | total: 919 km |
+| Railways: | broad gauge: 919 km 1.520 m/1.524-m gauge (131 km electrified) (2008) |
+| Roadways: | total: 57,016 km |
+| Roadways: | paved: 12,926 km (includes 99 km of expressways) |
+| Roadways: | unpaved: 44,090 km (2005) |
+| Waterways: | 320 km (2008) |
+| Merchant marine: | total: 29 |
+| Merchant marine: | by type: cargo 5, passenger/cargo 21, petroleum tanker 2, chemical tanker 1 |
+| Merchant marine: | foreign-owned: 4 (Denmark 1, Germany 1, Norway 2) |
+| Merchant marine: | registered in other countries: 85 (Antigua and Barbuda 23, Belize 6, Cyprus 5, Dominica 7, Finland 2, Latvia 2, Liberia 1, Malta 11, Norway 1, Panama 5, Saint Kitts and Nevis 3, Saint Vincent and the Grenadines 16, Sweden 2, Vanuatu 1) (2008) |
+| Ports and terminals: | Kuivastu, Kunda, Muuga, Tallinn, Virtsu |

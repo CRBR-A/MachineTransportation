@@ -1,0 +1,13 @@
+| Transportation | ARUBA |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 3 |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 19 |
+| National air transport system: | annual passenger traffic on registered air carriers: 2,120,578 |
+| National air transport system: | annual freight traffic on registered air carriers: 0 mt-km (2015) |
+| Civil aircraft registration country code prefix: | P4 (2016) |
+| Airports: | 1 (2013) |
+| Airports - with paved runways: | total: 1 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 1 (2013) |
+| Ports and terminals: | major seaport(s): Barcadera, Oranjestad |
+| Ports and terminals: | oil terminal(s): Sint Nicolaas |
+| Ports and terminals: | cruise port(s): Oranjestad |

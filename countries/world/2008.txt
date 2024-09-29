@@ -1,0 +1,10 @@
+| Transportation | World |
+| --- | --- |
+| Airports: | total airports - 49,024 |
+| Airports: | top ten by passengers: Atlanta - 84,846,639; Chicago - 77,028,134; London - 67,530,197; Tokyo - 65,810,672; Los Angeles - 61,041,066; Dallas/Fort Worth - 60,226,138; Paris - 56,849,567; Frankfurt - 52,810,683; Beijing - 48,654,770; Denver - 47,325,016 |
+| Airports: | top ten by cargo (metric tons): Memphis - 3,692,081; Hong Kong - 3,609,780; Anchorage - 2,691,395; Seoul - 2,336,572; Tokyo - 2,280,830; Shanghai - 2,168,122; Paris - 2,130,724; Frankfurt - 2,127,646; Louisville (US) - 1,983,032; Singapore - 1,931,881 (2006) |
+| Heliports: | 1,359 (2007) |
+| Railways: | total: 1,370,782 km (2006) |
+| Roadways: | total: 68,937,575 km (2008) |
+| Waterways: | 671,886 km (2004) |
+| Ports and terminals: | top ten container ports (TEUs): Singapore - 24,792,400; Hong Kong - 23,539,000; Shanghai - 21,710,000; Shenzhen (China) - 18,468,890; Busan (South Korea) - 12,030,000; Kaohsiung (Taiwan) - 9,774,670; - Rotterdam - 9,603,000; Dubai (UAE) - 8,923,465; Hamburg - 8,861,545; Los Angeles - 8,469,853 (2006) |

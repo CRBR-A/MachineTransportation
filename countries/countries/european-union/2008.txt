@@ -1,0 +1,24 @@
+| Transportation | European Union |
+| --- | --- |
+| Airports: | 3,393 (2006) |
+| Airports - with paved runways: | total: 1,991 |
+| Airports - with paved runways: | over 3,047m: 110 |
+| Airports - with paved runways: | 2,438 to 3,047m: 347 |
+| Airports - with paved runways: | 1,524 to 2,437m: 545 |
+| Airports - with paved runways: | 914 to 1,523m: 420 |
+| Airports - with paved runways: | under 914m: 569 (2007) |
+| Airports - with unpaved runways: | total: 1,373 |
+| Airports - with unpaved runways: | over 3,047m: 2 |
+| Airports - with unpaved runways: | 2,438 to 3,047m: 5 |
+| Airports - with unpaved runways: | 1,524 to 2,437m: 30 |
+| Airports - with unpaved runways: | 914m to 1,523m: 267 |
+| Airports - with unpaved runways: | under 914m: 1,043 (2007) |
+| Heliports: | 100 (2007) |
+| Railways: | total: 236,436 km |
+| Railways: | broad gauge: 28,250 km |
+| Railways: | standard gauge: 200,401 km |
+| Railways: | narrow gauge: 7,771 km |
+| Railways: | other: 23 km (2007) |
+| Roadways: | total: 5,454,446 km (2008) |
+| Waterways: | 52,332 km (2006) |
+| Ports and terminals: | Antwerp (Belgium), Barcelona (Spain), Braila (Romania), Bremen (Germany), Burgas (Bulgaria), Constanta (Romania), Copenhagen (Denmark), Galati (Romania), Gdansk (Poland), Hamburg (Germany), Helsinki (Finland), Las Palmas (Canary Islands, Spain), Le Havre (France), Lisbon (Portugal), London (UK), Marseille (France), Naples (Italy), Peiraiefs or Piraeus (Greece), Riga (Latvia), Rotterdam (Netherlands), Stockholm (Sweden), Talinn (Estonia), Tulcea (Romania), Varna (Bulgaria) |

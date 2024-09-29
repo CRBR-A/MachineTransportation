@@ -1,0 +1,23 @@
+| Transportation | MONTENEGRO |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 1 |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 6 |
+| National air transport system: | annual passenger traffic on registered air carriers: 526,980 |
+| National air transport system: | annual freight traffic on registered air carriers: 0 mt-km (2015) |
+| Civil aircraft registration country code prefix: | 4O (2016) |
+| Airports: | 5 (2013) |
+| Airports - with paved runways: | total: 5 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 2 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 1 |
+| Airports - with paved runways: | 914 to 1,523 m: 1 |
+| Airports - with paved runways: | under 914 m: 1 (2017) |
+| Heliports: | 1 (2012) |
+| Railways: | total: 250 km |
+| Railways: | standard gauge: 250 km 1.435-m gauge (169 km electrified) (2014) |
+| Roadways: | total: 7,762 km |
+| Roadways: | paved: 7,141 km |
+| Roadways: | unpaved: 621 km (2010) |
+| Merchant marine: | total: 2 |
+| Merchant marine: | by type: cargo 1, passenger/cargo 1 |
+| Merchant marine: | registered in other countries: 4 (Bahamas 2, Honduras 1, Slovakia 1) (2010) |
+| Ports and terminals: | major seaport(s): Bar |

@@ -1,0 +1,24 @@
+| Transportation | TRINIDAD AND TOBAGO |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 1 |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 17 |
+| National air transport system: | annual passenger traffic on registered air carriers: 2,617,842 |
+| National air transport system: | annual freight traffic on registered air carriers: 43,198,176 mt-km (2015) |
+| Civil aircraft registration country code prefix: | 9Y (2016) |
+| Airports: | 4 (2013) |
+| Airports - with paved runways: | total: 2 |
+| Airports - with paved runways: | over 3,047 m: 1 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 1 (2013) |
+| Airports - with unpaved runways: | total: 2 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 1 |
+| Airports - with unpaved runways: | under 914 m: 1 (2013) |
+| Pipelines: | condensate 257 km; condensate/gas 11 km; gas 1,567 km; oil 587 km (2013) |
+| Roadways: | total: 9,592 km |
+| Roadways: | paved: 5,524 km |
+| Roadways: | unpaved: 4,068 km (2015) |
+| Merchant marine: | total: 4 |
+| Merchant marine: | by type: passenger 1, passenger/cargo 2, petroleum tanker 1 |
+| Merchant marine: | registered in other countries: 2 (unknown 2) (2010) |
+| Ports and terminals: | major seaport(s): Point Fortin, Point Lisas, Port of Spain, Scarborough |
+| Ports and terminals: | oil terminal(s): Galeota Point terminal |
+| Ports and terminals: | LNG terminal(s) (export): Port Fortin |

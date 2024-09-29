@@ -1,0 +1,27 @@
+| Transportation | Ireland |
+| --- | --- |
+| Airports: | 40 (2013) |
+| Airports - with paved runways: | total: 16 |
+| Airports - with paved runways: | over 3,047 m: 1 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 1 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 4 |
+| Airports - with paved runways: | 914 to 1,523 m: 5 |
+| Airports - with paved runways: | under 914 m: 5 (2013) |
+| Airports - with unpaved runways: | total: 24 |
+| Airports - with unpaved runways: | 2,438 to 3,047 m: 1 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 2 |
+| under 914 m: | 21 (2013) |
+| Pipelines: | gas 2,147 km (2013) |
+| Railways: | total: 3,237 km |
+| Railways: | broad gauge: 1,872 km 1.600-m gauge (37 km electrified) |
+| Railways: | narrow gauge: 1,365 km 0.914-m gauge (operated by the Irish Peat Board to transport peat to power stations and briquetting plants) (2008) |
+| Roadways: | total: 96,036 km |
+| Roadways: | paved: 96,036 km (includes 1,224 km of expressways) (2014) |
+| Waterways: | 956 km (pleasure craft only) (2010) |
+| Merchant marine: | total: 31 |
+| Merchant marine: | by type: cargo 28, chemical tanker 2, container 1 |
+| Merchant marine: | foreign-owned: 5 (France 2, Spain 1, US 2) |
+| Merchant marine: | registered in other countries: 33 (Bahamas 3, Bermuda 1, Cambodia 1, Cyprus 3, Isle of Man 1, Kazakhstan 1, Malta 4, Marshall Islands 6, Netherlands 8, Panama 1, Russia 1, Slovakia 1, Sweden 1, UK 1) (2010) |
+| Ports and terminals: | major seaport(s): Dublin, Shannon Foynes, |
+| Ports and terminals: | river port(s): Cork (Lee), Waterford (Suir) |
+| Ports and terminals: | container port(s) (TEUs): Dublin (1,931,001) |

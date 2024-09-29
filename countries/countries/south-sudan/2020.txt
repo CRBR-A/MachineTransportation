@@ -1,0 +1,24 @@
+| Transportation | South Sudan |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 2 (2020) |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 2 |
+| National air transport system: | annual freight traffic on registered air carriers: 0 mt-km |
+| Civil aircraft registration country code prefix: | Z8 (2016) |
+| Airports: | 89 (2020) |
+| Airports - with paved runways: | total: 4 (2020) |
+| Airports - with paved runways: | over 3,047 m: 1 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 2 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 1 |
+| Airports - with unpaved runways: | total: 84 (2020) |
+| Airports - with unpaved runways: | 2,438 to 3,047 m: 1 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 12 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 38 |
+| Airports - with unpaved runways: | under 914 m: 33 |
+| Heliports: | 3 (2020) |
+| Railways: | total: 248 km (2018) |
+| Railways: | note: a narrow gauge, single-track railroad between Babonosa (Sudan) and Wau, the only existing rail system, was repaired in 2010 with $250 million in UN funds, but is not currently operational |
+| Roadways: | total: 90,200 km (2019) |
+| Roadways: | paved: 300 km (2019) |
+| Roadways: | unpaved: 89,900 km (2019) |
+| Roadways: | note: most of the road network is unpaved and much of it is in disrepair |
+| Waterways: | see entry for Sudan |

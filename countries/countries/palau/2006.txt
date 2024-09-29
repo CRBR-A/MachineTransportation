@@ -1,0 +1,11 @@
+| Transportation | Palau |
+| --- | --- |
+| Airports: | 3 (2006) |
+| Airports - with paved runways: | total: 1 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 1 (2006) |
+| Airports - with unpaved runways: | total: 2 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 2 (2006) |
+| Roadways: | total: 61 km |
+| Roadways: | paved: 36 km |
+| Roadways: | unpaved: 25 km |
+| Ports and terminals: | Koror |

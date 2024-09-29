@@ -1,0 +1,14 @@
+| Transportation | NAURU |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 1 |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 5 |
+| National air transport system: | annual passenger traffic on registered air carriers: 38,858 |
+| National air transport system: | annual freight traffic on registered air carriers: 7,793,474 mt-km (2015) |
+| Civil aircraft registration country code prefix: | C2 (2016) |
+| Airports: | 1 (2013) |
+| Airports - with paved runways: | total: 1 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 1 (2013) |
+| Roadways: | total: 30 km |
+| Roadways: | paved: 24 km |
+| Roadways: | unpaved: 6 km (2002) |
+| Ports and terminals: | major seaport(s): Nauru |

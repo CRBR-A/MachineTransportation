@@ -1,0 +1,29 @@
+| Transportation | Switzerland |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 12 (2015) |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 163 (2015) |
+| National air transport system: | annual passenger traffic on registered air carriers: 26,843,991 (2015) |
+| National air transport system: | annual freight traffic on registered air carriers: 1,322,379,468 mt-km (2015) |
+| Civil aircraft registration country code prefix: | HB (2016) |
+| Airports: | 63 (2013) |
+| Airports - with paved runways: | total: 40 (2013) |
+| Airports - with paved runways: | over 3,047 m: 3 (2013) |
+| Airports - with paved runways: | 2,438 to 3,047 m: 2 (2013) |
+| Airports - with paved runways: | 1,524 to 2,437 m: 12 (2013) |
+| Airports - with paved runways: | 914 to 1,523 m: 6 (2013) |
+| Airports - with paved runways: | under 914 m: 17 (2013) |
+| Airports - with unpaved runways: | total: 23 (2013) |
+| Airports - with unpaved runways: | under 914 m: 23 (2013) |
+| Heliports: | 2 (2013) |
+| Pipelines: | 1,800 km gas, 94 km oil (of which 60 are inactive), 17 km refined products (2017) |
+| Railways: | total: 5,690 km (includes 19 km in neighboring countries) (2015) |
+| Railways: | standard gauge: 3,836 km 1.435-m gauge (3,634 km electrified) (2015) |
+| Railways: | narrow gauge: 1,630 km 1.200-m gauge (2 km electrified) (includes 19 km in neighboring countries) (2015) |
+| Railways: | 1188 km 1.000-m gauge (1,167.3 km electrified) |
+| Railways: | 36 km 0.800-m gauge (36.4 km electrified) |
+| Roadways: | total: 71,557 km (2017) |
+| Roadways: | paved: 71,557 km (includes 1,458 of expressways) (2017) |
+| Waterways: | 1,292 km (there are 1,227 km of waterways on lakes and rivers for public transport and 65 km on the Rhine River between Basel-Rheinfelden and Schaffhausen-Bodensee for commercial goods transport) (2010) |
+| Merchant marine: | total: 30 includes Liechtenstein |
+| Merchant marine: | by type: bulk carrier 24, general cargo 4, oil tanker 2 (2019) |
+| Ports and terminals: | river port(s): Basel (Rhine) |

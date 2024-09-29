@@ -1,0 +1,29 @@
+| Transportation | United Kingdom |
+| --- | --- |
+| Airports: | 505 (2010) |
+| Airports - with paved runways: | total: 306 |
+| Airports - with paved runways: | over 3,047 m: 9 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 32 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 124 |
+| Airports - with paved runways: | 914 to 1,523 m: 77 |
+| Airports - with paved runways: | under 914 m: 64 (2010) |
+| Airports - with unpaved runways: | total: 199 |
+| Airports - with unpaved runways: | over 3,047 m: 1 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 3 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 22 |
+| Airports - with unpaved runways: | under 914 m: 173 (2010) |
+| Heliports: | 11 (2010) |
+| Pipelines: | condensate 8 km; gas 14,071 km; liquid petroleum gas 59 km; oil 595 km; refined products 4,907 km (2010) |
+| Railways: | total: 16,454 km |
+| Railways: | broad gauge: 303 km 1.600-m gauge (in Northern Ireland) |
+| Railways: | standard gauge: 16,151 km 1.435-m gauge (5,248 km electrified) (2010) |
+| Roadways: | total: 394,428 km |
+| Roadways: | paved: 394,428 km (includes 3,519 km of expressways) (2009) |
+| Waterways: | 3,200 km (620 km used for commerce) (2009) |
+| Merchant marine: | total: 527 |
+| Merchant marine: | by type: bulk carrier 30, cargo 70, carrier 3, chemical tanker 71, container 190, liquefied gas 10, passenger 7, passenger/cargo 67, petroleum tanker 20, refrigerated cargo 6, roll on/roll off 29, vehicle carrier 24 |
+| Merchant marine: | foreign-owned: 271 (Australia 1, Bermuda 9, China 15, Denmark 40, France 32, Germany 78, Greece 1, Hong Kong, Italy 4, Japan 4, Netherlands 1, Norway 32, NZ 1, South Africa 5, Spain 7, Sweden 21, Taiwan 1, Turkey 1, UAE 7, United States 11) |
+| Merchant marine: | note: this country allows large numbers of ships owned by foreign entities to be registered in its national shipping registry and to fly its flag; these ships operate under the laws of the flag state |
+| Merchant marine: | registered in other countries: 275 (Algeria 12, Antigua and Barbuda 2, Argentina 2, Australia 5, Bahamas 24, Barbados 7, Belgium 2, Belize 4, Bermuda 11, Cambodia 3, Cape Verde 2, Cayman Islands 2, Comoros 1, Cook Islands 2, Cyprus 7, Georgia 4, Gibraltar 4, Greece 27, Honduras 1, Hong Kong 27, Italy 2, Liberia 44, Libya 1, Luxembourg 5, Malta 16, Marshall Islands 9, Moldova 6, Nigeria 2, Panama 44, Saint Kitts and Nevis 2, Saint Vincent and the Grenadines 7, Sierra Leone 1, Singapore 6, Thailand 6, Togo 3, Tonga 1, US 4, unknown 1) (2010) |
+| Ports and terminals: | Dover, Felixstowe, Immingham, Liverpool, London, Southampton, Teesport (England); Forth Ports (Scotland); Milford Haven (Wales) |
+| Ports and terminals: | oil terminals: Fawley Marine terminal, Liverpool Bay terminal (England); Braefoot Bay terminal, Finnart oil terminal, Hound Point terminal (Scotland) |

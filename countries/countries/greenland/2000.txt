@@ -1,0 +1,18 @@
+| Transportation |   |
+| --- | --- |
+| Railways: | 0 km |
+| Highways: | total: 150 km |
+| Highways: | paved: 60 km |
+| Highways: | unpaved: 90 km |
+| Ports and harbors: | Kangerluarsoruseq, Kangerlussuaq, Nanortalik, Narsarsuaq, Nuuk (Godthab), Sisimiut |
+| Airports: | 14 (1999 est.) |
+| Airports - with paved runways: | total: 10 |
+| Airports - with paved runways: | over 3,047 m: 1 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 1 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 1 |
+| Airports - with paved runways: | 914 to 1,523 m: 2 |
+| Airports - with paved runways: | under 914 m: 5 (1999 est.) |
+| Airports - with unpaved runways: | total: 4 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 1 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 2 |
+| Airports - with unpaved runways: | under 914 m: 1 (1999 est.) |

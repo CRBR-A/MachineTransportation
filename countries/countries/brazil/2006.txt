@@ -1,0 +1,29 @@
+| Transportation | Brazil |
+| --- | --- |
+| Airports: | 4,276 (2006) |
+| Airports - with paved runways: | total: 714 |
+| Airports - with paved runways: | over 3,047 m: 8 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 24 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 164 |
+| Airports - with paved runways: | 914 to 1,523 m: 464 |
+| Airports - with paved runways: | under 914 m: 54 (2006) |
+| Airports - with unpaved runways: | total: 3,562 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 81 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 1,634 |
+| Airports - with unpaved runways: | under 914 m: 1,847 (2006) |
+| Heliports: | 417 (2006) |
+| Pipelines: | condensate/gas 244 km; gas 11,669 km; liquid petroleum gas 341 km; oil 5,212 km; refined products 4,755 km (2006) |
+| Railways: | total: 29,252 km |
+| Railways: | broad gauge: 4,877 km 1.600-m gauge (939 km electrified) |
+| Railways: | standard gauge: 194 km 1.440-m gauge |
+| Railways: | narrow gauge: 23,785 km 1.000-m gauge (581 km electrified) |
+| Railways: | dual gauge: 396 km 1.000 m and 1.600-m gauges (three rails) (78 km electrified) (2005) |
+| Roadways: | total: 1,724,929 km |
+| Roadways: | paved: 94,871 km |
+| Roadways: | unpaved: 1,630,058 km (2000) |
+| Waterways: | 50,000 km (most in areas remote from industry and population) (2005) |
+| Merchant marine: | total: 137 ships (1000 GRT or over) 2,038,923 GRT/3,057,820 DWT |
+| Merchant marine: | by type: bulk carrier 21, cargo 21, chemical tanker 8, container 8, liquefied gas 12, passenger/cargo 12, petroleum tanker 47, roll on/roll off 8 |
+| Merchant marine: | foreign-owned: 15 (Chile 1, Germany 7, Norway 2, Spain 4, UK 1) |
+| Merchant marine: | registered in other countries: 5 (Ghana 1, Liberia 3, Marshall Islands 1) (2006) |
+| Ports and terminals: | Gebig, Itaqui, Rio de Janeiro, Rio Grande, San Sebasttiao, Santos, Sepetiba Terminal, Tubarao, Vitoria |

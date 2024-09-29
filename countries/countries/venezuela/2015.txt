@@ -1,0 +1,27 @@
+| Transportation | VENEZUELA |
+| --- | --- |
+| Airports: | 444 (2013) |
+| Airports - with paved runways: | total: 127 |
+| Airports - with paved runways: | over 3,047 m: 6 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 9 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 33 |
+| Airports - with paved runways: | 914 to 1,523 m: 62 |
+| Airports - with paved runways: | under 914 m: 17 (2013) |
+| Airports - with unpaved runways: | total: 317 |
+| Airports - with unpaved runways: | 2,438 to 3,047 m: 3 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 57 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 127 |
+| under 914 m: | 130 (2013) |
+| Heliports: | 3 (2013) |
+| Pipelines: | extra heavy crude 981 km; gas 5,941 km; oil 7,588 km; refined products 1,778 km (2013) |
+| Railways: | total: 447 km |
+| Railways: | standard gauge: 447 km 1.435-m gauge (41.4 km electrified) (2014) |
+| Roadways: | total: 96,189 km (2014) |
+| Waterways: | 7,100 km (Orinoco River (400 km) and Lake de Maracaibo navigable by oceangoing vessels) (2011) |
+| Merchant marine: | total: 53 |
+| Merchant marine: | by type: bulk carrier 4, cargo 12, chemical tanker 1, liquefied gas 5, passenger 1, passenger/cargo 14, petroleum tanker 16 |
+| Merchant marine: | foreign-owned: 9 (Denmark 1, Estonia 1, Germany 1, Greece 4, Mexico 1, Spain 1) |
+| Merchant marine: | registered in other countries: 14 (Panama 13, Saint Vincent and the Grenadines 1) (2010) |
+| Ports and terminals: | major seaport(s): La Guaira, Maracaibo, Puerto Cabello, Punta Cardon |
+| Ports and terminals: | oil terminals: Jose terminal |
+| Transportation - note: | the International Maritime Bureau reports the territorial and offshore waters in the Caribbean Sea as a significant risk for piracy and armed robbery against ships; numerous vessels, including commercial shipping and pleasure craft, have been attacked and hijacked both at anchor and while underway; crews have been robbed and stores or cargoes stolen |

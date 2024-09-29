@@ -1,0 +1,25 @@
+| Transportation | Kenya |
+| --- | --- |
+| Airports: | 225 (2006) |
+| Airports - with paved runways: | total: 15 |
+| Airports - with paved runways: | over 3,047 m: 4 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 1 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 4 |
+| Airports - with paved runways: | 914 to 1,523 m: 5 |
+| Airports - with paved runways: | under 914 m: 1 (2006) |
+| Airports - with unpaved runways: | total: 210 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 11 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 115 |
+| Airports - with unpaved runways: | under 914 m: 84 (2006) |
+| Pipelines: | refined products 894 km (2006) |
+| Railways: | total: 2,778 km |
+| Railways: | narrow gauge: 2,778 km 1.000-m gauge (2005) |
+| Roadways: | total: 63,000 km (interurban roads) |
+| Roadways: | paved: 7,623 km |
+| Roadways: | unpaved: 55,377 km |
+| Roadways: | note: there also are 100,000 km of rural roads and 14,500 km of urban roads for a national total of 177,500 km (2004) |
+| Waterways: | part of Lake Victoria system is within boundaries of Kenya (2003) |
+| Merchant marine: | total: 3 ships (1000 GRT or over) 6,049 GRT/7,082 DWT |
+| Merchant marine: | by type: passenger/cargo 2, petroleum tanker 1 |
+| Merchant marine: | registered in other countries: 6 (Bahamas 1, Comoros 1, Saint Vincent and the Grenadines 2, Tuvalu 1, unknown 1) (2006) |
+| Ports and terminals: | Mombasa |

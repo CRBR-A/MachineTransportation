@@ -1,0 +1,26 @@
+| Transportation | Pakistan |
+| --- | --- |
+| Airports: | 146 (2007) |
+| Airports - with paved runways: | total: 92 |
+| Airports - with paved runways: | over 3,047 m: 16 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 19 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 29 |
+| Airports - with paved runways: | 914 to 1,523 m: 18 |
+| Airports - with paved runways: | under 914 m: 10 (2007) |
+| Airports - with unpaved runways: | total: 54 |
+| Airports - with unpaved runways: | 2,438 to 3,047 m: 1 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 16 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 13 |
+| Airports - with unpaved runways: | under 914 m: 24 (2007) |
+| Heliports: | 18 (2007) |
+| Pipelines: | gas 10,257 km; oil 2,001 km (2006) |
+| Railways: | total: 8,163 km |
+| Railways: | broad gauge: 7,718 km 1.676-m gauge (293 km electrified) |
+| Railways: | narrow gauge: 445 km 1.000-m gauge (2006) |
+| Roadways: | total: 258,340 km |
+| Roadways: | paved: 167,146 km (includes 711 km of expressways) |
+| Roadways: | unpaved: 91,194 km (2004) |
+| Merchant marine: | total: 14 ships (1000 GRT or over) 325,254 GRT/536,876 DWT |
+| Merchant marine: | by type: bulk carrier 1, cargo 10, petroleum tanker 3 |
+| Merchant marine: | registered in other countries: 12 (Comoros 2, Hong Kong 1, North Korea 1, Malta 2, Panama 5, St Vincent and The Grenadines 1) (2007) |
+| Ports and terminals: | Karachi, Port Muhammad Bin Qasim |

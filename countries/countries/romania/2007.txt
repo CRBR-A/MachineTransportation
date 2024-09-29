@@ -1,0 +1,27 @@
+| Transportation | Romania |
+| --- | --- |
+| Airports: | 61 (2007) |
+| Airports - with paved runways: | total: 25 |
+| Airports - with paved runways: | over 3,047 m: 3 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 9 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 12 |
+| Airports - with paved runways: | 914 to 1,523 m: 1 (2007) |
+| Airports - with unpaved runways: | total: 36 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 2 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 12 |
+| Airports - with unpaved runways: | under 914 m: 22 (2007) |
+| Heliports: | 2 (2007) |
+| Pipelines: | gas 3,508 km; oil 2,427 km (2006) |
+| Railways: | total: 11,385 km |
+| Railways: | broad gauge: 60 km 1.524-m gauge |
+| Railways: | standard gauge: 10,898 km 1.435-m gauge (3,888 km electrified) |
+| Railways: | narrow gauge: 427 km 0.760-m gauge (2006) |
+| Roadways: | total: 198,817 km |
+| Roadways: | paved: 60,043 km (includes 228 km of expressways) |
+| Roadways: | unpaved: 138,774 km (2004) |
+| Waterways: | 1,731 km |
+| Waterways: | note: includes 1,075 km on Danube River, 524 km on secondary branches, and 132 km on canals (2006) |
+| Merchant marine: | total: 19 ships (1000 GRT or over) 146,307 GRT/165,548 DWT |
+| Merchant marine: | by type: cargo 13, passenger 1, passenger/cargo 2, petroleum tanker 2, roll on/roll off 1 |
+| Merchant marine: | registered in other countries: 50 (Cambodia 1, Georgia 15, North Korea 6, Malta 10, Marshall Islands 1, Panama 8, Sierra Leone 2, St Kitts and Nevis 1, St Vincent and The Grenadines 1, Syria 4, Tuvalu 1, unknown 4) (2007) |
+| Ports and terminals: | Braila, Constanta, Galati, Tulcea |

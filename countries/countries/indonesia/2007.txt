@@ -1,0 +1,26 @@
+| Transportation | Indonesia |
+| --- | --- |
+| Airports: | 652 (2007) |
+| Airports - with paved runways: | total: 158 |
+| Airports - with paved runways: | over 3,047 m: 4 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 15 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 51 |
+| Airports - with paved runways: | 914 to 1,523 m: 49 |
+| Airports - with paved runways: | under 914 m: 39 (2007) |
+| Airports - with unpaved runways: | total: 494 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 5 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 27 |
+| Airports - with unpaved runways: | under 914 m: 462 (2007) |
+| Heliports: | 17 (2007) |
+| Pipelines: | condensate 944 km; condensate/gas 135 km; gas 9,175 km; oil 7,684 km; oil/gas/water 89 km; refined products 1,367 km (2006) |
+| Railways: | total: 6,458 km |
+| Railways: | narrow gauge: 5,961 km 1.067-m gauge (125 km electrified); 497 km 0.750-m gauge (2006) |
+| Roadways: | total: 368,360 km |
+| Roadways: | paved: 213,649 km |
+| Roadways: | unpaved: 154,711 km (2002) |
+| Waterways: | 21,579 km (2007) |
+| Merchant marine: | total: 965 ships (1000 GRT or over) 4,409,198 GRT/5,825,591 DWT |
+| Merchant marine: | by type: bulk carrier 53, cargo 522, chemical tanker 25, container 66, liquefied gas 7, livestock carrier 1, passenger 44, passenger/cargo 67, petroleum tanker 155, refrigerated cargo 2, roll on/roll off 11, specialized tanker 8, vehicle carrier 4 |
+| Merchant marine: | foreign-owned: 45 (China 2, France 1, Japan 5, South Korea 1, Philippines 1, Singapore 26, Switzerland 3, Taiwan 2, Thailand 1, UK 3) |
+| Merchant marine: | registered in other countries: 105 (Bahamas 3, Cambodia 1, Hong Kong 7, Liberia 1, Panama 37, Singapore 56, unknown 5) (2007) |
+| Ports and terminals: | Banjarmasin, Belawan, Ciwandan, Krueg Geukueh, Palembang, Panjang, Sungai Pakning, Tanjung Perak, Tanjung Priok |

@@ -1,0 +1,27 @@
+| Transportation | Italy |
+| --- | --- |
+| Airports: | 132 (2009) |
+| Airports - with paved runways: | total: 101 |
+| Airports - with paved runways: | over 3,047 m: 9 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 30 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 17 |
+| Airports - with paved runways: | 914 to 1,523 m: 32 |
+| Airports - with paved runways: | under 914 m: 13 (2009) |
+| Airports - with unpaved runways: | total: 31 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 1 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 11 |
+| Airports - with unpaved runways: | under 914 m: 19 (2009) |
+| Heliports: | 6 (2009) |
+| Pipelines: | gas 17,544 km; oil 1,241 km (2008) |
+| Railways: | total: 19,729 km |
+| Railways: | standard gauge: 18,317 km 1.435-m gauge (12,458 km electrified) |
+| Railways: | narrow gauge: 123 km 1.000-m gauge (123 km electrified); 1,058 km 0.950-m gauge (151 km electrified); 231 km 0.850-m gauge (2008) |
+| Roadways: | total: 487,700 km |
+| Roadways: | paved: 487,700 km (includes 6,700 km of expressways) (2005) |
+| Waterways: | 2,400 km |
+| Waterways: | note: used for commercial traffic; of limited overall value compared to road and rail (2008) |
+| Merchant marine: | total: 609 |
+| Merchant marine: | by type: bulk carrier 60, cargo 47, carrier 2, chemical tanker 159, combination ore/oil 1, container 25, liquefied gas 27, passenger 22, passenger/cargo 154, petroleum tanker 35, refrigerated cargo 4, roll on/roll off 33, specialized tanker 13, vehicle carrier 27 |
+| Merchant marine: | foreign-owned: 64 (Denmark 3, France 2, Greece 6, Japan 1, Lebanon 1, Nigeria 1, Norway 2, Portugal 1, Sweden 1, Switzerland 8, Taiwan 13, Turkey 1, UK 7, US 17) |
+| Merchant marine: | registered in other countries: 208 (Antigua and Barbuda 1, Bahamas 4, Belize 3, Cayman Islands 4, Cyprus 7, France 2, Liberia 41, Malta 50, Marshall Islands 3, Netherlands 1, Norway 4, Panama 28, Portugal 12, Russia 4, Saint Kitts and Nevis 1, Saint Vincent and the Grenadines 17, Singapore 5, Slovakia 2, Spain 2, Sweden 9, Turkey 3, UK 5) (2008) |
+| Ports and terminals: | Augusta, Genoa, Livorno, Ravenna, Sarroch, Taranto, Trieste, Venice |

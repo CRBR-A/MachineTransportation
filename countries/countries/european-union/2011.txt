@@ -1,0 +1,20 @@
+| Transportation | European Union |
+| --- | --- |
+| Airports: | 3,383 (2010) |
+| Airports - with paved runways: | total: 1,992 |
+| Airports - with paved runways: | over 3,047 m: 116 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 340 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 546 |
+| Airports - with paved runways: | 914 to 1,523 m: 422 |
+| Airports - with paved runways: | under 914 m: 568 (2010) |
+| Airports - with unpaved runways: | total: 1,391 |
+| Airports - with unpaved runways: | over 3,047 m: 2 |
+| Airports - with unpaved runways: | 2,438 to 3,047 m: 1 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 22 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 254 |
+| Airports - with unpaved runways: | under 914 m: 1,112 (2010) |
+| Heliports: | 99 (2010) |
+| Railways: | total: 228,710 km (2010) |
+| Roadways: | total: 5,814,080 km (2010) |
+| Waterways: | 44,103 km (2010) |
+| Ports and terminals: | Antwerp (Belgium), Barcelona (Spain), Braila (Romania), Bremen (Germany), Burgas (Bulgaria), Constanta (Romania), Copenhagen (Denmark), Galati (Romania), Gdansk (Poland), Hamburg (Germany), Helsinki (Finland), Las Palmas (Canary Islands, Spain), Le Havre (France), Lisbon (Portugal), London (UK), Marseille (France), Naples (Italy), Peiraiefs or Piraeus (Greece), Riga (Latvia), Rotterdam (Netherlands), Stockholm (Sweden), Talinn (Estonia), Tulcea (Romania), Varna (Bulgaria) |

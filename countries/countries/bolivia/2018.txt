@@ -1,0 +1,30 @@
+| Transportation | Bolivia |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 7 (2015) |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 39 (2015) |
+| National air transport system: | annual passenger traffic on registered air carriers: 2,578,959 (2015) |
+| National air transport system: | annual freight traffic on registered air carriers: 9,456,548 mt-km (2015) |
+| Civil aircraft registration country code prefix: | CP (2016) |
+| Airports: | 855 (2013) |
+| Airports - with paved runways: | total: 21 (2017) |
+| Airports - with paved runways: | over 3,047 m: 5 (2017) |
+| Airports - with paved runways: | 2,438 to 3,047 m: 4 (2017) |
+| Airports - with paved runways: | 1,524 to 2,437 m: 6 (2017) |
+| Airports - with paved runways: | 914 to 1,523 m: 6 (2017) |
+| Airports - with unpaved runways: | total: 834 (2013) |
+| Airports - with unpaved runways: | over 3,047 m: 1 (2013) |
+| Airports - with unpaved runways: | 2,438 to 3,047 m: 4 (2013) |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 47 (2013) |
+| Airports - with unpaved runways: | 914 to 1,523 m: 151 (2013) |
+| Airports - with unpaved runways: | under 914 m: 631 (2013) |
+| Pipelines: | 5457 km gas, 51 km liquid petroleum gas, 2511 km oil, 1627 km refined products (2013) |
+| Railways: | total: 3,504 km (2014) |
+| Railways: | narrow gauge: 3,504 km 1.000-m gauge (2014) |
+| Roadways: | total: 90,568 km (2017) |
+| Roadways: | paved: 9,792 km (2017) |
+| Roadways: | unpaved: 80,776 km (2017) |
+| Waterways: | 10,000 km (commercially navigable almost exclusively in the northern and eastern parts of the country) (2012) |
+| Merchant marine: | total: 55 (2017) |
+| Merchant marine: | by type: general cargo 41, oil tanker 3, other 11 (2017) |
+| Ports and terminals: | river port(s): Puerto Aguirre (Paraguay/Parana) |
+| Ports and terminals: | note: Bolivia has free port privileges in maritime ports in Argentina, Brazil, Chile, and Paraguay |

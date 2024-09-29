@@ -1,0 +1,27 @@
+| Transportation | ETHIOPIA |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 1 |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 75 |
+| National air transport system: | annual passenger traffic on registered air carriers: 7,074,779 |
+| National air transport system: | annual freight traffic on registered air carriers: 1,228,738,320 mt-km (2015) |
+| Civil aircraft registration country code prefix: | ET (2016) |
+| Airports: | 57 (2013) |
+| Airports - with paved runways: | total: 17 |
+| Airports - with paved runways: | over 3,047 m: 3 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 8 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 4 |
+| Airports - with paved runways: | under 914 m: 2 (2013) |
+| Airports - with unpaved runways: | total: 40 |
+| Airports - with unpaved runways: | 2,438 to 3,047 m: 3 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 9 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 20 |
+| Airports - with unpaved runways: | under 914 m: 8 (2013) |
+| Railways: | total: 681 km (Ethiopian segment of the 781 km Addis Ababa-Djibouti railroad) |
+| Railways: | narrow gauge: 681 km 1.000-m gauge |
+| Railways: | note: railway is under joint control of Djibouti and Ethiopia (2015) |
+| Roadways: | total: 110,414 km |
+| Roadways: | paved: 14,354 km |
+| Roadways: | unpaved: 96,060 km (2015) |
+| Merchant marine: | total: 8 |
+| Merchant marine: | by type: cargo 8 (2010) |
+| Ports and terminals: | Ethiopia is landlocked and uses the ports of Djibouti in Djibouti and Berbera in Somalia |

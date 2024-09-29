@@ -1,0 +1,19 @@
+| Transportation | European Union |
+| --- | --- |
+| Airports: | 3,294 (2012) |
+| Airports - with paved runways: | total: 1,933 |
+| Airports - with paved runways: | over 3,047 m: 117 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 332 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 513 |
+| Airports - with paved runways: | 914 to 1,523 m: 417 |
+| Airports - with paved runways: | under 914 m: 554 (2012) |
+| Airports - with unpaved runways: | total: 1,361 |
+| Airports - with unpaved runways: | over 3,047 m: 1 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 14 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 249 |
+| Airports - with unpaved runways: | under 914 m: 1,097 (2012) |
+| Heliports: | 91 (2012) |
+| Railways: | total: 228,710 km (2010) |
+| Roadways: | total: 5,814,080 km (2010) |
+| Waterways: | 44,103 km (2010) |
+| Ports and terminals: | Antwerp (Belgium), Barcelona (Spain), Braila (Romania), Bremen (Germany), Burgas (Bulgaria), Constanta (Romania), Copenhagen (Denmark), Galati (Romania), Gdansk (Poland), Hamburg (Germany), Helsinki (Finland), Las Palmas (Canary Islands, Spain), Le Havre (France), Lisbon (Portugal), London (UK), Marseille (France), Naples (Italy), Peiraiefs or Piraeus (Greece), Riga (Latvia), Rotterdam (Netherlands), Stockholm (Sweden), Talinn (Estonia), Tulcea (Romania), Varna (Bulgaria) |

@@ -1,0 +1,24 @@
+| Transportation | Croatia |
+| --- | --- |
+| Airports: | 69 (2012) |
+| Airports - with paved runways: | total: 24 |
+| Airports - with paved runways: | over 3,047 m: 2 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 6 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 3 |
+| Airports - with paved runways: | 914 to 1,523 m: 3 |
+| Airports - with paved runways: | under 914 m: 10 (2012) |
+| Airports - with unpaved runways: | total: 45 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 1 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 6 |
+| Airports - with unpaved runways: | under 914 m: 38 (2012) |
+| Heliports: | 1 (2012) |
+| Pipelines: | gas 1,686 km; oil 532 km (2010) |
+| Railways: | total: 2,722 km |
+| Railways: | standard gauge: 2,722 km 1.435-m gauge (984 km electrified) (2009) |
+| Roadways: | total: 29,343 km (includes 1,047 km of expressways) (2008) |
+| Waterways: | 785 km (2009) |
+| Merchant marine: | total: 77 |
+| Merchant marine: | by type: bulk carrier 24, cargo 7, chemical tanker 8, passenger/cargo 27, petroleum tanker 10, refrigerated cargo 1 |
+| Merchant marine: | foreign-owned: 2 (Norway 2) |
+| Merchant marine: | registered in other countries: 31 (Bahamas 1, Belize 1, Liberia 1, Malta 6, Marshall Islands 12, Panama 2, Saint Vincent and the Grenadines 8) (2010) |
+| Ports and terminals: | Omisalj, Ploce, Rijeka, Sibernik, Split, Vukovar (on Danube River) |

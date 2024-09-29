@@ -1,0 +1,15 @@
+| Transportation |
+| --- | --- |
+| Railways: | 0 km |
+| Highways: | total: 440 km |
+| Highways: | paved: 50 km |
+| Highways: | unpaved: 390 km |
+| Waterways: | none |
+| Ports and harbors: | Stanley |
+| Merchant marine: | none (2000 est.) |
+| Airports: | 5 (2000 est.) |
+| Airports - with paved runways: | total: 2 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 1 |
+| Airports - with paved runways: | under 914 m: 1 (2000 est.) |
+| Airports - with unpaved runways: | total: 3 |
+| Airports - with unpaved runways: | under 914 m: 3 (2000 est.) |

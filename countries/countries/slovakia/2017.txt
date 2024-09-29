@@ -1,0 +1,29 @@
+| Transportation | SLOVAKIA |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 4 |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 23 |
+| National air transport system: | annual passenger traffic on registered air carriers: 11,100 |
+| National air transport system: | annual freight traffic on registered air carriers: 0 mt-km (2015) |
+| Civil aircraft registration country code prefix: | OM (2016) |
+| Airports: | 35 (2013) |
+| Airports - with paved runways: | total: 21 |
+| Airports - with paved runways: | over 3,047 m: 2 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 2 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 3 |
+| Airports - with paved runways: | 914 to 1,523 m: 3 |
+| Airports - with paved runways: | under 914 m: 11 (2013) |
+| Airports - with unpaved runways: | total: 14 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 9 |
+| Airports - with unpaved runways: | under 914 m: 5 (2013) |
+| Heliports: | 1 (2013) |
+| Pipelines: | gas transmission pipelines 2,270 km; high-pressure gas distribution pipelines 6,278 km; mid- and low-pressure gas distribution pipelines 27,023 km (2016); oil 510 km (2015) |
+| Railways: | total: 3,626 km |
+| Railways: | broad gauge: 99 km 1.520-m gauge |
+| Railways: | standard gauge: 3,477 km 1.435-m gauge (1,587 km electrified) |
+| Railways: | narrow gauge: 50 km 1.000-m or 0.750-m gauge (2016) |
+| Roadways: | total: 54,869 km (includes local roads, national roads, and 420 km of highways) (2012) |
+| Waterways: | 172 km (on Danube River) (2012) |
+| Merchant marine: | total: 11 |
+| Merchant marine: | by type: cargo 9, refrigerated cargo 2 |
+| Merchant marine: | foreign-owned: 11 (Germany 3, Ireland 1, Italy 2, Montenegro 1, Slovenia 1, Turkey 1, Ukraine 2) (2010) |
+| Ports and terminals: | river port(s): Bratislava, Komarno (Danube) |

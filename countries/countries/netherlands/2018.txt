@@ -1,0 +1,29 @@
+| Transportation | Netherlands |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 8 (2015) |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 244 (2015) |
+| National air transport system: | annual passenger traffic on registered air carriers: 34,870,204 (2015) |
+| National air transport system: | annual freight traffic on registered air carriers: 5,292,794,685 mt-km (2015) |
+| Civil aircraft registration country code prefix: | PH (2016) |
+| Airports: | 29 (2013) |
+| Airports - with paved runways: | total: 23 (2017) |
+| Airports - with paved runways: | over 3,047 m: 3 (2017) |
+| Airports - with paved runways: | 2,438 to 3,047 m: 11 (2017) |
+| Airports - with paved runways: | 1,524 to 2,437 m: 1 (2017) |
+| Airports - with paved runways: | 914 to 1,523 m: 6 (2017) |
+| Airports - with paved runways: | under 914 m: 2 (2017) |
+| Airports - with unpaved runways: | total: 6 (2013) |
+| Airports - with unpaved runways: | 914 to 1,523 m: 4 (2013) |
+| Airports - with unpaved runways: | under 914 m: 2 (2013) |
+| Heliports: | 1 (2013) |
+| Pipelines: | 14000 km gas, 2500 km oil and refined products, 3000 km chemicals (2016) |
+| Railways: | total: 3,058 km (2016) |
+| Railways: | standard gauge: 3,058 km 1.435-m gauge (2,314 km electrified) (2016) |
+| Roadways: | total: 139,124 km (includes 3,654 km of expressways) (2016) |
+| Waterways: | 6,237 km (navigable by ships up to 50 tons) (2012) |
+| Merchant marine: | total: 1,244 (2017) |
+| Merchant marine: | by type: bulk carrier 11, container ship 42, general cargo 597, oil tanker 15, other 579 (2017) |
+| Ports and terminals: | major seaport(s): IJmuiden, Vlissingen |
+| Ports and terminals: | container port(s) (TEUs): Rotterdam (12,385,168) (2016) |
+| Ports and terminals: | LNG terminal(s) (import): Rotterdam |
+| Ports and terminals: | river port(s): Amsterdam (Nordsee Kanaal); Moerdijk (Hollands Diep River); Rotterdam (Rhine River); Terneuzen (Western Scheldt River) |

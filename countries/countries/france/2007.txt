@@ -1,0 +1,27 @@
+| Transportation | France |
+| --- | --- |
+| Airports: | 476 (2007) |
+| Airports - with paved runways: | total: 292 |
+| Airports - with paved runways: | over 3,047 m: 14 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 27 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 97 |
+| Airports - with paved runways: | 914 to 1,523 m: 80 |
+| Airports - with paved runways: | under 914 m: 74 (2007) |
+| Airports - with unpaved runways: | total: 184 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 4 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 72 |
+| Airports - with unpaved runways: | under 914 m: 108 (2007) |
+| Heliports: | 3 (2007) |
+| Pipelines: | gas 14,588 km; oil 3,024 km; refined products 4,889 km (2006) |
+| Railways: | total: 29,370 km |
+| Railways: | standard gauge: 29,203 km 1.435-m gauge (14,778 km electrified) |
+| Railways: | narrow gauge: 167 km 1.000-m gauge (2006) |
+| Roadways: | total: 956,303 km (includes 5,083 km of roads in the overseas departments) |
+| Roadways: | paved: 951,220 km (metropolitan France; including 10,490 km of expressways) (2004) |
+| Waterways: | metropolitan France: 8,500 km (1,686 km accessible to craft of 3,000 metric tons) |
+| Waterways: | French Guiana: 3,760 km (460 km navigable by small oceangoing vessels and coastal and river steamers, 3,300 km by native craft) (2006) |
+| Merchant marine: | total: 141 ships (1000 GRT or over) 5,777,107 GRT/7,533,631 DWT |
+| Merchant marine: | by type: bulk carrier 2, cargo 1, chemical tanker 31, container 25, liquefied gas 14, passenger 3, passenger/cargo 32, petroleum tanker 22, roll on/roll off 7, vehicle carrier 4 |
+| Merchant marine: | foreign-owned: 56 (Belgium 6, China 5, Denmark 3, Germany 1, Italy 2, Japan 5, Norway 17, NZ 1, Saudi Arabia 1, Singapore 2, Sweden 10, Switzerland 3) |
+| Merchant marine: | registered in other countries: 145 (Antigua and Barbuda 1, Australia 1, Bahamas 43, Belgium 1, Bermuda 1, Cameroon 1, Gibraltar 1, Hong Kong 1, Indonesia 1, Isle of Man 2, Italy 5, South Korea 8, Liberia 5, Luxembourg 14, Malta 4, Morocco 13, Netherlands 1, Norway 3, Panama 15, Singapore 1, St Vincent and The Grenadines 7, Taiwan 1, UK 9, Wallis and Futuna 6) (2007) |
+| Ports and terminals: | Basse-Terre (Guadeloupe), Bordeaux, Calais, Degrad de Cannes (French Guiana), Dunkerque, Fort-de-France (Martinique), La Pallice, La Trinite (Martinique), Le Havre, Le Port (Reunion), Marin (Martinique), Marseille, Nantes, Paris, Pointe-a-Pitre (Guadeloupe), Rouen, Strasbourg |

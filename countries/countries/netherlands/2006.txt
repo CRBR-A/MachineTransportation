@@ -1,0 +1,23 @@
+| Transportation | Netherlands |
+| --- | --- |
+| Airports: | 27 (2006) |
+| Airports - with paved runways: | total: 20 |
+| Airports - with paved runways: | over 3,047 m: 2 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 9 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 3 |
+| Airports - with paved runways: | 914 to 1,523 m: 4 |
+| Airports - with paved runways: | under 914 m: 2 (2006) |
+| Airports - with unpaved runways: | total: 7 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 3 |
+| Airports - with unpaved runways: | under 914 m: 4 (2006) |
+| Heliports: | 1 (2006) |
+| Pipelines: | condensate 81 km; gas 7,229 km; oil 578 km; refined products 716 km (2006) |
+| Railways: | total: 2,808 km |
+| Railways: | standard gauge: 2,808 km 1.435-m gauge (2,061 km electrified) (2005) |
+| Roadways: | total: 134,000 km (including 3,270 km of expressways) (2004) |
+| Waterways: | 6,183 km (navigable for ships of 50 tons) (2005) |
+| Merchant marine: | total: 558 ships (1000 GRT or over) 5,042,775 GRT/5,016,265 DWT |
+| Merchant marine: | by type: bulk carrier 29, cargo 345, chemical tanker 29, container 59, liquefied gas 12, passenger 14, passenger/cargo 14, petroleum tanker 16, refrigerated cargo 19, roll on/roll off 18, specialized tanker 3 |
+| Merchant marine: | foreign-owned: 157 (Australia 1, Belgium 2, Denmark 9, Finland 13, Germany 56, Ireland 10, Netherlands Antilles 1, Norway 7, Sweden 26, UK 19, US 13) |
+| Merchant marine: | registered in other countries: 222 (Antigua and Barbuda 14, Australia 2, Austria 2, Bahamas 24, Canada 1, Cayman Islands 4, Cyprus 18, Gibraltar 5, Isle of Man 1, Liberia 29, Luxembourg 2, Malta 6, Marshall Islands 1, Netherlands Antilles 54, Norway 3, Panama 21, Philippines 19, Portugal 1, Saint Vincent and the Grenadines 5, Singapore 2, UK 3, US 4, unknown 1) (2006) |
+| Ports and terminals: | Amsterdam, Groningen, IJmuiden, Rotterdam, Terneuzen, Vlissingen, Zaanstad |

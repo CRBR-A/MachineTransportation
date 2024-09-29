@@ -1,0 +1,29 @@
+| Transportation | United States |
+| --- | --- |
+| Railways: | total: 194,731 km mainline routes |
+| Railways: | standard gauge: 194,731 km 1.435-m gauge |
+| Railways: | note: represents the aggregate length of roadway of all line-haul railroads including an estimate for class II and III railroads; excludes 135,185 km of yard tracks, sidings, and parallel lines (2000) |
+| Highways: | total: 6,334,859 km |
+| Highways: | paved: 3,737,567 km (including 89,426 km of expressways) |
+| Highways: | unpaved: 2,597,292 km (2000) |
+| Waterways: | 41,009 km |
+| Waterways: | note: navigable inland channels, exclusive of the Great Lakes |
+| Pipelines: | petroleum products 244,620 km; natural gas 548,665 km (2003) |
+| Ports and harbors: | Anchorage, Baltimore, Boston, Charleston, Chicago, Duluth, Hampton Roads, Honolulu, Houston, Jacksonville, Los Angeles, New Orleans, New York, Philadelphia, Port Canaveral, Portland (Oregon), Prudhoe Bay, San Francisco, Savannah, Seattle, Tampa, Toledo |
+| Merchant marine: | total: 348 ships (1,000 GRT or over) 9,414,676 GRT/12,207,346 DWT |
+| Merchant marine: | ships by type: barge carrier 2, bulk 71, cargo 26, chemical tanker 13, combination bulk 2, combination ore/oil 1, container 79, freighter 15, heavy lift carrier 3, passenger/cargo 1, petroleum tanker 73, refrigerated cargo 3, roll on/roll off 46, short-sea passenger 2, specialized tanker 2, vehicle carrier 9 |
+| Merchant marine: | note: includes some foreign-owned ships registered here as a flag of convenience: Australia 1, Canada 4, Denmark 15, France 1, Germany 1, Netherlands 3, Norway 7, Puerto Rico 4, Singapore 11, Sweden 1, United Kingdom 3; also, the US owns 549 additional ships (1,000 GRT or over) totaling 29,616,347 DWT that operate under the registries of Antigua and Barbuda, Australia, The Bahamas, Belize, Bermuda, Cambodia, Canada, Cayman Islands, Cyprus, Finland, Gibraltar, Hong Kong (China), Indonesia, Isle of Man, Italy, Liberia, Malta, Marshall Islands, Netherlands, Norway, Norway (NIS), Panama, Peru, Philippines, Saint Vincent and the Grenadines, Singapore, Tonga, UK, Vanuatu, and Wallis and Futuna (2002 est.) |
+| Airports: | 14,801 (2002) |
+| Airports - with paved runways: | total: 5,131 |
+| Airports - with paved runways: | over 3,047 m: 185 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 222 |
+| Airports - with paved runways: | 914 to 1,523 m: 2,390 |
+| Airports - with paved runways: | under 914 m: 969 (2002) |
+| Airports - with paved runways: | 1,524 to 2,437 m: 1,365 |
+| Airports - with unpaved runways: | total: 9,670 |
+| Airports - with unpaved runways: | under 914 m: 7,802 (2002) |
+| Airports - with unpaved runways: | over 3,047 m: 1 |
+| Airports - with unpaved runways: | 2,438 to 3,047 m: 7 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 1,702 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 158 |
+| Heliports: | 149 (2002) |

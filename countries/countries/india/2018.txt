@@ -1,0 +1,34 @@
+| Transportation | India |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 20 (2015) |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 485 (2015) |
+| National air transport system: | annual passenger traffic on registered air carriers: 98,927,860 (2015) |
+| National air transport system: | annual freight traffic on registered air carriers: 1,833,847,614 mt-km (2015) |
+| Civil aircraft registration country code prefix: | VT (2016) |
+| Airports: | 346 (2013) |
+| Airports - with paved runways: | total: 253 (2017) |
+| Airports - with paved runways: | over 3,047 m: 22 (2017) |
+| Airports - with paved runways: | 2,438 to 3,047 m: 59 (2017) |
+| Airports - with paved runways: | 1,524 to 2,437 m: 76 (2017) |
+| Airports - with paved runways: | 914 to 1,523 m: 82 (2017) |
+| Airports - with paved runways: | under 914 m: 14 (2017) |
+| Airports - with unpaved runways: | total: 93 (2013) |
+| Airports - with unpaved runways: | over 3,047 m: 1 (2013) |
+| Airports - with unpaved runways: | 2,438 to 3,047 m: 3 (2013) |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 6 (2013) |
+| Airports - with unpaved runways: | 914 to 1,523 m: 38 (2013) |
+| Airports - with unpaved runways: | under 914 m: 45 (2013) |
+| Heliports: | 45 (2013) |
+| Pipelines: | 9 km condensate/gas, 13581 km gas, 2054 km liquid petroleum gas, 8943 km oil, 20 km oil/gas/water, 11069 km refined products (2013) |
+| Railways: | total: 68,525 km (2014) |
+| Railways: | narrow gauge: 9,499 km 1.000-m gauge (2014) |
+| Railways: | broad gauge: 58,404 km 1.676-m gauge (23,654 electrified) (2014) |
+| Railways: | 622 0.762-m gauge |
+| Roadways: | total: 4,699,024 km (2015) |
+| Roadways: | note: includes 96,214 km of national highways and expressways, 147,800 km of state highways, and 4,455,010 km of other roads |
+| Waterways: | 14,500 km (5,200 km on major rivers and 485 km on canals suitable for mechanized vessels) (2012) |
+| Merchant marine: | total: 1,674 (2017) |
+| Merchant marine: | by type: bulk carrier 74, container ship 20, general cargo 571, oil tanker 126, other 883 (2017) |
+| Ports and terminals: | major seaport(s): Chennai, Jawaharal Nehru Port, Kandla, Kolkata (Calcutta), Mumbai (Bombay), Sikka, Vishakhapatnam |
+| Ports and terminals: | container port(s) (TEUs): Chennai (1,495,000), Jawaharal Nehru Port (4,517,587), MundraÂ (3,320,285) (2016) |
+| Ports and terminals: | LNG terminal(s) (import): Dabhol, Dahej, Hazira |

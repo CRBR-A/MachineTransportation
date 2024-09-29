@@ -1,0 +1,26 @@
+| Transportation | Belgium |
+| --- | --- |
+| Airports: | 43 (2010) |
+| Airports - with paved runways: | total: 27 |
+| Airports - with paved runways: | over 3,047 m: 6 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 9 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 2 |
+| Airports - with paved runways: | 914 to 1,523 m: 1 |
+| Airports - with paved runways: | under 914 m: 9 (2010) |
+| Airports - with unpaved runways: | total: 16 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 1 |
+| Airports - with unpaved runways: | under 914 m: 15 (2010) |
+| Heliports: | 1 (2010) |
+| Pipelines: | gas 1,330 km; oil 158 km; refined products 535 km (2009) |
+| Railways: | total: 3,233 km |
+| Railways: | standard gauge: 3,233 km 1.435-m gauge (2,950 km electrified) (2008) |
+| Roadways: | total: 152,256 km |
+| Roadways: | paved: 119,079 km (includes 1,763 km of expressways) |
+| Roadways: | unpaved: 33,177 km (2006) |
+| Waterways: | 2,043 km (1,528 km in regular commercial use) (2008) |
+| Merchant marine: | total: 81 |
+| Merchant marine: | by type: bulk carrier 21, cargo 8, chemical tanker 5, container 4, liquefied gas 23, passenger 2, petroleum tanker 11, roll on/roll off 7 |
+| Merchant marine: | foreign-owned: 13 (Denmark 4, France 5, UK 2, US 2) |
+| Merchant marine: | registered in other countries: 104 (Bahamas 9, Cambodia 1, Cyprus 2, France 7, Gibraltar 2, Greece 16, Hong Kong 16, Liberia 1, Luxembourg 9, Malta 14, Moldova 2, Mozambique 2, North Korea 1, Panama 2, Portugal 8, Russia 4, Saint Kitts and Nevis 1, Saint Vincent and the Grenadines 6, Vanuatu 1) (2010) |
+| Ports and terminals: | cargo ports (tonnage): Antwerp, Gent, Liege, Zeebrugge |
+| Ports and terminals: | container ports (TEUs): Antwerp (8,662,891), Zeebrugge (2,209,715) |

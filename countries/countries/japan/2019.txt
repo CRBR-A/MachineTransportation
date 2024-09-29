@@ -1,0 +1,35 @@
+| Transportation | Japan |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 23 (2015) |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 627 (2015) |
+| National air transport system: | annual passenger traffic on registered air carriers: 113.762 million (2015) |
+| National air transport system: | annual freight traffic on registered air carriers: 8,868,745,000 mt-km (2015) |
+| Civil aircraft registration country code prefix: | JA (2016) |
+| Airports: | 175 (2013) |
+| Airports - with paved runways: | total: 142 (2017) |
+| Airports - with paved runways: | over 3,047 m: 6 (2017) |
+| Airports - with paved runways: | 2,438 to 3,047 m: 45 (2017) |
+| Airports - with paved runways: | 1,524 to 2,437 m: 38 (2017) |
+| Airports - with paved runways: | 914 to 1,523 m: 28 (2017) |
+| Airports - with paved runways: | under 914 m: 25 (2017) |
+| Airports - with unpaved runways: | total: 33 (2013) |
+| Airports - with unpaved runways: | 914 to 1,523 m: 5 (2013) |
+| Airports - with unpaved runways: | under 914 m: 28 (2013) |
+| Heliports: | 16 (2013) |
+| Pipelines: | 4456 km gas, 174 km oil, 104 km oil/gas/water (2013) |
+| Railways: | total: 27,311 km (2015) |
+| Railways: | standard gauge: 4,800 km 1.435-m gauge (4,800 km electrified) (2015) |
+| Railways: | narrow gauge: 124 km 1.372-m gauge (124 km electrified) (2015) |
+| Railways: | dual gauge: 132 km 1.435-1.067-m gauge (132 km electrified) (2015) |
+| Railways: | 22,207 km 1.067-m gauge (15,430 km electrified) |
+| Railways: | 48 km 0.762-m gauge (48 km electrified) |
+| Roadways: | total: 1,218,772 km (2015) |
+| Roadways: | paved: 992,835 km (includes 8,428 km of expressways) (2015) |
+| Roadways: | unpaved: 225,937 km (2015) |
+| Waterways: | 1,770 km (seagoing vessels use inland seas) (2010) |
+| Merchant marine: | total: 5,299 |
+| Merchant marine: | by type: bulk carrier 158, container ship 29, general cargo 1942, oil tanker 703, other 2467 (2018) |
+| Ports and terminals: | major seaport(s): Chiba, Kawasaki, Kobe, Mizushima, Moji, Nagoya, Osaka, Tokyo, Tomakomai, Yokohama |
+| Ports and terminals: | container port(s) (TEUs): Kobe (2,924,179), Nagoya (2,784,109), Osaka (2,326,852), Tokyo (4,500,156), Yokohama (2,926,698) (2017) |
+| Ports and terminals: | LNG terminal(s) (import): Chita, Fukwoke, Futtsu, Hachinone, Hakodate, Hatsukaichi, Higashi Ohgishima, Higashi Niigata, Himeiji, Joetsu, Kagoshima, Kawagoe, Kita Kyushu, Mizushima, Nagasaki, Naoetsu, Negishi, Ohgishima, Oita, Sakai, Sakaide, Senboku, Shimizu, Shin Minato, Sodegaura, Tobata, Yanai, Yokkaichi |
+| Ports and terminals: | Okinawa - Nakagusuku |

@@ -1,0 +1,14 @@
+| Transportation | Malta |
+| --- | --- |
+| Airports: | 1 (2010) |
+| Airports - with paved runways: | total: 1 |
+| Airports - with paved runways: | over 3,047 m: 1 (2010) |
+| Roadways: | total: 3,096 km |
+| Roadways: | paved: 2,710 km |
+| Roadways: | unpaved: 386 km (2008) |
+| Merchant marine: | total: 1,571 |
+| Merchant marine: | by type: bulk carrier 522, cargo 377, carrier 1, chemical tanker 280, container 91, liquefied gas 31, passenger 45, passenger/cargo 22, petroleum tanker 141, refrigerated cargo 14, roll on/roll off 30, specialized tanker 2, vehicle carrier 15 |
+| Merchant marine: | foreign-owned: 1,401 (Angola 7, Austria 1, Azerbaijan 1, Bahamas 1, Bangladesh 1, Belgium 14, Bermuda 8, Bulgaria 7, Canada 1, China 11, Croatia 7, Cyprus 29, Denmark 41, Egypt 1, Estonia 16, Finland 2, France 13, Germany 127, Greece 458, Hong Kong 2, India 4, Iran 56, Ireland 1, Israel 5, Italy 52, Japan 5, Kuwait 2, Latvia 11, Lebanon 7, Libya 4, Luxembourg 3, Malaysia 1, Netherlands 2, Nigeria 1, Norway 84, Poland 22, Portugal 3, Romania 8, Russia 47, Singapore 3, Slovenia 4, South Korea 3, Spain 10, Sweden 3, Switzerland 14, Syria 5, Turkey 211, UAE 1, UK 16, Ukraine 30, US 35) |
+| Merchant marine: | note: this country allows large numbers of ships owned by foreign entities to be registered in its national shipping registry and to fly its flag; these ships operate under the laws of the flag state |
+| Merchant marine: | registered in other countries: 2 (Panama 2) (2010) |
+| Ports and terminals: | Marsaxlokk (Malta Freeport), Valletta |

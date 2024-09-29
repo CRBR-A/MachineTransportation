@@ -1,0 +1,30 @@
+| Transportation | Brazil |
+| --- | --- |
+| Airports: | 4,263 (2007) |
+| Airports - with paved runways: | total: 718 |
+| Airports - with paved runways: | over 3,047 m: 7 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 25 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 167 |
+| Airports - with paved runways: | 914 to 1,523 m: 467 |
+| Airports - with paved runways: | under 914 m: 52 (2007) |
+| Airports - with unpaved runways: | total: 3,545 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 83 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 1,555 |
+| Airports - with unpaved runways: | under 914 m: 1,907 (2007) |
+| Heliports: | 16 (2007) |
+| Pipelines: | condensate/gas 244 km; gas 12,070 km; liquid petroleum gas 351 km; oil 5,214 km; refined products 4,410 km (2007) |
+| Railways: | total: 29,295 km |
+| Railways: | broad gauge: 4,932 km 1.600-m gauge (939 km electrified) |
+| Railways: | standard gauge: 194 km 1.440-m gauge |
+| Railways: | narrow gauge: 23,773 km 1.000-m gauge (581 km electrified) |
+| Railways: | dual gauge: 396 km 1.000 m and 1.600-m gauges (three rails) (78 km electrified) (2006) |
+| Roadways: | total: 1,751,868 km |
+| Roadways: | paved: 96,353 km |
+| Roadways: | unpaved: 1,655,515 km (2004) |
+| Waterways: | 50,000 km (most in areas remote from industry and population) (2007) |
+| Merchant marine: | total: 136 |
+| Merchant marine: | by type: bulk carrier 19, cargo 22, carrier 1, chemical tanker 7, container 11, liquefied gas 12, passenger/cargo 12, petroleum tanker 45, roll on/roll off 7 |
+| Merchant marine: | foreign-owned: 25 (Chile 1, Denmark 2, Germany 6, Greece 1, Mexico 1, Norway 5, Spain 9) |
+| Merchant marine: | registered in other countries: 8 (Argentina 1, Bahamas 2, Ghana 1, Liberia 3, Marshall Islands 1) (2008) |
+| Ports and terminals: | Guaiba, Ilha Grande, Paranagua, Rio Grande, Santos, Sao Sebastiao, Tubarao |
+| Transportation - note: | the International Maritime Bureau reports the territorial and offshore waters in the Atlantic Ocean as a significant risk for piracy and armed robbery against ships; numerous commercial vessels have been attacked and hijacked both at anchor and while underway; crews have been robbed and stores or cargoes stolen |

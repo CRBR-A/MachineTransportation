@@ -1,0 +1,34 @@
+| Transportation | COLOMBIA |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 12 |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 157 |
+| National air transport system: | annual passenger traffic on registered air carriers: 30,742,928 |
+| National air transport system: | annual freight traffic on registered air carriers: 1,317,562,271 mt-km (2015) |
+| Civil aircraft registration country code prefix: | HJ, HK (2016) |
+| Airports: | 836 (2013) |
+| Airports - with paved runways: | total: 121 |
+| Airports - with paved runways: | over 3,047 m: 2 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 9 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 39 |
+| Airports - with paved runways: | 914 to 1,523 m: 53 |
+| Airports - with paved runways: | under 914 m: 18 (2017) |
+| Airports - with unpaved runways: | total: 715 |
+| Airports - with unpaved runways: | over 3,047 m: 1 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 25 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 201 |
+| Airports - with unpaved runways: | under 914 m: 488 (2013) |
+| Heliports: | 3 (2013) |
+| Pipelines: | gas 4,991 km; oil 6,796 km; refined products 3,429 km (2013) |
+| Railways: | total: 2,141 km |
+| Railways: | standard gauge: 150 km 1.435-m gauge |
+| Railways: | narrow gauge: 1,991 km 0.914-m gauge (2015) |
+| Roadways: | total: 204,855 km (2015) |
+| Waterways: | 24,725 km (18,300 km navigable; the most important waterway, the River Magdalena, of which 1,488 km is navigable, is dredged regularly to ensure safe passage of cargo vessels and container barges) (2012) |
+| Merchant marine: | total: 12 |
+| Merchant marine: | by type: cargo 9, chemical tanker 1, petroleum tanker 2 |
+| Merchant marine: | registered in other countries: 4 (Antigua and Barbuda 1, Panama 2, Portugal 1) (2010) |
+| Ports and terminals: | major seaport(s): Atlantic Ocean (Caribbean) - Cartagena, Santa Marta, Turbo; Pacific Ocean - Buenaventura |
+| Ports and terminals: | river port(s): Barranquilla (Rio Magdalena) |
+| Ports and terminals: | oil terminal(s): Covenas offshore terminal |
+| Ports and terminals: | dry bulk cargo port(s): Puerto Bolivar (coal) |
+| Ports and terminals: | container port(s) (TEUs): Cartagena (1,853,342) |

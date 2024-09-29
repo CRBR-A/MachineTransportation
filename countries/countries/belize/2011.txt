@@ -1,0 +1,19 @@
+| Transportation | Belize |
+| --- | --- |
+| Airports: | 45 (2010) |
+| Airports - with paved runways: | total: 4 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 1 |
+| Airports - with paved runways: | 914 to 1,523 m: 1 |
+| Airports - with paved runways: | under 914 m: 2 (2010) |
+| Airports - with unpaved runways: | total: 41 |
+| Airports - with unpaved runways: | 2,438 to 3,047 m: 1 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 13 |
+| Airports - with unpaved runways: | under 914 m: 27 (2010) |
+| Roadways: | total: 3,007 km |
+| Roadways: | paved: 575 km |
+| Roadways: | unpaved: 2,432 km (2006) |
+| Waterways: | 825 km (navigable only by small craft) (2010) |
+| Merchant marine: | total: 231 |
+| Merchant marine: | by type: barge carrier 1, bulk carrier 37, cargo 146, chemical tanker 1, passenger 1, passenger/cargo 1, petroleum tanker 7, refrigerated cargo 27, roll on/roll off 10 |
+| Merchant marine: | foreign-owned: 171 (Chile 1, China 64, Croatia 1, Cyprus 1, Estonia 1, Germany 1, Greece 2, Iceland 2, Italy 3, Japan 1, Latvia 10, Lithuania 2, Netherlands 1, Nigeria 2, Norway 3, Peru 1, Russia 32, Singapore 7, Spain 1, Syria 2, Turkey 18, UAE 5, UK 4, Ukraine 6) (2010) |
+| Ports and terminals: | Belize City, Big Creek |

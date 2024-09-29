@@ -1,0 +1,26 @@
+| Transportation | Georgia |
+| --- | --- |
+| Airports: | 23 (2006) |
+| Airports - with paved runways: | total: 19 |
+| Airports - with paved runways: | over 3,047 m: 1 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 7 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 5 |
+| Airports - with paved runways: | 914 to 1,523 m: 4 |
+| Airports - with paved runways: | under 914 m: 2 (2006) |
+| Airports - with unpaved runways: | total: 4 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 1 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 2 |
+| Airports - with unpaved runways: | under 914 m: 1 (2006) |
+| Heliports: | 3 (2006) |
+| Pipelines: | gas 1,349 km; oil 1,010 km (2006) |
+| Railways: | total: 1,612 km |
+| Railways: | broad gauge: 1,575 km 1.520-m gauge (1,575 electrified) |
+| Railways: | narrow gauge: 37 km 0.912-m gauge (37 electrified) (2005) |
+| Roadways: | total: 20,247 km |
+| Roadways: | paved: 7,973 km |
+| Roadways: | unpaved: 12,274 km (2003) |
+| Merchant marine: | total: 222 ships (1000 GRT or over) 1,059,386 GRT/1,538,746 DWT |
+| Merchant marine: | by type: bulk carrier 27, cargo 176, container 4, liquefied gas 1, passenger 1, passenger/cargo 3, petroleum tanker 3, refrigerated cargo 4, roll on/roll off 2, specialized tanker 1 |
+| Merchant marine: | foreign-owned: 188 (Albania 1, Azerbaijan 2, Belgium 1, China 2, Cyprus 1, Ecuador 1, Egypt 8, Germany 1, Greece 8, Indonesia 1, South Korea 1, Lebanon 7, Monaco 13, Romania 11, Russia 28, Slovakia 1, Slovenia 1, Syria 43, Turkey 30, UAE 1, UK 4, Ukraine 22) (2006) |
+| Ports and terminals: | Bat'umi, P'ot'i |
+| Transportation - note: | transportation network is in poor condition resulting from ethnic conflict, criminal activities, and fuel shortages; network lacks maintenance and repair |

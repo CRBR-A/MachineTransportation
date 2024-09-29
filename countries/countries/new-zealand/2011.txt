@@ -1,0 +1,24 @@
+| Transportation | New Zealand |
+| --- | --- |
+| Airports: | 122 (2010) |
+| Airports - with paved runways: | total: 40 |
+| Airports - with paved runways: | over 3,047 m: 2 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 1 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 12 |
+| Airports - with paved runways: | 914 to 1,523 m: 24 |
+| Airports - with paved runways: | under 914 m: 1 (2010) |
+| Airports - with unpaved runways: | total: 82 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 3 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 32 |
+| Airports - with unpaved runways: | under 914 m: 47 (2010) |
+| Pipelines: | condensate 331 km; gas 1,838 km; liquid petroleum gas 172 km; oil 288 km; refined products 198 km (2010) |
+| Railways: | total: 4,128 km |
+| Railways: | narrow gauge: 4,128 km 1.067-m gauge (506 km electrified) (2010) |
+| Roadways: | total: 93,911 km |
+| Roadways: | paved: 61,879 km (includes 172 km of expressways) |
+| Roadways: | unpaved: 32,032 km (2009) |
+| Merchant marine: | total: 14 |
+| Merchant marine: | by type: bulk carrier 3, cargo 3, chemical tanker 1, container 1, passenger/cargo 4, petroleum tanker 2 |
+| Merchant marine: | foreign-owned: 7 (Australia 1, Germany 2, Hong Kong 1, South Africa 1, Switzerland 2) |
+| Merchant marine: | registered in other countries: 6 (Antigua and Barbuda 2, Cook Islands 1, France 1, Samoa 1, UK 1) (2010) |
+| Ports and terminals: | Auckland, Lyttelton, Manukau Harbor, Marsden Point, Tauranga, Wellington |

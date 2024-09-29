@@ -1,0 +1,31 @@
+| Transportation | Vietnam |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 4 (2015) |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 140 (2015) |
+| National air transport system: | annual passenger traffic on registered air carriers: 29,944,771 (2015) |
+| National air transport system: | annual freight traffic on registered air carriers: 384,470,240 mt-km (2015) |
+| Civil aircraft registration country code prefix: | VN (2016) |
+| Airports: | 45 (2013) |
+| Airports - with paved runways: | total: 38 (2013) |
+| Airports - with paved runways: | over 3,047 m: 10 (2013) |
+| Airports - with paved runways: | 2,438 to 3,047 m: 6 (2013) |
+| Airports - with paved runways: | 1,524 to 2,437 m: 13 (2013) |
+| Airports - with paved runways: | 914 to 1,523 m: 9 (2013) |
+| Airports - with unpaved runways: | total: 7 (2013) |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 1 (2013) |
+| Airports - with unpaved runways: | 914 to 1,523 m: 3 (2013) |
+| Airports - with unpaved runways: | under 914 m: 3 (2013) |
+| Heliports: | 1 (2013) |
+| Pipelines: | 72 km condensate, 398 km condensate/gas, 955 km gas, 128 km oil, 33 km oil/gas/water, 206 km refined products, 13 km water (2013) |
+| Railways: | total: 2,600 km (2014) |
+| Railways: | standard gauge: 178 km 1.435-m gauge; 253 km mixed gauge (2014) |
+| Railways: | narrow gauge: 2,169 km 1.000-m gauge (2014) |
+| Roadways: | total: 195,468 km (2013) |
+| Roadways: | paved: 148,338 km (2013) |
+| Roadways: | unpaved: 47,130 km (2013) |
+| Waterways: | 47,130 km (30,831 km weight under 50 tons) (2011) |
+| Merchant marine: | total: 1,863 |
+| Merchant marine: | by type: bulk carrier 83, container ship 38, general cargo 1266, oil tanker 114, other 362 (2018) |
+| Ports and terminals: | major seaport(s): Cam Pha Port, Da Nang, Haiphong, Phu My, Quy Nhon |
+| Ports and terminals: | container port(s) (TEUs): Saigon (6,155,535), Cai Mep (3,065,014) (2017) |
+| Ports and terminals: | river port(s): Ho Chi Minh (Mekong) |

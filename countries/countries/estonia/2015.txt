@@ -1,0 +1,26 @@
+| Transportation | ESTONIA |
+| --- | --- |
+| Airports: | 18 (2013) |
+| Airports - with paved runways: | total: 13 |
+| Airports - with paved runways: | over 3,047 m: 2 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 8 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 2 |
+| Airports - with paved runways: | 914 to 1,523 m: 1 (2013) |
+| Airports - with unpaved runways: | total: 5 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 1 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 1 |
+| under 914 m: | 3 (2013) |
+| Heliports: | 1 (2012) |
+| Pipelines: | gas 868 km (2013) |
+| Railways: | total: 1,196 km |
+| Railways: | broad gauge: 1,196 km 1.520-m and 1.524-m gauge (133 km electrified) |
+| Railways: | note: includes 277 km of private rail (2014) |
+| Roadways: | total: 58,412 km (includes urban roads) |
+| Roadways: | paved: 10,427 km (includes 115 km of expressways) |
+| Roadways: | unpaved: 47,985 km (2011) |
+| Waterways: | 335 km (320 km are navigable year round) (2011) |
+| Merchant marine: | total: 25 |
+| Merchant marine: | by type: cargo 4, chemical tanker 1, passenger/cargo 18, petroleum tanker 2 |
+| Merchant marine: | foreign-owned: 3 (Germany 1, Norway 2) |
+| Merchant marine: | registered in other countries: 63 (Antigua and Barbuda 10, Belize 1, Cambodia 1, Canada 1, Cook Islands 1, Cyprus 6, Dominica 6, Finland 2, Latvia 3, Malta 16, Russia 1, Saint Vincent and the Grenadines 8, Sierra Leone 2, Sweden 3, Venezuela 1, unknown 1) (2010) |
+| Ports and terminals: | major seaport(s): Kuivastu, Kunda, Muuga, Parnu Reid, Sillamae, Tallinn |

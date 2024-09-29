@@ -1,0 +1,33 @@
+| Transportation | LITHUANIA |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 2 |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 52 |
+| National air transport system: | annual passenger traffic on registered air carriers: 1,363,950 |
+| National air transport system: | annual freight traffic on registered air carriers: 565,642 mt-km (2015) |
+| Civil aircraft registration country code prefix: | LY (2016) |
+| Airports: | 61 (2013) |
+| Airports - with paved runways: | total: 22 |
+| Airports - with paved runways: | over 3,047 m: 3 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 1 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 7 |
+| Airports - with paved runways: | 914 to 1,523 m: 2 |
+| Airports - with paved runways: | under 914 m: 9 (2017) |
+| Airports - with unpaved runways: | total: 39 |
+| Airports - with unpaved runways: | over 3,047 m: 1 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 2 |
+| Airports - with unpaved runways: | under 914 m: 36 (2013) |
+| Pipelines: | gas 1,921 km; refined products 121 km (2013) |
+| Railways: | total: 1,768 km |
+| Railways: | broad gauge: 1,746 km 1.520-m gauge (122 km electrified) |
+| Railways: | standard gauge: 22 km 1.435-m gauge (2014) |
+| Roadways: | total: 84,166 km |
+| Roadways: | paved: 72,297 km (includes 312 km of expressways) |
+| Roadways: | unpaved: 11,869 km (2012) |
+| Waterways: | 441 km (navigable year-round) (2007) |
+| Merchant marine: | total: 38 |
+| Merchant marine: | by type: cargo 20, container 1, passenger/cargo 6, refrigerated cargo 9, roll on/roll off 2 |
+| Merchant marine: | foreign-owned: 8 (Denmark 8) |
+| Merchant marine: | registered in other countries: 22 (Antigua and Barbuda 3, Belize 1, Comoros 1, Cook Islands 1, Norway 1, Panama 3, Saint Vincent and the Grenadines 9, unknown 3) (2010) |
+| Ports and terminals: | major seaport(s): Klaipeda |
+| Ports and terminals: | oil terminal(s): Butinge oil terminal |
+| Ports and terminals: | LNG terminal(s) (import): Klaipeda |

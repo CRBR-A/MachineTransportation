@@ -1,0 +1,23 @@
+| Transportation | Switzerland |
+| --- | --- |
+| Airports: | 65 (2010) |
+| Airports - with paved runways: | total: 42 |
+| Airports - with paved runways: | over 3,047 m: 3 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 3 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 14 |
+| Airports - with paved runways: | 914 to 1,523 m: 5 |
+| Airports - with paved runways: | under 914 m: 17 (2010) |
+| Airports - with unpaved runways: | total: 23 |
+| Airports - with unpaved runways: | under 914 m: 23 (2010) |
+| Heliports: | 1 (2010) |
+| Pipelines: | gas 1,681 km; oil 94 km; refined products 7 km (2010) |
+| Railways: | total: 4,876 km |
+| Railways: | standard gauge: 3,846 km 1.435-m gauge (3,591 km electrified) |
+| Railways: | narrow gauge: 1,081 km 1.000-m gauge (1,013 km electrified); 10 km 0.800-m gauge (10 km electrified) (2010) |
+| Roadways: | total: 71,454 km |
+| Roadways: | paved: 71,454 km (includes 1,790 of expressways) (2010) |
+| Waterways: | 1,299 km (there are 1,227 km of waterways on lakes and rivers for public transport and another 65 km on the Rhine River between Basel-Rheinfelden and Schaffhausen-Bodensee used for the transport of commercial goods) (2010) |
+| Merchant marine: | total: 35 |
+| Merchant marine: | by type: bulk carrier 15, cargo 9, chemical tanker 6, container 4, petroleum tanker 1 |
+| Merchant marine: | registered in other countries: 109 (Antigua and Barbuda 7, Bahamas 2, Cayman Islands 1, France 5, Germany 1, Italy 6, Liberia 17, Luxembourg 1, Malta 14, Marshall Islands 12, NZ 2, Panama 22, Portugal 3, Russia 4, Saint Vincent and the Grenadines 5, Singapore 4, Spain 1, Tonga 1, Tuvalu 1) (2010) |
+| Ports and terminals: | Basel |

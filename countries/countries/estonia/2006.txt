@@ -1,0 +1,26 @@
+| Transportation | Estonia |
+| --- | --- |
+| Airports: | 24 (2006) |
+| Airports - with paved runways: | total: 12 |
+| Airports - with paved runways: | over 3,047 m: 1 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 7 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 1 |
+| Airports - with paved runways: | 914 to 1,523 m: 3 (2006) |
+| Airports - with unpaved runways: | total: 12 |
+| Airports - with unpaved runways: | over 3,047 m: 1 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 2 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 4 |
+| Airports - with unpaved runways: | under 914 m: 5 (2006) |
+| Heliports: | 1 (2006) |
+| Pipelines: | gas 859 km (2006) |
+| Railways: | total: 958 km |
+| Railways: | broad gauge: 958 km 1.520 m/1.524-m gauge (2005) |
+| Roadways: | total: 56,849 km |
+| Roadways: | paved: 13,303 km (including 99 km of expressways) |
+| Roadways: | unpaved: 45,546 km (2003) |
+| Waterways: | 500 km (2005) |
+| Merchant marine: | total: 35 ships (1000 GRT or over) 388,723 GRT/98,393 DWT |
+| Merchant marine: | by type: cargo 7, passenger/cargo 26, petroleum tanker 2 |
+| Merchant marine: | foreign-owned: 4 (Denmark 2, Norway 2) |
+| Merchant marine: | registered in other countries: 72 (Antigua and Barbuda 12, Bahamas 1, Belize 3, Cyprus 6, Dominica 11, Isle of Man 2, Liberia 1, Malta 4, Norway 1, Panama 3, Russia 1, Saint Vincent and the Grenadines 25, Slovakia 1, Vanuatu 1) (2006) |
+| Ports and terminals: | Kopli, Kuivastu, Muuga, Tallinn, Virtsu |

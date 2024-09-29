@@ -1,0 +1,23 @@
+| Transportation | ICELAND |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 5 |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 43 |
+| National air transport system: | annual passenger traffic on registered air carriers: 3,413,950 |
+| National air transport system: | annual freight traffic on registered air carriers: 102,356,809 mt-km (2015) |
+| Civil aircraft registration country code prefix: | TF (2016) |
+| Airports: | 96 (2013) |
+| Airports - with paved runways: | total: 7 |
+| Airports - with paved runways: | over 3,047 m: 1 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 3 |
+| Airports - with paved runways: | 914 to 1,523 m: 3 (2013) |
+| Airports - with unpaved runways: | total: 89 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 3 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 26 |
+| Airports - with unpaved runways: | under 914 m: 60 (2013) |
+| Roadways: | total: 12,890 km |
+| Roadways: | paved/oiled gravel: 4,782 km (excludes urban roads) |
+| Roadways: | unpaved: 8,108 km (2012) |
+| Merchant marine: | total: 2 |
+| Merchant marine: | by type: passenger/cargo 2 |
+| Merchant marine: | registered in other countries: 19 (Antigua and Barbuda 10, Belize 1, Faroe Islands 4, Finland 1, Gibraltar 1, Norway 2) (2010) |
+| Ports and terminals: | major seaport(s): Grundartangi, Hafnarfjordur, Reykjavik |

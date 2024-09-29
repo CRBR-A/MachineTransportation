@@ -1,0 +1,29 @@
+| Transportation | United Arab Emirates |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 10 (2020) |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 497 |
+| National air transport system: | annual passenger traffic on registered air carriers: 95,533,069 (2018) |
+| National air transport system: | annual freight traffic on registered air carriers: 15,962,900,000 mt-km (2018) |
+| Civil aircraft registration country code prefix: | A6 (2016) |
+| Airports: | 43 (2013) |
+| Airports - with paved runways: | total: 25 (2013) |
+| Airports - with paved runways: | over 3,047 m: 12 (2013) |
+| Airports - with paved runways: | 2,438 to 3,047 m: 3 (2013) |
+| Airports - with paved runways: | 1,524 to 2,437 m: 5 (2013) |
+| Airports - with paved runways: | 914 to 1,523 m: 3 (2013) |
+| Airports - with paved runways: | under 914 m: 2 (2013) |
+| Airports - with unpaved runways: | total: 18 (2013) |
+| Airports - with unpaved runways: | over 3,047 m: 1 (2013) |
+| Airports - with unpaved runways: | 2,438 to 3,047 m: 1 (2013) |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 4 (2013) |
+| Airports - with unpaved runways: | 914 to 1,523 m: 6 (2013) |
+| Airports - with unpaved runways: | under 914 m: 6 (2013) |
+| Heliports: | 5 (2013) |
+| Pipelines: | 533 km condensate, 3277 km gas, 300 km liquid petroleum gas, 3287 km oil, 24 km oil/gas/water, 218 km refined products, 99 km water (2013) |
+| Roadways: | total: 4,080 km (2008) |
+| Roadways: | paved: 4,080 km (includes 253 km of expressways) (2008) |
+| Merchant marine: | total: 637 |
+| Merchant marine: | by type: bulk carrier 2, general cargo 113, oil tanker 17, other 505 (2019) |
+| Ports and terminals: | major seaport(s): Al Fujayrah, Mina' Jabal 'Ali (Dubai), Khor Fakkan (Khawr Fakkan) (Sharjah), Mubarraz Island (Abu Dhabi), Mina' Rashid (Dubai), Mina' Saqr (Ra's al Khaymah) |
+| Ports and terminals: | container port(s) (TEUs): Dubai Port (15,368,000), Khor Fakkan (Khawr Fakkan) (Sharjah) (2,321,000) (2017) |
+| Ports and terminals: | LNG terminal(s) (export): Das Island |

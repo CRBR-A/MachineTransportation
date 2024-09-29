@@ -1,0 +1,32 @@
+| Transportation | KOREA, SOUTH |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 12 |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 348 |
+| National air transport system: | annual passenger traffic on registered air carriers: 65,482,307 |
+| National air transport system: | annual freight traffic on registered air carriers: 11.297 billion mt-km (2015) |
+| Civil aircraft registration country code prefix: | HL (2016) |
+| Airports: | 111 (2013) |
+| Airports - with paved runways: | total: 71 |
+| Airports - with paved runways: | over 3,047 m: 4 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 19 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 12 |
+| Airports - with paved runways: | 914 to 1,523 m: 13 |
+| Airports - with paved runways: | under 914 m: 23 (2017) |
+| Airports - with unpaved runways: | total: 40 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 2 |
+| Airports - with unpaved runways: | under 914 m: 38 (2013) |
+| Heliports: | 466 (2013) |
+| Pipelines: | gas 2,216 km; oil 16 km; refined products 889 km (2013) |
+| Railways: | total: 3,874 km |
+| Railways: | standard gauge: 3,874 km 1.435-m gauge (2,727 km electrified) (2015) |
+| Roadways: | total: 99,025 km |
+| Roadways: | paved: 91,195 km (includes 4,193 km of expressways) |
+| Roadways: | unpaved: 7,830 km (2015) |
+| Waterways: | 1,600 km (most navigable only by small craft) (2011) |
+| Merchant marine: | total: 1,116 |
+| Merchant marine: | by type: bulk carrier 260, coal carrier 38, container ship 150, general cargo 178, LPG carrier 65, metal material carrier 10, petroleum goods/chemical goods carrier 253, petroleum tanker 51, refrigerated cargo 22, vehicle carrier 58, other 31 (2016) |
+| Merchant marine: | foreign-owned: 31 (China 6, France 2, Japan 14, Taiwan 1, US 8) (2010) |
+| Merchant marine: | registered in other countries: 523 (Hong Kong 3, Marshall Islands 170, North Korea 1, Panama 339, Singapore 2, Isle of Man 7, Cook Islands 1) (2016) |
+| Ports and terminals: | major seaport(s): Busan, Incheon, Gunsan, Kwangyang, Mokpo, Pohang, Ulsan, Yeosu |
+| Ports and terminals: | container port(s) (TEUs): Busan (19,469,000), Kwangyang (2,327,000), Incheon (2,368,000) (2015) |
+| Ports and terminals: | LNG terminal(s) (import): Incheon, Kwangyang, Pyeongtaek, Samcheok, Tongyeong, Yeosu |

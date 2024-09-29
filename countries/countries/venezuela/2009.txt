@@ -1,0 +1,29 @@
+| Transportation | Venezuela |
+| --- | --- |
+| Airports: | 406 (2009) |
+| Airports - with paved runways: | total: 131 |
+| Airports - with paved runways: | over 3,047 m: 6 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 8 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 35 |
+| Airports - with paved runways: | 914 to 1,523 m: 63 |
+| Airports - with paved runways: | under 914 m: 19 (2009) |
+| Airports - with unpaved runways: | total: 275 |
+| Airports - with unpaved runways: | 2,438 to 3,047 m: 1 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 16 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 103 |
+| Airports - with unpaved runways: | under 914 m: 155 (2009) |
+| Heliports: | 4 (2009) |
+| Pipelines: | extra heavy crude 980 km; gas 5,036 km; oil 6,695 km; refined products 1,484 km; unknown 141 km (2008) |
+| Railways: | total: 806 km |
+| Railways: | standard gauge: 806 km 1.435-m gauge (2008) |
+| Roadways: | total: 96,155 km |
+| Roadways: | paved: 32,308 km |
+| Roadways: | unpaved: 63,847 km (2002) |
+| Waterways: | 7,100 km |
+| Waterways: | note: Orinoco River (400 km) and Lake de Maracaibo navigable by oceangoing vessels (2008) |
+| Merchant marine: | total: 62 |
+| Merchant marine: | by type: bulk carrier 9, cargo 16, chemical tanker 3, liquefied gas 5, passenger/cargo 10, petroleum tanker 17, refrigerated cargo 2 |
+| Merchant marine: | foreign-owned: 12 (Chile 1, Denmark 1, Greece 3, Mexico 5, Panama 1, Spain 1) |
+| Merchant marine: | registered in other countries: 12 (Bahamas 1, Panama 10, Saint Vincent and the Grenadines 1) (2008) |
+| Ports and terminals: | La Guaira, Maracaibo, Puerto Cabello, Punta Cardon |
+| Transportation - note: | the International Maritime Bureau reports the territorial and offshore waters in the Caribbean Sea as a significant risk for piracy and armed robbery against ships; numerous vessels, including commercial shipping and pleasure craft, have been attacked and hijacked both at anchor and while underway; crews have been robbed and stores or cargoes stolen |

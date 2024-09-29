@@ -1,0 +1,23 @@
+| Transportation | Czech Republic |
+| --- | --- |
+| Airports: | 128 (2012) |
+| Airports - with paved runways: | total: 41 |
+| Airports - with paved runways: | over 3,047 m: 2 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 9 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 12 |
+| Airports - with paved runways: | 914 to 1,523 m: 2 |
+| Airports - with paved runways: | under 914 m: 16 (2012) |
+| Airports - with unpaved runways: | total: 87 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 1 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 26 |
+| Airports - with unpaved runways: | under 914 m: 60 (2012) |
+| Heliports: | 1 (2012) |
+| Pipelines: | gas 7,010 km; oil 547 km; refined products 94 km (2010) |
+| Railways: | total: 9,469 km |
+| Railways: | standard gauge: 9,449 km 1.435-m gauge (3,165 km electrified) |
+| Railways: | narrow gauge: 20 km 0.750-m gauge (2008) |
+| Roadways: | total: 127,797 km (includes urban roads) |
+| Roadways: | paved: 127,797 km (includes 730 km of expressways) (2008) |
+| Waterways: | 664 km (principally on Elbe, Vltava, Oder, and other navigable rivers, lakes, and canals) (2010) |
+| Merchant marine: | registered in other countries: 1 (Saint Vincent and the Grenadines 1) (2010) |
+| Ports and terminals: | Decin, Prague, Usti nad Labem |

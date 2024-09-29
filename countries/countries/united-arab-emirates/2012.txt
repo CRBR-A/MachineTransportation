@@ -1,0 +1,24 @@
+| Transportation | United Arab Emirates |
+| --- | --- |
+| Airports: | 42 (2012) |
+| Airports - with paved runways: | total: 25 |
+| Airports - with paved runways: | over 3,047 m: 12 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 3 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 4 |
+| Airports - with paved runways: | 914 to 1,523 m: 4 |
+| Airports - with paved runways: | under 914 m: 2 (2012) |
+| Airports - with unpaved runways: | total: 17 |
+| Airports - with unpaved runways: | over 3,047 m: 1 |
+| Airports - with unpaved runways: | 2,438 to 3,047 m: 1 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 4 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 6 |
+| Airports - with unpaved runways: | under 914 m: 5 (2012) |
+| Heliports: | 5 (2012) |
+| Pipelines: | condensate 458 km; refined products 212 km; gas 2,352 km; liquid petroleum gas 220 km; oil 1,437 km (2010) |
+| Roadways: | total: 4,080 km |
+| Roadways: | paved: 4,080 km (includes 253 km of expressways) (2008) |
+| Merchant marine: | total: 61 |
+| Merchant marine: | by type: bulk carrier 3, cargo 13, chemical tanker 8, container 7, liquefied gas 1, passenger/cargo 1, petroleum tanker 24, roll on/roll off 4 |
+| Merchant marine: | foreign-owned: 13 (Greece 3, Kuwait 10) |
+| Merchant marine: | registered in other countries: 253 (Bahamas 23, Barbados 1, Belize 3, Cambodia 2, Comoros 8, Cyprus 3, Georgia 2, Gibraltar 5, Honduras 1, Hong Kong 1, India 4, Iran 2, Jordan 2, Liberia 37, Malta 1, Marshall Islands 12, Mexico 1, Netherlands 4, North Korea 2, Panama 83, Papua New Guinea 6, Philippines 1, Saint Kitts and Nevis 8, Saint Vincent and the Grenadines 3, Saudi Arabia 6, Sierra Leone 1, Singapore 10, Tanzania 3, Togo 1, UK 8, Vanuatu 1, unknown 8) (2010) |
+| Ports and terminals: | Al Fujayrah, Mina' Jabal 'Ali (Dubai), Khor Fakkan (Khawr Fakkan), Mubarraz Island, Mina' Rashid (Dubai), Mina' Saqr (Ra's al Khaymah) |

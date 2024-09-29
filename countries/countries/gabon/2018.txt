@@ -1,0 +1,29 @@
+| Transportation | Gabon |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 5 (2015) |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 7 (2015) |
+| National air transport system: | annual passenger traffic on registered air carriers: 137,331 (2015) |
+| National air transport system: | annual freight traffic on registered air carriers: 0 mt-km (2015) |
+| Civil aircraft registration country code prefix: | TR (2016) |
+| Airports: | 44 (2013) |
+| Airports - with paved runways: | total: 14 (2017) |
+| Airports - with paved runways: | over 3,047 m: 1 (2017) |
+| Airports - with paved runways: | 2,438 to 3,047 m: 2 (2017) |
+| Airports - with paved runways: | 1,524 to 2,437 m: 9 (2017) |
+| Airports - with paved runways: | 914 to 1,523 m: 1 (2017) |
+| Airports - with paved runways: | under 914 m: 1 (2017) |
+| Airports - with unpaved runways: | total: 30 (2013) |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 7 (2013) |
+| Airports - with unpaved runways: | 914 to 1,523 m: 9 (2013) |
+| Airports - with unpaved runways: | under 914 m: 14 (2013) |
+| Pipelines: | 807 km gas, 1639 km oil, 3 km water (2013) |
+| Railways: | total: 649 km (2014) |
+| Railways: | standard gauge: 649 km 1.435-m gauge (2014) |
+| Roadways: | total: 9,170 km (2007) |
+| Roadways: | paved: 1,097 km (2007) |
+| Roadways: | unpaved: 8,073 km (2007) |
+| Waterways: | 1,600 km (310 km on Ogooue River) (2010) |
+| Merchant marine: | total: 27 (2017) |
+| Merchant marine: | by type: general cargo 11, oil tanker 1, other 15 (2017) |
+| Ports and terminals: | major seaport(s): Libreville, Owendo, Port-Gentil |
+| Ports and terminals: | oil terminal(s): Gamba, Lucina |

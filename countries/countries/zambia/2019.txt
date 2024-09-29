@@ -1,0 +1,29 @@
+| Transportation | Zambia |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 1 (2015) |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 1 (2015) |
+| National air transport system: | annual passenger traffic on registered air carriers: 11,796 (2015) |
+| National air transport system: | annual freight traffic on registered air carriers: 79,092,826 mt-km (2015) |
+| Civil aircraft registration country code prefix: | 9J (2016) |
+| Airports: | 88 (2013) |
+| Airports - with paved runways: | total: 8 (2013) |
+| Airports - with paved runways: | over 3,047 m: 1 (2013) |
+| Airports - with paved runways: | 2,438 to 3,047 m: 3 (2013) |
+| Airports - with paved runways: | 1,524 to 2,437 m: 3 (2013) |
+| Airports - with paved runways: | 914 to 1,523 m: 1 (2013) |
+| Airports - with unpaved runways: | total: 80 (2013) |
+| Airports - with unpaved runways: | 2,438 to 3,047 m: 1 (2013) |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 5 (2013) |
+| Airports - with unpaved runways: | 914 to 1,523 m: 53 (2013) |
+| Airports - with unpaved runways: | under 914 m: 21 (2013) |
+| Pipelines: | 771 km oil (2013) |
+| Railways: | total: 3,126 km (2014) |
+| Railways: | narrow gauge: 3,126 km 1.067-m gauge (2014) |
+| Railways: | note: includes 1,860 km of the Tanzania-Zambia Railway Authority (TAZARA) |
+| Roadways: | total: 67,671 km (2018) |
+| Roadways: | paved: 14,888 km (2018) |
+| Roadways: | unpaved: 52,783 km (2018) |
+| Waterways: | 2,250 km (includes Lake Tanganyika and the Zambezi and Luapula Rivers) (2010) |
+| Merchant marine: | total: 1 |
+| Merchant marine: | by type: other 1 (2017) |
+| Ports and terminals: | river port(s): Mpulungu (Zambezi) |

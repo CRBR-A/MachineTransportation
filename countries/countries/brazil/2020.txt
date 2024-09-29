@@ -1,0 +1,37 @@
+| Transportation | Brazil |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 9 (2020) |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 443 |
+| National air transport system: | annual passenger traffic on registered air carriers: 102,109,977 (2018) |
+| National air transport system: | annual freight traffic on registered air carriers: 1,845,650,000 mt-km (2018) |
+| Civil aircraft registration country code prefix: | PP (2016) |
+| Airports: | 4,093 (2013) |
+| Airports - with paved runways: | total: 698 (2017) |
+| Airports - with paved runways: | over 3,047 m: 7 (2017) |
+| Airports - with paved runways: | 2,438 to 3,047 m: 27 (2017) |
+| Airports - with paved runways: | 1,524 to 2,437 m: 179 (2017) |
+| Airports - with paved runways: | 914 to 1,523 m: 436 (2017) |
+| Airports - with paved runways: | under 914 m: 49 (2017) |
+| Airports - with unpaved runways: | total: 3,395 (2013) |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 92 (2013) |
+| Airports - with unpaved runways: | 914 to 1,523 m: 1,619 (2013) |
+| Airports - with unpaved runways: | under 914 m: 1,684 (2013) |
+| Heliports: | 13 (2013) |
+| Pipelines: | 5959 km refined petroleum product (1,165 km distribution, 4,794 km transport), 11696 km natural gas (2,274 km distribution, 9,422 km transport), 1985 km crude oil (distribution), 77 km ethanol/petrochemical (37 km distribution, 40 km transport) (2016) |
+| Railways: | total: 29,850 km (2014) |
+| Railways: | standard gauge: 194 km 1.435-m gauge (2014) |
+| Railways: | narrow gauge: 23,341.6 km 1.000-m gauge (24 km electrified) (2014) |
+| Railways: | broad gauge: 5,822.3 km 1.600-m gauge (498.3 km electrified) (2014) |
+| Railways: | dual gauge: 492 km 1.600-1.000-m gauge (2014) |
+| Roadways: | total: 2 million km (2018) |
+| Roadways: | paved: 246,000 km (2018) |
+| Roadways: | unpaved: 1.754 million km (2018) |
+| Waterways: | 50,000 km (most in areas remote from industry and population) (2012) |
+| Merchant marine: | total: 864 |
+| Merchant marine: | by type: bulk carrier 12, container ship 17, general cargo 45, oil tanker 41, other 749 (2019) |
+| Ports and terminals: | major seaport(s): Belem, Paranagua, Rio Grande, Rio de Janeiro, Santos, Sao Sebastiao, Tubarao |
+| Ports and terminals: | oil terminal(s): DTSE/Gegua oil terminal, Ilha Grande (Gebig), Guaiba Island terminal, Guamare oil terminal |
+| Ports and terminals: | container port(s) (TEUs): Santos (3,853,719) (2017) |
+| Ports and terminals: | LNG terminal(s) (import): Pecem, Rio de Janiero |
+| Ports and terminals: | river port(s): Manaus (Amazon) |
+| Ports and terminals: | dry bulk cargo port(s): Sepetiba ore terminal, Tubarao |

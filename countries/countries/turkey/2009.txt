@@ -1,0 +1,24 @@
+| Transportation | Turkey |
+| --- | --- |
+| Airports: | 102 (2009) |
+| Airports - with paved runways: | total: 90 |
+| Airports - with paved runways: | over 3,047 m: 16 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 33 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 20 |
+| Airports - with paved runways: | 914 to 1,523 m: 17 |
+| Airports - with paved runways: | under 914 m: 4 (2009) |
+| Airports - with unpaved runways: | total: 12 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 1 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 7 |
+| Airports - with unpaved runways: | under 914 m: 4 (2009) |
+| Heliports: | 21 (2009) |
+| Pipelines: | gas 7,555 km; oil 3,636 km (2008) |
+| Railways: | total: 8,697 km |
+| Railways: | standard gauge: 8,697 km 1.435-m gauge (1,920 km electrified) (2008) |
+| Roadways: | total: 426,951 km (includes 1,987 km of expressways) (2006) |
+| Waterways: | 1,200 km (2008) |
+| Merchant marine: | total: 612 |
+| Merchant marine: | by type: bulk carrier 101, cargo 281, chemical tanker 70, combination ore/oil 1, container 35, liquefied gas 7, passenger 4, passenger/cargo 51, petroleum tanker 31, refrigerated cargo 1, roll on/roll off 28, specialized tanker 2 |
+| Merchant marine: | foreign-owned: 8 (Cyprus 2, Germany 1, Greece 1, Italy 3, UAE 1) |
+| Merchant marine: | registered in other countries: 595 (Albania 1, Antigua and Barbuda 6, Bahamas 8, Belize 15, Cambodia 26, Comoros 8, Dominica 5, Georgia 14, Greece 1, Isle of Man 2, Italy 1, Kiribati 1, Liberia 7, Malta 176, Marshall Islands 50, Moldova 3, Netherlands 1, Netherlands Antilles 10, Panama 94, Russia 80, Saint Kitts and Nevis 35, Saint Vincent and the Grenadines 20, Sierra Leone 15, Slovakia 10, Tuvalu 2, UK 2, unknown 2) (2008) |
+| Ports and terminals: | Aliaga, Diliskelesi, Izmir, Kocaeli (Izmit), Mercin Limani, Nemrut Limani |

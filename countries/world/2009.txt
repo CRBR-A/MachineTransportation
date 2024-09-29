@@ -1,0 +1,11 @@
+| Transportation | World |
+| --- | --- |
+| Airports: | total airports - 43,867 |
+| Airports: | top ten by passengers: Atlanta (ATL) - 89,379,287; Chicago (ORD) - 76,177,855; London (LHR) - 68,068,304; Tokyo (HND) - 66,823,414; Los Angeles (LAX) - 61,896,075; Paris (CDG) - 59,922,177; Dallas/Fort Worth (DFW) - 59,786,476; Frankfurt (FRA) - 54,161,856; Beijing (PEK) - 53,583,664; Madrid (MAD) - 52,122,702 |
+| Airports: | top ten by cargo (metric tons): Memphis (MEM) - 3,840,491; Hong Kong (HKG) - 3,773,964; Anchorage (ANC) - 2,825,511; Shanghai (PVG) - 2,559,310; Inch'on (ICN) - 2,555,580; Paris (CDG) - 2,297,896; Tokyo (NRT) - 2,254,421; Frankfurt (FRA) - 2,127,646; Louisville (SDF) - 2,078,947; Miami (MIA) - 1,922,985 (2009) |
+| Heliports: | 1,359 (2007) |
+| Railways: | total: 1,134,429 km (2008) |
+| Roadways: | total: 68,937,575 km (2008) |
+| Waterways: | 671,886 km (2004) |
+| Ports and terminals: | top ten container ports as measured by Twenty-Foot Equivalent Units (TEUs): Singapore - 27,935,500; Shanghai - 26,150,000; Hong Kong - 23,999,000; Shenzhen (China) - 21,099,100; Pusan (South Korea) - 13,254,703; - Rotterdam - 10,790,604; Dubai (UAE) - 10,650,000; Kaohsiung (Taiwan) - 10,256,829; Hamburg - 9,917,180; Qingdao (China) - 9,462,000 (2007) |
+| Transportation - note: | As of September 2009, incidents of piracy around the world have more than doubled over the comparable time period in 2008; half of all attacks occur in the waters off Somalia, primarily in the Gulf of Aden; other high risk areas include the waters off Nigeria, the South China Sea, and waters off Malaysia |

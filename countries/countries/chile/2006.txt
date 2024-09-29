@@ -1,0 +1,27 @@
+| Transportation | Chile |
+| --- | --- |
+| Airports: | 363 (2006) |
+| Airports - with paved runways: | total: 73 |
+| Airports - with paved runways: | over 3,047 m: 5 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 7 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 22 |
+| Airports - with paved runways: | 914 to 1,523 m: 22 |
+| Airports - with paved runways: | under 914 m: 17 (2006) |
+| Airports - with unpaved runways: | total: 290 |
+| Airports - with unpaved runways: | over 3,047 m: 1 |
+| Airports - with unpaved runways: | 2,438 to 3,047 m: 4 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 11 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 58 |
+| Airports - with unpaved runways: | under 914 m: 216 (2006) |
+| Pipelines: | gas 2,567 km; gas/lpg 42 km; liquid petroleum gas 539 km; oil 1,003 km; refined products 757 km; unknown (oil/water) 97 km (2006) |
+| Railways: | total: 6,585 km |
+| Railways: | broad gauge: 2,831 km 1.676-m gauge (1,317 km electrified) |
+| Railways: | narrow gauge: 3,754 km 1.000-m gauge (2005) |
+| Roadways: | total: 79,605 km |
+| Roadways: | paved: 16,080 km (including 407 km of expressways) |
+| Roadways: | unpaved: 63,525 km (2001) |
+| Merchant marine: | total: 46 ships (1000 GRT or over) 649,091 GRT/898,110 DWT |
+| Merchant marine: | by type: bulk carrier 10, cargo 6, chemical tanker 10, container 1, liquefied gas 2, passenger 4, passenger/cargo 2, petroleum tanker 7, roll on/roll off 1, vehicle carrier 3 |
+| Merchant marine: | foreign-owned: 1 (Argentina 1) |
+| Merchant marine: | registered in other countries: 17 (Argentina 6, Brazil 1, Marshall Islands 1, Panama 9) (2006) |
+| Ports and terminals: | Antofagasta, Arica, Huasco, Iquique, Lirquen, San Antonio, San Vicente, Valparaiso |

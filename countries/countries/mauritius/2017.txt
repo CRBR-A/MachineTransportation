@@ -1,0 +1,20 @@
+| Transportation | MAURITIUS |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 1 |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 13 |
+| National air transport system: | annual passenger traffic on registered air carriers: 1,466,527 |
+| National air transport system: | annual freight traffic on registered air carriers: 168.773 million mt-km (2015) |
+| Civil aircraft registration country code prefix: | 3B (2016) |
+| Airports: | 5 (2013) |
+| Airports - with paved runways: | total: 2 |
+| Airports - with paved runways: | over 3,047 m: 1 |
+| Airports - with paved runways: | 914 to 1,523 m: 1 (2017) |
+| Airports - with unpaved runways: | total: 3 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 2 |
+| Airports - with unpaved runways: | under 914 m: 1 (2013) |
+| Roadways: | total: 2,428 km |
+| Roadways: | paved: 2,379 km (includes 99 km of expressways) |
+| Roadways: | unpaved: 49 km (2015) |
+| Merchant marine: | total: 4 |
+| Merchant marine: | by type: passenger/cargo 2, petroleum tanker 1, refrigerated cargo 1 (2010) |
+| Ports and terminals: | major seaport(s): Port Louis |

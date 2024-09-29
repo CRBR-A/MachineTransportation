@@ -1,0 +1,18 @@
+| Transportation | Chad |
+| --- | --- |
+| Airports: | 54 (2009) |
+| Airports - with paved runways: | total: 8 |
+| Airports - with paved runways: | over 3,047 m: 2 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 3 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 2 |
+| Airports - with paved runways: | under 914 m: 1 (2009) |
+| Airports - with unpaved runways: | total: 46 |
+| Airports - with unpaved runways: | 2,438 to 3,047 m: 2 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 13 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 20 |
+| Airports - with unpaved runways: | under 914 m: 11 (2009) |
+| Pipelines: | oil 250 km (2008) |
+| Roadways: | total: 33,400 km |
+| Roadways: | paved: 267 km |
+| Roadways: | unpaved: 33,133 km (2002) |
+| Waterways: | Chari and Legone rivers are navigable only in wet season (2008) |

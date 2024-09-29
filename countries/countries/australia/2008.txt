@@ -1,0 +1,29 @@
+| Transportation | Australia |
+| --- | --- |
+| Airports: | 461 (2007) |
+| Airports - with paved runways: | total: 317 |
+| Airports - with paved runways: | over 3,047 m: 11 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 12 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 138 |
+| Airports - with paved runways: | 914 to 1,523 m: 143 |
+| Airports - with paved runways: | under 914 m: 13 (2007) |
+| Airports - with unpaved runways: | total: 144 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 19 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 109 |
+| Airports - with unpaved runways: | under 914 m: 16 (2007) |
+| Heliports: | 1 (2007) |
+| Pipelines: | condensate/gas 469 km; gas 26,719 km; liquid petroleum gas 240 km; oil 3,720 km; oil/gas/water 110 km (2007) |
+| Railways: | total: 38,550 km |
+| Railways: | broad gauge: 3,727 km 1.600-m gauge |
+| Railways: | standard gauge: 20,519 km 1.435-m gauge (1,877 km electrified) |
+| Railways: | narrow gauge: 14,074 km 1.067-m gauge (2,453 km electrified) |
+| Railways: | dual gauge: 230 km dual gauge (2006) |
+| Roadways: | total: 812,972 km |
+| Roadways: | paved: 341,448 km |
+| Roadways: | unpaved: 471,524 km (2004) |
+| Waterways: | 2,000 km (mainly used for recreation on Murray and Murray-Darling river systems) (2006) |
+| Merchant marine: | total: 50 |
+| Merchant marine: | by type: bulk carrier 12, cargo 5, chemical tanker 1, container 1, liquefied gas 4, passenger 7, passenger/cargo 7, petroleum tanker 8, roll on/roll off 5 |
+| Merchant marine: | foreign-owned: 24 (Canada 9, France 1, Germany 2, Japan 1, Netherlands 2, Norway 1, Singapore 1, UK 5, US 2) |
+| Merchant marine: | registered in other countries: 28 (Antigua and Barbuda 1, Belize 1, Bermuda 1, Dominica 2, Fiji 1, Marshall Islands 1, NZ 1, Panama 4, Singapore 12, Tonga 1, US 1, Vanuatu 2) (2008) |
+| Ports and terminals: | Brisbane, Dampier, Fremantle, Gladstone, Hay Point, Melbourne, Newcastle, Port Hedland, Port Kembla, Port Walcott, Sydney |

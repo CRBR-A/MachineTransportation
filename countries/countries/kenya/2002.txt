@@ -1,0 +1,26 @@
+| Transportation | Kenya |
+| --- | --- |
+| Railways: | total: 2,778 km |
+| Railways: | narrow gauge: 2,778 km 1.000-m gauge |
+| Railways: | note: the line connecting Nairobi with the port of Mombasa is the most important in the country |
+| Highways: | total: 63,300 km |
+| Highways: | paved: 8,940 km |
+| Highways: | unpaved: 54,360 km (2001) |
+| Waterways: | NA |
+| Waterways: | note: part of the Lake Victoria system is within the boundaries of Kenya |
+| Pipelines: | petroleum products 483 km |
+| Ports and harbors: | Kisumu, Lamu, Mombasa |
+| Merchant marine: | total: 2 ships (1,000 GRT or over) totaling 4,893 GRT/6,320 DWT |
+| Merchant marine: | ships by type: petroleum tanker 1, roll on/roll off 1 (2002 est.) |
+| Airports: | 231 (2001) |
+| Airports - with paved runways: | total: 19 |
+| Airports - with paved runways: | over 3,047 m: 4 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 1 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 3 |
+| Airports - with paved runways: | 914 to 1,523 m: 10 |
+| Airports - with paved runways: | under 914 m: 1 (2002) |
+| Airports - with unpaved runways: | total: 211 |
+| Airports - with unpaved runways: | 2,438 to 3,047 m: 1 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 14 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 113 |
+| Airports - with unpaved runways: | under 914 m: 83 (2002) |

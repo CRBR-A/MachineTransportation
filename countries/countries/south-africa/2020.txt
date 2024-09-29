@@ -1,0 +1,32 @@
+| Transportation | South Africa |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 17 (2020) |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 243 |
+| National air transport system: | annual passenger traffic on registered air carriers: 23,921,748 (2018) |
+| National air transport system: | annual freight traffic on registered air carriers: 716.25 million mt-km (2018) |
+| Civil aircraft registration country code prefix: | ZS (2016) |
+| Airports: | 407 (2020) |
+| Airports - with paved runways: | total: 130 (2020) |
+| Airports - with paved runways: | over 3,047 m: 11 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 6 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 46 |
+| Airports - with paved runways: | 914 to 1,523 m: 60 |
+| Airports - with paved runways: | under 914 m: 7 |
+| Airports - with unpaved runways: | total: 277 (2020) |
+| Airports - with unpaved runways: | 2,438 to 3,047 m: 1 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 19 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 178 |
+| Airports - with unpaved runways: | under 914 m: 79 |
+| Pipelines: | 94 km condensate, 1293 km gas, 992 km oil, 1460 km refined products (2013) |
+| Railways: | total: 20,986 km (2014) |
+| Railways: | standard gauge: 80 km 1.435-m gauge (80 km electrified) (2014) |
+| Railways: | narrow gauge: 19,756 km 1.065-m gauge (8,271 km electrified) (2014) |
+| Railways: | other: 1,150 km (passenger rail, gauge unspecified, 1,115.5 km electrified) (2014) |
+| Roadways: | total: 750,000 km (2016) |
+| Roadways: | paved: 158,124 km (2016) |
+| Roadways: | unpaved: 591,876 km (2016) |
+| Merchant marine: | total: 103 |
+| Merchant marine: | by type: bulk carrier 2general cargo 1, oil tanker 6, other 94 (2019) |
+| Ports and terminals: | major seaport(s): Cape Town, Durban, Port Elizabeth, Richards Bay, Saldanha Bay |
+| Ports and terminals: | container port(s) (TEUs): Durban (2,699,978) (2017) |
+| Ports and terminals: | LNG terminal(s) (import): Mossel Bay |

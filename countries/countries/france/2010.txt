@@ -1,0 +1,26 @@
+| Transportation | France |
+| --- | --- |
+| Airports: | 474 (2010) |
+| Airports - with paved runways: | total: 297 |
+| Airports - with paved runways: | over 3,047 m: 14 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 27 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 97 |
+| Airports - with paved runways: | 914 to 1,523 m: 83 |
+| Airports - with paved runways: | under 914 m: 76 (2010) |
+| Airports - with unpaved runways: | total: 177 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 69 |
+| Airports - with unpaved runways: | under 914 m: 108 (2010) |
+| Heliports: | 1 (2010) |
+| Pipelines: | gas 14,688 km; oil 2,943 km; refined products 5,080 km (2009) |
+| Railways: | total: 29,213 km |
+| Railways: | standard gauge: 29,046 km 1.435-m gauge (15,164 km electrified) |
+| Railways: | narrow gauge: 167 km 1.000-m gauge (2008) |
+| Roadways: | total: 1,027,183 km (metropolitan France; includes 10,958 km of expressways) |
+| Roadways: | note: there are another 5,100 km of roadways in overseas departments (2007) |
+| Waterways: | metropolitan France: 8,501 km (1,621 km accessible to craft of 3,000 metric tons) |
+| Waterways: | French Guiana: 3,760 km (460 km navigable by small oceangoing vessels and coastal and river steamers, 3,300 km by native craft) (2008) |
+| Merchant marine: | total: 167 |
+| Merchant marine: | by type: bulk carrier 2, cargo 8, chemical tanker 36, container 25, liquefied gas 12, passenger 11, passenger/cargo 44, petroleum tanker 17, refrigerated cargo 1, roll on/roll off 11 |
+| Merchant marine: | foreign-owned: 57 (Belgium 7, China 5, Denmark 12, French Polynesia 12, Germany 1, New Caledonia 3, Norway 1, NZ 1, Singapore 3, Spain 1, Sweden 6, Switzerland 5) |
+| Merchant marine: | registered in other countries: 146 (Bahamas 19, Belgium 5, Bermuda 1, Canada 1, Cyprus 16, Egypt 1, Hong Kong 3, Indonesia 1, Italy 2, Luxembourg 16, Malta 13, Morocco 4, Netherlands 2, Norway 4, Panama 13, Saint Vincent and the Grenadines 2, Singapore 3, South Korea 1, Taiwan 1, UK 33, US 4, unknown 1) (2010) |
+| Ports and terminals: | Calais, Dunkerque, Le Havre, Marseille, Nantes, Paris, Rouen |

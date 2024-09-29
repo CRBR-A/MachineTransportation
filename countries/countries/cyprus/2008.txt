@@ -1,0 +1,20 @@
+| Transportation | Cyprus |
+| --- | --- |
+| Airports: | 16 (2007) |
+| Airports - with paved runways: | total: 13 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 7 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 2 |
+| Airports - with paved runways: | 914 to 1,523 m: 3 |
+| Airports - with paved runways: | under 914 m: 1 (2007) |
+| Airports - with unpaved runways: | total: 3 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 1 |
+| Airports - with unpaved runways: | under 914 m: 2 (2007) |
+| Heliports: | 10 (2007) |
+| Roadways: | total: 14,630 km (area under government control: 12,280 km; area administered by Turkish Cypriots: 2,350 km) |
+| Roadways: | paved: area under government control: 7,979 km (includes 257 km of expressways); area administered by Turkish Cypriots: 1,370 km |
+| Roadways: | unpaved: area under government control: 4,301 km; area administered by Turkish Cypriots: 980 km (2006) |
+| Merchant marine: | total: 858 |
+| Merchant marine: | by type: bulk carrier 295, cargo 182, chemical tanker 63, container 193, liquefied gas 10, passenger 5, passenger/cargo 24, petroleum tanker 58, refrigerated cargo 10, roll on/roll off 12, specialized tanker 1, vehicle carrier 5 |
+| Merchant marine: | foreign-owned: 690 (Austria 1, Belgium 2, Canada 2, Chile 1, China 10, Cuba 1, Denmark 4, Estonia 5, Germany 189, Greece 259, Hong Kong 2, India 2, Iran 10, Ireland 3, Israel 4, Italy 7, Japan 21, South Korea 1, Latvia 1, Lebanon 1, Netherlands 22, Norway 18, Philippines 1, Poland 18, Portugal 1, Russia 50, Singapore 3, Slovenia 4, Spain 6, Sweden 2, Syria 2, Ukraine 4, UAE 9, UK 19, US 5) |
+| Merchant marine: | registered in other countries: 256 (Antigua and Barbuda 18, Bahamas 25, Belize 1, Burma 1, Cambodia 7, Comoros 1, Georgia 1, Germany 2, Gibraltar 1, Greece 7, Liberia 63, Malta 31, Marshall Islands 37, Netherlands 8, Netherlands Antilles 21, Panama 19, Poland 1, Russia 2, Saint Kitts and Nevis 1, Saint Vincent and the Grenadines 1, Samoa 1, Singapore 1, Tonga 1, Turkey 2, UK 2, unknown 1) (2008) |
+| Ports and terminals: | area under government control: Larnaca, Limassol, Vasilikos; area administered by Turkish Cypriots: Famagusta, Kyrenia |

@@ -1,0 +1,27 @@
+| Transportation | India |
+| --- | --- |
+| Airports: | 349 (2009) |
+| Airports - with paved runways: | total: 250 |
+| Airports - with paved runways: | over 3,047 m: 20 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 56 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 76 |
+| Airports - with paved runways: | 914 to 1,523 m: 84 |
+| Airports - with paved runways: | under 914 m: 14 (2009) |
+| Airports - with unpaved runways: | total: 99 |
+| Airports - with unpaved runways: | 2,438 to 3,047 m: 2 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 8 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 42 |
+| Airports - with unpaved runways: | under 914 m: 47 (2009) |
+| Heliports: | 37 (2009) |
+| Pipelines: | condensate/gas 2 km; gas 6,061 km; liquid petroleum gas 2,156 km; oil 7,678 km; refined products 6,876 km (2008) |
+| Railways: | total: 63,327 km |
+| Railways: | broad gauge: 49,820 km 1.676-m gauge (17,786 km electrified) |
+| Railways: | narrow gauge: 10,621 km 1.000-m gauge (135 km electrified); 2,886 km 0.762-m gauge and 0.610-m gauge (2007) |
+| Roadways: | total: 3,316,452 km (includes 200 km of expressways) (2006) |
+| Waterways: | 14,500 km |
+| Waterways: | note: 5,200 km on major rivers and 485 km on canals suitable for mechanized vessels (2008) |
+| Merchant marine: | total: 501 |
+| Merchant marine: | by type: bulk carrier 102, cargo 241, carrier 1, chemical tanker 19, container 13, liquefied gas 18, passenger 3, passenger/cargo 11, petroleum tanker 92, roll on/roll off 1 |
+| Merchant marine: | foreign-owned: 12 (China 1, Germany 2, Hong Kong 1, UAE 6, UK 2) |
+| Merchant marine: | registered in other countries: 61 (Barbados 1, Comoros 2, Cyprus 2, Dominica 2, Liberia 2, Malta 2, Marshall Islands 1, Panama 27, Saint Kitts and Nevis 1, Saint Vincent and the Grenadines 7, Singapore 13, unknown 1) (2008) |
+| Ports and terminals: | Chennai, Haldia, Jawaharal Nehru, Kandla, Kolkata (Calcutta), Mormugao, Mumbai (Bombay), New Mangalore, Vishakhapatnam |

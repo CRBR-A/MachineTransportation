@@ -1,0 +1,18 @@
+| Transportation | Greenland |
+| --- | --- |
+| Airports: | 14 (2006) |
+| Airports - with paved runways: | total: 9 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 2 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 1 |
+| Airports - with paved runways: | 914 to 1,523 m: 1 |
+| Airports - with paved runways: | under 914 m: 5 (2006) |
+| Airports - with unpaved runways: | total: 5 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 1 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 2 |
+| Airports - with unpaved runways: | under 914 m: 2 (2006) |
+| Roadways: | total: NA |
+| Roadways: | note: while there are short roads in towns, there are no roads between towns; inter-town transport takes place either by sea or air (2005) |
+| Merchant marine: | total: 3 ships (1000 GRT or over) 5,540 GRT/2,540 DWT |
+| Merchant marine: | by type: cargo 1, passenger 2 |
+| Merchant marine: | registered in other countries: 2 (Cyprus 1, Denmark 1) (2006) |
+| Ports and terminals: | Sisimiut |

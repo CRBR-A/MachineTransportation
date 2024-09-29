@@ -1,0 +1,14 @@
+| Transportation | Lesotho |
+| --- | --- |
+| Civil aircraft registration country code prefix: | 7P (2016) |
+| Airports: | 24 (2013) |
+| Airports - with paved runways: | total: 3 (2019) |
+| Airports - with paved runways: | over 3,047 m: 1 |
+| Airports - with paved runways: | 914 to 1,523 m: 1 |
+| Airports - with paved runways: | under 914 m: 1 |
+| Airports - with unpaved runways: | total: 21 (2013) |
+| Airports - with unpaved runways: | 914 to 1,523 m: 5 (2013) |
+| Airports - with unpaved runways: | under 914 m: 16 (2013) |
+| Roadways: | total: 5,940 km (2011) |
+| Roadways: | paved: 1,069 km (2011) |
+| Roadways: | unpaved: 4,871 km (2011) |

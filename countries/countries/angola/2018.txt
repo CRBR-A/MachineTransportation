@@ -1,0 +1,32 @@
+| Transportation | Angola |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 10 (2015) |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 55 (2015) |
+| National air transport system: | annual passenger traffic on registered air carriers: 1,244,491 (2015) |
+| National air transport system: | annual freight traffic on registered air carriers: 46.043 million mt-km (2015) |
+| Civil aircraft registration country code prefix: | D2 (2016) |
+| Airports: | 176 (2013) |
+| Airports - with paved runways: | total: 31 (2017) |
+| Airports - with paved runways: | over 3,047 m: 7 (2017) |
+| Airports - with paved runways: | 2,438 to 3,047 m: 8 (2017) |
+| Airports - with paved runways: | 1,524 to 2,437 m: 12 (2017) |
+| Airports - with paved runways: | 914 to 1,523 m: 4 (2017) |
+| Airports - with unpaved runways: | total: 145 (2013) |
+| Airports - with unpaved runways: | over 3,047 m: 2 (2013) |
+| Airports - with unpaved runways: | 2,438 to 3,047 m: 3 (2013) |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 31 (2013) |
+| Airports - with unpaved runways: | 914 to 1,523 m: 66 (2013) |
+| Airports - with unpaved runways: | under 914 m: 43 (2013) |
+| Heliports: | 1 (2013) |
+| Pipelines: | 352 km gas, 85 km liquid petroleum gas, 1065 km oil, 5 km oil/gas/water (2013) |
+| Railways: | total: 2,852 km (2014) |
+| Railways: | narrow gauge: 2,729 km 1.067-m gauge (2014) |
+| Railways: | 123 0.600-m gauge |
+| Roadways: | total: 51,429 km (2001) |
+| Roadways: | paved: 5,349 km (2001) |
+| Roadways: | unpaved: 46,080 km (2001) |
+| Waterways: | 1,300 km (2011) |
+| Merchant marine: | total: 55 (2017) |
+| Merchant marine: | by type: general cargo 14, oil tanker 9, other 32 (2017) |
+| Ports and terminals: | major seaport(s): Cabinda, Lobito, Luanda, Namibe |
+| Ports and terminals: | LNG terminal(s) (export): Angola Soyo |

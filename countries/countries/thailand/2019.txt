@@ -1,0 +1,31 @@
+| Transportation | Thailand |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 19 (2015) |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 276 (2015) |
+| National air transport system: | annual passenger traffic on registered air carriers: 54,259,629 (2015) |
+| National air transport system: | annual freight traffic on registered air carriers: 2,134,149,001 mt-km (2015) |
+| Civil aircraft registration country code prefix: | HS (2016) |
+| Airports: | 101 (2013) |
+| Airports - with paved runways: | total: 63 (2013) |
+| Airports - with paved runways: | over 3,047 m: 8 (2013) |
+| Airports - with paved runways: | 2,438 to 3,047 m: 12 (2013) |
+| Airports - with paved runways: | 1,524 to 2,437 m: 23 (2013) |
+| Airports - with paved runways: | 914 to 1,523 m: 14 (2013) |
+| Airports - with paved runways: | under 914 m: 6 (2013) |
+| Airports - with unpaved runways: | total: 38 (2013) |
+| Airports - with unpaved runways: | 2,438 to 3,047 m: 1 (2013) |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 1 (2013) |
+| Airports - with unpaved runways: | 914 to 1,523 m: 10 (2013) |
+| Airports - with unpaved runways: | under 914 m: 26 (2013) |
+| Heliports: | 7 (2013) |
+| Pipelines: | 2 km condensate, 5900 km gas, 85 km liquid petroleum gas, 1 km oil, 1097 km refined products (2013) |
+| Railways: | total: 4,127 km (2017) |
+| Railways: | standard gauge: 84 km 1.435-m gauge (84 km electrified) (2017) |
+| Railways: | narrow gauge: 4,043 km 1.000-m gauge (2017) |
+| Roadways: | total: 180,053 km (includes 450 km of expressways) (2006) |
+| Waterways: | 4,000 km (3,701 km navigable by boats with drafts up to 0.9 m) (2011) |
+| Merchant marine: | total: 807 |
+| Merchant marine: | by type: bulk carrier 27, container ship 25, general cargo 91, oil tanker 241, other 423 (2018) |
+| Ports and terminals: | major seaport(s): Bangkok, Laem Chabang, Map Ta Phut, Prachuap Port, Si Racha |
+| Ports and terminals: | container port(s) (TEUs): Laem Chabang (7,227,431) (2017) |
+| Ports and terminals: | LNG terminal(s) (import): Map Ta Phut |

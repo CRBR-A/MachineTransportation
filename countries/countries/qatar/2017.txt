@@ -1,0 +1,23 @@
+| Transportation | QATAR |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 2 |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 199 |
+| National air transport system: | annual passenger traffic on registered air carriers: 25,263,224 |
+| National air transport system: | annual freight traffic on registered air carriers: 7,563,307,390 mt-km (2015) |
+| Civil aircraft registration country code prefix: | A7 (2016) |
+| Airports: | 6 (2013) |
+| Airports - with paved runways: | total: 4 |
+| Airports - with paved runways: | over 3,047 m: 3 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 1 (2017) |
+| Airports - with unpaved runways: | total: 2 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 1 |
+| Airports - with unpaved runways: | under 914 m: 1 (2013) |
+| Heliports: | 1 (2013) |
+| Pipelines: | condensate 288 km; condensate/gas 221 km; gas 2,383 km; liquid petroleum gas 90 km; oil 745 km; refined products 103 km (2013) |
+| Roadways: | total: 9,830 km (2010) |
+| Merchant marine: | total: 28 |
+| Merchant marine: | by type: bulk carrier 3, chemical tanker 2, container 13, liquefied gas 6, petroleum tanker 4 |
+| Merchant marine: | foreign-owned: 6 (Kuwait 6) |
+| Merchant marine: | registered in other countries: 35 (Liberia 5, Marshall Islands 29, Panama 1) (2010) |
+| Ports and terminals: | major seaport(s): Doha, Mesaieed (Umaieed), Ra's Laffan |
+| Ports and terminals: | LNG terminal(s) (export): Ras Laffan |

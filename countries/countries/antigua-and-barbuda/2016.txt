@@ -1,0 +1,20 @@
+| Transportation | ANTIGUA AND BARBUDA |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 1 |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 9 |
+| National air transport system: | annual passenger traffic on registered air carriers: 1,039,809 |
+| National air transport system: | annual freight traffic on registered air carriers: 526,545 mt-km (2015) |
+| Civil aircraft registration country code prefix: | V2 (2016) |
+| Airports: | 3 (2013) |
+| Airports - with paved runways: | total: 2 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 1 |
+| Airports - with paved runways: | under 914 m: 1 (2013) |
+| Airports - with unpaved runways: | total: 1 |
+| Airports - with unpaved runways: | under 914 m: 1 (2013) |
+| Roadways: | total: 1,170 km |
+| Roadways: | paved: 386 km |
+| Roadways: | unpaved: 784 km (2011) |
+| Merchant marine: | total: 1,257 |
+| Merchant marine: | by type: bulk carrier 49, cargo 753, carrier 6, chemical tanker 4, container 407, liquefied gas 12, refrigerated cargo 7, roll on/roll off 17, vehicle carrier 2 |
+| Merchant marine: | foreign-owned: 1,215 (Albania 1, Colombia 1, Denmark 20, Estonia 10, Germany 1094, Greece 4, Iceland 10, Latvia 16, Lithuania 3, Mexico 1, Netherlands 17, Norway 9, NZ 2, Poland 2, Russia 3, Switzerland 7, Turkey 7, UK 1, US 7) (2010) |
+| Ports and terminals: | major seaport(s): Saint John's |

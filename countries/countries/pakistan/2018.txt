@@ -1,0 +1,32 @@
+| Transportation | Pakistan |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 4 (2015) |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 67 (2015) |
+| National air transport system: | annual passenger traffic on registered air carriers: 8,467,827 (2015) |
+| National air transport system: | annual freight traffic on registered air carriers: 183,177,313 mt-km (2015) |
+| Civil aircraft registration country code prefix: | AP (2016) |
+| Airports: | 151 (2013) |
+| Airports - with paved runways: | total: 108 (2017) |
+| Airports - with paved runways: | over 3,047 m: 15 (2017) |
+| Airports - with paved runways: | 2,438 to 3,047 m: 20 (2017) |
+| Airports - with paved runways: | 1,524 to 2,437 m: 43 (2017) |
+| Airports - with paved runways: | 914 to 1,523 m: 20 (2017) |
+| Airports - with paved runways: | under 914 m: 10 (2017) |
+| Airports - with unpaved runways: | total: 43 (2013) |
+| Airports - with unpaved runways: | 2,438 to 3,047 m: 1 (2013) |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 9 (2013) |
+| Airports - with unpaved runways: | 914 to 1,523 m: 9 (2013) |
+| Airports - with unpaved runways: | under 914 m: 24 (2013) |
+| Heliports: | 23 (2013) |
+| Pipelines: | 12646 km gas, 2576 km oil, 1087 km refined products (2013) |
+| Railways: | total: 11,881 km (2015) |
+| Railways: | narrow gauge: 389 km 1.000-m gauge (2015) |
+| Railways: | broad gauge: 11,492 km 1.676-m gauge (293 km electrified) (2015) |
+| Roadways: | total: 263,942 km (2014) |
+| Roadways: | paved: 185,063 km (includes 708 km of expressways) (2014) |
+| Roadways: | unpaved: 78,879 km (2014) |
+| Merchant marine: | total: 52 (2017) |
+| Merchant marine: | by type: bulk carrier 5, oil tanker 6, other 41 (2017) |
+| Ports and terminals: | major seaport(s): Karachi, Port Muhammad Bin Qasim |
+| Ports and terminals: | container port(s) (TEUs): Karachi (2,100,000) (2016) |
+| Ports and terminals: | LNG terminal(s) (import): Port Qasim |

@@ -1,0 +1,16 @@
+| Transportation | KOSOVO |
+| --- | --- |
+| Civil aircraft registration country code prefix: | Z6 (2016) |
+| Airports: | 6 (2013) |
+| Airports - with paved runways: | total: 3 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 1 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 1 |
+| Airports - with paved runways: | under 914 m: 1 (2013) |
+| Airports - with unpaved runways: | total: 3 |
+| Airports - with unpaved runways: | under 914 m: 3 (2013) |
+| Heliports: | 2 (2013) |
+| Railways: | total: 333 km |
+| Railways: | standard gauge: 333 km 1.435-m gauge (2014) |
+| Roadways: | total: 2,003 km |
+| Roadways: | paved: 1,883 km (includes 38 km of expressways) |
+| Roadways: | unpaved: 120 km (2014) |

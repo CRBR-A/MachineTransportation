@@ -1,0 +1,25 @@
+| Transportation | Bangladesh |
+| --- | --- |
+| Airports: | 16 (2006) |
+| Airports - with paved runways: | total: 15 |
+| Airports - with paved runways: | over 3,047 m: 1 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 4 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 4 |
+| Airports - with paved runways: | 914 to 1,523 m: 1 |
+| Airports - with paved runways: | under 914 m: 5 (2006) |
+| Airports - with unpaved runways: | total: 1 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 1 (2006) |
+| Pipelines: | gas 2,604 km (2006) |
+| Railways: | total: 2,768 km |
+| Railways: | broad gauge: 946 km 1.676-m gauge |
+| Railways: | narrow gauge: 1,822 km 1.000-m gauge (2005) |
+| Roadways: | total: 239,226 km |
+| Roadways: | paved: 22,726 km |
+| Roadways: | unpaved: 216,500 km (2003) |
+| Waterways: | 8,372 km |
+| Waterways: | note: includes 5,635 km main cargo routes; network reduced to 5,200 km in dry season (2005) |
+| Merchant marine: | total: 42 ships (1000 GRT or over) 341,733 GRT/485,840 DWT |
+| Merchant marine: | by type: bulk carrier 3, cargo 29, container 6, passenger/cargo 1, petroleum tanker 3 |
+| Merchant marine: | foreign-owned: 1 (China 1) |
+| Merchant marine: | registered in other countries: 10 (Antigua and Barbuda 4, Comoros 1, Malta 3, Saint Vincent and the Grenadines 1, Singapore 1) (2006) |
+| Ports and terminals: | Chittagong, Mongla Port |

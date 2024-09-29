@@ -1,0 +1,9 @@
+| Transportation | Aruba |
+| --- | --- |
+| Airports: | 1 (2006) |
+| Airports - with paved runways: | total: 1 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 1 (2006) |
+| Roadways: | total: 800 km |
+| Roadways: | paved: 513 km |
+| Roadways: | unpaved: 287 km |
+| Ports and terminals: | Barcadera, Oranjestad, Sint Nicolaas |

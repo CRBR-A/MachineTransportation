@@ -1,0 +1,9 @@
+| Transportation |   |
+| --- | --- |
+| Railways: | 0 km |
+| Highways: | total: 6.4 km |
+| Highways: | paved: 0 km |
+| Highways: | unpaved: 6.4 km |
+| Ports and harbors: | Bounty Bay |
+| Merchant marine: | none (1999 est.) |
+| Airports: | none |

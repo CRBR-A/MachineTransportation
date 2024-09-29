@@ -1,0 +1,13 @@
+| Transportation | LESOTHO |
+| --- | --- |
+| Airports: | 24 (2013) |
+| Airports - with paved runways: | total: 3 |
+| Airports - with paved runways: | over 3,047 m: 1 |
+| Airports - with paved runways: | 914 to 1,523 m: 1 |
+| Airports - with paved runways: | under 914 m: 1 (2013) |
+| Airports - with unpaved runways: | total: 21 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 5 |
+| under 914 m: | 16 (2013) |
+| Roadways: | total: 5,940 km |
+| Roadways: | paved: 1,069 km |
+| Roadways: | unpaved: 4,871 km (2011) |

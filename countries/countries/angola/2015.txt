@@ -1,0 +1,28 @@
+| Transportation | ANGOLA |
+| --- | --- |
+| Airports: | 176 (2013) |
+| Airports - with paved runways: | total: 31 |
+| Airports - with paved runways: | over 3,047 m: 7 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 8 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 12 |
+| Airports - with paved runways: | 914 to 1,523 m: 4 (2013) |
+| Airports - with unpaved runways: | total: 145 |
+| Airports - with unpaved runways: | over 3,047 m: 2 |
+| Airports - with unpaved runways: | 2,438 to 3,047 m: 3 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 31 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 66 |
+| under 914 m: | 43 (2013) |
+| Heliports: | 1 (2013) |
+| Pipelines: | gas 352 km; liquid petroleum gas 85 km; oil 1,065 km; oil/gas/water 5 km (2013) |
+| Railways: | total: 2,852 km |
+| Railways: | narrow gauge: 2,729 km 1.067-m gauge; 123 km 0.600-m gauge (2014) |
+| Roadways: | total: 51,429 km |
+| Roadways: | paved: 5,349 km |
+| Roadways: | unpaved: 46,080 km (2001) |
+| Waterways: | 1,300 km (2011) |
+| Merchant marine: | total: 7 |
+| Merchant marine: | by type: cargo 1, chemical tanker 1, passenger/cargo 2, petroleum tanker 2, roll on/roll off 1 |
+| Merchant marine: | foreign-owned: 1 (Spain 1) |
+| Merchant marine: | registered in other countries: 17 (Bahamas 6, Curacao 2, Cyprus 1, Liberia 1, Malta 7) (2010) |
+| Ports and terminals: | major seaport(s): Cabinda, Lobito, Luanda, Namibe |
+| Ports and terminals: | LNG terminal(s) (export): Angola Soyo |

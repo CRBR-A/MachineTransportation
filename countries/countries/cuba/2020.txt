@@ -1,0 +1,29 @@
+| Transportation | Cuba |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 4 (2020) |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 18 |
+| National air transport system: | annual passenger traffic on registered air carriers: 560,754 (2018) |
+| National air transport system: | annual freight traffic on registered air carriers: 17.76 million mt-km (2018) |
+| Civil aircraft registration country code prefix: | CU (2016) |
+| Airports: | 133 (2017) |
+| Airports - with paved runways: | total: 64 (2017) |
+| Airports - with paved runways: | over 3,047 m: 7 (2017) |
+| Airports - with paved runways: | 2,438 to 3,047 m: 10 (2017) |
+| Airports - with paved runways: | 1,524 to 2,437 m: 16 (2017) |
+| Airports - with paved runways: | 914 to 1,523 m: 4 (2017) |
+| Airports - with paved runways: | under 914 m: 27 (2017) |
+| Airports - with unpaved runways: | total: 69 (2013) |
+| Airports - with unpaved runways: | 914 to 1,523 m: 11 (2013) |
+| Airports - with unpaved runways: | under 914 m: 58 (2013) |
+| Pipelines: | 41 km gas, 230 km oil (2013) |
+| Railways: | total: 8,367 km (2017) |
+| Railways: | standard gauge: 8,195 km 1.435-m gauge (124 km electrified) (2017) |
+| Railways: | narrow gauge: 172 km 1.000-m gauge (2017) |
+| Railways: | note: 82 km of standard gauge track is not for public use |
+| Roadways: | total: 60,000 km (2015) |
+| Roadways: | paved: 20,000 km (2001) |
+| Roadways: | unpaved: 40,000 km (2001) |
+| Waterways: | 240 km (almost all navigable inland waterways are near the mouths of rivers) (2011) |
+| Merchant marine: | total: 52 |
+| Merchant marine: | by type: general cargo 12, oil tanker 3, other 37 (2019) |
+| Ports and terminals: | major seaport(s): Antilla, Cienfuegos, Guantanamo, Havana, Matanzas, Mariel, Nuevitas Bay, Santiago de Cuba |

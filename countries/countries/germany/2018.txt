@@ -1,0 +1,36 @@
+| Transportation | Germany |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 20 (2015) |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 1,113 (2015) |
+| National air transport system: | annual passenger traffic on registered air carriers: 115,540,886 (2015) |
+| National air transport system: | annual freight traffic on registered air carriers: 6,985,007,915 mt-km (2015) |
+| Civil aircraft registration country code prefix: | D (2016) |
+| Airports: | 539 (2013) |
+| Airports - with paved runways: | total: 318 (2017) |
+| Airports - with paved runways: | over 3,047 m: 14 (2017) |
+| Airports - with paved runways: | 2,438 to 3,047 m: 49 (2017) |
+| Airports - with paved runways: | 1,524 to 2,437 m: 60 (2017) |
+| Airports - with paved runways: | 914 to 1,523 m: 70 (2017) |
+| Airports - with paved runways: | under 914 m: 125 (2017) |
+| Airports - with unpaved runways: | total: 221 (2013) |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 1 (2013) |
+| Airports - with unpaved runways: | 914 to 1,523 m: 35 (2013) |
+| Airports - with unpaved runways: | under 914 m: 185 (2013) |
+| Heliports: | 23 (2013) |
+| Pipelines: | 37 km condensate, 26985 km gas, 2826 km oil, 4479 km refined products, 8 km water (2013) |
+| Railways: | total: 33,590 km (2015) |
+| Railways: | standard gauge: 33,331 km 1.435-m gauge (19,973 km electrified) (2015) |
+| Railways: | narrow gauge: 220 km 1.000-m gauge (79 km electrified) (2015) |
+| Railways: | 15 0.900-m gauge 24 0.750-m gauge |
+| Roadways: | total: 645,000 km (2010) |
+| Roadways: | paved: 645,000 km (includes 12,800 km of expressways) (2010) |
+| Roadways: | note: includes local roads |
+| Waterways: | 7,467 km (Rhine River carries most goods; Main-Danube Canal links North Sea and Black Sea) (2012) |
+| Merchant marine: | total: 614 (2017) |
+| Merchant marine: | by type: bulk carrier 1, container ship 117, general cargo 87, oil tanker 34, other 375 (2017) |
+| Ports and terminals: | major seaport(s): Baltic Sea - Rostock |
+| Ports and terminals: | oil terminal(s): Brunsbuttel Canal terminals |
+| Ports and terminals: | container port(s) (TEUs): Bremen/Bremerhaven (5,535,000), Hamburg (8,910,000) (2016) |
+| Ports and terminals: | LNG terminal(s) (import): Hamburg |
+| Ports and terminals: | river port(s): Bremen (Weser) |
+| Ports and terminals: | North Sea - Wilhelmshaven Bremerhaven (Geeste) Duisburg, Karlsruhe, Neuss-Dusseldorf (Rhine) Brunsbuttel, Hamburg (Elbe) Lubeck (Wakenitz) |

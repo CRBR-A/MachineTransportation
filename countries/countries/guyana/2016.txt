@@ -1,0 +1,24 @@
+| Transportation | GUYANA |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 2 |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 12 |
+| National air transport system: | annual passenger traffic on registered air carriers: 43,835 |
+| National air transport system: | annual freight traffic on registered air carriers: 0 mt-km (2015) |
+| Civil aircraft registration country code prefix: | 8R (2016) |
+| Airports: | 117 (2013) |
+| Airports - with paved runways: | total: 11 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 2 |
+| Airports - with paved runways: | 914 to 1,523 m: 1 |
+| Airports - with paved runways: | under 914 m: 8 (2013) |
+| Airports - with unpaved runways: | total: 106 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 1 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 16 |
+| Airports - with unpaved runways: | under 914 m: 89 (2013) |
+| Roadways: | total: 7,970 km |
+| Roadways: | paved: 590 km |
+| Roadways: | unpaved: 7,380 km (2001) |
+| Waterways: | 330 km (the Berbice, Demerara, and Essequibo Rivers are navigable by oceangoing vessels for 150 km, 100 km, and 80 km respectively) (2012) |
+| Merchant marine: | total: 10 |
+| Merchant marine: | by type: cargo 7, petroleum tanker 2, refrigerated cargo 1 |
+| Merchant marine: | registered in other countries: 3 (Saint Vincent and the Grenadines 2, unknown 1) (2010) |
+| Ports and terminals: | major seaport(s): Georgetown |

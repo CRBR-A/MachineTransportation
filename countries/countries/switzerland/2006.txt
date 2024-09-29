@@ -1,0 +1,24 @@
+| Transportation | Switzerland |
+| --- | --- |
+| Airports: | 65 (2006) |
+| Airports - with paved runways: | total: 42 |
+| Airports - with paved runways: | over 3,047 m: 3 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 4 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 11 |
+| Airports - with paved runways: | 914 to 1,523 m: 8 |
+| Airports - with paved runways: | under 914 m: 16 (2006) |
+| Airports - with unpaved runways: | total: 23 |
+| Airports - with unpaved runways: | under 914 m: 23 (2006) |
+| Heliports: | 2 (2006) |
+| Pipelines: | gas 1,831 km; oil 94 km; refined products 7 km (2006) |
+| Railways: | total: 4,583 km |
+| Railways: | standard gauge: 3,234 km 1.435-m gauge (3,223 km electrified) |
+| Railways: | narrow gauge: 1,339 km 1.000-m gauge (1,338 km electrified); 10 km 0.800-m gauge (10 km electrified) (2005) |
+| Roadways: | total: 71,297 km |
+| Roadways: | paved: 71,297 km (including 1,726 of expressways) (2004) |
+| Waterways: | 65 km (Rhine River between Basel-Rheinfelden and Schaffhausen-Bodensee) (2003) |
+| Merchant marine: | total: 27 ships (1000 GRT or over) 492,434 GRT/810,559 DWT |
+| Merchant marine: | by type: bulk carrier 9, cargo 10, chemical tanker 3, container 4, specialized tanker 1 |
+| Merchant marine: | foreign-owned: 2 (Monaco 2) |
+| Merchant marine: | registered in other countries: 320 (Antigua and Barbuda 4, Bahamas 2, Belize 1, Bermuda 2, Cyprus 4, France 2, French Southern and Antarctic Lands 1, Germany 1, Indonesia 3, Liberia 7, Malta 21, Marshall Islands 13, Mauritius 2, Morocco 1, Panama 226, Portugal 3, Russia 7, Saint Vincent and the Grenadines 13, Tonga 1, Turkey 1, UK 3, Vanuatu 2) (2006) |
+| Ports and terminals: | Basel |

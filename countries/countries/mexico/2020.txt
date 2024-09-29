@@ -1,0 +1,35 @@
+| Transportation | Mexico |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 16 (2020) |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 370 |
+| National air transport system: | annual passenger traffic on registered air carriers: 64,569,640 (2018) |
+| National air transport system: | annual freight traffic on registered air carriers: 1,090,380,000 mt-km (2018) |
+| Civil aircraft registration country code prefix: | XA (2016) |
+| Airports: | 1,714 (2013) |
+| Airports - with paved runways: | total: 243 (2017) |
+| Airports - with paved runways: | over 3,047 m: 12 (2017) |
+| Airports - with paved runways: | 2,438 to 3,047 m: 32 (2017) |
+| Airports - with paved runways: | 1,524 to 2,437 m: 80 (2017) |
+| Airports - with paved runways: | 914 to 1,523 m: 86 (2017) |
+| Airports - with paved runways: | under 914 m: 33 (2017) |
+| Airports - with unpaved runways: | total: 1,471 (2013) |
+| Airports - with unpaved runways: | over 3,047 m: 1 (2013) |
+| Airports - with unpaved runways: | 2,438 to 3,047 m: 1 (2013) |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 42 (2013) |
+| Airports - with unpaved runways: | 914 to 1,523 m: 281 (2013) |
+| Airports - with unpaved runways: | under 914 m: 1,146 (2013) |
+| Heliports: | 1 (2013) |
+| Pipelines: | 15,986 km natural gas (2019), 10,365 km oil (2017), 8,946 km refined products (2016) |
+| Railways: | total: 20,825 km (2017) |
+| Railways: | standard gauge: 20,825 km 1.435-m gauge (27 km electrified) (2017) |
+| Roadways: | total: 398,148 km (2017) |
+| Roadways: | paved: 174,911 km (includes 10,362 km of expressways) (2017) |
+| Roadways: | unpaved: 223,237 km (2017) |
+| Waterways: | 2,900 km (navigable rivers and coastal canals mostly connected with ports on the country's east coast) (2012) |
+| Merchant marine: | total: 637 |
+| Merchant marine: | by type: bulk carrier 6, general cargo 10, oil tanker 35, other 586 (2019) |
+| Ports and terminals: | major seaport(s): Altamira, Coatzacoalcos, Lazaro Cardenas, Manzanillo, Veracruz |
+| Ports and terminals: | oil terminal(s): Cayo Arcas terminal, Dos Bocas terminal |
+| Ports and terminals: | cruise port(s): Cancun, Cozumel, Ensenada |
+| Ports and terminals: | container port(s) (TEUs): Manzanillo (2,830,370), Lazaro Cardenas (1,149,079) (2017) |
+| Ports and terminals: | LNG terminal(s) (import): Altamira, Ensenada |

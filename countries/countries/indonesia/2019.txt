@@ -1,0 +1,33 @@
+| Transportation | Indonesia |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 29 (2015) |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 550 (2015) |
+| National air transport system: | annual passenger traffic on registered air carriers: 88,685,767 (2015) |
+| National air transport system: | annual freight traffic on registered air carriers: 747,473,207 mt-km (2015) |
+| Civil aircraft registration country code prefix: | PK (2016) |
+| Airports: | 673 (2013) |
+| Airports - with paved runways: | total: 186 (2017) |
+| Airports - with paved runways: | over 3,047 m: 5 (2017) |
+| Airports - with paved runways: | 2,438 to 3,047 m: 21 (2017) |
+| Airports - with paved runways: | 1,524 to 2,437 m: 51 (2017) |
+| Airports - with paved runways: | 914 to 1,523 m: 72 (2017) |
+| Airports - with paved runways: | under 914 m: 37 (2017) |
+| Airports - with unpaved runways: | total: 487 (2013) |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 4 (2013) |
+| Airports - with unpaved runways: | 914 to 1,523 m: 23 (2013) |
+| Airports - with unpaved runways: | under 914 m: 460 (2013) |
+| Heliports: | 76 (2013) |
+| Pipelines: | 1064 km condensate, 150 km condensate/gas, 11702 km gas, 119 km liquid petroleum gas, 7767 km oil, 77 km oil/gas/water, 728 km refined products, 53 km unknown, 44 km water (2013) |
+| Railways: | total: 8,159 km (2014) |
+| Railways: | narrow gauge: 8,159 km 1.067-m gauge (565 km electrified) (2014) |
+| Railways: | note: 4,816 km operational |
+| Roadways: | total: 496,607 km (2011) |
+| Roadways: | paved: 283,102 km (2011) |
+| Roadways: | unpaved: 213,505 km (2011) |
+| Waterways: | 21,579 km (2011) |
+| Merchant marine: | total: 9,053 |
+| Merchant marine: | by type: bulk carrier 97, container ship 205, general cargo 2203, oil tanker 567, other 5981 (2018) |
+| Ports and terminals: | major seaport(s): Banjarmasin, Belawan, Kotabaru, Krueg Geukueh, Palembang, Panjang, Sungai Pakning, Tanjung Perak, Tanjung Priok |
+| Ports and terminals: | container port(s) (TEUs): Tanjung Perak (3,553,370), Tanjung Priok (6,090,000) (2017) |
+| Ports and terminals: | LNG terminal(s) (export): Bontang, Tangguh |
+| Ports and terminals: | LNG terminal(s) (import): Arun, Lampung, West Java |

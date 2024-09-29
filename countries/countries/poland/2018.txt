@@ -1,0 +1,32 @@
+| Transportation | Poland |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 6 (2015) |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 92 (2015) |
+| National air transport system: | annual passenger traffic on registered air carriers: 4,841,128 (2015) |
+| National air transport system: | annual freight traffic on registered air carriers: 120,016,466 mt-km (2015) |
+| Civil aircraft registration country code prefix: | SP (2016) |
+| Airports: | 126 (2013) |
+| Airports - with paved runways: | total: 87 (2017) |
+| Airports - with paved runways: | over 3,047 m: 5 (2017) |
+| Airports - with paved runways: | 2,438 to 3,047 m: 30 (2017) |
+| Airports - with paved runways: | 1,524 to 2,437 m: 36 (2017) |
+| Airports - with paved runways: | 914 to 1,523 m: 10 (2017) |
+| Airports - with paved runways: | under 914 m: 6 (2017) |
+| Airports - with unpaved runways: | total: 39 (2013) |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 1 (2013) |
+| Airports - with unpaved runways: | 914 to 1,523 m: 17 (2013) |
+| Airports - with unpaved runways: | under 914 m: 21 (2013) |
+| Heliports: | 6 (2013) |
+| Pipelines: | 14198 km gas, 1374 km oil, 2483 km refined products (2016) |
+| Railways: | total: 19,231 km (2016) |
+| Railways: | standard gauge: 18,836 km 1.435-m gauge (11,874 km electrified) (2016) |
+| Railways: | broad gauge: 395 km 1.524-m gauge (2016) |
+| Roadways: | total: 420,000 km (2016) |
+| Roadways: | paved: 291,000 km (includes 1,492 km of expressways, 1,559 of motorways) (2016) |
+| Roadways: | unpaved: 129,000 km (2016) |
+| Waterways: | 3,997 km (navigable rivers and canals) (2009) |
+| Merchant marine: | total: 152 (2017) |
+| Merchant marine: | by type: container ship 1, general cargo 13, oil tanker 7, other 131 (2017) |
+| Ports and terminals: | major seaport(s): Gdansk, Gdynia, Swinoujscie |
+| Ports and terminals: | LNG terminal(s) (import): Swinoujscie |
+| Ports and terminals: | river port(s): Szczecin (River Oder) |

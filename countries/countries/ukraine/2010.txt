@@ -1,0 +1,27 @@
+| Transportation | Ukraine |
+| --- | --- |
+| Airports: | 425 (2010) |
+| Airports - with paved runways: | total: 189 |
+| Airports - with paved runways: | over 3,047 m: 12 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 51 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 24 |
+| Airports - with paved runways: | 914 to 1,523 m: 5 |
+| Airports - with paved runways: | under 914 m: 97 (2010) |
+| Airports - with unpaved runways: | total: 236 |
+| Airports - with unpaved runways: | 2,438 to 3,047 m: 3 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 7 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 12 |
+| Airports - with unpaved runways: | under 914 m: 214 (2010) |
+| Heliports: | 7 (2010) |
+| Pipelines: | gas 33,327 km; oil 4,514 km; refined products 4,211 km (2009) |
+| Railways: | total: 21,658 km |
+| Railways: | broad gauge: 21,658 km 1.524-m gauge (9,729 km electrified) (2009) |
+| Roadways: | total: 169,495 km |
+| Roadways: | paved: 165,820 km (includes 15 km of expressways) |
+| Roadways: | unpaved: 3,675 km (2009) |
+| Waterways: | 2,150 km (most on Dnieper River) (2009) |
+| Merchant marine: | total: 160 |
+| Merchant marine: | by type: bulk carrier 4, cargo 123, chemical tanker 1, passenger 5, passenger/cargo 5, petroleum tanker 9, refrigerated cargo 11, specialized tanker 2 |
+| Merchant marine: | foreign-owned: 1 (Iran 1) |
+| Merchant marine: | registered in other countries: 197 (Belize 6, Cambodia 37, Comoros 10, Cyprus 2, Dominica 2, Georgia 15, Liberia 16, Malta 30, Marshall Islands 1, Moldova 12, Mongolia 1, Panama 11, Russia 12, Saint Kitts and Nevis 10, Saint Vincent and the Grenadines 12, Sierra Leone 5, Slovakia 7, Tuvalu 1, Vanuatu 3, unknown 4) (2010) |
+| Ports and terminals: | Feodosiya (Theodosia), Illichivsk, Mariupol', Mykolayiv, Odesa, Yuzhnyy |

@@ -1,0 +1,23 @@
+| Transportation | Belize |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 2 (2015) |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 28 (2015) |
+| National air transport system: | annual passenger traffic on registered air carriers: 935,603 (2015) |
+| National air transport system: | annual freight traffic on registered air carriers: 2,463,420 mt-km (2015) |
+| Civil aircraft registration country code prefix: | V3 (2016) |
+| Airports: | 47 (2013) |
+| Airports - with paved runways: | total: 6 (2017) |
+| Airports - with paved runways: | 2,438 to 3,047 m: 1 (2017) |
+| Airports - with paved runways: | 914 to 1,523 m: 2 (2017) |
+| Airports - with paved runways: | under 914 m: 3 (2017) |
+| Airports - with unpaved runways: | total: 41 (2013) |
+| Airports - with unpaved runways: | 2,438 to 3,047 m: 1 (2013) |
+| Airports - with unpaved runways: | 914 to 1,523 m: 11 (2013) |
+| Airports - with unpaved runways: | under 914 m: 29 (2013) |
+| Roadways: | total: 2,870 km (2011) |
+| Roadways: | paved: 488 km (2011) |
+| Roadways: | unpaved: 2,382 km (2011) |
+| Waterways: | 825 km (navigable only by small craft) (2011) |
+| Merchant marine: | total: 756 (2017) |
+| Merchant marine: | by type: bulk carrier 53, container ship 3, general cargo 373, oil tanker 55, other 272 (2017) |
+| Ports and terminals: | major seaport(s): Belize City, Big Creek |

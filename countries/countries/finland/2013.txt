@@ -1,0 +1,25 @@
+| Transportation | Finland |
+| --- | --- |
+| Airports: | 148 (2013) |
+| Airports - with paved runways: | total: 74 |
+| Airports - with paved runways: | over 3,047 m: 3 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 26 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 10 |
+| Airports - with paved runways: | 914 to 1,523 m: 21 |
+| Airports - with paved runways: | under 914 m: 14 (2013) |
+| Airports - with unpaved runways: | total: 74 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 3 |
+| under 914 m: | 71 (2013) |
+| Pipelines: | gas 1,689 km (2010) |
+| Railways: | total: 5,944 km |
+| Railways: | broad gauge: 5,944 km 1.524-m gauge (3,067 km electrified) (2013) |
+| Roadways: | total: 78,000 km |
+| Roadways: | paved: 50,000 km (includes 700 km of expressways) |
+| Roadways: | unpaved: 28,000 km |
+| Roadways: | note: there 78,000 km of highways, 350,000 km of private and forest roads, and 26,000 km of urban roads giving Finland a total road network of 450,000 km (2012) |
+| Waterways: | 8,000 km (includes Saimaa Canal system of 3,577 km; southern part leased from Russia; water transport is used frequently in the summer and is widely replaced with sledges on the ice in winter; there are 187,888 lakes in Finland that cover 31,500 km); Finand also maintains 8,200 km of coastal fairways (2013) |
+| Merchant marine: | total: 97 |
+| Merchant marine: | by type: bulk carrier 2, cargo 25, carrier 1, chemical tanker 6, container 3, passenger 5, passenger/cargo 16, petroleum tanker 5, roll on/roll off 31, vehicle carrier 3 |
+| Merchant marine: | foreign-owned: 5 (Cyprus 1, Estonia 2, Iceland 1, Sweden 1) |
+| Merchant marine: | registered in other countries: 47 (Bahamas 8, Germany 3, Gibraltar 2, Malta 3, Netherlands 13, Panama 2, Sweden 16) (2010) |
+| Ports and terminals: | major seaport(s): Helsinki, Kotka, Naantali, Porvoo, Raahe, Rauma |

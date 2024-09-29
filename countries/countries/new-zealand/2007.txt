@@ -1,0 +1,24 @@
+| Transportation | New Zealand |
+| --- | --- |
+| Airports: | 121 (2007) |
+| Airports - with paved runways: | total: 41 |
+| Airports - with paved runways: | over 3,047 m: 2 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 1 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 11 |
+| Airports - with paved runways: | 914 to 1,523 m: 26 |
+| Airports - with paved runways: | under 914 m: 1 (2007) |
+| Airports - with unpaved runways: | total: 80 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 3 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 31 |
+| Airports - with unpaved runways: | under 914 m: 46 (2007) |
+| Pipelines: | condensate 224 km; gas 1,693 km; liquid petroleum gas 45 km; oil 280 km; refined products 288 km (2006) |
+| Railways: | total: 4,128 km |
+| Railways: | narrow gauge: 4,128 km 1.067-m gauge (506 km electrified) (2006) |
+| Roadways: | total: 92,931 km |
+| Roadways: | paved: 59,783 km (includes 171 km of expressways) |
+| Roadways: | unpaved: 33,148 km (2003) |
+| Merchant marine: | total: 11 ships (1000 GRT or over) 108,667 GRT/89,458 DWT |
+| Merchant marine: | by type: bulk carrier 3, cargo 1, passenger/cargo 4, petroleum tanker 1, roll on/roll off 2 |
+| Merchant marine: | foreign-owned: 1 (Germany 1) |
+| Merchant marine: | registered in other countries: 8 (Antigua and Barbuda 2, Cook Islands 1, Dominica 3, France 1, UK 1) (2007) |
+| Ports and terminals: | Auckland, Lyttelton, Tauranga, Wellington, Whangarei |

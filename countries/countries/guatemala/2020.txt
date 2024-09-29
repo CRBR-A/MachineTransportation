@@ -1,0 +1,30 @@
+| Transportation | Guatemala |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 3 (2020) |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 5 |
+| National air transport system: | annual passenger traffic on registered air carriers: 145,795 (2018) |
+| National air transport system: | annual freight traffic on registered air carriers: 110,000 mt-km (2018) |
+| Civil aircraft registration country code prefix: | TG (2016) |
+| Airports: | 291 (2013) |
+| Airports - with paved runways: | total: 16 (2017) |
+| Airports - with paved runways: | 2,438 to 3,047 m: 2 (2017) |
+| Airports - with paved runways: | 1,524 to 2,437 m: 4 (2017) |
+| Airports - with paved runways: | 914 to 1,523 m: 6 (2017) |
+| Airports - with paved runways: | under 914 m: 4 (2017) |
+| Airports - with unpaved runways: | total: 275 (2013) |
+| Airports - with unpaved runways: | 2,438 to 3,047 m: 1 (2013) |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 2 (2013) |
+| Airports - with unpaved runways: | 914 to 1,523 m: 77 (2013) |
+| Airports - with unpaved runways: | under 914 m: 195 (2013) |
+| Heliports: | 1 (2013) |
+| Pipelines: | 480 km oil (2013) |
+| Railways: | total: 800 km (2018) |
+| Railways: | narrow gauge: 800 km 0.914-m gauge (2018) |
+| Railways: | note: despite the existence of a railway network, all rail service was suspended in 2007 and no passenger or freight train currently runs in the country (2018) |
+| Roadways: | total: 17,621 km (2016) |
+| Roadways: | paved: 7,489 km (2016) |
+| Roadways: | unpaved: 10,132 km (includes 4,960 km of rural roads) (2016) |
+| Waterways: | 990 km (260 km navigable year round; additional 730 km navigable during high-water season) (2012) |
+| Merchant marine: | total: 9 |
+| Merchant marine: | by type: oil tanker 1, other 8 (2019) |
+| Ports and terminals: | major seaport(s): Puerto Quetzal, Santo Tomas de Castilla |

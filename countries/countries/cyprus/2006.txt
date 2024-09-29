@@ -1,0 +1,20 @@
+| Transportation | Cyprus |
+| --- | --- |
+| Airports: | 16 (2006) |
+| Airports - with paved runways: | total: 13 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 7 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 2 |
+| Airports - with paved runways: | 914 to 1,523 m: 3 |
+| Airports - with paved runways: | under 914 m: 1 (2006) |
+| Airports - with unpaved runways: | total: 3 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 1 |
+| Airports - with unpaved runways: | under 914 m: 2 (2006) |
+| Heliports: | 10 (2006) |
+| Roadways: | total: 14,496 km (Republic of Cyprus: 12,146 km; north Cyprus: 2,350 km) |
+| Roadways: | paved: Republic of Cyprus: 7,845 km (including 276 km of expressways); north Cyprus: 1,370 km |
+| Roadways: | unpaved: Republic of Cyprus: 4,301 km; north Cyprus: 980 km (2005/1996 est.) |
+| Merchant marine: | total: 884 ships (1000 GRT or over) 19,477,944 GRT/31,157,473 DWT |
+| Merchant marine: | by type: bulk carrier 354, cargo 210, chemical tanker 44, container 145, liquefied gas 8, passenger 7, passenger/cargo 23, petroleum tanker 64, refrigerated cargo 15, roll on/roll off 9, vehicle carrier 5 |
+| Merchant marine: | foreign-owned: 777 (Belgium 1, Canada 2, China 11, Croatia 2, Cuba 2, Denmark 1, Estonia 6, Germany 214, Greece 337, Greenland 1, Hong Kong 1, India 5, Iran 2, Ireland 3, Israel 3, Italy 2, Japan 17, South Korea 1, Latvia 4, Netherlands 18, Norway 16, Philippines 1, Poland 20, Portugal 2, Russia 53, Singapore 1, Slovakia 1, Slovenia 4, Spain 7, Sweden 3, Switzerland 4, Syria 3, UAE 11, UK 6, Ukraine 4, US 7, unknown 1) |
+| Merchant marine: | registered in other countries: 87 (Bahamas 13, Belize 2, Cambodia 12, Georgia 1, Gibraltar 1, Greece 1, Isle of Man 1, Liberia 3, Malta 15, Marshall Islands 15, Norway 2, Panama 14, Portugal 1, Russia 2, Saint Vincent and the Grenadines 1, Sierra Leone 1, Turkey 2) (2006) |
+| Ports and terminals: | Famagusta, Kyrenia, Larnaca, Limassol, Vasilikos |

@@ -1,0 +1,25 @@
+| Transportation | Georgia |
+| --- | --- |
+| Airports: | 22 (2009) |
+| Airports - with paved runways: | total: 18 |
+| Airports - with paved runways: | over 3,047 m: 1 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 7 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 4 |
+| Airports - with paved runways: | 914 to 1,523 m: 4 |
+| Airports - with paved runways: | under 914 m: 2 (2009) |
+| Airports - with unpaved runways: | total: 4 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 2 |
+| Airports - with unpaved runways: | under 914 m: 2 (2009) |
+| Heliports: | 3 (2009) |
+| Pipelines: | gas 1,591 km; oil 1,253 km (2008) |
+| Railways: | total: 1,612 km |
+| Railways: | broad gauge: 1,575 km 1.520-m gauge (1,575 electrified) |
+| Railways: | narrow gauge: 37 km 0.912-m gauge (37 electrified) (2008) |
+| Roadways: | total: 20,329 km |
+| Roadways: | paved: 7,854 km (includes 13 km of expressways) |
+| Roadways: | unpaved: 12,475 km (2006) |
+| Merchant marine: | total: 191 |
+| Merchant marine: | by type: bulk carrier 18, cargo 148, carrier 2, chemical tanker 1, container 4, liquefied gas 1, passenger/cargo 2, petroleum tanker 4, refrigerated cargo 5, roll on/roll off 4, vehicle carrier 2 |
+| Merchant marine: | foreign-owned: 153 (China 10, Cyprus 1, Egypt 12, Germany 2, Greece 5, Hong Kong 2, Israel 2, Lebanon 4, Monaco 4, Nigeria 1, Romania 16, Russia 12, Syria 49, Turkey 14, Ukraine 18, UAE 1) (2008) |
+| Ports and terminals: | Bat'umi, P'ot'i |
+| Transportation - note: | large parts of transportation network are in poor condition because of lack of maintenance and repair |

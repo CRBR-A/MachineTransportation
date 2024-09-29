@@ -1,0 +1,11 @@
+| Transportation |   |
+| --- | --- |
+| Railways: | 0 km |
+| Highways: | total: 234 km |
+| Highways: | paved: 0 km |
+| Highways: | unpaved: 234 km |
+| Ports and harbors: | none; offshore anchorage only |
+| Merchant marine: | none (1999 est.) |
+| Airports: | 1 (1999 est.) |
+| Airports - with paved runways: | total: 1 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 1 (1999 est.) |

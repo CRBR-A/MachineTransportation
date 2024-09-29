@@ -1,0 +1,23 @@
+| Transportation | Czech Republic |
+| --- | --- |
+| Railways: | total: 9,462 km |
+| Railways: | standard gauge: 9,363 km 1.435-m gauge (1,745 km electrified) |
+| Railways: | narrow gauge: 99 km 0.760-m gauge (2002) |
+| Highways: | total: 55,408 km |
+| Highways: | paved: 55,408 km (including 499 km of expressways) |
+| Highways: | unpaved: 0 km (2000) |
+| Waterways: | 303 km |
+| Waterways: | note: the Labe (Elbe) is the principal river (2000) |
+| Pipelines: | gas 7,020 km; oil 547 km; refined products 94 km (2003) |
+| Ports and harbors: | Decin, Prague, Usti nad Labem |
+| Airports: | 144 (2002) |
+| Airports - with paved runways: | total: 44 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 7 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 16 |
+| Airports - with paved runways: | under 914 m: 19 (2002) |
+| Airports - with paved runways: | 914 to 1,523 m: 2 |
+| Airports - with unpaved runways: | total: 100 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 2 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 36 |
+| Airports - with unpaved runways: | under 914 m: 62 (2002) |
+| Heliports: | 2 (2002) |

@@ -1,0 +1,28 @@
+| Transportation | China |
+| --- | --- |
+| Airports: | 467 (2007) |
+| Airports - with paved runways: | total: 403 |
+| Airports - with paved runways: | over 3,047 m: 58 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 128 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 130 |
+| Airports - with paved runways: | 914 to 1,523 m: 20 |
+| Airports - with paved runways: | under 914 m: 67 (2007) |
+| Airports - with unpaved runways: | total: 64 |
+| Airports - with unpaved runways: | over 3,047 m: 4 |
+| Airports - with unpaved runways: | 2,438 to 3,047 m: 4 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 13 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 17 |
+| Airports - with unpaved runways: | under 914 m: 26 (2007) |
+| Heliports: | 35 (2007) |
+| Pipelines: | gas 26,344 km; oil 17,240 km; refined products 6,106 km (2007) |
+| Railways: | total: 75,438 km |
+| Railways: | standard gauge: 75,438 km 1.435-m gauge (20,151 km electrified) (2005) |
+| Roadways: | total: 1,930,544 km |
+| Roadways: | paved: 1,575,571 km (includes 41,005 km of expressways) |
+| Roadways: | unpaved: 354,973 km (2005) |
+| Waterways: | 124,000 km navigable (2006) |
+| Merchant marine: | total: 1,826 |
+| Merchant marine: | by type: barge carrier 4, bulk carrier 451, cargo 689, carrier 2, chemical tanker 69, combination ore/oil 1, container 162, liquefied gas 44, passenger 8, passenger/cargo 83, petroleum tanker 244, refrigerated cargo 33, roll on/roll off 10, specialized tanker 9, vehicle carrier 17 |
+| Merchant marine: | foreign-owned: 20 (Ecuador 1, Greece 2, Hong Kong 12, Indonesia 1, Japan 2, South Korea 1, Norway 1) |
+| Merchant marine: | registered in other countries: 1,441 (Bahamas 10, Bangladesh 1, Belize 71, Bermuda 10, Bolivia 1, Cambodia 193, Cyprus 10, France 5, Georgia 10, Germany 2, Honduras 3, Hong Kong 324, India 1, Indonesia 2, Kiribati 15, South Korea 1, Liberia 11, Malta 12, Marshall Islands 7, Mongolia 1, Norway 36, Panama 532, Philippines 4, Saint Vincent and the Grenadines 94, Sierra Leone 15, Singapore 14, Thailand 1, Tuvalu 16, unknown 39) (2008) |
+| Ports and terminals: | Dalian, Guangzhou, Ningbo, Qingdao, Qinhuangdao, Shanghai, Shenzhen, Tianjin |

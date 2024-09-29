@@ -1,0 +1,30 @@
+| Transportation | Ukraine |
+| --- | --- |
+| Railways: | total: 22,510 km |
+| Railways: | broad gauge: 21,951 km 1.524-m gauge (8,927 km electrified) |
+| Railways: | standard gauge: 49 km 1.435-m gauge |
+| Railways: | note: these data do not include railroads dedicated to serving industry and not in common carrier service (2001) |
+| Railways: | narrow gauge: 510 km 0.750-m gauge |
+| Highways: | total: 273,700 km |
+| Highways: | paved: 236,400 km (including 1,770 km of expressways and a substantial amount of all-weather roads with gravel surfaces) |
+| Highways: | unpaved: 37,300 km (these roads are made of unstabilized earth and are difficult to negotiate in wet weather) (1990) |
+| Waterways: | 4,499 km |
+| Waterways: | note: 1,672 km are on the Pryp'yat' and Dniester (Dnister) (1990) |
+| Pipelines: | crude oil 4,000 km (1995); petroleum products 4,500 km (1995); natural gas 34,400 km (1998) |
+| Ports and harbors: | Berdyans'k, Feodosiya, Illichivs'k, Izmayil, Kerch, Kherson, Kiev (Kyyiv), Kiliya, Mariupol', Mykolayiv, Odesa, Reni, Sevastopol', Yalta, Yuzhnyy |
+| Merchant marine: | total: 138 ships (1,000 GRT or over) totaling 669,303 GRT/707,857 DWT |
+| Merchant marine: | ships by type: bulk 7, cargo 100, container 3, liquefied gas 2, passenger 11, passenger/cargo 1, petroleum tanker 12, railcar carrier 2 |
+| Merchant marine: | note: includes some foreign-owned ships registered here as a flag of convenience: Cyprus 1, Greece 1, Panama 1, Russia 4, Saint Vincent and the Grenadines 1 (2002 est.) |
+| Airports: | 718 (2001) |
+| Airports - with paved runways: | total: 114 |
+| Airports - with paved runways: | over 3,047 m: 14 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 50 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 21 |
+| Airports - with paved runways: | 914 to 1,523 m: 3 |
+| Airports - with paved runways: | under 914 m: 26 (2002) |
+| Airports - with unpaved runways: | total: 604 |
+| Airports - with unpaved runways: | over 3,047 m: 13 |
+| Airports - with unpaved runways: | 2,438 to 3,047 m: 37 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 52 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 45 |
+| Airports - with unpaved runways: | under 914 m: 457 (2002) |

@@ -1,0 +1,25 @@
+| Transportation | Portugal |
+| --- | --- |
+| Airports: | 66 (2006) |
+| Airports - with paved runways: | total: 43 |
+| Airports - with paved runways: | over 3,047 m: 5 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 9 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 5 |
+| Airports - with paved runways: | 914 to 1,523 m: 13 |
+| Airports - with paved runways: | under 914 m: 11 (2006) |
+| Airports - with unpaved runways: | total: 23 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 1 |
+| Airports - with unpaved runways: | under 914 m: 22 (2006) |
+| Pipelines: | gas 1,099 km; oil 8 km; refined products 174 km (2006) |
+| Railways: | total: 2,850 km |
+| Railways: | broad gauge: 2,576 km 1.668-m gauge (623 km electrified) |
+| Railways: | narrow gauge: 274 km 1.000-m gauge (2005) |
+| Roadways: | total: 72,600 km |
+| Roadways: | paved: 62,436 km (including 1,700 km of expressways) |
+| Roadways: | unpaved: 10,164 km (2002) |
+| Waterways: | 210 km (on Douro River from Porto) (2003) |
+| Merchant marine: | total: 111 ships (1000 GRT or over) 1,077,300 GRT/1,363,435 DWT |
+| Merchant marine: | by type: bulk carrier 11, cargo 27, chemical tanker 15, container 7, liquefied gas 11, passenger 9, passenger/cargo 10, petroleum tanker 8, roll on/roll off 4, vehicle carrier 9 |
+| Merchant marine: | foreign-owned: 82 (Australia 1, Belgium 8, Cyprus 1, Denmark 4, Germany 17, Greece 4, Italy 12, Japan 9, Malta 1, Mexico 1, Netherlands 1, Norway 4, Spain 15, Switzerland 3, US 1) |
+| Merchant marine: | registered in other countries: 16 (Cyprus 2, Hong Kong 1, Malta 3, Panama 10) (2006) |
+| Ports and terminals: | Leixoes, Lisbon, Setubal, Sines |

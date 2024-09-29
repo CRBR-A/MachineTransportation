@@ -1,0 +1,26 @@
+| Transportation | NETHERLANDS |
+| --- | --- |
+| Airports: | 29 (2013) |
+| Airports - with paved runways: | total: 23 |
+| Airports - with paved runways: | over 3,047 m: 3 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 11 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 1 |
+| Airports - with paved runways: | 914 to 1,523 m: 6 |
+| Airports - with paved runways: | under 914 m: 2 (2013) |
+| Airports - with unpaved runways: | total: 6 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 4 |
+| under 914 m: | 2 (2013) |
+| Heliports: | 1 (2013) |
+| Pipelines: | condensate 81 km; gas 8,531 km; oil 578 km; refined products 716 km (2013) |
+| Railways: | total: 3,223 km |
+| Railways: | standard gauge: 3,223 km 1.435-m gauge (2,321 km electrified) (2014) |
+| Roadways: | total: 138,641 km (includes 3,530 km of expressways) (2014) |
+| Waterways: | 6,237 km (navigable by ships up to 50 tons) (2012) |
+| Merchant marine: | total: 744 |
+| Merchant marine: | by type: bulk carrier 4, cargo 514, carrier 15, chemical tanker 56, container 67, liquefied gas 21, passenger 17, passenger/cargo 14, petroleum tanker 4, refrigerated cargo 10, roll on/roll off 19, specialized tanker 3 |
+| Merchant marine: | foreign-owned: 196 (Australia 1, Bermuda 1, Denmark 27, Finland 13, France 2, Germany 86, Ireland 8, Italy 6, Japan 1, Norway 19, Sweden 12, UAE 4, US 16) |
+| Merchant marine: | registered in other countries: 233 (Antigua and Barbuda 17, Bahamas 23, Belize 1, Canada 1, Curacao 43, Cyprus 23, Germany 1, Gibraltar 34, Italy 2, Liberia 31, Luxembourg 3, Malta 3, Marshall Islands 21, Panama 6, Paraguay 1, Philippines 17, Russia 2, Saint Vincent and the Grenadines 1, Singapore 1, UK 1, unknown 1) (2010) |
+| Ports and terminals: | major seaport(s): IJmuiden, Vlissingen |
+| Ports and terminals: | river port(s): Amsterdam (Nordsee Kanaal); Moerdijk (Hollands Diep River); Rotterdam (Rhine River); Terneuzen (Western Scheldt River) |
+| Ports and terminals: | container port(s) (TEUs): Rotterdam (11,876,920) |
+| Ports and terminals: | LNG terminal(s) (import): Rotterdam |

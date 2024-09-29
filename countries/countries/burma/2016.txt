@@ -1,0 +1,30 @@
+| Transportation | BURMA |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 11 |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 45 |
+| National air transport system: | annual passenger traffic on registered air carriers: 2,029,139 |
+| National air transport system: | annual freight traffic on registered air carriers: 3,365,967 mt-km (2015) |
+| Civil aircraft registration country code prefix: | XY (2016) |
+| Airports: | 64 (2013) |
+| Airports - with paved runways: | total: 36 |
+| Airports - with paved runways: | over 3,047 m: 12 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 11 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 12 |
+| Airports - with paved runways: | under 914 m: 1 (2013) |
+| Airports - with unpaved runways: | total: 28 |
+| Airports - with unpaved runways: | over 3,047 m: 1 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 4 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 10 |
+| Airports - with unpaved runways: | under 914 m: 13 (2013) |
+| Heliports: | 11 (2013) |
+| Pipelines: | gas 3,739 km; oil 551 km (2013) |
+| Railways: | total: 5,031 km |
+| Railways: | narrow gauge: 5,031 km 1.000-m gauge (2008) |
+| Roadways: | total: 34,377 km (includes 358 km of expressways) (2010) |
+| Waterways: | 12,800 km (2011) |
+| Merchant marine: | total: 29 |
+| Merchant marine: | by type: cargo 22, passenger 2, passenger/cargo 3, specialized tanker 1, vehicle carrier 1 |
+| Merchant marine: | foreign-owned: 2 (Germany 1, Japan 1) |
+| Merchant marine: | registered in other countries: 3 (Panama 3) (2010) |
+| Ports and terminals: | major seaport(s): Mawlamyine (Moulmein), Sittwe |
+| Ports and terminals: | river port(s): Rangoon (Yangon) (Rangoon River) |

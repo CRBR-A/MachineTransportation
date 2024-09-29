@@ -1,0 +1,24 @@
+| Transportation | Ireland |
+| --- | --- |
+| Airports: | 34 (2007) |
+| Airports - with paved runways: | total: 15 |
+| Airports - with paved runways: | over 3,047 m: 1 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 1 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 4 |
+| Airports - with paved runways: | 914 to 1,523 m: 4 |
+| Airports - with paved runways: | under 914 m: 5 (2007) |
+| Airports - with unpaved runways: | total: 19 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 3 |
+| Airports - with unpaved runways: | under 914 m: 16 (2007) |
+| Pipelines: | gas 1,855 km (2007) |
+| Railways: | total: 3,237 km |
+| Railways: | broad gauge: 1,872 km 1.600-m gauge (37 km electrified) |
+| Railways: | narrow gauge: 1,365 km 0.914-m gauge (operated by the Irish Peat Board to transport peat to power stations and briquetting plants) (2006) |
+| Roadways: | total: 96,602 km |
+| Roadways: | paved: 96,602 km (includes 200 km of expressways) (2003) |
+| Waterways: | 956 km (pleasure craft only) (2007) |
+| Merchant marine: | total: 29 |
+| Merchant marine: | by type: cargo 25, chemical tanker 2, container 1, roll on/roll off 1 |
+| Merchant marine: | foreign-owned: 2 (US 2) |
+| Merchant marine: | registered in other countries: 21 (Bahamas 2, Bermuda 1, Bulgaria 1, Cyprus 3, Isle of Man 1, Marshall Islands 1, Netherlands 10, Slovakia 1, UK 1) (2008) |
+| Ports and terminals: | Cork, Dublin, Shannon Foynes |

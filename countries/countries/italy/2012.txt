@@ -1,0 +1,27 @@
+| Transportation | Italy |
+| --- | --- |
+| Airports: | 130 (2012) |
+| Airports - with paved runways: | total: 99 |
+| Airports - with paved runways: | over 3,047 m: 9 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 31 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 18 |
+| Airports - with paved runways: | 914 to 1,523 m: 29 |
+| Airports - with paved runways: | under 914 m: 12 (2012) |
+| Airports - with unpaved runways: | total: 31 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 1 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 11 |
+| Airports - with unpaved runways: | under 914 m: 19 (2012) |
+| Heliports: | 5 (2012) |
+| Pipelines: | gas 18,348 km; oil 1,241 km (2010) |
+| Railways: | total: 20,255 km |
+| Railways: | standard gauge: 18,611 km 1.435-m gauge (12,662 km electrified) |
+| Railways: | narrow gauge: 123 km 1.000-m gauge (123 km electrified); 1,290 km 0.950-m gauge (151 km electrified); 231 km 0.850-m gauge (2008) |
+| Roadways: | total: 487,700 km |
+| Roadways: | paved: 487,700 km (includes 6,700 km of expressways) (2007) |
+| Waterways: | 2,400 km (used for commercial traffic; of limited overall value compared to road and rail) (2012) |
+| Merchant marine: | total: 681 |
+| Merchant marine: | by type: bulk carrier 105, cargo 42, carrier 1, chemical tanker 164, container 21, liquefied gas 28, passenger 25, passenger/cargo 154, petroleum tanker 59, refrigerated cargo 4, roll on/roll off 39, specialized tanker 9, vehicle carrier 30 |
+| Merchant marine: | foreign-owned: 90 (Denmark 4, France 2, Greece 7, Luxembourg 14, Netherlands 2, Nigeria 1, Norway 6, Singapore 1, Sweden 1, Switzerland 13, Taiwan 10, Turkey 4, UK 2, US 23) |
+| Merchant marine: | registered in other countries: 201 (Bahamas 1, Belize 3, Cayman Islands 7, Cyprus 6, Georgia 2, Gibraltar 4, Greece 5, Liberia 47, Malta 45, Marshall Islands 1, Morocco 1, Netherlands 6, Panama 25, Portugal 12, Russia 14, Saint Vincent and the Grenadines 4, Singapore 5, Slovakia 2, Spain 1, Sweden 5, Turkey 1, UK 3, unknown 1) (2010) |
+| Ports and terminals: | Augusta, Cagliari, Genoa, Livorno, Taranto, Trieste, Venice |
+| Ports and terminals: | oil terminals: Melilli (Santa Panagia) oil terminal, Sarroch oil terminal |

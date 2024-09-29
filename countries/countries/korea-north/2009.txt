@@ -1,0 +1,27 @@
+| Transportation | Korea, North |
+| --- | --- |
+| Airports: | 79 (2009) |
+| Airports - with paved runways: | total: 37 |
+| Airports - with paved runways: | over 3,047 m: 2 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 22 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 8 |
+| Airports - with paved runways: | 914 to 1,523 m: 1 |
+| Airports - with paved runways: | under 914 m: 4 (2009) |
+| Airports - with unpaved runways: | total: 42 |
+| Airports - with unpaved runways: | 2,438 to 3,047 m: 3 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 17 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 14 |
+| Airports - with unpaved runways: | under 914 m: 8 (2009) |
+| Heliports: | 22 (2009) |
+| Pipelines: | oil 154 km (2008) |
+| Railways: | total: 5,235 km |
+| Railways: | standard gauge: 5,235 km 1.435-m gauge (3,500 km electrified) (2006) |
+| Roadways: | total: 25,554 km |
+| Roadways: | paved: 724 km |
+| Roadways: | unpaved: 24,830 km (2006) |
+| Waterways: | 2,250 km (most navigable only by small craft) (2008) |
+| Merchant marine: | total: 167 |
+| Merchant marine: | by type: bulk carrier 11, cargo 121, carrier 1, chemical tanker 4, container 3, passenger/cargo 3, petroleum tanker 19, refrigerated cargo 4, roll on/roll off 1 |
+| Merchant marine: | foreign-owned: 19 (Egypt 1, Greece 1, Lebanon 1, Lithuania 1, Romania 4, Syria 1, UAE 8, Yemen 2) |
+| Merchant marine: | registered in other countries: 2 (Mongolia 1, Panama 1) (2008) |
+| Ports and terminals: | Ch'ongjin, Haeju, Hungnam (Hamhung), Kimch'aek, Kosong, Najin, Namp'o, Sinuiju, Songnim, Sonbong (formerly Unggi), Ungsang, Wonsan |

@@ -1,0 +1,19 @@
+| Transportation | Chad |
+| --- | --- |
+| Railways: | 0 km |
+| Highways: | total: 33,400 km |
+| Highways: | paved: 450 km |
+| Highways: | note: probably no more than 8,000 km of the total receive maintenance, the remainder being desert tracks (2000) |
+| Highways: | unpaved: 32,950 km |
+| Waterways: | 2,000 km |
+| Ports and harbors: | none |
+| Airports: | 49 (2001) |
+| Airports - with paved runways: | total: 7 |
+| Airports - with paved runways: | over 3,047 m: 2 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 3 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 1 |
+| Airports - with paved runways: | under 914 m: 1 (2002) |
+| Airports - with unpaved runways: | total: 43 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 13 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 20 |
+| Airports - with unpaved runways: | under 914 m: 10 (2002) |

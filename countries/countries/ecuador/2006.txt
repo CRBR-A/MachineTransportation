@@ -1,0 +1,25 @@
+| Transportation | Ecuador |
+| --- | --- |
+| Airports: | 359 (2006) |
+| Airports - with paved runways: | total: 98 |
+| Airports - with paved runways: | over 3,047 m: 3 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 4 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 19 |
+| Airports - with paved runways: | 914 to 1,523 m: 29 |
+| Airports - with paved runways: | under 914 m: 43 (2006) |
+| Airports - with unpaved runways: | total: 261 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 33 |
+| Airports - with unpaved runways: | under 914 m: 228 (2006) |
+| Heliports: | 1 (2006) |
+| Pipelines: | extra heavy crude 578 km; gas 71 km; oil 1,386 km; refined products 1,185 km (2006) |
+| Railways: | total: 966 km |
+| Railways: | narrow gauge: 966 km 1.067-m gauge (2005) |
+| Roadways: | total: 43,197 km |
+| Roadways: | paved: 7,287 km |
+| Roadways: | unpaved: 35,910 km (2003) |
+| Waterways: | 1,500 km (most inaccessible) (2005) |
+| Merchant marine: | total: 31 ships (1000 GRT or over) 184,819 GRT/300,339 DWT |
+| Merchant marine: | by type: chemical tanker 1, liquefied gas 1, passenger 7, petroleum tanker 21, specialized tanker 1 |
+| Merchant marine: | foreign-owned: 2 (Norway 1, Paraguay 1) |
+| Merchant marine: | registered in other countries: 1 (Georgia 1) (2006) |
+| Ports and terminals: | Esmeraldas, Guayaquil, La Libertad, Manta, Puerto Bolivar |

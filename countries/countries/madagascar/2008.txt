@@ -1,0 +1,22 @@
+| Transportation | Madagascar |
+| --- | --- |
+| Airports: | 104 (2007) |
+| Airports - with paved runways: | total: 27 |
+| Airports - with paved runways: | over 3,047 m: 1 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 2 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 6 |
+| Airports - with paved runways: | 914 to 1,523 m: 17 |
+| Airports - with paved runways: | under 914 m: 1 (2007) |
+| Airports - with unpaved runways: | total: 77 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 2 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 41 |
+| Airports - with unpaved runways: | under 914 m: 34 (2007) |
+| Railways: | total: 854 km |
+| Railways: | narrow gauge: 854 km 1.000-m gauge (2006) |
+| Roadways: | total: 65,663 km |
+| Roadways: | paved: 7,617 km |
+| Roadways: | unpaved: 58,046 km (2003) |
+| Waterways: | 600 km (2006) |
+| Merchant marine: | total: 8 |
+| Merchant marine: | by type: cargo 4, passenger/cargo 2, petroleum tanker 2 (2008) |
+| Ports and terminals: | Antsiranana, Mahajanga, Toamasina, Toliara |

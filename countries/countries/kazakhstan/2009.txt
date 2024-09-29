@@ -1,0 +1,26 @@
+| Transportation | Kazakhstan |
+| --- | --- |
+| Airports: | 99 (2009) |
+| Airports - with paved runways: | total: 67 |
+| Airports - with paved runways: | over 3,047 m: 10 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 26 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 17 |
+| Airports - with paved runways: | 914 to 1,523 m: 5 |
+| Airports - with paved runways: | under 914 m: 9 (2009) |
+| Airports - with unpaved runways: | total: 32 |
+| Airports - with unpaved runways: | over 3,047 m: 5 |
+| Airports - with unpaved runways: | 2,438 to 3,047 m: 6 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 3 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 5 |
+| Airports - with unpaved runways: | under 914 m: 13 (2009) |
+| Heliports: | 4 (2009) |
+| Pipelines: | condensate 658 km; gas 11,146 km; oil 10,376 km; refined products 1,095 km; water 1,465 km (2008) |
+| Railways: | total: 13,700 km |
+| Railways: | broad gauge: 13,700 km 1.520-m gauge (3,700 km electrified) (2008) |
+| Roadways: | total: 91,563 km |
+| Roadways: | paved: 83,717 km |
+| Roadways: | unpaved: 7,846 km (2006) |
+| Waterways: | 4,000 km (on the Ertis ((Irtysh)) River (80%) and Syr Darya ((Syrdariya)) River) (2008) |
+| Merchant marine: | total: 5 |
+| Merchant marine: | by type: petroleum tanker 4, refrigerated cargo 1 (2008) |
+| Ports and terminals: | Aqtau (Shevchenko), Atyrau (Gur'yev), Oskemen (Ust-Kamenogorsk), Pavlodar, Semey (Semipalatinsk) |

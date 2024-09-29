@@ -1,0 +1,9 @@
+| Transportation | San Marino |
+| --- | --- |
+| Railways: | 0 km; note - there is a 1.5-km cable railway connecting the city of San Marino to Borgo Maggiore |
+| Highways: | total: 220 km |
+| Highways: | paved: 220 km |
+| Highways: | unpaved: 0 km (2001) |
+| Waterways: | none |
+| Ports and harbors: | none |
+| Airports: | none (2001) |

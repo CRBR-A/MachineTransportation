@@ -1,0 +1,30 @@
+| Transportation | Belgium |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 7 (2015) |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 117 (2015) |
+| National air transport system: | annual passenger traffic on registered air carriers: 11,193,023 (2015) |
+| National air transport system: | annual freight traffic on registered air carriers: 1,464,316,900 mt-km (2015) |
+| Civil aircraft registration country code prefix: | OO (2016) |
+| Airports: | 41 (2013) |
+| Airports - with paved runways: | total: 26 (2019) |
+| Airports - with paved runways: | over 3,047 m: 6 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 9 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 2 |
+| Airports - with paved runways: | 914 to 1,523 m: 1 |
+| Airports - with paved runways: | under 914 m: 8 |
+| Airports - with unpaved runways: | total: 15 (2013) |
+| Airports - with unpaved runways: | under 914 m: 15 (2013) |
+| Heliports: | 1 (2013) |
+| Pipelines: | 3139 km gas, 154 km oil, 535 km refined products (2013) |
+| Railways: | total: 3,592 km (2014) |
+| Railways: | standard gauge: 3,592 km 1.435-m gauge (2,960 km electrified) (2014) |
+| Roadways: | total: 118,414 km (2015) |
+| Roadways: | paved: 118,414 km (includes 1,747 km of expressways) (2015) |
+| Waterways: | 2,043 km (1,528 km in regular commercial use) (2012) |
+| Merchant marine: | total: 192 |
+| Merchant marine: | by type: bulk carrier 18, general cargo 18, oil tanker 20, other 136 (2018) |
+| Ports and terminals: | major seaport(s): Oostende, Zeebrugge |
+| Ports and terminals: | container port(s) (TEUs): Antwerp (10,450,000) (2017) |
+| Ports and terminals: | LNG terminal(s) (import): Zeebrugge |
+| Ports and terminals: | river port(s): Antwerp, Gent (Schelde River) |
+| Ports and terminals: | Brussels (Senne River) Liege (Meuse River) |

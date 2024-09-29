@@ -1,0 +1,31 @@
+| Transportation | Algeria |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 3 (2020) |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 87 |
+| National air transport system: | annual passenger traffic on registered air carriers: 6,442,442 (2018) |
+| National air transport system: | annual freight traffic on registered air carriers: 28.28 million mt-km (2018) |
+| Civil aircraft registration country code prefix: | 7T (2016) |
+| Airports: | 149 (2020) |
+| Airports - with paved runways: | total: 67 (2020) |
+| Airports - with paved runways: | over 3,047 m: 14 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 27 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 18 |
+| Airports - with paved runways: | 914 to 1,523 m: 6 |
+| Airports - with paved runways: | under 914 m: 2 |
+| Airports - with unpaved runways: | total: 82 (2020) |
+| Airports - with unpaved runways: | 2,438 to 3,047 m: 2 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 16 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 36 |
+| Airports - with unpaved runways: | under 914 m: 28 |
+| Heliports: | 3 (2013) |
+| Pipelines: | 2600 km condensate, 16415 km gas, 3447 km liquid petroleum gas, 7036 km oil, 144 km refined products (2013) |
+| Railways: | total: 3,973 km (2014) |
+| Railways: | standard gauge: 2,888 km 1.432-m gauge (283 km electrified) (2014) |
+| Railways: | narrow gauge: 1,085 km 1.055-m gauge (2014) |
+| Roadways: | total: 104,000 km (2015) |
+| Roadways: | paved: 71,656 km (2015) |
+| Roadways: | unpaved: 32,344 km (2015) |
+| Merchant marine: | total: 114 |
+| Merchant marine: | by type: bulk carrier 2, general cargo 11, oil tanker 10, other 91 (2019) |
+| Ports and terminals: | major seaport(s): Algiers, Annaba, Arzew, Bejaia, Djendjene, Jijel, Mostaganem, Oran, Skikda |
+| Ports and terminals: | LNG terminal(s) (export): Arzew, Bethioua, Skikda |

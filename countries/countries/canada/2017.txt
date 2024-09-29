@@ -1,0 +1,36 @@
+| Transportation | CANADA |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 51 |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 879 |
+| National air transport system: | annual passenger traffic on registered air carriers: 80,228,301 |
+| National air transport system: | annual freight traffic on registered air carriers: 2,074,830,881 mt-km (2015) |
+| Civil aircraft registration country code prefix: | C (2016) |
+| Airports: | 1,467 (2013) |
+| Airports - with paved runways: | total: 523 |
+| Airports - with paved runways: | over 3,047 m: 21 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 19 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 147 |
+| Airports - with paved runways: | 914 to 1,523 m: 257 |
+| Airports - with paved runways: | under 914 m: 79 (2017) |
+| Airports - with unpaved runways: | total: 944 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 75 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 385 |
+| Airports - with unpaved runways: | under 914 m: 484 (2013) |
+| Heliports: | 26 (2013) |
+| Pipelines: | gas and liquid petroleum 110,000 km (2017) |
+| Railways: | total: 77,932 km |
+| Railways: | standard gauge: 77,932 km 1.435-m gauge (2014) |
+| Roadways: | total: 1,042,300 km |
+| Roadways: | paved: 415,600 km (includes 17,000 km of expressways) |
+| Roadways: | unpaved: 626,700 km (2011) |
+| Waterways: | 636 km (Saint Lawrence Seaway of 3,769 km, including the Saint Lawrence River of 3,058 km, shared with United States) (2011) |
+| Merchant marine: | total: 181 |
+| Merchant marine: | by type: bulk carrier 62, cargo 15, carrier 1, chemical tanker 15, combination ore/oil 1, container 2, passenger 5, passenger/cargo 63, petroleum tanker 11, roll on/roll off 6 |
+| Merchant marine: | foreign-owned: 19 (Estonia 1, France 1, Netherlands 1, Norway 4, Sweden 2, US 10) |
+| Merchant marine: | registered in other countries: 225 (Australia 5, Bahamas 96, Barbados 11, Cambodia 2, Cyprus 2, Honduras 1, Hong Kong 77, Liberia 2, Malta 5, Marshall Islands 8, Norway 1, Panama 6, Spain 4, Vanuatu 5) (2010) |
+| Ports and terminals: | major seaport(s): Halifax, Saint John (New Brunswick), Vancouver |
+| Ports and terminals: | river and lake port(s): Montreal, Quebec City, Sept-Isles (St. Lawrence); Fraser River Port (Fraser); Hamilton (Lake Ontario) |
+| Ports and terminals: | oil terminal(s): Lower Lakes terminal |
+| Ports and terminals: | dry bulk cargo port(s): Port-Cartier (iron ore and grain), |
+| Ports and terminals: | container port(s): Montreal (1,446,000), Vancouver (3,054,000)(2015) |
+| Ports and terminals: | LNG terminal(s) (import): Saint John |

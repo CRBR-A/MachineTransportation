@@ -1,0 +1,24 @@
+| Transportation | Belarus |
+| --- | --- |
+| Airports: | 86 (2006) |
+| Airports - with paved runways: | total: 41 |
+| Airports - with paved runways: | over 3,047 m: 2 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 22 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 4 |
+| Airports - with paved runways: | 914 to 1,523 m: 1 |
+| Airports - with paved runways: | under 914 m: 12 (2006) |
+| Airports - with unpaved runways: | total: 45 |
+| Airports - with unpaved runways: | over 3,047 m: 1 |
+| Airports - with unpaved runways: | 2,438 to 3,047 m: 1 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 2 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 6 |
+| Airports - with unpaved runways: | under 914 m: 35 (2006) |
+| Heliports: | 1 (2006) |
+| Pipelines: | gas 5,223 km; oil 2,321 km; refined products 1,686 km (2006) |
+| Railways: | total: 5,512 km |
+| Railways: | broad gauge: 5,497 km 1.520-m gauge (874 km electrified) |
+| Railways: | standard gauge: 15 km 1.435 m (2005) |
+| Roadways: | total: 93,055 km |
+| Roadways: | paved: 93,055 km (2003) |
+| Waterways: | 2,500 km (use limited by location on perimeter of country and by shallowness) (2003) |
+| Ports and terminals: | Mazyr |

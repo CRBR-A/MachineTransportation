@@ -1,0 +1,23 @@
+| Transportation | Denmark |
+| --- | --- |
+| Airports: | 92 (2006) |
+| Airports - with paved runways: | total: 28 |
+| Airports - with paved runways: | over 3,047 m: 2 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 7 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 4 |
+| Airports - with paved runways: | 914 to 1,523 m: 12 |
+| Airports - with paved runways: | under 914 m: 3 (2006) |
+| Airports - with unpaved runways: | total: 64 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 3 |
+| Airports - with unpaved runways: | under 914 m: 61 (2006) |
+| Pipelines: | condensate 12 km; gas 3,931 km; oil 626 km; oil/gas/water 2 km (2006) |
+| Railways: | total: 2,673 km |
+| Railways: | standard gauge: 2,673 km 1.435-m gauge (601 km electrified) (2005) |
+| Roadways: | total: 72,257 km |
+| Roadways: | paved: 72,257 km (including 1,032 km of expressways) (2005) |
+| Waterways: | 400 km (2001) |
+| Merchant marine: | total: 293 ships (1000 GRT or over) 7,986,735 GRT/9,936,431 DWT |
+| Merchant marine: | by type: bulk carrier 7, cargo 63, chemical tanker 48, container 86, liquefied gas 4, livestock carrier 2, passenger 1, passenger/cargo 40, petroleum tanker 23, refrigerated cargo 7, roll on/roll off 8, specialized tanker 4 |
+| Merchant marine: | foreign-owned: 25 (Canada 1, Germany 13, Greece 5, Greenland 1, Norway 3, Sweden 1, UK 1) |
+| Merchant marine: | registered in other countries: 409 (Antigua and Barbuda 14, Bahamas 59, Belgium 4, Cayman Islands 5, Cyprus 1, Egypt 1, Estonia 2, France 1, French Southern and Antarctic Lands 2, Gibraltar 1, Hong Kong 6, Isle of Man 53, North Korea 1, Liberia 8, Lithuania 10, Malta 6, Marshall Islands 1, Mexico 2, Netherlands 9, Netherlands Antilles 1, Norway 32, Panama 34, Portugal 4, Saint Vincent and the Grenadines 14, Singapore 52, South Africa 1, Spain 1, Sweden 4, UK 46, US 24, Vanuatu 6, Venezuela 3, Vietnam 1) (2006) |
+| Ports and terminals: | Aalborg, Aarhus, Asnaesvaerkets, Copenhagen, Elsinore, Ensted, Esbjerg, Fredericia, Frederikshavn, Kalundborg, Odense, Roenne |

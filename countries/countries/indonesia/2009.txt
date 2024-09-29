@@ -1,0 +1,27 @@
+| Transportation | Indonesia |
+| --- | --- |
+| Airports: | 683 (2009) |
+| Airports - with paved runways: | total: 164 |
+| Airports - with paved runways: | over 3,047 m: 4 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 18 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 51 |
+| Airports - with paved runways: | 914 to 1,523 m: 56 |
+| Airports - with paved runways: | under 914 m: 35 (2009) |
+| Airports - with unpaved runways: | total: 519 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 5 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 25 |
+| Airports - with unpaved runways: | under 914 m: 489 (2009) |
+| Heliports: | 36 (2009) |
+| Pipelines: | condensate 735 km; condensate/gas 73 km; gas 5,797 km; oil 5,721 km; oil/gas/water 12 km; refined products 1,370 km; water 44 km (2008) |
+| Railways: | total: 8,529 km |
+| Railways: | narrow gauge: 8,529 km 1.067-m gauge (565 km electrified) (2008) |
+| Roadways: | total: 391,009 km |
+| Roadways: | paved: 216,714 km |
+| Roadways: | unpaved: 174,295 km (2005) |
+| Waterways: | 21,579 km (2008) |
+| Merchant marine: | total: 971 |
+| Merchant marine: | by type: bulk carrier 54, cargo 514, chemical tanker 35, container 80, liquefied gas 7, passenger 44, passenger/cargo 68, petroleum tanker 143, refrigerated cargo 2, roll on/roll off 10, specialized tanker 10, vehicle carrier 4 |
+| Merchant marine: | foreign-owned: 43 (China 2, France 1, Germany 1, Japan 6, Norway 1, Philippines 1, Singapore 27, Taiwan 2, UAE 2) |
+| Merchant marine: | registered in other countries: 114 (Bahamas 2, Cambodia 2, China 1, Hong Kong 7, Liberia 2, Mongolia 1, Panama 31, Singapore 66, unknown 2) (2008) |
+| Ports and terminals: | Banjarmasin, Belawan, Ciwandan, Kotabaru, Krueg Geukueh, Palembang, Panjang, Sungai Pakning, Tanjung Perak, Tanjung Priok |
+| Transportation - note: | the International Maritime Bureau reports the territorial and offshore waters in the Strait of Malacca and South China Sea as high risk for piracy and armed robbery against ships; numerous commercial vessels have been attacked and hijacked both at anchor and while underway; hijacked vessels are often disguised and cargo diverted to ports in East Asia; crews have been murdered or cast adrift |

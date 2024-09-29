@@ -1,0 +1,33 @@
+| Transportation | THAILAND |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 19 |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 276 |
+| National air transport system: | annual passenger traffic on registered air carriers: 54,259,629 |
+| National air transport system: | annual freight traffic on registered air carriers: 2,134,149,001 mt-km (2015) |
+| Civil aircraft registration country code prefix: | HS (2016) |
+| Airports: | 101 (2013) |
+| Airports - with paved runways: | total: 63 |
+| Airports - with paved runways: | over 3,047 m: 8 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 12 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 23 |
+| Airports - with paved runways: | 914 to 1,523 m: 14 |
+| Airports - with paved runways: | under 914 m: 6 (2013) |
+| Airports - with unpaved runways: | total: 38 |
+| Airports - with unpaved runways: | 2,438 to 3,047 m: 1 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 1 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 10 |
+| Airports - with unpaved runways: | under 914 m: 26 (2013) |
+| Heliports: | 7 (2013) |
+| Pipelines: | condensate 2 km; gas 5,900 km; liquid petroleum gas 85 km; oil 1 km; refined products 1,097 km (2013) |
+| Railways: | total: 4,127 km |
+| Railways: | standard gauge: 84 km 1.435-m gauge (84 km electrified) |
+| Railways: | narrow gauge: 4,043 km 1.000-m gauge (2017) |
+| Roadways: | total: 180,053 km (includes 450 km of expressways) (2006) |
+| Waterways: | 4,000 km (3,701 km navigable by boats with drafts up to 0.9 m) (2011) |
+| Merchant marine: | total: 363 |
+| Merchant marine: | by type: bulk carrier 31, cargo 99, chemical tanker 28, container 18, liquefied gas 36, passenger 1, passenger/cargo 10, petroleum tanker 114, refrigerated cargo 24, roll on/roll off 1, vehicle carrier 1 |
+| Merchant marine: | foreign-owned: 13 (China 1, Hong Kong 1, Malaysia 3, Singapore 1, Taiwan 1, UK 6) |
+| Merchant marine: | registered in other countries: 46 (Bahamas 4, Belize 1, Honduras 2, Panama 6, Singapore 33) (2010) |
+| Ports and terminals: | major seaport(s): Bangkok, Laem Chabang, Map Ta Phut, Prachuap Port, Si Racha |
+| Ports and terminals: | container port(s) (TEUs): Bangkok (1,559,000), Laem Chabang (6,780,000) (2015) |
+| Ports and terminals: | LNG terminal(s) (import): Map Ta Phut |

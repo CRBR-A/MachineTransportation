@@ -1,0 +1,35 @@
+| Transportation | INDONESIA |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 29 |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 550 |
+| National air transport system: | annual passenger traffic on registered air carriers: 88,685,767 |
+| National air transport system: | annual freight traffic on registered air carriers: 747,473,207 mt-km (2015) |
+| Civil aircraft registration country code prefix: | PK (2016) |
+| Airports: | 673 (2013) |
+| Airports - with paved runways: | total: 186 |
+| Airports - with paved runways: | over 3,047 m: 5 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 21 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 51 |
+| Airports - with paved runways: | 914 to 1,523 m: 72 |
+| Airports - with paved runways: | under 914 m: 37 (2017) |
+| Airports - with unpaved runways: | total: 487 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 4 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 23 |
+| Airports - with unpaved runways: | under 914 m: 460 (2013) |
+| Heliports: | 76 (2013) |
+| Pipelines: | condensate 1,064 km; condensate/gas 150 km; gas 11,702 km; liquid petroleum gas 119 km; oil 7,767 km; oil/gas/water 77 km; refined products 728 km; unknown 53 km; water 44 km (2013) |
+| Railways: | total: 8,159 km |
+| Railways: | narrow gauge: 8,159 km 1.067-m gauge (565 km electrified) |
+| Railways: | note: 4,816 km operational (2014) |
+| Roadways: | total: 496,607 km |
+| Roadways: | paved: 283,102 km |
+| Roadways: | unpaved: 213,505 km (2011) |
+| Waterways: | 21,579 km (2011) |
+| Merchant marine: | total: 1,340 |
+| Merchant marine: | by type: bulk carrier 105, cargo 618, chemical tanker 69, container 120, liquefied gas 28, passenger 49, passenger/cargo 77, petroleum tanker 244, refrigerated cargo 6, roll on/roll off 12, specialized tanker 1, vehicle carrier 11 |
+| Merchant marine: | foreign-owned: 69 (China 1, France 1, Greece 1, Japan 8, Jordan 1, Malaysia 1, Norway 3, Singapore 46, South Korea 2, Taiwan 1, UK 2, US 2) |
+| Merchant marine: | registered in other countries: 95 (Bahamas 2, Cambodia 2, China 2, Hong Kong 10, Liberia 4, Marshall Islands 1, Mongolia 2, Panama 10, Singapore 60, Tuvalu 1, unknown 1) (2010) |
+| Ports and terminals: | major seaport(s): Banjarmasin, Belawan, Kotabaru, Krueg Geukueh, Palembang, Panjang, Sungai Pakning, Tanjung Perak, Tanjung Priok |
+| Ports and terminals: | container port(s) (TEUs): Belawan (1,197,000), Tanjung Priok (5,154,000) (2015) |
+| Ports and terminals: | LNG terminal(s) (export): Bontang, Tangguh |
+| Ports and terminals: | LNG terminal(s) (import): Arun, Lampung, West Java |

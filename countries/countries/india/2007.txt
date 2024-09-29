@@ -1,0 +1,30 @@
+| Transportation | India |
+| --- | --- |
+| Airports: | 346 (2007) |
+| Airports - with paved runways: | total: 250 |
+| Airports - with paved runways: | over 3,047 m: 18 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 52 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 75 |
+| Airports - with paved runways: | 914 to 1,523 m: 84 |
+| Airports - with paved runways: | under 914 m: 21 (2007) |
+| Airports - with unpaved runways: | total: 96 |
+| Airports - with unpaved runways: | over 3,047 m: 1 |
+| Airports - with unpaved runways: | 2,438 to 3,047 m: 1 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 7 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 40 |
+| Airports - with unpaved runways: | under 914 m: 47 (2007) |
+| Heliports: | 30 (2007) |
+| Pipelines: | condensate/gas 8 km; gas 5,184 km; liquid petroleum gas 1,993 km; oil 6,500 km; refined products 6,152 km (2006) |
+| Railways: | total: 63,221 km |
+| Railways: | broad gauge: 46,807 km 1.676-m gauge (17,343 km electrified) |
+| Railways: | narrow gauge: 13,290 km 1.000-m gauge (165 km electrified); 3,124 km 0.762-m gauge and 0.610-m gauge (2006) |
+| Roadways: | total: 3,383,344 km |
+| Roadways: | paved: 1,603,705 km |
+| Roadways: | unpaved: 1,779,639 km (2002) |
+| Waterways: | 14,500 km |
+| Waterways: | note: 5,200 km on major rivers and 485 km on canals suitable for mechanized vessels (2006) |
+| Merchant marine: | total: 477 ships (1000 GRT or over) 8,350,093 GRT/14,339,440 DWT |
+| Merchant marine: | by type: bulk carrier 101, cargo 220, chemical tanker 18, combination ore/oil 1, container 9, liquefied gas 19, passenger 3, passenger/cargo 10, petroleum tanker 95, roll on/roll off 1 |
+| Merchant marine: | foreign-owned: 5 (China 1, Hong Kong 1, UAE 2, UK 1) |
+| Merchant marine: | registered in other countries: 54 (Barbados 1, Comoros 2, Cyprus 1, Dominica 2, North Korea 1, Liberia 2, Malta 3, Mauritius 2, Panama 25, Singapore 9, St Kitts and Nevis 1, St Vincent and The Grenadines 5, unknown 2) (2007) |
+| Ports and terminals: | Chennai, Haldia, Jawaharal Nehru, Kandla, Kolkata (Calcutta), Mumbai (Bombay), New Mangalore, Vishakhapatnam |

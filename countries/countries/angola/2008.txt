@@ -1,0 +1,27 @@
+| Transportation | Angola |
+| --- | --- |
+| Airports: | 232 (2007) |
+| Airports - with paved runways: | total: 31 |
+| Airports - with paved runways: | over 3,047 m: 5 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 8 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 12 |
+| Airports - with paved runways: | 914 to 1,523 m: 5 |
+| Airports - with paved runways: | under 914 m: 1 (2007) |
+| Airports - with unpaved runways: | total: 201 |
+| Airports - with unpaved runways: | over 3,047 m: 2 |
+| Airports - with unpaved runways: | 2,438 to 3,047 m: 5 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 30 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 95 |
+| Airports - with unpaved runways: | under 914 m: 69 (2007) |
+| Pipelines: | gas 234 km; liquid petroleum gas 85 km; oil 896 km; oil/gas/water 5 km (2007) |
+| Railways: | total: 2,761 km |
+| Railways: | narrow gauge: 2,638 km 1.067-m gauge; 123 km 0.600-m gauge (2006) |
+| Roadways: | total: 51,429 km |
+| Roadways: | paved: 5,349 km |
+| Roadways: | unpaved: 46,080 km (2001) |
+| Waterways: | 1,300 km (2007) |
+| Merchant marine: | total: 6 |
+| Merchant marine: | by type: cargo 1, passenger/cargo 2, petroleum tanker 2, roll on/roll off 1 |
+| Merchant marine: | foreign-owned: 1 (Spain 1) |
+| Merchant marine: | registered in other countries: 6 (Bahamas 6) (2008) |
+| Ports and terminals: | Cabinda, Lobito, Luanda, Namibe |

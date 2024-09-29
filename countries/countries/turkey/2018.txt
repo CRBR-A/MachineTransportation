@@ -1,0 +1,31 @@
+| Transportation | Turkey |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 15 (2015) |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 531 (2015) |
+| National air transport system: | annual passenger traffic on registered air carriers: 96,604,665 (2015) |
+| National air transport system: | annual freight traffic on registered air carriers: 2,882,162,000 mt-km (2015) |
+| Civil aircraft registration country code prefix: | TC (2016) |
+| Airports: | 98 (2013) |
+| Airports - with paved runways: | total: 91 (2013) |
+| Airports - with paved runways: | over 3,047 m: 16 (2013) |
+| Airports - with paved runways: | 2,438 to 3,047 m: 38 (2013) |
+| Airports - with paved runways: | 1,524 to 2,437 m: 17 (2013) |
+| Airports - with paved runways: | 914 to 1,523 m: 16 (2013) |
+| Airports - with paved runways: | under 914 m: 4 (2013) |
+| Airports - with unpaved runways: | total: 7 (2013) |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 1 (2013) |
+| Airports - with unpaved runways: | 914 to 1,523 m: 4 (2013) |
+| Airports - with unpaved runways: | under 914 m: 2 (2013) |
+| Heliports: | 20 (2013) |
+| Pipelines: | 12603 km gas, 3038 km oil (2016) |
+| Railways: | total: 12,008 km (2014) |
+| Railways: | standard gauge: 12,008 km 1.435-m gauge (3,216 km electrified) (2014) |
+| Roadways: | total: 385,754 km (2012) |
+| Roadways: | paved: 352,268 km (includes 2,127 km of expressways) (2012) |
+| Roadways: | unpaved: 33,486 km (2012) |
+| Waterways: | 1,200 km (2010) |
+| Merchant marine: | total: 1,285 (2017) |
+| Merchant marine: | by type: bulk carrier 78, container ship 50, general cargo 432, oil tanker 121, other 604 (2017) |
+| Ports and terminals: | major seaport(s): Aliaga, Ambarli, Diliskelesi, Eregli, Izmir, Kocaeli (Izmit), Mersin (Icel), Limani, Yarimca |
+| Ports and terminals: | container port(s) (TEUs): Ambarli (2,803,133), Mersin (Icel) (1,453,000) (2016) |
+| Ports and terminals: | LNG terminal(s) (import): Izmir Aliaga, Marmara Ereglisi |

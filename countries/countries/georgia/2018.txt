@@ -1,0 +1,28 @@
+| Transportation | Georgia |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 5 (2015) |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 13 (2015) |
+| National air transport system: | annual passenger traffic on registered air carriers: 232,263 (2015) |
+| National air transport system: | annual freight traffic on registered air carriers: 185,040 mt-km (2015) |
+| Civil aircraft registration country code prefix: | 4L (2016) |
+| Airports: | 22 (2013) |
+| Airports - with paved runways: | total: 18 (2017) |
+| Airports - with paved runways: | over 3,047 m: 1 (2017) |
+| Airports - with paved runways: | 2,438 to 3,047 m: 7 (2017) |
+| Airports - with paved runways: | 1,524 to 2,437 m: 3 (2017) |
+| Airports - with paved runways: | 914 to 1,523 m: 5 (2017) |
+| Airports - with paved runways: | under 914 m: 2 (2017) |
+| Airports - with unpaved runways: | total: 4 (2013) |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 1 (2013) |
+| Airports - with unpaved runways: | 914 to 1,523 m: 2 (2013) |
+| Airports - with unpaved runways: | under 914 m: 1 (2013) |
+| Heliports: | 2 (2013) |
+| Pipelines: | 1596 km gas, 1175 km oil (2013) |
+| Railways: | total: 1,363 km (2014) |
+| Railways: | narrow gauge: 37 km 0.912-m gauge (37 km electrified) (2014) |
+| Railways: | broad gauge: 1,326 km 1.520-m gauge (1,251 km electrified) (2014) |
+| Roadways: | total: 19,109 km (2010) |
+| Roadways: | paved: 19,109 km (includes 69 km of expressways) (2010) |
+| Merchant marine: | total: 84 (2017) |
+| Merchant marine: | by type: bulk carrier 1, general cargo 24, oil tanker 2, other 57 (2017) |
+| Ports and terminals: | major seaport(s): Black Sea - Bat'umi, P'ot'i |

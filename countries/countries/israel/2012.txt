@@ -1,0 +1,23 @@
+| Transportation | Israel |
+| --- | --- |
+| Airports: | 47 (2012) |
+| Airports - with paved runways: | total: 29 |
+| Airports - with paved runways: | over 3,047 m: 2 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 5 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 6 |
+| Airports - with paved runways: | 914 to 1,523 m: 11 |
+| Airports - with paved runways: | under 914 m: 5 (2012) |
+| Airports - with unpaved runways: | total: 18 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 1 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 3 |
+| Airports - with unpaved runways: | under 914 m: 14 (2012) |
+| Heliports: | 3 (2012) |
+| Pipelines: | gas 211 km; oil 442 km; refined products 261 km (2010) |
+| Railways: | total: 975 km |
+| Railways: | standard gauge: 975 km 1.435-m gauge (2008) |
+| Roadways: | total: 18,290 km |
+| Roadways: | paved: 18,290 km (includes 146 km of expressways) (2008) |
+| Merchant marine: | total: 8 |
+| Merchant marine: | by type: cargo 1, container 7 |
+| Merchant marine: | registered in other countries: 48 (Bermuda 3, Georgia 1, Honduras 1, Liberia 34, Malta 3, Moldova 2, Panama 1, Saint Vincent and the Grenadines 3) (2010) |
+| Ports and terminals: | Ashdod, Elat (Eilat), Hadera, Haifa |

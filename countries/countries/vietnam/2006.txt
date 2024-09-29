@@ -1,0 +1,26 @@
+| Transportation | Vietnam |
+| --- | --- |
+| Airports: | 32 (2006) |
+| Airports - with paved runways: | total: 26 |
+| Airports - with paved runways: | over 3,047 m: 8 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 5 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 11 |
+| Airports - with paved runways: | 914 to 1,523 m: 2 (2006) |
+| Airports - with unpaved runways: | total: 6 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 2 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 2 |
+| Airports - with unpaved runways: | under 914 m: 2 (2006) |
+| Pipelines: | condensate/gas 432 km; gas 163 km; oil 50 km; refined products 206 km (2006) |
+| Railways: | total: 2,600 km |
+| Railways: | standard gauge: 178 km 1.435-m gauge |
+| Railways: | narrow gauge: 2,169 km 1.000-m gauge |
+| Railways: | dual gauge: 253 km three-rail track combining 1.435 m and 1.000-m gauges (2005) |
+| Roadways: | total: 222,179 km |
+| Roadways: | paved: 42,167 km |
+| Roadways: | unpaved: 180,012 km (2004) |
+| Waterways: | 17,702 km (5,000 km navigable by vessels up to 1.8 m draft) (2005) |
+| Merchant marine: | total: 267 ships (1000 GRT or over) 1,423,936 GRT/2,191,858 DWT |
+| Merchant marine: | by type: bulk carrier 23, cargo 202, chemical tanker 4, container 5, liquefied gas 5, petroleum tanker 24, refrigerated cargo 2, roll on/roll off 1, specialized tanker 1 |
+| Merchant marine: | foreign-owned: 1 (Denmark 1) |
+| Merchant marine: | registered in other countries: 17 (Antigua and Barbuda 1, Honduras 1, Mongolia 8, Panama 4, Saint Vincent and the Grenadines 1, unknown 2) (2006) |
+| Ports and terminals: | Hai Phong, Ho Chi Minh City |

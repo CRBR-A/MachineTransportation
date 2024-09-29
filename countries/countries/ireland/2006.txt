@@ -1,0 +1,24 @@
+| Transportation | Ireland |
+| --- | --- |
+| Airports: | 36 (2006) |
+| Airports - with paved runways: | total: 15 |
+| Airports - with paved runways: | over 3,047 m: 1 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 1 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 4 |
+| Airports - with paved runways: | 914 to 1,523 m: 3 |
+| Airports - with paved runways: | under 914 m: 6 (2006) |
+| Airports - with unpaved runways: | total: 21 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 4 |
+| Airports - with unpaved runways: | under 914 m: 17 (2006) |
+| Pipelines: | gas 1,728 km (2006) |
+| Railways: | total: 3,312 km |
+| Railways: | broad gauge: 1,947 km 1.600-m gauge (46 km electrified) |
+| Railways: | narrow gauge: 1,365 km 0.914-m gauge (operated by the Irish Peat Board to transport peat to power stations and briquetting plants) (2005) |
+| Roadways: | total: 95,736 km |
+| Roadways: | paved: 95,736 km (including 125 km of expressways) (2002) |
+| Waterways: | 753 km (pleasure craft only) (2005) |
+| Merchant marine: | total: 23 ships (1000 GRT or over) 103,589 GRT/145,044 DWT |
+| Merchant marine: | by type: cargo 19, chemical tanker 2, container 1, roll on/roll off 1 |
+| Merchant marine: | foreign-owned: 4 (Germany 2, US 2) |
+| Merchant marine: | registered in other countries: 21 (Bahamas 2, Bermuda 1, Cyprus 3, Gibraltar 1, Netherlands 10, Panama 2, Saint Vincent and the Grenadines 1, UK 1) (2006) |
+| Ports and terminals: | Cork, Dublin, New Ross, Shannon Foynes, Waterford |

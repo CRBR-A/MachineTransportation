@@ -1,0 +1,19 @@
+| Transportation | World |
+| --- | --- |
+| Airports: | 41,820 (2016) |
+| Airports: | top ten by passengers: Atlanta (ATL) - 103,902,992; Beijing (PEK) - 95,786,442; Dubai (DXB) - 88,242,099; Tokyo (HND) - 85,408,975; Los Angeles (LAX) - 84,557,968; Chicago (ORD) - 79,828,183; London (LHR) - 78,014,598; Hong Kong (HKG) 72,664,075; Shanghai (PVG) 70,001,237; Paris (CDG) - 69,471,442 (2017) |
+| Airports: | top ten by cargo (metric tons): Hong Kong (HKG) - 5,049,898; Memphis, TN (MEM) - 4,336,752; Shanghai (PVG) - 3,824,280; Incheon (ICN) - 2,921,691; Anchorage, AK (ANC) - 2,713,230; Dubai (DXB) - 2,654,494; Louisville, KY (SDF) - 2,602,695; Tokyo (NRT) - 2,336,427; Taipei (TPE) - 2,269,585; Paris (CDG) - 2,195,229 (2017) |
+| Heliports: | 6,524 (2013) |
+| Railways: | total: 1,148,186 km (2013) |
+| Roadways: | total: 64,285,009 km (2013) |
+| Waterways: | 2,293,412 km (2017) |
+| Waterways: | top ten longest rivers: Nile (Africa) 6,693 km; Amazon (South America) 6,436 km; Mississippi-Missouri (North America) 6,238 km; Yenisey-Angara (Asia) 5,981 km; Ob-Irtysh (Asia) 5,569 km; Yangtze (Asia) 5,525 km; Yellow (Asia) 4,671 km; Amur (Asia) 4,352 km; Lena (Asia) 4,345 km; Congo (Africa) 4,344 km |
+| Waterways: | note: rivers are not necessarily navigable along the entire length; if measured by volume, the Amazon is the largest river in the world, responsible for about 20% of the Earth's freshwater entering the ocean |
+| Waterways: | top ten largest natural lakes (by surface area): Caspian Sea (Azerbaijan, Iran, Kazakhstan, Russia, Turkmenistan) 372,960 sq km; Lake Superior (Canada, United States) 82,414 sq km; Lake Victoria (Kenya, Tanzania, Uganda) 69,490 sq km; Lake Huron (Canada, United States) 59,596 sq km; Lake Michigan (United States) 57,441 sq km; Lake Tanganyika (Burundi, Democratic Republic of the Congo, Tanzania, Zambia) 32,890 sq km; Great Bear Lake (Canada) 31,800 sq km; Lake Baikal (Russia) 31,494 sq km; Lake Nyasa (Malawi, Mozambique, Tanzania) 30,044 sq km; Great Slave Lake (Canada) 28,400 sq km |
+| Waterways: | note 1: the areas of the lakes are subject to seasonal variation; only the Caspian Sea is saline, the rest are fresh water |
+| Waterways: | note 2: Lakes Huron and Michigan are technically a single lake because the flow of water between the Straits of Mackinac that connects the two lakes keeps their water levels at near-equilibrium; combined, Lake Huron-Michigan is the largest freshwater lake by surface area in the world |
+| Waterways: | note 3: the deepest lake in the world (1,620 m), and also the largest freshwater lake by volume (23,600 cu km), is Lake Baikal in Russia. |
+| Merchant marine: | total: 94,980 |
+| Merchant marine: | by type: bulk carrier 11,369, container ship 5,265, general cargo 18,614, oil tanker 10,619, other 49,113 (2019) |
+| Ports and terminals: | top twenty container ports as measured by Twenty-Foot Equivalent Units (TEUs) throughput: Shanghai (China) - 40,233,000; Singapore (Singapore) - 33,666,000; Shenzhen (China) - 25,208,000; Ningbo (China) - 24,607,000; Hong Kong (China) - 20,770,000; Busan (South Korea) - 20,493,000; Guangzhou (China) - 18,858,000; Qingdao (China) - 18,262,000; Dubai (UAE) - 15,368,000; - Tianjin (China) - 15,040,000; Rotterdam (Netherlands) - 13,734,000; Port Kelang (Malaysia) - 11,978,000; Antwerp (Belgium) - 10,450,000; Xiamen (China) - 10,380,000; Kaohsiung (Taiwan) - 10,271,000; Dalian (China) - 9,707,000; Los Angeles (US) - 9,343,000; Hamburg (Germany) - 8,860,000; Tanjung Pelepas (Malaysia) - 8,260,000; Laem Chabang (Thailand) -Â 7,227,000 (2017) |
+| Ports and terminals: | note - it was estimated that in 2017 60% of global sea-borne trade by value moved by container |

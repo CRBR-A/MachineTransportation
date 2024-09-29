@@ -1,0 +1,27 @@
+| Transportation | Colombia |
+| --- | --- |
+| Airports: | 934 (2007) |
+| Airports - with paved runways: | total: 103 |
+| Airports - with paved runways: | over 3,047 m: 2 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 8 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 39 |
+| Airports - with paved runways: | 914 to 1,523 m: 42 |
+| Airports - with paved runways: | under 914 m: 12 (2007) |
+| Airports - with unpaved runways: | total: 831 |
+| Airports - with unpaved runways: | over 3,047 m: 1 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 34 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 216 |
+| Airports - with unpaved runways: | under 914 m: 580 (2007) |
+| Heliports: | 2 (2007) |
+| Pipelines: | gas 4,360 km; oil 6,140 km; refined products 3,158 km (2006) |
+| Railways: | total: 3,304 km |
+| Railways: | standard gauge: 150 km 1.435-m gauge |
+| Railways: | narrow gauge: 3,154 km 0.914-m gauge (2006) |
+| Roadways: | total: 112,988 km |
+| Roadways: | paved: 16,270 km |
+| Roadways: | unpaved: 96,718 km (2004) |
+| Waterways: | 18,000 km (2006) |
+| Merchant marine: | total: 15 ships (1000 GRT or over) 35,949 GRT/49,161 DWT |
+| Merchant marine: | by type: cargo 11, liquefied gas 1, petroleum tanker 3 |
+| Merchant marine: | registered in other countries: 5 (Antigua and Barbuda 1, Panama 4) (2007) |
+| Ports and terminals: | Barranquilla, Buenaventura, Cartagena, Muelles El Bosque, Puerto Bolivar, Santa Marta, Turbo |

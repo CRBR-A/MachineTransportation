@@ -1,0 +1,23 @@
+| Transportation | Switzerland |
+| --- | --- |
+| Airports: | 65 (2007) |
+| Airports - with paved runways: | total: 42 |
+| Airports - with paved runways: | over 3,047 m: 3 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 4 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 12 |
+| Airports - with paved runways: | 914 to 1,523 m: 7 |
+| Airports - with paved runways: | under 914 m: 16 (2007) |
+| Airports - with unpaved runways: | total: 23 |
+| Airports - with unpaved runways: | under 914 m: 23 (2007) |
+| Heliports: | 2 (2007) |
+| Pipelines: | gas 1,781 km; oil 94 km; refined products 7 km (2007) |
+| Railways: | total: 4,839 km |
+| Railways: | standard gauge: 3,561 km 1.435-m gauge (3,195 km electrified) |
+| Railways: | narrow gauge: 1,268 km 1.000-m gauge (1,274 km electrified); 10 km 0.800-m gauge (10 km electrified) (2006) |
+| Roadways: | total: 71,298 km |
+| Roadways: | paved: 71,298 km (includes 1,758 of expressways) (2006) |
+| Waterways: | 65 km (Rhine River between Basel-Rheinfelden and Schaffhausen-Bodensee) (2003) |
+| Merchant marine: | total: 35 |
+| Merchant marine: | by type: bulk carrier 13, cargo 9, chemical tanker 6, container 6, specialized tanker 1 |
+| Merchant marine: | registered in other countries: 106 (Antigua and Barbuda 8, Bahamas 1, France 3, Italy 8, Liberia 13, Malta 20, Marshall Islands 12, Panama 25, Portugal 2, Russia 3, Saint Vincent and the Grenadines 6, Singapore 2, Tonga 1, UK 1, Vanuatu 1) (2008) |
+| Ports and terminals: | Basel |

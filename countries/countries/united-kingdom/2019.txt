@@ -1,0 +1,33 @@
+| Transportation | United Kingdom |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 28 (2015) |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 1,242 (2015) |
+| National air transport system: | annual passenger traffic on registered air carriers: 131,449,680 (2015) |
+| National air transport system: | annual freight traffic on registered air carriers: 5,466,504,676 mt-km (2015) |
+| Civil aircraft registration country code prefix: | G (2016) |
+| Airports: | 460 (2013) |
+| Airports - with paved runways: | total: 271 (2013) |
+| Airports - with paved runways: | over 3,047 m: 7 (2013) |
+| Airports - with paved runways: | 2,438 to 3,047 m: 29 (2013) |
+| Airports - with paved runways: | 1,524 to 2,437 m: 89 (2013) |
+| Airports - with paved runways: | 914 to 1,523 m: 80 (2013) |
+| Airports - with paved runways: | under 914 m: 66 (2013) |
+| Airports - with unpaved runways: | total: 189 (2013) |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 3 (2013) |
+| Airports - with unpaved runways: | 914 to 1,523 m: 26 (2013) |
+| Airports - with unpaved runways: | under 914 m: 160 (2013) |
+| Heliports: | 9 (2013) |
+| Pipelines: | 502 km condensate, 9 km condensate/gas, 28603 km gas, 59 km liquid petroleum gas, 5256 km oil, 175 km oil/gas/water, 4919 km refined products, 255 km water (2013) |
+| Railways: | total: 16,837 km (2015) |
+| Railways: | standard gauge: 16,534 km 1.435-m gauge (5,357 km electrified) (2015) |
+| Railways: | broad gauge: 303 km 1.600-m gauge (in Northern Ireland) (2015) |
+| Roadways: | total: 394,428 km (2009) |
+| Roadways: | paved: 394,428 km (includes 3,519 km of expressways) (2009) |
+| Waterways: | 3,200 km (620 km used for commerce) (2009) |
+| Merchant marine: | total: 1,570 |
+| Merchant marine: | by type: bulk carrier 129, container ship 109, general cargo 162, oil tanker 177, other 993 (2018) |
+| Ports and terminals: | major seaport(s): Dover, Felixstowe, Immingham, Liverpool, London, Southampton, Teesport (England); Forth Ports (Scotland); Milford Haven (Wales) |
+| Ports and terminals: | oil terminal(s): Fawley Marine terminal, Liverpool Bay terminal (England); Braefoot Bay terminal, Finnart oil terminal, Hound Point terminal (Scotland) |
+| Ports and terminals: | container port(s) (TEUs): Felixstowe (3,849,700), London (2,431,000), Southampton (2,040,000) (2017) |
+| Ports and terminals: | LNG terminal(s) (import): Isle of Grain, Milford Haven, Teesside |
+| Transportation - note: | begun in 1988 and completed in 1994, the Channel Tunnel (nicknamed the Chunnel) is a 50.5-km (31.4-mi) rail tunnelÂ beneath the English Channel at the Strait of Dover that runs from Folkestone, Kent, England to Coquelles, Pas-de-Calais in northern France; it is the only fixed link between the island of Great Britain and mainland Europe |

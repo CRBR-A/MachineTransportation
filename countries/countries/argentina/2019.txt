@@ -1,0 +1,37 @@
+| Transportation | Argentina |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 6 (2015) |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 107 (2015) |
+| National air transport system: | annual passenger traffic on registered air carriers: 14,245,183 (2015) |
+| National air transport system: | annual freight traffic on registered air carriers: 243,772,567 mt-km (2015) |
+| Civil aircraft registration country code prefix: | LV (2016) |
+| Airports: | 1,138 (2013) |
+| Airports - with paved runways: | total: 161 (2017) |
+| Airports - with paved runways: | over 3,047 m: 4 (2017) |
+| Airports - with paved runways: | 2,438 to 3,047 m: 29 (2017) |
+| Airports - with paved runways: | 1,524 to 2,437 m: 65 (2017) |
+| Airports - with paved runways: | 914 to 1,523 m: 53 (2017) |
+| Airports - with paved runways: | under 914 m: 10 (2017) |
+| Airports - with unpaved runways: | total: 977 (2013) |
+| Airports - with unpaved runways: | over 3,047 m: 1 (2013) |
+| Airports - with unpaved runways: | 2,438 to 3,047 m: 1 (2013) |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 43 (2013) |
+| Airports - with unpaved runways: | 914 to 1,523 m: 484 (2013) |
+| Airports - with unpaved runways: | under 914 m: 448 (2013) |
+| Heliports: | 2 (2013) |
+| Pipelines: | 29930 km gas, 41 km liquid petroleum gas, 6248 km oil, 3631 km refined products (2013) |
+| Railways: | total: 36,917 km (2014) |
+| Railways: | standard gauge: 2,745.1 km 1.435-m gauge (41.1 km electrified) (2014) |
+| Railways: | narrow gauge: 7,523.3 km 1.000-m gauge (2014) |
+| Railways: | broad gauge: 26,391 km 1.676-m gauge (149 km electrified) (2014) |
+| Railways: | 258 km 0.750-m gauge |
+| Roadways: | total: 281,290 km (2017) |
+| Roadways: | paved: 117,616 km (2017) |
+| Roadways: | unpaved: 163,674 km (2017) |
+| Waterways: | 11,000 km (2012) |
+| Merchant marine: | total: 167 |
+| Merchant marine: | by type: container ship 1, general cargo 9, oil tanker 27, other 130 (2018) |
+| Ports and terminals: | major seaport(s): Bahia Blanca, Buenos Aires, La Plata, Punta Colorada, Ushuaia |
+| Ports and terminals: | container port(s) (TEUs): Buenos Aires (1,851,701) |
+| Ports and terminals: | LNG terminal(s) (import): Bahia Blanca |
+| Ports and terminals: | river port(s): Arroyo Seco, Rosario, San Lorenzo-San Martin (Parana) |

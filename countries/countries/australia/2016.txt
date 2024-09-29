@@ -1,0 +1,36 @@
+| Transportation | AUSTRALIA |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 11 |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 175 |
+| National air transport system: | annual passenger traffic on registered air carriers: 69,294,187 |
+| National air transport system: | annual freight traffic on registered air carriers: 1,887,295,820 mt-km (2015) |
+| Civil aircraft registration country code prefix: | VH (2016) |
+| Airports: | 480 (2013) |
+| Airports - with paved runways: | total: 349 |
+| Airports - with paved runways: | over 3,047 m: 11 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 14 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 155 |
+| Airports - with paved runways: | 914 to 1,523 m: 155 |
+| Airports - with paved runways: | under 914 m: 14 (2013) |
+| Airports - with unpaved runways: | total: 131 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 16 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 101 |
+| Airports - with unpaved runways: | under 914 m: 14 (2013) |
+| Heliports: | 1 (2013) |
+| Pipelines: | condensate/gas 637 km; gas 30,054 km; liquid petroleum gas 240 km; oil 3,609 km; oil/gas/water 110 km; refined products 72 km (2013) |
+| Railways: | total: 36,967.5 km |
+| Railways: | broad gauge: 3,727 km 1.600-m gauge (372 km electrified) |
+| Railways: | standard gauge: 18,727 km 1.435-m gauge (650 km electrified) |
+| Railways: | narrow gauge: 14,513.5 km 1.067-m gauge (2,075.5 km electrified) (2014) |
+| Roadways: | total: 823,217 km |
+| Roadways: | paved: 356,343 km |
+| Roadways: | unpaved: 466,874 km (2011) |
+| Waterways: | 2,000 km (mainly used for recreation on Murray and Murray-Darling river systems) (2011) |
+| Merchant marine: | total: 41 |
+| Merchant marine: | by type: bulk carrier 8, cargo 7, liquefied gas 4, passenger 6, passenger/cargo 6, petroleum tanker 5, roll on/roll off 5 |
+| Merchant marine: | foreign-owned: 17 (Canada 5, Germany 2, Singapore 2, South Africa 1, UK 5, US 2) |
+| Merchant marine: | registered in other countries: 25 (Bahamas 1, Dominica 1, Fiji 2, Liberia 1, Netherlands 1, Panama 4, Singapore 12, Tonga 1, UK 1, US 1) (2010) |
+| Ports and terminals: | major seaport(s): Brisbane, Cairns, Darwin, Fremantle, Geelong, Gladstone, Hobart, Melbourne, Newcastle, Port Adelaide, Port Kembla, Sydney |
+| Ports and terminals: | dry bulk cargo port(s): Dampier (iron ore), Dalrymple Bay (coal), Hay Point (coal), Port Hedland (iron ore), Port Walcott (iron ore) |
+| Ports and terminals: | container port(s) (TEUs): Brisbane (1,004,983), Melbourne (2,467,967), Sydney (2,028,074)(2011) |
+| Ports and terminals: | LNG terminal(s) (export): Darwin, Karratha, Burrup, Curtis Island |

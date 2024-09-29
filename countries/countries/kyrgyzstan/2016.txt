@@ -1,0 +1,23 @@
+| Transportation | KYRGYZSTAN |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 3 |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 10 |
+| National air transport system: | annual passenger traffic on registered air carriers: 625,294 |
+| National air transport system: | annual freight traffic on registered air carriers: 69,290 mt-km (2015) |
+| Civil aircraft registration country code prefix: | EX (2016) |
+| Airports: | 28 (2013) |
+| Airports - with paved runways: | total: 18 |
+| Airports - with paved runways: | over 3,047 m: 1 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 3 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 11 |
+| Airports - with paved runways: | under 914 m: 3 (2013) |
+| Airports - with unpaved runways: | total: 10 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 1 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 1 |
+| Airports - with unpaved runways: | under 914 m: 8 (2013) |
+| Pipelines: | gas 480 km; oil 16 km (2013) |
+| Railways: | total: 470 km |
+| Railways: | broad gauge: 470 km 1.520-m gauge (2014) |
+| Roadways: | total: 34,000 km (2007) |
+| Waterways: | 600 km (2010) |
+| Ports and terminals: | lake port(s): Balykchy (Ysyk-Kol or Rybach'ye)(Lake Ysyk-Kol) |

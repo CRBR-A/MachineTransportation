@@ -1,0 +1,27 @@
+| Transportation | Italy |
+| --- | --- |
+| Airports: | 133 (2006) |
+| Airports - with paved runways: | total: 98 |
+| Airports - with paved runways: | over 3,047 m: 7 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 30 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 16 |
+| Airports - with paved runways: | 914 to 1,523 m: 31 |
+| Airports - with paved runways: | under 914 m: 14 (2006) |
+| Airports - with unpaved runways: | total: 35 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 2 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 14 |
+| Airports - with unpaved runways: | under 914 m: 19 (2006) |
+| Heliports: | 5 (2006) |
+| Pipelines: | gas 17,589 km; oil 1,136 km (2006) |
+| Railways: | total: 19,459 km |
+| Railways: | standard gauge: 18,037 km 1.435-m gauge (11,354 km electrified) |
+| Railways: | narrow gauge: 123 km 1.000-m gauge (122 km electrified); 1,299 km 0.950-m gauge (161 km electrified) (2005) |
+| Roadways: | total: 479,688 km |
+| Roadways: | paved: 479,688 km (including 6,478 km of expressways) (2004) |
+| Waterways: | 2,400 km |
+| Waterways: | note: used for commercial traffic; of limited overall value compared to road and rail (2004) |
+| Merchant marine: | total: 591 ships (1000 GRT or over) 11,737,175 GRT/12,573,225 DWT |
+| Merchant marine: | by type: bulk carrier 52, cargo 45, chemical tanker 136, container 25, liquefied gas 37, livestock carrier 3, passenger 16, passenger/cargo 150, petroleum tanker 49, refrigerated cargo 4, roll on/roll off 33, specialized tanker 13, vehicle carrier 28 |
+| Merchant marine: | foreign-owned: 36 (France 1, Greece 6, Spain 1, Taiwan 10, UK 3, US 15) |
+| Merchant marine: | registered in other countries: 152 (Bahamas 5, Belize 4, Cayman Islands 12, Cyprus 2, France 2, Germany 1, Gibraltar 6, Isle of Man 5, Jamaica 1, Liberia 16, Malta 29, Marshall Islands 1, Norway 4, Panama 15, Portugal 12, Romania 1, Saint Vincent and the Grenadines 18, Singapore 2, Spain 2, Sweden 7, Turkey 3, UK 4) (2006) |
+| Ports and terminals: | Augusta, Genoa, Livorno, Melilli Oil Terminal, Ravenna, Taranto, Trieste, Venice |

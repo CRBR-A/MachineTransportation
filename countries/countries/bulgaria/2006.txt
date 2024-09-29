@@ -1,0 +1,27 @@
+| Transportation | Bulgaria |
+| --- | --- |
+| Airports: | 217 (2006) |
+| Airports - with paved runways: | total: 132 |
+| Airports - with paved runways: | over 3,047 m: 1 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 19 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 15 |
+| Airports - with paved runways: | 914 to 1,523 m: 1 |
+| Airports - with paved runways: | under 914 m: 96 (2006) |
+| Airports - with unpaved runways: | total: 85 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 2 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 11 |
+| Airports - with unpaved runways: | under 914 m: 72 (2006) |
+| Heliports: | 4 (2006) |
+| Pipelines: | gas 2,505 km; oil 339 km; refined products 156 km (2006) |
+| Railways: | total: 4,294 km |
+| Railways: | standard gauge: 4,049 km 1.435-m gauge (2,710 km electrified) |
+| Railways: | narrow gauge: 245 km 0.760-m gauge (2005) |
+| Roadways: | total: 102,016 km |
+| Roadways: | paved: 93,855 km (including 328 km of expressways) |
+| Roadways: | unpaved: 8,161 km (2003) |
+| Waterways: | 470 km (2006) |
+| Merchant marine: | total: 75 ships (1000 GRT or over) 872,653 GRT/1,294,877 DWT |
+| Merchant marine: | by type: bulk carrier 40, cargo 17, chemical tanker 4, container 6, passenger/cargo 1, petroleum tanker 3, roll on/roll off 4 |
+| Merchant marine: | foreign-owned: 2 (Germany 1, Russia 1) |
+| Merchant marine: | registered in other countries: 41 (Cambodia 1, Comoros 1, Malta 13, Panama 1, Saint Vincent and the Grenadines 17, Slovakia 7, unknown 1) (2006) |
+| Ports and terminals: | Burgas, Varna |

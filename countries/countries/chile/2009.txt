@@ -1,0 +1,25 @@
+| Transportation | Chile |
+| --- | --- |
+| Airports: | 357 (2009) |
+| Airports - with paved runways: | total: 81 |
+| Airports - with paved runways: | over 3,047 m: 5 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 8 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 22 |
+| Airports - with paved runways: | 914 to 1,523 m: 24 |
+| Airports - with paved runways: | under 914 m: 22 (2009) |
+| Airports - with unpaved runways: | total: 276 |
+| Airports - with unpaved runways: | 2,438 to 3,047 m: 2 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 12 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 50 |
+| Airports - with unpaved runways: | under 914 m: 212 (2009) |
+| Pipelines: | gas 2,676 km; liquid petroleum gas 519 km; oil 892 km; refined products 769 km (2008) |
+| Railways: | total: 5,481 km |
+| Railways: | broad gauge: 1,706 km 1.676-m gauge (850 km electrified) |
+| Railways: | narrow gauge: 3,777 km 1.000-m gauge (2008) |
+| Roadways: | total: 80,505 km |
+| Roadways: | paved: 16,745 km (includes 2,414 km of expressways) |
+| Roadways: | unpaved: 63,760 km (2004) |
+| Merchant marine: | total: 44 |
+| Merchant marine: | by type: bulk carrier 9, cargo 7, chemical tanker 8, container 1, liquefied gas 2, passenger 4, passenger/cargo 2, petroleum tanker 7, roll on/roll off 1, vehicle carrier 3 |
+| Merchant marine: | registered in other countries: 40 (Argentina 7, Brazil 1, Cyprus 1, Isle of Man 6, Marshall Islands 4, Norway 2, Panama 12, Singapore 6, Venezuela 1) (2008) |
+| Ports and terminals: | Coronel, Huasco, Lirquen, Puerto Ventanas, San Antonio, San Vicente, Valparaiso |

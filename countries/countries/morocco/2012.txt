@@ -1,0 +1,25 @@
+| Transportation | Morocco |
+| --- | --- |
+| Airports: | 56 (2012) |
+| Airports - with paved runways: | total: 31 |
+| Airports - with paved runways: | over 3,047 m: 12 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 7 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 8 |
+| Airports - with paved runways: | 914 to 1,523 m: 4 (2012) |
+| Airports - with unpaved runways: | total: 25 |
+| Airports - with unpaved runways: | 2,438 to 3,047 m: 2 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 7 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 11 |
+| Airports - with unpaved runways: | under 914 m: 5 (2012) |
+| Heliports: | 1 (2012) |
+| Pipelines: | gas 830 km; oil 439 km (2010) |
+| Railways: | total: 2,067 km |
+| Railways: | standard gauge: 2,067 km 1.435-m gauge (1,022 km electrified) (2008) |
+| Roadways: | total: 58,256 km |
+| Roadways: | paved: 39,480 km (includes 866 km of expressways) |
+| Roadways: | unpaved: 18,776 km (2006) |
+| Merchant marine: | total: 26 |
+| Merchant marine: | by type: cargo 1, chemical tanker 3, container 6, passenger/cargo 14, roll on/roll off 2 |
+| Merchant marine: | foreign-owned: 14 (France 3, Germany 1, Italy 1, Spain 9) |
+| Merchant marine: | registered in other countries: 4 (Gibraltar 4) (2010) |
+| Ports and terminals: | Casablanca, Jorf Lasfar, Mohammedia, Safi, Tangier |

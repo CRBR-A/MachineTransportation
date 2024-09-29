@@ -1,0 +1,33 @@
+| Transportation | VIETNAM |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 4 |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 140 |
+| National air transport system: | annual passenger traffic on registered air carriers: 29,944,771 |
+| National air transport system: | annual freight traffic on registered air carriers: 384,470,240 mt-km (2015) |
+| Civil aircraft registration country code prefix: | VN (2016) |
+| Airports: | 45 (2013) |
+| Airports - with paved runways: | total: 38 |
+| Airports - with paved runways: | over 3,047 m: 10 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 6 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 13 |
+| Airports - with paved runways: | 914 to 1,523 m: 9 (2013) |
+| Airports - with unpaved runways: | total: 7 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 1 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 3 |
+| Airports - with unpaved runways: | under 914 m: 3 (2013) |
+| Heliports: | 1 (2013) |
+| Pipelines: | condensate 72 km; condensate/gas 398 km; gas 955 km; oil 128 km; oil/gas/water 33 km; refined products 206 km; water 13 km (2013) |
+| Railways: | total: 2,600 km |
+| Railways: | standard gauge: 178 km 1.435-m gauge; 253 km mixed gauge |
+| Railways: | narrow gauge: 2,169 km 1.000-m gauge (2014) |
+| Roadways: | total: 195,468 km |
+| Roadways: | paved: 148,338 km |
+| Roadways: | unpaved: 47,130 km (2013) |
+| Waterways: | 47,130 km (30,831 km weight under 50 tons) (2011) |
+| Merchant marine: | total: 579 |
+| Merchant marine: | by type: barge carrier 1, bulk carrier 142, cargo 335, chemical tanker 23, container 19, liquefied gas 7, passenger/cargo 1, petroleum tanker 48, refrigerated cargo 1, roll on/roll off 1, specialized tanker 1 |
+| Merchant marine: | registered in other countries: 86 (Cambodia 1, Kiribati 2, Mongolia 33, Panama 43, Taiwan 1, Tuvalu 6) (2010) |
+| Ports and terminals: | major seaport(s): Cam Pha Port, Da Nang, Haiphong, Phu My, Quy Nhon |
+| Ports and terminals: | river port(s): Ho Chi Minh (Mekong) |
+| Ports and terminals: | container port(s) (TEUs): Haiphong (1,018,794), Saigon New Port (3,071,777) |
+| Transportation - note: | the International Maritime Bureau reports the territorial and offshore waters in the South China Sea as high risk for piracy and armed robbery against ships; numerous commercial vessels have been attacked and hijacked both at anchor and while underway; hijacked vessels are often disguised and cargo diverted to ports in East Asia; crews have been murdered or cast adrift |

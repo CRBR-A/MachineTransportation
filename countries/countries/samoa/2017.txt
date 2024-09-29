@@ -1,0 +1,19 @@
+| Transportation | SAMOA |
+| --- | --- |
+| National air transport system: | number of registered air carriers: 1 |
+| National air transport system: | inventory of registered aircraft operated by air carriers: 1 |
+| National air transport system: | annual passenger traffic on registered air carriers: 270,908 |
+| National air transport system: | annual freight traffic on registered air carriers: 0 mt-km (2015) |
+| Civil aircraft registration country code prefix: | 5W (2016) |
+| Airports: | 4 (2013) |
+| Airports - with paved runways: | total: 1 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 1 (2017) |
+| Airports - with unpaved runways: | total: 3 |
+| Airports - with unpaved runways: | under 914 m: 3 (2013) |
+| Roadways: | total: 1,200 km |
+| Roadways: | paved: 1,105 km |
+| Roadways: | unpaved: 95 km (2017) |
+| Merchant marine: | total: 2 |
+| Merchant marine: | by type: cargo 1, passenger/cargo 1 |
+| Merchant marine: | foreign-owned: 1 (NZ 1) (2010) |
+| Ports and terminals: | major seaport(s): Apia |

@@ -1,0 +1,27 @@
+| Transportation | Thailand |
+| --- | --- |
+| Airports: | 106 (2007) |
+| Airports - with paved runways: | total: 65 |
+| Airports - with paved runways: | over 3,047 m: 8 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 11 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 23 |
+| Airports - with paved runways: | 914 to 1,523 m: 17 |
+| Airports - with paved runways: | under 914 m: 6 (2007) |
+| Airports - with unpaved runways: | total: 41 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 1 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 12 |
+| Airports - with unpaved runways: | under 914 m: 28 (2007) |
+| Heliports: | 3 (2007) |
+| Pipelines: | gas 3,760 km; refined products 379 km (2006) |
+| Railways: | total: 4,071 km |
+| Railways: | narrow gauge: 4,071 km 1.000-m gauge (2006) |
+| Roadways: | total: 57,403 km |
+| Roadways: | paved: 56,542 km |
+| Roadways: | unpaved: 861 km (2000) |
+| Waterways: | 4,000 km |
+| Waterways: | note: 3,701 km navigable by boats with drafts up to 0.9 m (2005) |
+| Merchant marine: | total: 405 ships (1000 GRT or over) 2,640,857 GRT/4,043,938 DWT |
+| Merchant marine: | by type: bulk carrier 53, cargo 140, chemical tanker 16, container 21, liquefied gas 30, passenger/cargo 9, petroleum tanker 101, refrigerated cargo 32, specialized tanker 2, vehicle carrier 1 |
+| Merchant marine: | foreign-owned: 15 (China 1, Japan 4, Malaysia 3, Russia 1, Singapore 2, Taiwan 1, UK 3) |
+| Merchant marine: | registered in other countries: 34 (Bahamas 1, Indonesia 1, Mongolia 1, Panama 10, Singapore 20, Tuvalu 1) (2007) |
+| Ports and terminals: | Bangkok, Laem Chabang, Prachuap Port, Si Racha |

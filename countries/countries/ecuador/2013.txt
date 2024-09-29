@@ -1,0 +1,25 @@
+| Transportation | Ecuador |
+| --- | --- |
+| Airports: | 432 (2013) |
+| Airports - with paved runways: | total: 104 |
+| Airports - with paved runways: | over 3,047 m: 4 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 5 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 18 |
+| Airports - with paved runways: | 914 to 1,523 m: 26 |
+| Airports - with paved runways: | under 914 m: 51 (2013) |
+| Airports - with unpaved runways: | total: 328 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 37 |
+| under 914 m: | 291 (2013) |
+| Heliports: | 2 (2013) |
+| Pipelines: | extra heavy crude 527 km; gas 71 km; oil 2,131 km; refined products 1,526 km (2013) |
+| Railways: | total: 965 km |
+| Railways: | narrow gauge: 965 km 1.067-m gauge (2008) |
+| Roadways: | total: 43,670 km |
+| Roadways: | paved: 6,472 km |
+| Roadways: | unpaved: 37,198 km (2007) |
+| Waterways: | 1,500 km (most inaccessible) (2012) |
+| Merchant marine: | total: 44 |
+| Merchant marine: | by type: cargo 1, chemical tanker 4, liquefied gas 1, passenger 9, petroleum tanker 28, refrigerated cargo 1 |
+| Merchant marine: | registered in other countries: 4 (Panama 3, Peru 1) (2010) |
+| Ports and terminals: | major seaport(s): Esmeraldas, Manta, Puerto Bolivar |
+| Ports and terminals: | river port(s): Guayaquil (Guayas) |

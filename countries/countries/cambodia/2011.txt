@@ -1,0 +1,24 @@
+| Transportation | Cambodia |
+| --- | --- |
+| Airports: | 17 (2010) |
+| Airports - with paved runways: | total: 6 |
+| Airports - with paved runways: | 2,438 to 3,047 m: 3 |
+| Airports - with paved runways: | 1,524 to 2,437 m: 2 |
+| Airports - with paved runways: | 914 to 1,523 m: 1 (2010) |
+| Airports - with unpaved runways: | total: 11 |
+| Airports - with unpaved runways: | 1,524 to 2,437 m: 1 |
+| Airports - with unpaved runways: | 914 to 1,523 m: 9 |
+| Airports - with unpaved runways: | under 914 m: 1 (2010) |
+| Heliports: | 1 (2010) |
+| Railways: | total: 690 km |
+| Railways: | narrow gauge: 690 km 1.000-m gauge |
+| Railways: | note: under restoration (2010) |
+| Roadways: | total: 38,093 km |
+| Roadways: | paved: 2,977 km |
+| Roadways: | unpaved: 35,116 km (2007) |
+| Waterways: | 2,400 km (mainly on Mekong River) (2010) |
+| Merchant marine: | total: 620 |
+| Merchant marine: | by type: bulk carrier 40, cargo 526, carrier 5, chemical tanker 5, container 5, liquefied gas 1, passenger 1, passenger/cargo 7, petroleum tanker 12, refrigerated cargo 13, roll on/roll off 5 |
+| Merchant marine: | foreign-owned: 426 (Belgium 1, Canada 2, China 203, Cyprus 8, Egypt 12, Estonia 1, French Polynesia 1, Gabon 1, Greece 2, Hong Kong 11, Indonesia 2, Japan 2, Latvia 1, Lebanon 6, Netherlands 1, Romania 1, Russia 60, Singapore 4, South Korea 11, Syria 22, Taiwan 1, Turkey 26, UAE 2, UK 3, Ukraine 37, US 4, Vietnam 1) |
+| Merchant marine: | note: this country allows large numbers of ships owned by foreign entities to be registered in its national shipping registry and to fly its flag; these ships operate under the laws of the flag state (2010) |
+| Ports and terminals: | Phnom Penh, Kampong Saom (Sihanoukville) |
